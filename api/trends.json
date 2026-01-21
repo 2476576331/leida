@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:01:41.005487+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-21T19:46:22.690409+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 108,
+      "match_count": 115,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -92,6 +92,30 @@
           "time_info": "[12时01分 ~ 13时20分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 19时46分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时46分]"
+        },
+        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -103,17 +127,20 @@
           "time_info": "[12时01分 ~ 13时20分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
           "ranks": [
+            16,
+            15,
+            12,
             8,
             7,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 19时46分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -125,32 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 19时01分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 19时01分]"
         },
         {
           "title": "美国总统特朗普：我们已经安排了很多关于格陵兰岛的会议。",
@@ -199,6 +200,29 @@
           "time_info": "04时37分"
         },
         {
+          "title": "市场消息：美国总统特朗普在“空军一号”出现故障后抵达瑞士参加达沃斯。",
+          "url": "https://flash.jin10.com/detail/20260121193701505800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时46分]"
+        },
+        {
           "title": "美国总统特朗普：我反对英国出售查戈斯群岛。",
           "url": "https://flash.jin10.com/detail/20260121041603725800",
           "source": "金十数据",
@@ -227,7 +251,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -241,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "特朗普抵达瑞士参加达沃斯论坛，此前空军一号曾出现故障。",
+          "url": "https://wallstreetcn.com/livenews/3041266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美国总统特朗普：（当被问及准备在收购格陵兰岛方面做到什么程度时表示）你们很快就会知道了。",
@@ -281,16 +316,18 @@
           "time_info": "[01时05分 ~ 06时42分]"
         },
         {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            3
+            20,
+            19,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 19时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时46分]"
         },
         {
           "title": "特朗普借他人之口自比巴菲特",
@@ -427,19 +464,6 @@
           "time_info": "[12时01分 ~ 15时05分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 19时01分]"
-        },
-        {
           "title": "特朗普晒马克龙私信",
           "url": "https://www.douyin.com/hot/2374658",
           "source": "抖音",
@@ -463,6 +487,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时46分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时46分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -524,18 +572,6 @@
           "time_info": "[06时42分 ~ 07时42分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 19时01分]"
-        },
-        {
           "title": "纽森怒批特朗普：他就是个破坏王",
           "url": "https://www.toutiao.com/trending/7596509098209984518/",
           "source": "今日头条",
@@ -558,17 +594,6 @@
           "time_info": "[12时01分 ~ 12时02分]"
         },
         {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
           "title": "美国总统特朗普：我对挪威的尊重已经大打折扣。",
           "url": "https://flash.jin10.com/detail/20260121041343725800",
           "source": "金十数据",
@@ -578,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "消息人士：土耳其外交部长将代表土耳其总统埃尔多安出席由美国总统特朗普主导的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121193147727800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美国总统特朗普：法国总统马克龙和英国首相斯塔默必须整顿他们的国家。",
@@ -613,6 +649,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "消息人士：由于特朗普的航班延误，原定在达沃斯举行的特朗普与德国总理默茨的会晤已被取消。",
+          "url": "https://flash.jin10.com/detail/20260121192924313800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "美国总统特朗普：与英国和法国的领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121041223660800",
           "source": "金十数据",
@@ -644,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-21）",
+          "url": "https://flash.jin10.com/detail/20260121192332283800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -699,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "特朗普：ICE执法人员“有时会犯错” 但总体仍有必要坚持执法",
@@ -938,7 +1007,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -998,6 +1067,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "世界经济论坛：特朗普的特别致辞预计于北京时间21:30正式开始。",
+          "url": "https://flash.jin10.com/detail/20260121190836779800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "美国参议院民主党成员们寻求关于特朗普司法部调查美联储主席鲍威尔的卷宗。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3040665",
           "source": "华尔街见闻-快讯",
@@ -1015,7 +1095,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1081,7 +1161,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1235,7 +1315,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
@@ -1243,7 +1323,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1253,8 +1333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 19时01分]"
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 19时46分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -1340,6 +1420,18 @@
           "time_info": "[05时41分 ~ 06时42分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时46分]"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260121050557571800",
           "source": "金十数据",
@@ -1400,15 +1492,15 @@
           "time_info": "[06时42分 ~ 07时42分]"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "强生第四季度调整后每股收益2.46美元，上年同期2.04美元，预估2.47美元。 第四季度销售额245.6亿美元，同比增长9.1%，预估241.5亿美元。 强生预计2026年销售额1,000亿美元至1,010亿美元，市场预估988.8亿美元。 强生预计2026年调整后每股收益11.43美元至11.63美元。 强生美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3041259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "19时46分"
         },
         {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
@@ -1495,8 +1587,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 19时46分]"
         },
         {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
@@ -1633,7 +1725,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1663,7 +1755,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -1679,8 +1771,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 19时01分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 19时46分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -1693,8 +1785,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 19时01分]"
+          "appearance_count": 9,
+          "time_info": "[06时42分 ~ 19时46分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1708,6 +1800,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 13时20分]"
+        },
+        {
+          "title": "报道：瑞典养老金巨头清仓大部分美债",
+          "url": "https://flash.jin10.com/detail/20260121193331406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "德国商业银行CEO：格陵兰争端下客户态度谨慎 但未听说有意抛美债",
+          "url": "https://wallstreetcn.com/livenews/3041253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -1784,7 +1898,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1854,11 +1968,12 @@
             7,
             9,
             3,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 19时46分]"
         }
       ]
     },
