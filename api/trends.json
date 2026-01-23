@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:56:41.099902+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-01-23T22:56:32.952952+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -69,6 +69,17 @@
           "time_info": "[01时05分 ~ 17时01分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 22时56分]"
+        },
+        {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
           "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
           "source": "凤凰网",
@@ -118,15 +129,15 @@
           "time_info": "[15时03分 ~ 19时40分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 22时56分]"
         },
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -141,17 +152,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时01分 ~ 19时40分]"
-        },
-        {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时56分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -245,6 +245,30 @@
           "time_info": "[01时05分 ~ 07时41分]"
         },
         {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 22时56分]"
+        },
+        {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时56分]"
+        },
+        {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
           "url": "https://news.ifeng.com/c/8q96HMKxd1u",
           "source": "凤凰网",
@@ -254,6 +278,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时03分 ~ 17时01分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            2,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 22时56分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
@@ -306,34 +344,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 21时56分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 22时56分]"
         },
         {
           "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
@@ -342,7 +358,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -394,19 +410,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时01分 ~ 21时56分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -572,13 +575,24 @@
           "time_info": "01时05分"
         },
         {
+          "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
+          "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "据Politico：美国陆军部长Dan Driscoll已抵达阿联酋，与美国中东问题特使威特科夫以及特朗普的女婿贾里德·库什纳会合。",
           "url": "https://flash.jin10.com/detail/20260123210516908800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -614,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普称「美国正调集重兵前往伊朗」，具体情况如何？伊朗局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/1998037091121140500",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-23）",
@@ -781,6 +806,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "美国原油涨3%，报道称特朗普企图阻挠伊拉克出口石油",
+          "url": "https://wallstreetcn.com/livenews/3042982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "罗马尼亚总统丹：仍在分析罗马尼亚是否能够加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260123014941696800",
           "source": "金十数据",
@@ -894,7 +930,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -945,6 +981,17 @@
           "time_info": "17时01分"
         },
         {
+          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260123223746516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3042893",
           "source": "华尔街见闻-快讯",
@@ -954,6 +1001,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时56分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -1045,15 +1104,26 @@
           "time_info": "[05时45分 ~ 06时03分]"
         },
         {
-          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
+          "title": "美股行业ETF普遍走低，全球航空业ETF跌1.14%，银行业ETF跌0.74%，金融业ETF跌0.71%，生物科技指数ETF跌0.64%，半导体指数跌0.50%，科技行业ETF跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3043000",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.08%，纳指平开。受消息面刺激，英伟达(NVDA.O)涨1.4%，AMD(AMD.O)涨4.3%。英特尔(INTC.O)大跌13%，，创自2024年8月以来最大跌幅，公司2025年Q4营收不及预期。",
+          "url": "https://flash.jin10.com/detail/20260123223026811800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "在银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨1.2%，库尔矿业上涨0.7%，西尔弗科普金属上涨0.7%，恩迪沃银业上涨1.5%，ABRDN实物白银股票ETF上涨2.1%，Global X白银矿业ETF上涨1%，iShares白银信托上涨2.1%。",
@@ -1065,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
+          "url": "https://flash.jin10.com/detail/20260123215250387800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
@@ -1087,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3042983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -1115,11 +1207,12 @@
           "ranks": [
             1,
             4,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 21时56分]"
+          "appearance_count": 6,
+          "time_info": "[17时01分 ~ 22时56分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -1129,11 +1222,12 @@
             13,
             12,
             11,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 21时56分]"
+          "appearance_count": 6,
+          "time_info": "[17时01分 ~ 22时56分]"
         },
         {
           "title": "美国地质勘探局：伊朗莫尔东南56公里处发生5.1级地震。",
@@ -1145,6 +1239,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 22时56分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -1161,29 +1269,17 @@
           "time_info": "[17时01分 ~ 19时40分]"
         },
         {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 17时55分]"
-        },
-        {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时56分]"
         },
         {
           "title": "以媒称美近日或袭伊朗",
@@ -1216,7 +1312,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1290,7 +1386,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1334,7 +1430,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
@@ -1351,11 +1447,12 @@
           "ranks": [
             20,
             19,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 22时56分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
