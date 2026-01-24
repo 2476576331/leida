@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T21:41:15.819424+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-01-24T22:41:39.822513+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "斯塔默要求特朗普道歉，白宫回应",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 21时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时52分 ~ 22时41分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时57分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 22时41分]"
         },
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -133,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时57分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 22时41分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -224,15 +224,26 @@
           "time_info": "[12时59分 ~ 15时35分]"
         },
         {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3043290",
+          "title": "美国财政部：特朗普将出席特朗普账户峰会",
+          "url": "https://wallstreetcn.com/livenews/3043301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时41分"
+          "time_info": "22时41分"
+        },
+        {
+          "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
+          "url": "https://wallstreetcn.com/livenews/3043300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
@@ -330,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3043290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时41分]"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -444,6 +467,18 @@
           "time_info": "[11时52分 ~ 13时43分]"
         },
         {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时41分]"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
           "url": "https://www.toutiao.com/trending/7598238497476034602/",
           "source": "今日头条",
@@ -453,6 +488,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时59分 ~ 14时57分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时41分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
@@ -527,26 +574,37 @@
           "time_info": "[07时40分 ~ 11时52分]"
         },
         {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时41分"
+          "time_info": "22时41分"
+        },
+        {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "英首相说特朗普言论极具侮辱性",
@@ -558,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
@@ -604,6 +673,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "媒体：特朗普的胜利清单写满“抢钱”",
+          "url": "https://www.toutiao.com/trending/7598842591137792038/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
           "url": "https://wallstreetcn.com/livenews/3043195",
           "source": "华尔街见闻-快讯",
@@ -632,7 +712,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -662,7 +742,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -765,17 +845,6 @@
           "time_info": "[11时52分 ~ 15时35分]"
         },
         {
-          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
-          "url": "https://flash.jin10.com/detail/20260124213101931800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "伊朗对两名ISIS成员处以绞刑",
           "url": "https://wallstreetcn.com/livenews/3043242",
           "source": "华尔街见闻-快讯",
@@ -812,6 +881,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 21时41分]"
+        },
+        {
+          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
+          "url": "https://flash.jin10.com/detail/20260124213101931800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时41分]"
         },
         {
           "title": "土耳其外长说以色列正伺机攻击伊朗",
@@ -889,6 +970,29 @@
           "time_info": "[15时35分 ~ 17时02分]"
         },
         {
+          "title": "美国特使赴以会晤内塔尼亚胡 聚焦加沙重建与伊朗局势",
+          "url": "https://flash.jin10.com/detail/20260124203410675800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时41分]"
+        },
+        {
+          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
+          "url": "https://wallstreetcn.com/livenews/3043294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美国宣布对与伊朗相关实体及油轮实施新一轮制裁",
           "url": "https://flash.jin10.com/detail/20260123235740711800",
           "source": "金十数据",
@@ -898,17 +1002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "美国特使赴以会晤内塔尼亚胡 聚焦加沙重建与伊朗局势",
-          "url": "https://flash.jin10.com/detail/20260124203410675800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
@@ -947,8 +1040,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时40分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[07时40分 ~ 22时41分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -962,8 +1055,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时40分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[07时40分 ~ 22时41分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1189,19 +1282,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 22时41分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
           "url": "https://www.toutiao.com/trending/7598709483937730099/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时41分]"
         },
         {
           "title": "金价一度涨穿4990美元创历史新高，本周涨超8%",
