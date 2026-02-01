@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T06:56:11.246355+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-02-02T07:51:04.850017+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -26,11 +26,12 @@
             26,
             6,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -38,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -75,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
@@ -84,11 +86,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普再次表态：将与古巴达成协议",
+          "url": "https://news.ifeng.com/c/8qMd74BpD5R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
@@ -115,6 +129,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普表示，将关闭肯尼迪中心两年，以进行翻修。",
+          "url": "https://wallstreetcn.com/livenews/3047860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -163,26 +188,72 @@
           "time_info": "[01时00分 ~ 03时05分]"
         },
         {
+          "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://wallstreetcn.com/livenews/3047836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时51分]"
         },
         {
           "title": "特朗普称希望与伊朗“能够达成协议”",
           "url": "https://wallstreetcn.com/livenews/3047835",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "美国总统特朗普：肯尼迪中心的娱乐业务将暂停约两年。",
+          "url": "https://flash.jin10.com/detail/20260202072609969800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：肯尼迪中心将因施工暂时关闭。",
+          "url": "https://flash.jin10.com/detail/20260202072358625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
@@ -191,7 +262,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -199,7 +270,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -210,8 +281,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
@@ -224,6 +295,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
+          "url": "https://news.ifeng.com/c/8qOoftoUdPj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "美方释放与伊朗谈判信号 双方或在土耳其举行会晤",
@@ -261,17 +343,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时00分 ~ 06时56分]"
-        },
-        {
-          "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
-          "url": "https://wallstreetcn.com/livenews/3047840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -312,6 +383,18 @@
           "time_info": "[05时45分 ~ 06时56分]"
         },
         {
+          "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
+          "url": "https://wallstreetcn.com/livenews/3047840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时51分]"
+        },
+        {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
           "source": "澎湃新闻",
@@ -341,28 +424,41 @@
           "url": "https://wallstreetcn.com/livenews/3047831",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时51分]"
+        },
+        {
+          "title": "伊朗政府公布近期骚乱事件遇难者名单",
+          "url": "https://news.ifeng.com/c/8qNpkce6tvU",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "伊朗外长：对与美国就核问题达成协议“仍然有信心”",
           "url": "https://wallstreetcn.com/livenews/3047832",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时51分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -372,8 +468,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -393,11 +489,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 07时51分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时55分 ~ 06时56分]"
+          "time_info": "[07时50分 ~ 07时51分]"
         }
       ]
     },
@@ -413,8 +521,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -431,6 +539,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
+          "url": "https://wallstreetcn.com/livenews/3047847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
+          "url": "https://flash.jin10.com/detail/20260202070305178800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -439,11 +575,29 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     }
