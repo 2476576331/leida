@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T08:07:53.338641+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-02-11T13:54:57.308253+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时44分 ~ 08时07分]"
+        },
+        {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -86,6 +97,28 @@
           "time_info": "[03时44分 ~ 08时07分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
           "url": "https://wallstreetcn.com/livenews/3053255",
           "source": "华尔街见闻-快讯",
@@ -97,13 +130,24 @@
           "time_info": "06时06分"
         },
         {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "特朗普：或向中东再派一支航母打击群",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%96%E5%90%91%E4%B8%AD%E4%B8%9C%E5%86%8D%E6%B4%BE%E4%B8%80%E6%94%AF%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4",
           "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -158,7 +202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -174,13 +218,35 @@
           "time_info": "03时45分"
         },
         {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260211122756306800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "特朗普：伊朗不会拥有核武器或导弹",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B8%8D%E4%BC%9A%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E6%88%96%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -235,7 +301,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -301,7 +367,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -323,7 +389,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -345,7 +411,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -356,7 +422,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -367,7 +433,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -386,7 +452,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -422,6 +488,40 @@
           "time_info": "06时06分"
         },
         {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "罗杰斯为何清空美股死守金银铜",
+          "url": "https://www.toutiao.com/trending/7605434410879421993/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
+          "url": "https://www.cls.cn/detail/2286520",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时54分]"
+        },
+        {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
           "url": "https://www.cls.cn/detail/2286272",
           "source": "财联社热门",
@@ -433,17 +533,6 @@
           "time_info": "[03时44分 ~ 08时07分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异",
           "url": "https://wallstreetcn.com/livenews/3053256",
           "source": "华尔街见闻-快讯",
@@ -453,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "生物科技指数ETF收跌超1.3%，领跌美股行业ETF",
@@ -494,7 +594,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -523,6 +623,57 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
+          "url": "https://flash.jin10.com/detail/20260211073639412800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 08时07分]"
+        },
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
+          "url": "https://flash.jin10.com/detail/20260211064938299800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -544,7 +695,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -555,7 +706,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -569,46 +720,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
-          "url": "https://flash.jin10.com/detail/20260211073639412800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 08时07分]"
-        },
-        {
-          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
-          "url": "https://flash.jin10.com/detail/20260211064938299800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
         }
       ]
     },
@@ -648,6 +759,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://flash.jin10.com/detail/20260211131557627800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "OpenAI创始人Altman：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://wallstreetcn.com/livenews/3053451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
