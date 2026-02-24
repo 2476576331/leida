@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:31:09.279519+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-02-24T14:44:16.957999+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -43,6 +43,18 @@
           "time_info": "[00时54分 ~ 08时57分]"
         },
         {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时44分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -57,16 +69,17 @@
           "time_info": "[00时54分 ~ 08时57分]"
         },
         {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
           "ranks": [
-            3,
-            1
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时44分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -80,18 +93,6 @@
           "time_info": "[08时56分 ~ 11时31分]"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时31分]"
-        },
-        {
           "title": "特朗普考虑对伊朗先小打再大打",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%85%88%E5%B0%8F%E6%89%93%E5%86%8D%E5%A4%A7%E6%89%93",
           "source": "bilibili 热搜",
@@ -103,13 +104,25 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时44分]"
+        },
+        {
           "title": "特朗普10%全球关税生效",
           "url": "https://flash.jin10.com/detail/20260224130914633800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -120,21 +133,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时31分]"
         },
         {
           "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
@@ -321,6 +322,18 @@
           "time_info": "[06时43分 ~ 07时24分]"
         },
         {
+          "title": "特朗普10%全球关税正式生效，实施15%关税的时间表尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/3057877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时44分]"
+        },
+        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://wallstreetcn.com/livenews/3057674",
           "source": "华尔街见闻-快讯",
@@ -440,15 +453,26 @@
           "time_info": "07时24分"
         },
         {
-          "title": "特朗普10%全球关税正式生效，实施15%关税的时间表尚未确定。",
-          "url": "https://wallstreetcn.com/livenews/3057877",
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "14时44分"
+        },
+        {
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
@@ -523,7 +547,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -572,6 +596,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "特朗普：很多人想置我于死地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%83%B3%E7%BD%AE%E6%88%91%E4%BA%8E%E6%AD%BB%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "市场消息：特朗普最近对全球加征了15%的关税，该关税将在150天后到期。届时，国会必须延长该关税。但据三位知情人士透露，一些资深共和党人私下表示，将不会有足够的票数来延长该关税。",
           "url": "https://flash.jin10.com/detail/20260224044047321800",
           "source": "金十数据",
@@ -581,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
@@ -685,7 +731,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -722,8 +768,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 14时44分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -763,6 +809,20 @@
           "time_info": "[00时54分 ~ 07时24分]"
         },
         {
+          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时43分 ~ 14时44分]"
+        },
+        {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
           "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
           "source": "凤凰网",
@@ -774,18 +834,15 @@
           "time_info": "[00时54分 ~ 06时43分]"
         },
         {
-          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
-          "source": "澎湃新闻",
+          "title": "伊朗伊斯法罕省发生一起直升机坠毁事故",
+          "url": "https://wallstreetcn.com/livenews/3057917",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7,
-            6,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时43分 ~ 13时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -793,11 +850,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时44分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -805,11 +863,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时44分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -915,6 +974,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "据伊朗媒体24日报道，一架直升机在伊朗中部坠毁。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260224142432525800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "美国持续集结兵力考虑军事打击伊朗",
           "url": "https://www.toutiao.com/trending/7609503760267788342/",
           "source": "今日头条",
@@ -976,6 +1046,19 @@
           "time_info": "[00时54分 ~ 05时37分]"
         },
         {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时44分]"
+        },
+        {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
           "url": "https://www.cls.cn/detail/2292918",
           "source": "财联社热门",
@@ -990,17 +1073,15 @@
           "time_info": "[00时54分 ~ 13时31分]"
         },
         {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时44分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -1014,17 +1095,6 @@
           "time_info": "[06时43分 ~ 08时56分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时31分]"
-        },
-        {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
@@ -1033,8 +1103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 14时44分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
@@ -1130,8 +1200,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时44分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
