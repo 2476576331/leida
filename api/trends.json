@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:38:15.952179+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-05-06T09:21:37.388322+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -39,19 +39,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035083404564285179",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -62,8 +63,38 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
+        },
+        {
+          "title": "伊朗向美舰发射导弹画面曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19,
+            13,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐启程访华",
+          "url": "https://www.douyin.com/hot/2489450",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27,
+            17,
+            18,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "伊朗向美舰发射导弹视频曝光",
@@ -74,20 +105,6 @@
             17,
             8,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗向美舰发射导弹画面曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            19,
-            13,
-            20
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -107,18 +124,26 @@
           "time_info": "[01时25分 ~ 07时38分]"
         },
         {
-          "title": "伊朗外长阿拉格齐启程访华",
-          "url": "https://www.douyin.com/hot/2489450",
-          "source": "抖音",
+          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
+          "url": "https://www.cls.cn/detail/2363208",
+          "source": "财联社热门",
           "ranks": [
-            26,
-            27,
-            17,
-            18
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伊朗德黑兰省一商场发生火灾致8死36伤",
@@ -127,9 +152,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国国务卿鲁比奥：对伊朗的行动已经结束，我们已完成“史诗狂怒”阶段。",
@@ -149,7 +185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -186,6 +222,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时42分 ~ 07时38分]"
+        },
+        {
+          "title": "美称对伊军事行动结束 伊朗否认",
+          "url": "https://www.toutiao.com/trending/7636544684365467190/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 09时21分]"
         },
         {
           "title": "伊朗总统：美国正对伊采取“极限施压”",
@@ -236,17 +284,6 @@
           "time_info": "[06时42分 ~ 07时38分]"
         },
         {
-          "title": "美称对伊军事行动结束 伊朗否认",
-          "url": "https://www.toutiao.com/trending/7636544684365467190/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
           "title": "美国官员：搭载美军安全队员，美商船穿越霍尔木兹海峡时曾遭伊朗袭击",
           "url": "https://wallstreetcn.com/livenews/3098955",
           "source": "华尔街见闻-快讯",
@@ -291,6 +328,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 07时38分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035126415859742260",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伊朗总统：美国正对伊采取“极限施压”",
@@ -456,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "美称对伊朗军事行动已结束",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%B7%B2%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
@@ -659,7 +718,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -670,20 +729,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -693,8 +740,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "特朗普关税退款引质疑，“简直令人抓狂”",
@@ -704,8 +764,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -715,8 +775,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 09时21分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -730,17 +801,6 @@
           "time_info": "[01时25分 ~ 03时01分]"
         },
         {
-          "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
           "url": "https://www.zhihu.com/question/2034903072279721909",
           "source": "知乎",
@@ -752,17 +812,6 @@
           "time_info": "[01时25分 ~ 07时38分]"
         },
         {
-          "title": "WTI原油6月期货合约下跌2.70美元，跌破100美元关口，此前特朗普宣布暂停“自由计划”行动。",
-          "url": "https://flash.jin10.com/detail/20260506072347684800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
           "title": "特朗普准备“抛弃”台湾了吗",
           "url": "https://www.toutiao.com/trending/7636182005881356307/",
           "source": "今日头条",
@@ -770,11 +819,23 @@
             20,
             22,
             25,
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 09时21分]"
+        },
+        {
+          "title": "WTI原油6月期货合约下跌2.70美元，跌破100美元关口，此前特朗普宣布暂停“自由计划”行动。",
+          "url": "https://flash.jin10.com/detail/20260506072347684800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "美国宣布对伊“攻势结束”，特朗普突然叫停“自由计划”",
@@ -783,7 +844,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -817,7 +878,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -828,9 +889,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国总统特朗普：“自由计划”将暂停一段时间。",
@@ -839,7 +911,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -866,6 +938,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3098993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "特朗普：伊朗“知道什么不该做”",
           "url": "https://flash.jin10.com/detail/20260506001604342800",
           "source": "金十数据",
@@ -886,12 +969,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普放话让伊朗二选一",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -900,11 +994,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -965,6 +1060,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
           "url": "https://wallstreetcn.com/livenews/3098937",
           "source": "华尔街见闻-快讯",
@@ -994,7 +1100,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -1005,7 +1111,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -1057,7 +1163,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -1082,6 +1188,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 03时01分]"
+        },
+        {
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 09时21分]"
         },
         {
           "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
@@ -1139,17 +1257,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
           "title": "OpenAI总裁：预计今年将在算力上花费500亿美元",
           "url": "https://wallstreetcn.com/livenews/3098909",
           "source": "华尔街见闻-快讯",
@@ -1192,6 +1299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -1327,8 +1445,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         },
         {
           "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
@@ -1338,11 +1456,12 @@
             13,
             9,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 09时21分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
@@ -1401,11 +1520,12 @@
             24,
             13,
             11,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时21分]"
         }
       ]
     },
