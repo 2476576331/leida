@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T05:59:24.747667+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-06-20T06:51:31.326771+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             1,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -28,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
@@ -39,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：F-47正在建造中。已经启动了装配线。他们说这是有史以来最伟大的战斗机。我们会验证这一点。",
@@ -61,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思是与生俱来的斗士，他从来不知道什么叫服输，性格极为刚硬，是个发自内心热爱军队的人。",
@@ -72,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
@@ -83,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -94,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
@@ -106,8 +107,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
@@ -118,8 +119,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
@@ -130,19 +131,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时51分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
           "url": "https://www.toutiao.com/trending/7652359820477693994/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "特朗普移动首款手机竟是中国制造",
@@ -152,8 +154,41 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -162,11 +197,12 @@
           "ranks": [
             1,
             8,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
@@ -174,11 +210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：与以色列关系一直都很好。",
@@ -186,11 +223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：将前往土耳其。",
@@ -198,11 +236,58 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
+        },
+        {
+          "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
+          "url": "https://flash.jin10.com/detail/20260620035757098800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
+        },
+        {
+          "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
+          "url": "https://flash.jin10.com/detail/20260620035742177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
+        },
+        {
+          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3122174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
+        },
+        {
+          "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
+          "url": "https://flash.jin10.com/detail/20260620035555695800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
@@ -231,51 +316,6 @@
           "time_info": "[03时20分 ~ 05时59分]"
         },
         {
-          "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
-          "url": "https://flash.jin10.com/detail/20260620035757098800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
-        },
-        {
-          "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
-          "url": "https://flash.jin10.com/detail/20260620035742177800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
-        },
-        {
-          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3122174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
-        },
-        {
-          "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
-          "url": "https://flash.jin10.com/detail/20260620035555695800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
-        },
-        {
           "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
           "url": "https://flash.jin10.com/detail/20260620035254537800",
           "source": "金十数据",
@@ -283,8 +323,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：将于7月7-8日赴土耳其参加北约峰会。",
@@ -294,8 +334,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：那些船只正以前所未有的速度驶出霍尔木兹海峡。",
@@ -305,8 +345,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
@@ -316,8 +356,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的船只正在通行。",
@@ -327,8 +367,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普向美国空军军人致以问候，并发表讲话。",
@@ -338,8 +378,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普将开启G7峰会结束后的首次美国国内行程，前往宾州利哈伊谷的迈克卡车工厂参观。",
@@ -349,8 +389,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
@@ -360,8 +400,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
@@ -465,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
@@ -477,8 +517,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -489,8 +529,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -500,8 +540,56 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
+        },
+        {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡通行新规",
+          "url": "https://www.toutiao.com/trending/7652618813883744282/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
+        },
+        {
+          "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
+          "url": "https://wallstreetcn.com/articles/3775066",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
+        },
+        {
+          "title": "伊朗足协正式投诉美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "伊朗能源部副部长：俄方已准备好派遣专家前往伊朗，以加快核电站2号和3号机组的建设。",
@@ -515,59 +603,11 @@
           "time_info": "01时08分"
         },
         {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
-        },
-        {
-          "title": "伊朗宣布霍尔木兹海峡通行新规",
-          "url": "https://www.toutiao.com/trending/7652618813883744282/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
-        },
-        {
-          "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
-          "url": "https://wallstreetcn.com/articles/3775066",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
-        },
-        {
           "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
           "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
           "source": "澎湃新闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
-        },
-        {
-          "title": "伊朗足协正式投诉美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -585,6 +625,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 04时58分]"
+        },
+        {
+          "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时51分]"
+        },
+        {
+          "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3122184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时51分]"
         },
         {
           "title": "伊朗最高领袖：对伊美谅解备忘录原则上有不同意见，但基于伊总统所作承诺并明确承担相关责任，予以许可",
@@ -607,28 +671,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时08分]"
-        },
-        {
-          "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3122185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3122184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
         },
         {
           "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
@@ -718,11 +760,25 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
+        },
+        {
+          "title": "金价陷入低迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
@@ -746,18 +802,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 03时20分]"
-        },
-        {
-          "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时59分]"
         }
       ]
     },
@@ -774,8 +818,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -785,8 +829,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "美元指数本周涨约1%",
@@ -794,11 +838,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         },
         {
           "title": "美元指数19日下跌",
@@ -808,8 +853,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时51分]"
         }
       ]
     },
@@ -826,8 +871,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时51分]"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -856,8 +901,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
