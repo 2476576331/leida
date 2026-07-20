@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T19:32:05.986053+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-07-20T21:32:43.051395+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 90,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 21时32分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -80,6 +80,17 @@
           "time_info": "[00时40分 ~ 13时25分]"
         },
         {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 21时32分]"
+        },
+        {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
           "url": "https://news.ifeng.com/c/8utWHdX6JW4",
           "source": "凤凰网",
@@ -89,17 +100,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时32分 ~ 13时25分]"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 19时32分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -183,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "伊朗高级官员称调解方提议伊美停火10天",
+          "url": "https://wallstreetcn.com/livenews/3136930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "巴林国防军总司令部：伊朗继续采取系统性的敌对行径，针对巴林王国的平民发动罪恶袭击。",
@@ -598,6 +609,17 @@
           "time_info": "[10时32分 ~ 10时33分]"
         },
         {
+          "title": "伊朗高级官员称调解方提议伊美停火10天",
+          "url": "https://flash.jin10.com/detail/20260720210237714800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗称袭击约旦境内美军藏身地并打死数十名美军人员",
           "url": "https://wallstreetcn.com/livenews/3136484",
           "source": "华尔街见闻-快讯",
@@ -675,6 +697,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "伊朗称美盟友舰船难过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3136911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：巴林一处海军支援基地附近发生了爆炸。",
           "url": "https://flash.jin10.com/detail/20260720125058398800",
           "source": "金十数据",
@@ -736,7 +769,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -747,9 +780,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "伊朗外交部称将坚定维护在霍尔木兹海峡的国家利益",
+          "url": "https://wallstreetcn.com/livenews/3136906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "科威特军方表示，目前正在拦截伊朗无人机。",
@@ -761,6 +805,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗军方发言人：如果设备是用来对付伊朗人民的，就无法通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260720205854765800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据黎巴嫩广场电视台：巴基斯坦内政部表示，伊朗内政部长将于今晚率一个由6名部长组成的代表团抵达，并预计将会见巴基斯坦陆军参谋长。",
+          "url": "https://flash.jin10.com/detail/20260720205803263800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗：针对霍尔木兹海峡的主权权利没有谈判余地。",
@@ -818,6 +884,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "伊朗将坚定维护在霍尔木兹海峡的利益",
+          "url": "https://www.toutiao.com/trending/7664525536530055231/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗阿巴丹附近遭导弹袭击 传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260719222533758800",
           "source": "金十数据",
@@ -857,7 +934,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -917,6 +994,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "报道：调解人提议伊朗和美国回到7月9日前的状态",
+          "url": "https://wallstreetcn.com/livenews/3136890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国打伊朗越打越尴尬",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -948,12 +1036,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗总统称伊正处于“全面战争”之中",
+          "url": "https://wallstreetcn.com/livenews/3136895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -1002,6 +1101,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时32分 ~ 16时32分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 21时32分]"
+        },
+        {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
@@ -1056,19 +1180,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 04时42分]"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 19时32分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -1135,6 +1246,18 @@
           "time_info": "[02时44分 ~ 04时42分]"
         },
         {
+          "title": "大V谈特朗普颁奖后赖着不走",
+          "url": "https://www.toutiao.com/trending/7664551205074374187/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时32分]"
+        },
+        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -1159,17 +1282,6 @@
           "time_info": "[19时31分 ~ 19时32分]"
         },
         {
-          "title": "大V谈特朗普颁奖后赖着不走",
-          "url": "https://www.toutiao.com/trending/7664551205074374187/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
           "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
           "url": "https://wallstreetcn.com/livenews/3136355",
           "source": "华尔街见闻-快讯",
@@ -1184,18 +1296,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时32分]"
+        },
+        {
+          "title": "AMD美股盘前涨近6%，报道：微软将部署AMD Helios机架级解决方案",
+          "url": "https://wallstreetcn.com/livenews/3136929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
@@ -1208,6 +1332,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 16时32分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3136924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美股股指期货周一基本平开。",
@@ -1232,15 +1378,37 @@
           "time_info": "16时32分"
         },
         {
+          "title": "Tempus AI美股盘前跌近4%，报道称医疗科技公司Tempus AI将以每股16.25美元的价格收购Personalis。",
+          "url": "https://wallstreetcn.com/livenews/3136909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。",
           "url": "https://wallstreetcn.com/livenews/3136836",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "DeepTalk：46年老手警告，美股大崩盘已经来了？",
+          "url": "https://flash.jin10.com/detail/20260720205939853800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "高盛策略师建议目光投向AI以外投资主题 关注消费体验类股等美股板块",
@@ -1252,6 +1420,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时38分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 16时32分]"
+        },
+        {
+          "title": "据The Information：谷歌(GOOG.O)计划最早于2028年部署Frozen V2芯片。",
+          "url": "https://flash.jin10.com/detail/20260720210614896800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "报道：谷歌正计划打造新款芯片",
+          "url": "https://wallstreetcn.com/livenews/3136931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘前拉升，现涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20260720210524607800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据The Information：谷歌(GOOG.O)的新“Frozen”芯片预计效率将比其现有的TPU高出6到10倍。",
+          "url": "https://flash.jin10.com/detail/20260720210447128800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据The Information：谷歌(GOOG.O)正在开发“Frozen V2”芯片，以更高效地服务其Gemini人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260720210331676800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -1292,37 +1544,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时38分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时32分]"
         }
       ]
     },
