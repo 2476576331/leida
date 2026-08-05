@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T07:51:09.634946+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-08-05T09:13:24.463585+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -40,19 +40,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 09时13分]"
         },
         {
           "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
           "url": "https://www.cls.cn/detail/2445802",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时13分]"
         },
         {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
@@ -63,8 +64,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时06分 ~ 07时51分]"
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 09时13分]"
+        },
+        {
+          "title": "“大空头”再发警告：美股市场正接近“大顶”，1987式崩盘或重演",
+          "url": "https://flash.jin10.com/detail/20260805083108933800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -239,7 +251,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -250,7 +262,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
@@ -268,8 +280,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 09时13分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -279,8 +291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 09时13分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -292,8 +304,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 09时13分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -467,7 +479,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -492,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "白宫再出手压油价：拟延长《琼斯法案》豁免！特朗普怒斥“虚假民调”",
+          "url": "https://flash.jin10.com/detail/20260805084506889800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "【报道：特朗普政府退还约1000亿美元关税】自从美国最高法院否决其使用紧急权力（征收关税）以来，特朗普政府已发放了约1000亿美元的关税退款。",
@@ -533,7 +556,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -555,7 +578,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -672,8 +695,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 09时13分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -707,6 +730,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时51分]"
+        },
+        {
+          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
+          "url": "https://www.zhihu.com/question/2067002987545884316",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
@@ -752,24 +804,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 07时51分]"
         }
       ]
     }
