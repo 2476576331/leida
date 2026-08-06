@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T15:43:52.300589+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-08-06T18:22:30.067427+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 18时22分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时48分 ~ 15时43分]"
+          "time_info": "[12时50分 ~ 18时22分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时48分 ~ 12时51分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时43分]"
         },
         {
           "title": "特朗普称不想让孩子像拜登那样摔下台",
@@ -194,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
+          "url": "https://flash.jin10.com/detail/20260806180146115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
@@ -364,7 +375,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -384,9 +395,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时22分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -395,9 +406,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时22分]"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 18时22分]"
         },
         {
           "title": "伊朗副外长：与阿曼达成协议并不意味着实施伊斯兰堡谅解备忘录第5条。",
@@ -455,18 +479,6 @@
           "time_info": "03时08分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 15时43分]"
-        },
-        {
           "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
           "url": "https://flash.jin10.com/detail/20260806042849231800",
           "source": "金十数据",
@@ -514,6 +526,17 @@
           "time_info": "[01时15分 ~ 03时08分]"
         },
         {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "菲利普斯66(PSX.N)：预计伊朗冲突后，炼油基本面将进一步增强。",
           "url": "https://flash.jin10.com/detail/20260806004350697800",
           "source": "金十数据",
@@ -547,6 +570,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：一名知情人士强调，如果伊朗与阿曼之间的协议最终敲定，重新开放霍尔木兹海峡将需要另行达成安排，其中也包括美国履行相关承诺。",
           "url": "https://flash.jin10.com/detail/20260806004013908800",
           "source": "金十数据",
@@ -556,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "路透社/益普索民调显示，认为伊朗战争将导致中东动荡的美国人是预期局势会更加稳定的人的三倍。",
+          "url": "https://flash.jin10.com/detail/20260806180138932800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "伊朗副外长：伊朗与阿曼就霍尔木兹海峡安排达成的协议已接近完成，双方已取得重大进展。",
@@ -693,7 +738,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -759,6 +804,19 @@
           "time_info": "[04时52分 ~ 06时03分]"
         },
         {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 18时22分]"
+        },
+        {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
           "url": "https://flash.jin10.com/detail/20260806041105813800",
           "source": "金十数据",
@@ -781,18 +839,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 06时03分]"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时43分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -837,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美股存储芯片指数初步收跌2.5%，半导体指数跌1%。 标普500指数初步收跌0.1%，电信板块跌2.4%，能源板块跌2%，科技板块涨0.3%，保健板块涨1.3%，原材料板块涨1.6%。 纳斯达克100指数初步收跌0.6%，成分股中，SpaceX初步收跌13.6%，Astera Labs跌10.7%，汤森路透跌9%，AMD、西部数据至少跌5%，英伟达涨3.7%，万豪国际涨4.4%，Booking涨6.7%，Shopify涨16.6%。",
@@ -926,11 +983,12 @@
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -949,22 +1007,36 @@
           "source": "抖音",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 18时22分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时22分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -984,11 +1056,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -1002,15 +1075,16 @@
           "time_info": "[12时50分 ~ 12时51分]"
         },
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            13,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek推理到一半说自己饿了",
@@ -1019,18 +1093,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1166,7 +1229,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1188,7 +1251,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1229,7 +1292,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -1245,13 +1308,24 @@
           "time_info": "[09时48分 ~ 15时43分]"
         },
         {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "金十图示：2026年08月06日（周四）上海金午盘价为923.43元/克，较国际金价(924.77元/克)，低1.34元/克",
           "url": "https://flash.jin10.com/detail/20260806151810962800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
