@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T19:35:01.774908+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-08-11T20:34:24.454306+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时40分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[08时40分 ~ 20时34分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -67,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[10时57分 ~ 20时34分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -78,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 19时35分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 20时34分]"
         },
         {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
@@ -91,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时40分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[08时40分 ~ 20时34分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -684,7 +684,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -694,8 +694,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[10时57分 ~ 20时34分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -706,8 +706,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时41分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[08时41分 ~ 20时34分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -729,8 +729,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[10时57分 ~ 20时34分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -816,6 +816,17 @@
           "time_info": "08时40分"
         },
         {
+          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3148075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
           "url": "https://flash.jin10.com/detail/20260811031809186800",
           "source": "金十数据",
@@ -847,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        },
-        {
-          "title": "巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3148049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "伊朗总统之子反思伊朗国际形象",
@@ -983,6 +983,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
+        },
+        {
+          "title": "巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3148049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时34分]"
         },
         {
           "title": "伊朗总统称与最高领袖会谈七八个小时",
@@ -1162,7 +1174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1173,7 +1185,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1209,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗最高领袖将任命数名高级军事指挥官",
@@ -1302,7 +1325,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1312,8 +1335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时40分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[08时40分 ~ 20时34分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -1471,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
+          "url": "https://wallstreetcn.com/livenews/3148059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
@@ -1766,6 +1800,18 @@
           "time_info": "[14时41分 ~ 16时50分]"
         },
         {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时34分]"
+        },
+        {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
           "url": "https://www.zhihu.com/question/2067921583944085650",
           "source": "知乎",
@@ -1775,17 +1821,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "深度求索开设“DeepSeek Harness团队”公众号",
@@ -1846,7 +1881,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
