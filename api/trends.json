@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T15:20:25.235807+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-08-15T16:12:53.565882+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             5,
             6,
             9,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时12分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -54,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 16时12分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -67,8 +68,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 16时12分]"
+        },
+        {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时06分 ~ 15时20分]"
+          "time_info": "[11时27分 ~ 16时12分]"
         },
         {
           "title": "特朗普称将宣布霍尔木兹海峡为美领土",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时20分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -145,6 +146,20 @@
           "time_info": "[04时19分 ~ 07时10分]"
         },
         {
+          "title": "选举压力加剧，伊朗正在“拿捏”特朗普",
+          "url": "https://flash.jin10.com/detail/20260815122132543800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 16时12分]"
+        },
+        {
           "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
           "url": "https://wallstreetcn.com/livenews/3149842",
           "source": "华尔街见闻-快讯",
@@ -168,19 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时37分]"
-        },
-        {
-          "title": "选举压力加剧，伊朗正在“拿捏”特朗普",
-          "url": "https://flash.jin10.com/detail/20260815122132543800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时20分]"
         },
         {
           "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
@@ -535,7 +537,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
@@ -567,6 +569,28 @@
           "time_info": "[10时06分 ~ 13时13分]"
         },
         {
+          "title": "伊朗石油部长会见塔吉克斯坦交通部长及能源与水资源部长",
+          "url": "https://flash.jin10.com/detail/20260815152541134800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "伊朗通讯部长：在战争期间超过500个电信站点遭到袭击，一些设施在修复并恢复服务后再次被击中。",
+          "url": "https://flash.jin10.com/detail/20260815150901030800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
           "url": "https://flash.jin10.com/detail/20260815050027660800",
           "source": "金十数据",
@@ -591,6 +615,20 @@
           "time_info": "02时37分"
         },
         {
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
+          "url": "https://flash.jin10.com/detail/20260815122952910800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 16时12分]"
+        },
+        {
           "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
           "url": "https://flash.jin10.com/detail/20260815113243919800",
           "source": "金十数据",
@@ -606,16 +644,16 @@
         },
         {
           "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
-          "url": "https://flash.jin10.com/detail/20260815122952910800",
-          "source": "金十数据",
+          "url": "https://wallstreetcn.com/livenews/3149942",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14,
-            19
+            3,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时20分]"
+          "time_info": "[14时16分 ~ 16时12分]"
         },
         {
           "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
@@ -641,18 +679,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 04时19分]"
-        },
-        {
-          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
-          "url": "https://wallstreetcn.com/livenews/3149942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 15时20分]"
         },
         {
           "title": "伊朗外长：卡塔尔和巴基斯坦正在与我们交换信息，但这并不是谈判。伊朗与阿曼的会谈是独立进行的，重点关注霍尔木兹海峡的海上航线。",
@@ -720,8 +746,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[07时10分 ~ 16时12分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
@@ -848,11 +874,12 @@
             19,
             29,
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时12分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -881,8 +908,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时12分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -918,8 +945,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 16时12分]"
         },
         {
           "title": "读懂DeepSeek开源背后的野心",
@@ -999,8 +1026,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 16时12分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
