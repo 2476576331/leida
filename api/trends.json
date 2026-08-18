@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T07:11:23.774720+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-08-18T08:26:19.069673+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 08时26分]"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 08时26分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -30,16 +42,15 @@
           "time_info": "[00时11分 ~ 07时11分]"
         },
         {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         },
         {
           "title": "路透社/益普索调查显示，64%的美国人对特朗普在白宫的表现表示不满。",
@@ -59,9 +70,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普将宣布霍尔木兹为美国领土",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时26分]"
         },
         {
           "title": "跌至33% 美国总统特朗普支持率创本任期新低",
@@ -86,19 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普将宣布霍尔木兹为美国领土",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 07时11分]"
         },
         {
           "title": "美国贸易代表格里尔称，总统特朗普扬言对英国征收100%关税并非虚张声势。 当被问及英国废除数字服务税是否设有最后期限时，格里尔表示：“我不会设定人为划定的时间期限。”（英国泰晤士报）",
@@ -149,6 +161,18 @@
           "time_info": "[03时19分 ~ 04时12分]"
         },
         {
+          "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://wallstreetcn.com/livenews/3150715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时26分]"
+        },
+        {
           "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
           "url": "https://wallstreetcn.com/livenews/3150585",
           "source": "华尔街见闻-快讯",
@@ -185,6 +209,17 @@
           "time_info": "[04时12分 ~ 05时16分]"
         },
         {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
           "title": "路透社/益普索调查显示，美国总统特朗普的支持率降至33%，创下第二任期新低。",
           "url": "https://flash.jin10.com/detail/20260818024541223800",
           "source": "金十数据",
@@ -202,7 +237,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -218,15 +253,15 @@
           "time_info": "04时12分"
         },
         {
-          "title": "民调显示特朗普支持率创第二任期内新低",
-          "url": "https://wallstreetcn.com/livenews/3150715",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时26分"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -323,9 +358,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "大V：特朗普“金蝉脱壳”是政治失算",
+          "url": "https://www.toutiao.com/trending/7675011910084857394/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡保持开放，油价正在回落。",
@@ -356,7 +402,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -378,9 +424,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "民调亮起红灯！特朗普支持率跌至第二任期最低点",
+          "url": "https://flash.jin10.com/detail/20260818074806898800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         },
         {
           "title": "美国总统特朗普：我们每周从霍尔木兹海峡运出数百万桶石油，海峡是开放的。",
@@ -411,7 +468,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -422,7 +479,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -444,7 +501,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -466,7 +523,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -477,7 +534,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -521,7 +578,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -540,19 +597,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
-          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时11分]"
-        },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
           "url": "https://wallstreetcn.com/articles/3779592",
@@ -560,6 +606,17 @@
           "ranks": [
             3,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 08时26分]"
+        },
+        {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -699,13 +756,24 @@
           "time_info": "[01时15分 ~ 02时18分]"
         },
         {
+          "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+          "url": "https://news.ifeng.com/c/8vflJ04ITGN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
           "title": "美国与伊朗继续僵持，油价上涨",
           "url": "https://flash.jin10.com/detail/20260818062100594800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -738,7 +806,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -812,7 +880,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -822,8 +890,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 08时26分]"
+        },
+        {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         },
         {
           "title": "地缘风险推高油价和美债收益率，美股三大指数两连跌，存储芯片、光通信逆势大涨",
@@ -832,7 +911,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -870,6 +949,18 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时26分]"
+        },
+        {
           "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
           "url": "https://wallstreetcn.com/livenews/3150640",
           "source": "华尔街见闻-快讯",
@@ -891,17 +982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "美伊局势再添变数 30年期美债收益率创19年来新高",
@@ -926,6 +1006,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "新闻交易员：美债收益率飙升，不只是债市发脾气",
+          "url": "https://flash.jin10.com/detail/20260818080529885800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
           "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
           "url": "https://wallstreetcn.com/livenews/3150581",
           "source": "华尔街见闻-快讯",
@@ -935,13 +1026,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "30年期美债收益率升至近20年高位！海外买家同步减持",
+          "url": "https://flash.jin10.com/detail/20260818072945690800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 08时26分]"
+        },
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779603",
@@ -955,18 +1069,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 05时16分]"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时11分]"
         },
         {
           "title": "美股存储芯片指数收涨将近4.8%，五天反弹超20%",
@@ -1024,6 +1126,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.toutiao.com/trending/7675142828237786670/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
           "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260818003112673800",
           "source": "金十数据",
@@ -1044,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         },
         {
           "title": "美股收盘：三大股指收跌 存储概念再走强",
@@ -1134,7 +1258,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -1155,8 +1279,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 07时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 08时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
+          "url": "https://flash.jin10.com/detail/20260818072606933800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         }
       ]
     }
