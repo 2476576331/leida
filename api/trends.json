@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-18T16:20:01.795575+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-08-18T17:19:58.348154+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
+        },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
           "url": "https://wallstreetcn.com/articles/3779635",
@@ -16,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时26分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时26分 ~ 17时19分]"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -74,8 +74,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 17时19分]"
         },
         {
           "title": "特朗普被曝自己也通过邮寄选票投票",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时22分 ~ 15时27分]"
-        },
-        {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时20分]"
         },
         {
           "title": "特朗普以军演为筹码，李在明表态：要为“最坏的情况”做准备",
@@ -200,6 +200,18 @@
           "time_info": "[04时12分 ~ 05时16分]"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 17时19分]"
+        },
+        {
           "title": "美国贸易代表格里尔称，总统特朗普扬言对英国征收100%关税并非虚张声势。 当被问及英国废除数字服务税是否设有最后期限时，格里尔表示：“我不会设定人为划定的时间期限。”（英国泰晤士报）",
           "url": "https://wallstreetcn.com/livenews/3150666",
           "source": "华尔街见闻-快讯",
@@ -212,27 +224,28 @@
           "time_info": "[04时12分 ~ 05时16分]"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时20分]"
-        },
-        {
           "title": "特朗普支持率创下其第二任期内新低",
           "url": "https://www.toutiao.com/trending/7674808450081115711/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时19分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时19分]"
         },
         {
           "title": "加拿大总理卡尼：预计自己会在8月19日关税截止日期前与特朗普通话。 与美国的关税磋商是密集的、微妙的。",
@@ -317,17 +330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "美媒：特朗普政府拟放宽枪支限制",
@@ -418,6 +420,17 @@
           "time_info": "08时26分"
         },
         {
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
           "url": "https://flash.jin10.com/detail/20260818002159411800",
           "source": "金十数据",
@@ -427,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普支持率降至任内新低 八成美国人料美伊战事长期持续",
+          "url": "https://www.cls.cn/detail/2456808",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "据福克斯新闻：特朗普女婿库什纳表示，加沙去军事化路线图取得突破。",
@@ -765,18 +789,6 @@
       "match_count": 43,
       "titles": [
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时11分 ~ 16时20分]"
-        },
-        {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
           "url": "https://v.ifeng.com/c/8vfiQsf50xA",
           "source": "凤凰网",
@@ -784,8 +796,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
         },
         {
           "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
@@ -795,8 +807,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时11分 ~ 17时19分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -806,8 +830,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
         },
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -829,8 +853,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -906,7 +930,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1237,7 +1261,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1266,8 +1290,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时26分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时26分 ~ 17时19分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -1291,8 +1315,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
+        },
+        {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 17时19分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -1306,19 +1344,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时11分 ~ 14时20分]"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 16时20分]"
         },
         {
           "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
@@ -1472,7 +1497,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1491,7 +1516,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -1529,6 +1554,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "李大霄谈美股融资潮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E8%9E%8D%E8%B5%84%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "百度美股盘前一度跌超5%，公司二季度营收及调整后每ADS利润不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3150989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股盘中）",
@@ -1570,9 +1617,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "百度集团第二季度营收313.3亿元人民币，预估315.9亿元人民币。 第二季度经调整每ADS利润 7.22元人民币，预估9.75元人民币。 第二季度爱奇艺收入62.9亿元人民币，预估64亿元人民币 第二季度百度核心AI新业务收入125亿元人民币。 第二季度调整后营业利润37.9亿元人民币，预估36.1亿元人民币。 第二季度调整后息税折旧及摊销前利润61.5亿元人民币，预估58.1亿元人民币。 第二季度月活跃用户6.4亿。 第二季度现金及投资总额2,831亿元人民币。 第二季度经调整百度一般性业务经营利润38.2亿元人民币。 百度美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3150985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股收盘）",
@@ -1677,8 +1735,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "4400美元金价背后：1月以来最强资金潮来袭，期权市场惊现逆转",
+          "url": "https://flash.jin10.com/detail/20260818170703473800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
         {
           "title": "金价压力“暗线”浮现！市场终于担忧长债收益率走高",
           "url": "https://flash.jin10.com/detail/20260818113452095800",
@@ -1735,6 +1804,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8,
+            15,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 11时40分]"
+        },
+        {
+          "title": "DeepSeek Harness满血版解锁",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -1822,34 +1934,30 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
+          "title": "谷歌(GOOG.O)：与英国政府及航空业领导者合作，利用人工智能帮助航空公司避免在北大西洋上空产生凝结尾迹。",
+          "url": "https://flash.jin10.com/detail/20260818170806668800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            8,
-            15,
-            9,
-            13
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 11时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
-          "title": "DeepSeek Harness满血版解锁",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "谷歌(GOOG.O)：启动“蓝天行动”（Operation Blue Skies），开展首个由政府支持的海洋航线尾迹规避试验。",
+          "url": "https://flash.jin10.com/detail/20260818170637784800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
