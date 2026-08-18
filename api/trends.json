@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T04:09:28.371121+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-08-19T05:21:14.359150+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -15,8 +15,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
+          "url": "https://www.zhihu.com/question/2071850141703729771",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
+        },
+        {
+          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
+          "url": "https://flash.jin10.com/detail/20260819045100479800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
+          "url": "https://wallstreetcn.com/livenews/3151337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "伊媒：伊朗最高领袖将主持宗教活动",
@@ -30,28 +65,48 @@
           "time_info": "01时21分"
         },
         {
+          "title": "伊朗外交部驳斥阿联酋关于伊朗向其发射导弹的指控",
+          "url": "https://flash.jin10.com/detail/20260819044854155800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "伊朗媒体调查称伊朗向阿联酋发射导弹报道缺乏依据",
           "url": "https://flash.jin10.com/detail/20260819034333528800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
         {
-          "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
-          "url": "https://www.zhihu.com/question/2071850141703729771",
-          "source": "知乎",
+          "title": "伊朗外交部发言人巴加埃：呼吁地区各方勿对伊朗进行毫无根据的指责，并应警惕美以持续破坏地区和平的恶意行动及其假旗行动历史。",
+          "url": "https://flash.jin10.com/detail/20260819044707633800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "伊朗外交部发言人警告称存在”假旗行动”，并指责（阿联酋）相关指控”毫无根据”。",
+          "url": "https://wallstreetcn.com/livenews/3151334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "伊朗伊斯兰议会议长卡利巴夫： 美国人以为对伊朗施加更大压力，就能拿到协议中从未包含的让步。 美国财长贝森特与战争部长赫格塞斯完全不自量力。 别再指望这群跳梁小丑能变出什么奇迹，赶紧收拾你们自己捅出来的烂摊子。",
@@ -87,8 +142,44 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 05时21分]"
+        },
+        {
+          "title": "阿联酋国防部：从伊朗发射的两枚弹道导弹以海上航运为攻击目标。",
+          "url": "https://wallstreetcn.com/livenews/3151307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "time_info": "[04时09分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。",
+          "url": "https://wallstreetcn.com/livenews/3151304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗宣布两名法国外交人员为“不受欢迎的人”",
+          "url": "https://wallstreetcn.com/livenews/3151302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时21分]"
         },
         {
           "title": "伊朗安全高官：美国在霍尔木兹受挫，波斯湾进入“后美国时代”",
@@ -130,18 +221,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "阿联酋国防部：从伊朗发射的两枚弹道导弹以海上航运为攻击目标。",
-          "url": "https://wallstreetcn.com/livenews/3151307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -157,26 +237,15 @@
           "time_info": "03时19分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。",
-          "url": "https://wallstreetcn.com/livenews/3151304",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人巴加埃：驳斥阿联酋关于伊朗发射导弹的说法。",
+          "url": "https://flash.jin10.com/detail/20260819044117927800",
+          "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗宣布两名法国外交人员为“不受欢迎的人”",
-          "url": "https://wallstreetcn.com/livenews/3151302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时21分"
         },
         {
           "title": "伊朗外长：伊朗不要停火，只接受战争结束",
@@ -185,7 +254,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -218,7 +287,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -229,7 +298,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -258,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -269,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -280,8 +349,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
@@ -291,8 +360,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
@@ -336,8 +405,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "特朗普威胁阿曼",
@@ -345,11 +414,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
@@ -380,7 +450,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -402,7 +472,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -413,7 +483,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -423,6 +493,123 @@
           "source": "金十数据",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3151321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
+        },
+        {
+          "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3151285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时09分]"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260819003341030800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3151328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260819003155415800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
+          "url": "https://wallstreetcn.com/livenews/3151324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3151323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
+          "url": "https://wallstreetcn.com/livenews/3151240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "数据中心反对声浪渐成美国选举敏感议题，华尔街担忧美股面临回调风险",
+          "url": "https://wallstreetcn.com/livenews/3151224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -514,90 +701,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3151321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3151285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时09分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260819003341030800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260819003155415800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
-          "url": "https://wallstreetcn.com/livenews/3151240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "数据中心反对声浪渐成美国选举敏感议题，华尔街担忧美股面临回调风险",
-          "url": "https://wallstreetcn.com/livenews/3151224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -609,8 +712,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -620,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -631,8 +734,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
@@ -642,8 +745,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
@@ -653,8 +756,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时21分]"
         }
       ]
     },
@@ -669,7 +772,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
