@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T18:15:17.865662+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-08-19T19:15:37.635427+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -360,6 +360,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "伊朗称若利益受损，将通过提高霍尔木兹海峡关税等方式反制",
+          "url": "https://wallstreetcn.com/livenews/3151740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "伊朗议长向美国高官开炮：贝森特、赫格塞思“自不量力”",
           "url": "https://flash.jin10.com/detail/20260819021700460800",
           "source": "金十数据",
@@ -542,6 +553,18 @@
           "time_info": "[01时21分 ~ 08时26分]"
         },
         {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时35分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
           "url": "https://wallstreetcn.com/articles/3779635",
           "source": "华尔街见闻",
@@ -553,15 +576,18 @@
           "time_info": "[01时21分 ~ 07时10分]"
         },
         {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
           "source": "凤凰网",
           "ranks": [
+            4,
+            2,
+            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 19时15分]"
         },
         {
           "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
@@ -574,21 +600,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时10分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普宣布：推迟3天加征关税",
-          "url": "https://news.ifeng.com/c/8viES1IRwn8",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[07时10分 ~ 19时15分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -654,7 +667,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -748,7 +761,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -877,7 +890,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
@@ -887,8 +900,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时25分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[08时25分 ~ 19时15分]"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -970,9 +983,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "Moderna美股盘前涨超80%。",
+          "url": "https://wallstreetcn.com/livenews/3151747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
@@ -1058,6 +1082,28 @@
           "time_info": "15时33分"
         },
         {
+          "title": "Moderna美股盘前涨超50%，默沙东前涨近6%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
+          "url": "https://wallstreetcn.com/livenews/3151745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "Moderna美股盘前上涨超30%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+          "url": "https://wallstreetcn.com/livenews/3151743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260819003341030800",
           "source": "金十数据",
@@ -1102,6 +1148,28 @@
           "time_info": "01时21分"
         },
         {
+          "title": "塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。 第二季度调整后每股收益4.11美元。 第二季度同店销售额增长3.8%，预期增长2.43%。 塔吉特预计全年调整后每股收益为9.90至10.90美元。 塔吉特美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3151729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "BioNTech SE(BNTX.O)美股盘前上涨14%，诺瓦瓦克斯医药(NVAX.O)盘前上涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20260819190644669800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "SK海力士(SKHY.O)美股盘前涨超6%，公司宣布正式批准回购40万亿韩元股票。",
           "url": "https://flash.jin10.com/detail/20260819160135174800",
           "source": "金十数据",
@@ -1127,7 +1195,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -1173,8 +1241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时35分 ~ 19时15分]"
         },
         {
           "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
@@ -1203,17 +1271,6 @@
           "time_info": "[01时21分 ~ 11时35分]"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
-        },
-        {
           "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
           "url": "https://www.cls.cn/detail/2457916",
           "source": "财联社热门",
@@ -1225,8 +1282,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 19时15分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时10分]"
         },
         {
           "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
@@ -1238,8 +1306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 19时15分]"
         },
         {
           "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
@@ -1297,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "160亿美债拍卖为何震动全球金融市场",
+          "url": "https://www.toutiao.com/trending/7675665468459322923/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -1313,8 +1392,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时35分 ~ 19时15分]"
         },
         {
           "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
@@ -1441,8 +1520,21 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 19时15分]"
+        },
         {
           "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
           "url": "https://www.zhihu.com/question/14194805205",
@@ -1456,28 +1548,17 @@
           "time_info": "[07时10分 ~ 17时32分]"
         },
         {
-          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
-          "url": "https://wallstreetcn.com/articles/3779762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时15分]"
-        },
-        {
           "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
           "url": "https://www.cls.cn/detail/2458007",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "梁文锋打新宇树科技浮盈超11亿元",
@@ -1496,11 +1577,23 @@
           "url": "https://www.zhihu.com/question/2072997638685864311",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时15分]"
+        },
+        {
+          "title": "“价格屠夫”梁文锋“收刀”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时15分"
         }
       ]
     },
