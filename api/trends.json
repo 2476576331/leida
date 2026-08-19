@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T15:33:33.199885+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-08-19T16:22:48.449276+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "伊朗：未与美国进行任何直接对话",
+          "url": "https://flash.jin10.com/detail/20260819161654003800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "伊朗官员：向美军提供任何便利都等同于协同美军行动",
@@ -327,6 +338,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "伊朗议员：即将与阿曼发布联合声明 宣布一条海峡新通道",
+          "url": "https://flash.jin10.com/detail/20260819161217520800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：伊朗和伊拉克正在迈出重要步伐，以实现内生安全和共同繁荣。",
           "url": "https://flash.jin10.com/detail/20260819140323978800",
           "source": "金十数据",
@@ -473,7 +495,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -527,8 +549,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 16时22分]"
         },
         {
           "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
@@ -540,8 +562,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[07时10分 ~ 16时22分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -566,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 16时22分]"
         },
         {
           "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
@@ -708,6 +730,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "伊朗发出强硬警告：若特朗普升级战争，或将报复目标扩大至欧洲！",
+          "url": "https://flash.jin10.com/detail/20260819161041954800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "据英国金融时报，伊朗军方内部人士透露，如果美国总统特朗普进一步升级美伊战争，伊朗已评估并将目标瞄准位于欧洲的美国及西方军事资产。",
           "url": "https://wallstreetcn.com/livenews/3151483",
           "source": "华尔街见闻-快讯",
@@ -810,7 +843,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
@@ -820,8 +853,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时25分 ~ 15时33分]"
+          "appearance_count": 8,
+          "time_info": "[08时25分 ~ 16时22分]"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -867,11 +900,12 @@
           "ranks": [
             1,
             2,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 16时22分]"
         },
         {
           "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
@@ -962,7 +996,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -995,7 +1029,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -1009,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "SK海力士(SKHY.O)美股盘前涨超6%，公司宣布正式批准回购40万亿韩元股票。",
+          "url": "https://flash.jin10.com/detail/20260819160135174800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "数据中心反对声浪渐成美国选举敏感议题，华尔街担忧美股面临回调风险",
@@ -1025,7 +1070,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -1090,11 +1135,25 @@
           "ranks": [
             7,
             6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 16时22分]"
+        },
+        {
+          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
+          "url": "https://www.cls.cn/detail/2457780",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 16时22分]"
         },
         {
           "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
@@ -1108,29 +1167,30 @@
           "time_info": "13时21分"
         },
         {
-          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
-          "url": "https://www.cls.cn/detail/2457780",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
-        },
-        {
           "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
           "url": "https://www.cls.cn/detail/2457916",
           "source": "财联社热门",
           "ranks": [
             12,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 16时22分]"
+        },
+        {
+          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
+          "url": "https://www.cls.cn/detail/2458004",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时22分]"
         },
         {
           "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
@@ -1145,17 +1205,6 @@
           "time_info": "[08时25分 ~ 15时33分]"
         },
         {
-          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
-          "url": "https://www.cls.cn/detail/2458004",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "美债逼宫，黄金到底要攻还是要守？",
           "url": "https://flash.jin10.com/detail/20260819120138252800",
           "source": "金十数据",
@@ -1165,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "30 年期美债收益率创 07 年来新高，8 月美国投资级债券发行创同期新高，6 月美债遭大幅减持，如何解读？",
+          "url": "https://www.zhihu.com/question/2072970611614393250",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美债收益率攀升，华尔街看不到拐点！AI科技股迎来估值压力测试",
@@ -1181,7 +1241,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
@@ -1192,8 +1252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 16时22分]"
         },
         {
           "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
@@ -1227,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "OpenAI二季度营收令投资者失望 美国SEC公布加密货币监管方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2457737",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "OpenAI强化AI安全防护，严防模型“失控”",
@@ -1309,7 +1380,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
@@ -1320,8 +1391,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 16时22分]"
         },
         {
           "title": "梁文锋打新宇树科技浮盈超11亿元",
@@ -1340,11 +1411,23 @@
           "url": "https://wallstreetcn.com/articles/3779762",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时22分]"
+        },
+        {
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时22分"
         }
       ]
     },
