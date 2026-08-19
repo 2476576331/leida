@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T07:10:56.589749+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-08-19T08:26:09.625895+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 08时26分]"
         },
         {
           "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
@@ -27,11 +27,12 @@
             8,
             5,
             4,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 08时26分]"
         },
         {
           "title": "伊媒：伊朗最高领袖将主持宗教活动",
@@ -43,17 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "阿联酋暂停与伊朗全部贸易金融往来，伊朗否认向阿发射导弹",
-          "url": "https://flash.jin10.com/detail/20260819065401081800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
         },
         {
           "title": "伊朗媒体调查称伊朗向阿联酋发射导弹报道缺乏依据",
@@ -141,6 +131,18 @@
           "time_info": "[01时21分 ~ 04时09分]"
         },
         {
+          "title": "阿联酋暂停与伊朗全部贸易金融往来，伊朗否认向阿发射导弹",
+          "url": "https://flash.jin10.com/detail/20260819065401081800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时26分]"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：呼吁地区各方勿对伊朗进行毫无根据的指责，并应警惕美以持续破坏地区和平的恶意行动及其假旗行动历史。",
           "url": "https://flash.jin10.com/detail/20260819044707633800",
           "source": "金十数据",
@@ -177,6 +179,18 @@
           "time_info": "[06时09分 ~ 07时10分]"
         },
         {
+          "title": "伊朗副外长加里巴巴迪：伊朗掌握自身命运，不会在压力面前后退，本国人民将坚定反抗“胁迫与威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3151360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时26分]"
+        },
+        {
           "title": "阿联酋国防部：从伊朗发射的两枚弹道导弹以海上航运为攻击目标。",
           "url": "https://wallstreetcn.com/livenews/3151307",
           "source": "华尔街见闻-快讯",
@@ -211,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗举行哈梅内伊下葬四十日纪念仪式",
+          "url": "https://www.toutiao.com/trending/7675387852662226998/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
         },
         {
           "title": "伊朗安全高官：美国在霍尔木兹受挫，波斯湾进入“后美国时代”",
@@ -255,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：伊朗掌握自身命运，不会在压力面前后退，本国人民将坚定反抗“胁迫与威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3151360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
         },
         {
           "title": "伊朗议长向美国高官开炮：贝森特、赫格塞思“自不量力”",
@@ -359,7 +373,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -369,8 +383,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 08时26分]"
+        },
+        {
+          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
+          "url": "https://news.ifeng.com/c/8vhArHdu44B",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 08时26分]"
+        },
+        {
+          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
+          "url": "https://news.ifeng.com/c/8vhELdiMK92",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 08时26分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -384,38 +420,17 @@
           "time_info": "[01时21分 ~ 07时10分]"
         },
         {
-          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
-          "url": "https://news.ifeng.com/c/8vhArHdu44B",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
-        },
-        {
-          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
-          "url": "https://news.ifeng.com/c/8vhELdiMK92",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
-        },
-        {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 06时09分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 08时26分]"
         },
         {
           "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
@@ -449,6 +464,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 08时26分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
@@ -492,22 +519,34 @@
           "url": "https://wallstreetcn.com/livenews/3151364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时26分]"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
+          "title": "特朗普要求谈判团队暂停与伊朗接触",
+          "url": "https://www.toutiao.com/trending/7675509930534637119/",
+          "source": "今日头条",
           "ranks": [
-            9
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
+        },
+        {
+          "title": "专家：特朗普示好朝鲜施压韩国",
+          "url": "https://www.toutiao.com/trending/7675308515237707819/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
         },
         {
           "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
@@ -585,12 +624,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+          "url": "https://flash.jin10.com/detail/20260819071141356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股",
@@ -599,11 +649,45 @@
           "ranks": [
             17,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 08时26分]"
+        },
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
+        },
+        {
+          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
+          "url": "https://www.cls.cn/detail/2457709",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
+        },
+        {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
         },
         {
           "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
@@ -612,7 +696,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -743,7 +827,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -765,7 +849,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -828,7 +912,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -885,6 +969,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 07时10分]"
+        },
+        {
+          "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
+          "url": "https://www.zhihu.com/question/2072027645802452564",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 08时26分]"
+        },
+        {
+          "title": "美债收益率攀升，华尔街看不到拐点！AI科技股迎来估值压力测试",
+          "url": "https://flash.jin10.com/detail/20260819072724367800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         }
       ]
     },
@@ -957,7 +1063,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
