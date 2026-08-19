@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T17:32:35.362705+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-08-19T18:15:17.865662+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -432,7 +432,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -506,7 +506,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -560,8 +560,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 18时15分]"
         },
         {
           "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
@@ -574,8 +574,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时10分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[07时10分 ~ 18时15分]"
         },
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -587,8 +587,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 18时15分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -646,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "路透社/益普索民调：63%的美国人表示，特朗普及其家族去年通过加密货币项目获利超过10亿美元的行为“不恰当”。48%的特朗普共和党支持者认为，特朗普的商业交易会影响官方政策。",
+          "url": "https://flash.jin10.com/detail/20260819180046231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
@@ -729,6 +740,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时25分 ~ 08时26分]"
+        },
+        {
+          "title": "路透社/益普索民调：69%的美国人认为，特朗普的私人商业利益会影响其作为总统作出的决策。",
+          "url": "https://flash.jin10.com/detail/20260819180032351800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
@@ -855,7 +877,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
@@ -865,8 +887,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时25分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[08时25分 ~ 18时15分]"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -916,8 +938,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时15分]"
         },
         {
           "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
@@ -942,6 +964,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "雅诗兰黛第四季度净销售额36.3亿美元，预期35.5亿美元。 第四季度调整后每股收益39美分，预期32美分。 雅诗兰黛预计2027年净销售额增长3%至5%。 雅诗兰黛预计2027年调整后每股收益为3.10至3.35美元，市场预期3.19美元。 雅诗兰黛美股盘前一度涨8.5%。",
+          "url": "https://wallstreetcn.com/livenews/3151700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
           "url": "https://wallstreetcn.com/livenews/3151285",
           "source": "华尔街见闻-快讯",
@@ -952,6 +985,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时09分]"
+        },
+        {
+          "title": "微博第二季度净营收4.538亿美元，预估4.411亿美元。 第二季度调整后每股收益0.38美元，预估0.35美元。 第二季度调整后息税折旧及摊销前利润1.332亿美元，预估1.23亿美元。 第二季度月活跃用户5.6亿，预估5.7亿。 第二季度日活跃用户2.5亿，预估2.6亿。 微博美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3151649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时15分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
@@ -1011,17 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "微博第二季度净营收4.538亿美元，预估4.411亿美元。 第二季度调整后每股收益0.38美元，预估0.35美元。 第二季度调整后息税折旧及摊销前利润1.332亿美元，预估1.23亿美元。 第二季度月活跃用户5.6亿，预估5.7亿。 第二季度日活跃用户2.5亿，预估2.6亿。 微博美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3151649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
@@ -1139,8 +1173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 18时15分]"
         },
         {
           "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
@@ -1191,8 +1225,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 18时15分]"
         },
         {
           "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
@@ -1204,8 +1238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时15分]"
         },
         {
           "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
@@ -1279,8 +1313,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 18时15分]"
         },
         {
           "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
@@ -1407,7 +1441,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
@@ -1430,8 +1464,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时15分]"
+        },
+        {
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时32分]"
+          "time_info": "[16时22分 ~ 18时15分]"
         },
         {
           "title": "梁文锋打新宇树科技浮盈超11亿元",
@@ -1446,15 +1492,15 @@
           "time_info": "[11时35分 ~ 12时24分]"
         },
         {
-          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
-          "url": "https://www.cls.cn/detail/2458007",
-          "source": "财联社热门",
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
           "ranks": [
-            9
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
