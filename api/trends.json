@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T08:26:09.625895+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-08-19T11:35:25.887114+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             5,
             4,
             3,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 08时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 11时35分]"
         },
         {
           "title": "伊媒：伊朗最高领袖将主持宗教活动",
@@ -373,7 +374,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -433,6 +434,17 @@
           "time_info": "[01时21分 ~ 08时26分]"
         },
         {
+          "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
+          "url": "https://news.ifeng.com/c/8vi3DZqUo7u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
           "url": "https://flash.jin10.com/detail/20260819004821037800",
           "source": "金十数据",
@@ -455,6 +467,30 @@
           "time_info": "03时19分"
         },
         {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 11时35分]"
+        },
+        {
           "title": "预测市场的老板们不会参加美国总统特朗普的白宫会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3151255",
           "source": "华尔街见闻-快讯",
@@ -464,18 +500,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 08时26分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
@@ -560,6 +584,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "特朗普：推迟对加拿大加征50%关税三天时间。 加拿大与美国之间已有协议，等待文件最终敲定。 Keystone XL输油管道或将重新运作。",
+          "url": "https://wallstreetcn.com/livenews/3151437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "特朗普还对人民大会堂念念不忘",
           "url": "https://www.toutiao.com/trending/7674416539562590254/",
           "source": "今日头条",
@@ -632,7 +667,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         }
@@ -664,8 +699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 08时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 11时35分]"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -675,19 +710,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 08时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 11时35分]"
         },
         {
           "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
           "url": "https://www.cls.cn/detail/2457697",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 08时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 11时35分]"
         },
         {
           "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
@@ -807,8 +843,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
         {
           "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
           "url": "https://wallstreetcn.com/livenews/3151282",
@@ -912,7 +959,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -948,23 +995,23 @@
           "time_info": "[01时21分 ~ 06时09分]"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时10分]"
-        },
-        {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
           "url": "https://www.cls.cn/detail/2457477",
           "source": "财联社热门",
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 11时35分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -982,15 +1029,65 @@
           "time_info": "[08时25分 ~ 08时26分]"
         },
         {
+          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
+          "url": "https://www.cls.cn/detail/2457780",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "就在今晚！美债又将迎“大考”……",
+          "url": "https://www.cls.cn/detail/2457871",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "美债收益率攀升，华尔街看不到拐点！AI科技股迎来估值压力测试",
           "url": "https://flash.jin10.com/detail/20260819072724367800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文锋打新宇树科技浮盈超11亿元",
+          "url": "https://www.toutiao.com/trending/7674808450081328703/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
+          "url": "https://www.zhihu.com/question/14194805205",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         }
       ]
     },
@@ -1049,23 +1146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
-          "url": "https://www.zhihu.com/question/14194805205",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
         }
       ]
     }
