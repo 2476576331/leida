@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T12:24:14.032746+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-08-20T13:20:34.812006+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时28分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：非常希望利率能够下降。",
@@ -41,6 +42,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时20分]"
         },
         {
           "title": "消息人士：特朗普政府拟将加拿大进口汽车关税从25%降至15%",
@@ -82,29 +109,26 @@
           "time_info": "[00时26分 ~ 02时15分]"
         },
         {
-          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
-          "url": "https://www.cls.cn/detail/2458963",
-          "source": "财联社热门",
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时24分]"
+          "time_info": "[11时35分 ~ 13时20分]"
         },
         {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "特朗普说及重启伊朗谈判时表示：也许在某个时候。",
@@ -118,17 +142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时15分]"
-        },
-        {
-          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
-          "url": "https://wallstreetcn.com/articles/3779827",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 12时24分]"
         },
         {
           "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
@@ -192,17 +205,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 06时12分]"
-        },
-        {
-          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
-          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "据半岛电视台：美国国务院发言人表示，特朗普政府已就叙利亚主权和以色列自卫权展开讨论。",
@@ -588,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普：我签署了《天才法案》",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E7%AD%BE%E7%BD%B2%E4%BA%86%E3%80%8A%E5%A4%A9%E6%89%8D%E6%B3%95%E6%A1%88%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
@@ -639,8 +652,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时28分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 13时20分]"
         },
         {
           "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
@@ -650,8 +663,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时28分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 13时20分]"
+        },
+        {
+          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
+          "url": "https://www.cls.cn/detail/2458911",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 13时20分]"
         },
         {
           "title": "一款抗癌疫苗引爆美股医药股",
@@ -670,18 +697,17 @@
           "time_info": "[01时14分 ~ 08时28分]"
         },
         {
-          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
-          "url": "https://www.cls.cn/detail/2458911",
+          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
+          "url": "https://www.cls.cn/detail/2458966",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            3,
-            2
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时20分]"
         },
         {
           "title": "美股存储、光通信板块下挫，希捷科技跌超7%，西部数据跌超6%，闪迪跌3.5%。Lumentum跌超5%，Coherent跌超6%，康宁跌超5%。",
@@ -723,19 +749,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时14分 ~ 07时11分]"
-        },
-        {
-          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
-          "url": "https://www.cls.cn/detail/2458966",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时24分]"
         },
         {
           "title": "金十图示：2026年08月19日（周三）热门中概股行情一览（美股收盘）",
@@ -831,7 +844,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美联储会议纪要：伊朗战争升级给通胀前景“蒙上阴影”",
@@ -957,6 +970,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "伊朗德黑兰省长：近年来全国太阳能发电厂容量建设已显著提速，持续推进这一进程是政府致力于缓解能源失衡的重要计划之一。",
+          "url": "https://flash.jin10.com/detail/20260820122052713800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "市场消息：英国在伊朗制裁机制下新增7项制裁指定。",
           "url": "https://flash.jin10.com/detail/20260819233849663800",
           "source": "金十数据",
@@ -966,12 +990,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "伊朗德黑兰省长：将发展可再生能源视为解决能源失衡的重要举措之一，要加快太阳能项目推进速度，清除该领域项目面临的各种障碍。",
+          "url": "https://flash.jin10.com/detail/20260820122043675800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
@@ -984,8 +1019,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 12时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 13时20分]"
         },
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -1012,8 +1047,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 12时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 13时20分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1088,6 +1123,28 @@
           "time_info": "07时11分"
         },
         {
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "Yardeni：美国财长释放“不惜一切”遏制美债收益率上行的信号",
+          "url": "https://wallstreetcn.com/livenews/3152090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美债规模破40万亿大关：十年翻倍，利息支出首超医保",
           "url": "https://flash.jin10.com/detail/20260820080000500800",
           "source": "金十数据",
@@ -1132,11 +1189,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 13时20分]"
         },
         {
           "title": "OpenAI：我们将继续为前沿模型提供零数据留存服务。随着人工智能承担更长、自主性更强的工作，并为企业创造更高价值，安全系统也需要识别各类关联交互中存在的风险。为应对上述风险，我们推出私有安全处理预览版，该技术旨在提升安全防护水平，同时不让 OpenAI 工作人员接触底层原始内容。",
@@ -1298,7 +1356,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
