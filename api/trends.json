@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T13:20:34.812006+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-20T14:22:00.228928+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -26,11 +26,51 @@
             2,
             4,
             9,
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时22分]"
+        },
+        {
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 14时22分]"
+        },
+        {
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时28分 ~ 13时20分]"
+          "time_info": "[11时35分 ~ 14时22分]"
         },
         {
           "title": "美国总统特朗普：非常希望利率能够下降。",
@@ -44,30 +84,37 @@
           "time_info": "03时21分"
         },
         {
-          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
-          "url": "https://www.cls.cn/detail/2458963",
-          "source": "财联社热门",
+          "title": "伊朗外长阿拉格齐：特朗普的话只会激起伊朗人的敌意。",
+          "url": "https://flash.jin10.com/detail/20260820141206933800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            10,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16,
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时20分]"
+          "time_info": "[12时23分 ~ 14时22分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：特朗普许多言论都是为了转移美国公众对国内金融危机的注意力，即美国创纪录的债务和银行利率的急剧上升。",
+          "url": "https://flash.jin10.com/detail/20260820141024442800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "消息人士：特朗普政府拟将加拿大进口汽车关税从25%降至15%",
@@ -107,28 +154,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时15分]"
-        },
-        {
-          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
-          "url": "https://wallstreetcn.com/articles/3779827",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
-          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "特朗普说及重启伊朗谈判时表示：也许在某个时候。",
@@ -339,6 +364,28 @@
           "time_info": "[04时14分 ~ 05时19分]"
         },
         {
+          "title": "特朗普：预计年内会见金正恩，时间可能选在11月",
+          "url": "https://wallstreetcn.com/livenews/3152133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "伊朗：特朗普的言论只会给自己带来失败",
+          "url": "https://flash.jin10.com/detail/20260820140352708800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "特朗普对伊发起“经济战争”，迪拜或成最后胜负手",
           "url": "https://flash.jin10.com/detail/20260820094619710800",
           "source": "金十数据",
@@ -361,6 +408,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "伊朗称特朗普的“经济战”是为转移人们对美国危机的注意力",
+          "url": "https://wallstreetcn.com/livenews/3152130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "特朗普预计今年晚些时候会见金正恩",
           "url": "https://flash.jin10.com/detail/20260820005852510800",
           "source": "金十数据",
@@ -381,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：特朗普所说经济层面的“诺曼底登陆日”是美国为转移国内危机视线而制造的幌子。",
+          "url": "https://flash.jin10.com/detail/20260820140011360800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "特朗普：昨晚有很多船通过海峡 美国拥有完全控制权",
@@ -598,7 +667,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
@@ -631,20 +700,6 @@
           "time_info": "[00时26分 ~ 06时12分]"
         },
         {
-          "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2458669",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 10时09分]"
-        },
-        {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
           "url": "https://wallstreetcn.com/articles/3779750",
           "source": "华尔街见闻",
@@ -652,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时28分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时22分]"
         },
         {
           "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
@@ -663,8 +718,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时28分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
@@ -677,8 +732,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 13时20分]"
+          "appearance_count": 9,
+          "time_info": "[07时11分 ~ 14时22分]"
+        },
+        {
+          "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2458669",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时09分]"
         },
         {
           "title": "一款抗癌疫苗引爆美股医药股",
@@ -706,8 +775,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 14时22分]"
         },
         {
           "title": "美股存储、光通信板块下挫，希捷科技跌超7%，西部数据跌超6%，闪迪跌3.5%。Lumentum跌超5%，Coherent跌超6%，康宁跌超5%。",
@@ -844,7 +913,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美联储会议纪要：伊朗战争升级给通胀前景“蒙上阴影”",
@@ -856,6 +925,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "伊朗外长：美为转移自身财政问题而对伊进行新一轮经济威胁",
+          "url": "https://wallstreetcn.com/livenews/3152137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国的经济恐怖主义威胁全球经济和世界各国的国家主权。",
+          "url": "https://flash.jin10.com/detail/20260820141052043800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "头号贸易伙伴实施禁运，伊朗一条经济命脉恐遭切断",
@@ -926,6 +1017,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "伊朗外长阿拉格齐：美国政策将带来失败和敌意。",
+          "url": "https://flash.jin10.com/detail/20260820140047479800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "伊朗将军纳赫迪：停火或谈判本身不是最终目标，关键是建立“让对手不敢再次攻击”的威慑机制。",
           "url": "https://flash.jin10.com/detail/20260820005036137800",
           "source": "金十数据",
@@ -976,7 +1078,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -998,7 +1100,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
@@ -1006,7 +1108,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
@@ -1019,8 +1121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 13时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 14时22分]"
         },
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -1047,8 +1149,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 13时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 14时22分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1101,6 +1203,17 @@
           "time_info": "[02时15分 ~ 03时21分]"
         },
         {
+          "title": "破40万亿 狂飙美债对全球意味什么",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%B440%E4%B8%87%E4%BA%BF+%E7%8B%82%E9%A3%99%E7%BE%8E%E5%80%BA%E5%AF%B9%E5%85%A8%E7%90%83%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
           "title": "160亿美债拍卖为何震动全球金融市场",
           "url": "https://www.toutiao.com/trending/7675665468459322923/",
           "source": "今日头条",
@@ -1129,7 +1242,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -1140,7 +1253,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
