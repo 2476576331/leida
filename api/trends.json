@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T12:26:59.402956+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-08-21T13:21:03.776551+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -103,8 +103,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时26分]"
+          "time_info": "[10时15分 ~ 13时21分]"
         },
         {
           "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
@@ -141,18 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 02时18分]"
-        },
-        {
-          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
-          "url": "https://www.cls.cn/detail/2460167",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 12时26分]"
         },
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
@@ -206,7 +206,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -332,6 +332,17 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 13时21分]"
+        },
+        {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
           "url": "https://www.toutiao.com/trending/7676088298137194011/",
           "source": "今日头条",
@@ -348,17 +359,6 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
-          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时28分 ~ 12时26分]"
-        },
-        {
           "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
           "url": "https://wallstreetcn.com/articles/3779856",
           "source": "华尔街见闻",
@@ -370,6 +370,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 10时15分]"
+        },
+        {
+          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
+          "url": "https://www.cls.cn/detail/2460072",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 13时21分]"
         },
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
@@ -405,6 +419,19 @@
           "time_info": "08时28分"
         },
         {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时15分 ~ 13时21分]"
+        },
+        {
           "title": "各国如何应对40万亿美债",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B940%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%80%BA",
           "source": "bilibili 热搜",
@@ -427,18 +454,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
-          "url": "https://www.cls.cn/detail/2460072",
-          "source": "财联社热门",
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            6,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时28分 ~ 12时26分]"
+          "time_info": "[11时39分 ~ 13时21分]"
         },
         {
           "title": "中长期美债收益率涨约4个基点",
@@ -451,30 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时16分]"
-        },
-        {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 12时26分]"
-        },
-        {
-          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
-          "url": "https://wallstreetcn.com/articles/3779920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时26分]"
         },
         {
           "title": "狂飙美债对全球意味着什么",
@@ -528,7 +528,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -557,8 +557,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时21分]"
         },
         {
           "title": "美公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
@@ -570,6 +570,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时28分 ~ 11时39分]"
+        },
+        {
+          "title": "美将公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
+          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "伊朗回应“美将公布经济孤立措施”",
@@ -668,17 +679,6 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
-          "title": "美将公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
-          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "据伊朗媒体Fars News：以色列战斗机进入黎巴嫩空域，以色列对黎巴嫩南部阿里塔赫尔高地发动了空袭。",
           "url": "https://flash.jin10.com/detail/20260821051208562800",
           "source": "金十数据",
@@ -763,17 +763,6 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
-          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
-          "url": "https://www.cls.cn/detail/2459378",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
           "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
           "url": "https://www.cls.cn/detail/2460111",
           "source": "财联社热门",
@@ -783,8 +772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[06时13分 ~ 13时21分]"
         },
         {
           "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
@@ -795,8 +784,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时28分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 13时21分]"
+        },
+        {
+          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
+          "url": "https://www.cls.cn/detail/2459378",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时13分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -1025,7 +1025,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
