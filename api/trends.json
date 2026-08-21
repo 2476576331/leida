@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T15:33:25.865929+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-08-21T16:23:25.320061+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -82,6 +82,21 @@
           "time_info": "[00时18分 ~ 12时26分]"
         },
         {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时15分 ~ 16时23分]"
+        },
+        {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
           "url": "https://wallstreetcn.com/articles/3779827",
           "source": "华尔街见闻",
@@ -92,20 +107,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
-          "url": "https://www.cls.cn/detail/2460167",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时15分 ~ 15时33分]"
         },
         {
           "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
@@ -293,7 +294,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -316,8 +317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时28分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[08时28分 ~ 16时23分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -371,8 +372,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时15分 ~ 15时33分]"
+          "appearance_count": 8,
+          "time_info": "[10时15分 ~ 16时23分]"
         },
         {
           "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
@@ -410,8 +411,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时23分]"
         },
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
@@ -537,6 +538,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "高盛称要想降低美债收益率 通胀降温才是最佳药方",
+          "url": "https://wallstreetcn.com/livenews/3152865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美债市场正在上演金融“三国演义”",
           "url": "https://www.toutiao.com/trending/7676307698534583827/",
           "source": "今日头条",
@@ -551,7 +563,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军瞒天过海运石油，伊朗的“王牌”废了？",
@@ -572,8 +584,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时23分]"
         },
         {
           "title": "伊拉克和瑞士两国外长在一次电话通话中强调，启动国际倡议以帮助结束冲突、推动伊朗和美国重新回到谈判桌具有重要意义。",
@@ -738,6 +750,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "伊朗议员卡塞姆：一项要求伊朗退出《不扩散核武器条约》的提案已提交至议会，目前正在推进。",
+          "url": "https://flash.jin10.com/detail/20260821160023053800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美国财长贝森特：下周一将围绕“伊朗计划”举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3152480",
           "source": "华尔街见闻-快讯",
@@ -833,8 +856,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时23分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -940,6 +963,57 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3152577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "谷歌：Gemma下载量突破10亿次。",
+          "url": "https://wallstreetcn.com/livenews/3152527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时18分]"
+        },
+        {
+          "title": "消息人士：印度近几个月向谷歌发送了数十份下架通知，要求处理Firebase平台遭滥用问题。",
+          "url": "https://flash.jin10.com/detail/20260821160724884800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：AI智能体开发平台Antigravity现已作为符合条件的Gemini Enterprise应用订阅的一部分开放，支持开箱即用的管理员管理和支出控制功能。",
+          "url": "https://flash.jin10.com/detail/20260821013335050800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -980,46 +1054,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3152577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "谷歌：Gemma下载量突破10亿次。",
-          "url": "https://wallstreetcn.com/livenews/3152527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时18分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：AI智能体开发平台Antigravity现已作为符合条件的Gemini Enterprise应用订阅的一部分开放，支持开箱即用的管理员管理和支出控制功能。",
-          "url": "https://flash.jin10.com/detail/20260821013335050800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
         }
       ]
     },
