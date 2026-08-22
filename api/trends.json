@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T17:14:57.002674+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-08-22T18:10:30.796015+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "url": "https://flash.jin10.com/detail/20260822164151313800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时10分]"
         },
         {
           "title": "惠誉：预计坦桑尼亚经济将对伊朗战争的冲击表现出韧性，2026年实际GDP增长率为5.8%。",
@@ -67,17 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 08时26分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯：伊朗军方表示，呼吁科威特与伊朗飞行员及其家属进行初步联系。",
-          "url": "https://flash.jin10.com/detail/20260822163632897800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
@@ -134,6 +124,32 @@
           "time_info": "[00时17分 ~ 02时18分]"
         },
         {
+          "title": "伊朗工业部长：伊朗工业企业已积极参与太阳能发电站建设，并推进从阿曼湾和波斯湾获取所需水源，以在保持生产持续性的同时，减轻对国内生态和水资源的压力。",
+          "url": "https://flash.jin10.com/detail/20260822155214781800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗称国防产能已翻倍",
+          "url": "https://wallstreetcn.com/livenews/3153351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时10分]"
+        },
+        {
           "title": "伊媒：伊朗决定允许伊拉克部分油轮通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260822143639028800",
           "source": "金十数据",
@@ -157,30 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时18分]"
-        },
-        {
-          "title": "伊朗工业部长：伊朗工业企业已积极参与太阳能发电站建设，并推进从阿曼湾和波斯湾获取所需水源，以在保持生产持续性的同时，减轻对国内生态和水资源的压力。",
-          "url": "https://flash.jin10.com/detail/20260822155214781800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时14分]"
-        },
-        {
-          "title": "伊朗称国防产能已翻倍",
-          "url": "https://wallstreetcn.com/livenews/3153351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时14分]"
         },
         {
           "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
@@ -220,6 +212,18 @@
           "time_info": "[02时18分 ~ 03时18分]"
         },
         {
+          "title": "据沙特媒体哈达斯：伊朗军方表示，呼吁科威特与伊朗飞行员及其家属进行初步联系。",
+          "url": "https://flash.jin10.com/detail/20260822163632897800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时10分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫表示，伊朗 “从不干涉伊拉克内政”。 德黑兰方面愿同地区国家开展合作，通过区域协作构建可持续安全格局。 卡利巴夫结束对伊拉克为期三天的访问，于周五返回德黑兰。（伊朗学生通讯社ISNA）",
           "url": "https://wallstreetcn.com/livenews/3153178",
           "source": "华尔街见闻-快讯",
@@ -243,6 +247,58 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 13时15分]"
+        },
+        {
+          "title": "伊朗外交部副部长哈提卜扎德：美国和以色列一直认为，一旦实施恐怖袭击，就会导致伊朗的政治和安全体系内部出现分裂。但他们亲眼看到，伊朗人民、官员和士兵全都以伊朗之名坚守阵地，甚至连休假申请都没有提交。",
+          "url": "https://flash.jin10.com/detail/20260822152943000800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗外交部副部长哈提卜扎德：过去一年在伊朗发生的一切，是‘恐怖主义阵营’针对正义与抵抗阵营采取行动的最典型例证。我们有必要建立一个博物馆，将所有遇难者展示出来。",
+          "url": "https://flash.jin10.com/detail/20260822152909038800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗外交部副部长哈提卜扎德：过去数年“恐怖主义阵营”对伊朗人民实施的一切，都将永远载入史册。",
+          "url": "https://flash.jin10.com/detail/20260822152837989800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗第一副总统阿雷夫：伊朗最富裕家庭的汽油消费量约为最贫困家庭的23至24倍。与此同时，伊朗政府正面临燃料消费、产量和价格方面日益加大的压力。",
+          "url": "https://flash.jin10.com/detail/20260822151500621800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时10分]"
         },
         {
           "title": "伊朗：美国已然衰败 不再具有国际威望",
@@ -269,16 +325,16 @@
           "time_info": "[15时21分 ~ 16时14分]"
         },
         {
-          "title": "伊朗外交部副部长哈提卜扎德：美国和以色列一直认为，一旦实施恐怖袭击，就会导致伊朗的政治和安全体系内部出现分裂。但他们亲眼看到，伊朗人民、官员和士兵全都以伊朗之名坚守阵地，甚至连休假申请都没有提交。",
-          "url": "https://flash.jin10.com/detail/20260822152943000800",
+          "title": "伊拉克总统：如果局势持续升级，我们将成为仅次于伊朗的受害国，因为我们经济紧密相连，完全依赖石油。",
+          "url": "https://flash.jin10.com/detail/20260822162320476800",
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时10分]"
         },
         {
           "title": "伊朗与伊拉克签署“全面”安全协议。（伊朗国家电视台）",
@@ -317,18 +373,6 @@
           "time_info": "[15时21分 ~ 16时14分]"
         },
         {
-          "title": "伊朗外交部副部长哈提卜扎德：过去一年在伊朗发生的一切，是‘恐怖主义阵营’针对正义与抵抗阵营采取行动的最典型例证。我们有必要建立一个博物馆，将所有遇难者展示出来。",
-          "url": "https://flash.jin10.com/detail/20260822152909038800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时14分]"
-        },
-        {
           "title": "伊朗武装部队发言人：任何侵略行为都将立即遭到回应，而且回应的规模完全可能大于侵略行为本身。",
           "url": "https://flash.jin10.com/detail/20260822131024559800",
           "source": "金十数据",
@@ -341,16 +385,16 @@
           "time_info": "[14时16分 ~ 15时21分]"
         },
         {
-          "title": "伊朗外交部副部长哈提卜扎德：过去数年“恐怖主义阵营”对伊朗人民实施的一切，都将永远载入史册。",
-          "url": "https://flash.jin10.com/detail/20260822152837989800",
+          "title": "伊拉克总统：我认为美国希望达成协议，以结束与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260822161744100800",
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时10分]"
         },
         {
           "title": "伊朗称将在海上给敌人历史性教训",
@@ -389,18 +433,6 @@
           "time_info": "[14时16分 ~ 15时21分]"
         },
         {
-          "title": "伊朗第一副总统阿雷夫：伊朗最富裕家庭的汽油消费量约为最贫困家庭的23至24倍。与此同时，伊朗政府正面临燃料消费、产量和价格方面日益加大的压力。",
-          "url": "https://flash.jin10.com/detail/20260822151500621800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时14分]"
-        },
-        {
           "title": "伊通社（IRNA）发布伊朗议会议长卡利巴夫访问伊拉克期间的现场图片。",
           "url": "https://flash.jin10.com/detail/20260822145341231800",
           "source": "金十数据",
@@ -436,17 +468,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "伊拉克总统：如果局势持续升级，我们将成为仅次于伊朗的受害国，因为我们经济紧密相连，完全依赖石油。",
-          "url": "https://flash.jin10.com/detail/20260822162320476800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
           "title": "据伊朗国家电视台：伊朗与伊拉克签署全面安全协议。",
           "url": "https://flash.jin10.com/detail/20260822015353238800",
           "source": "金十数据",
@@ -456,17 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "伊拉克总统：我认为美国希望达成协议，以结束与伊朗的战争。",
-          "url": "https://flash.jin10.com/detail/20260822161744100800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "伊朗官员称美国已证明其“不懂外交语言”",
@@ -637,7 +647,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普，打光了弹药？",
@@ -647,8 +657,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时25分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时25分 ~ 18时10分]"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -697,8 +707,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 18时10分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -1082,6 +1092,17 @@
           "time_info": "[05时12分 ~ 06时10分]"
         },
         {
+          "title": "特朗普：如果需要将出动美军干预债市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时10分]"
+        },
+        {
           "title": "特朗普再称霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/livenews/3153258",
           "source": "华尔街见闻-快讯",
@@ -1113,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -1168,17 +1200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普：如果需要将出动美军干预债市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "特朗普再称霍尔木兹海峡为美国领土",
@@ -1277,17 +1298,32 @@
           "time_info": "[00时17分 ~ 06时10分]"
         },
         {
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 18时10分]"
+        },
+        {
           "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
           "url": "https://wallstreetcn.com/articles/3780012",
           "source": "华尔街见闻",
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时25分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时25分 ~ 18时10分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -1300,8 +1336,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时11分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[07时11分 ~ 18时10分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -1316,22 +1352,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时14分]"
-        },
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 17时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时10分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -1341,11 +1363,26 @@
             9,
             7,
             6,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 18时10分]"
+        },
+        {
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时31分 ~ 17时14分]"
+          "time_info": "[12时19分 ~ 18时10分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -1358,19 +1395,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时07分 ~ 15时21分]"
-        },
-        {
-          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/articles/3780021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 17时14分]"
         },
         {
           "title": "周五（8月21日）纽约尾盘，美国10年期基准国债收益率涨2.99个基点，报4.7339%，本周累计上涨4.18个基点，整体交投于4.6308%-4.7458%区间。 两年期美债收益率涨5.05个基点，报4.2359%，本周累涨6.68个基点，整体交投于4.1412%-4.2401%区间，8月21日20:30出现一波显著的上涨行情。",
@@ -1448,8 +1472,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时25分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时25分 ~ 18时10分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -1461,8 +1485,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时11分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[07时11分 ~ 18时10分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1591,6 +1615,19 @@
           "time_info": "[00时17分 ~ 10时07分]"
         },
         {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 18时10分]"
+        },
+        {
           "title": "高盛：黄金看涨期权需求激增，或放大金价波动",
           "url": "https://wallstreetcn.com/livenews/3153152",
           "source": "华尔街见闻-快讯",
@@ -1602,19 +1639,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时18分]"
-        },
-        {
-          "title": "金价银价油价集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 17时14分]"
         },
         {
           "title": "国际金价创三个月新高",
@@ -1667,76 +1691,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
-          "url": "https://www.zhihu.com/question/2074181821978376015",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 05时12分]"
-        },
-        {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时11分]"
-        },
-        {
-          "title": "为什么有 DeepSeek 娘但是没有人制作 GLM 娘？",
-          "url": "https://www.zhihu.com/question/2038382808817774665",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时15分]"
-        },
-        {
-          "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
-          "url": "https://www.zhihu.com/question/2074187767911925314",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "DeepSeek多模态模型表现如何",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "大手笔！OpenAI全面开源Codex Harness",
@@ -1795,6 +1751,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+          "url": "https://www.zhihu.com/question/2074181821978376015",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 04时11分]"
+        },
+        {
+          "title": "为什么有 DeepSeek 娘但是没有人制作 GLM 娘？",
+          "url": "https://www.zhihu.com/question/2038382808817774665",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时15分]"
+        },
+        {
+          "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
+          "url": "https://www.zhihu.com/question/2074187767911925314",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时10分]"
+        },
+        {
+          "title": "DeepSeek多模态模型表现如何",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
