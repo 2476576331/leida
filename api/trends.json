@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-23T01:09:46.125400+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-08-23T02:10:23.609057+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "以色列总理内塔尼亚胡：只要我担任总理，就不会有一个由伊朗控制的巴勒斯坦国。",
+          "url": "https://flash.jin10.com/detail/20260823012713800800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
           "url": "https://wallstreetcn.com/articles/3780046",
@@ -16,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "俄罗斯国家原子能公司向伊朗布什尔核电站派回工作人员",
@@ -27,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "伊朗称过去一年国防装备产量整体翻番",
@@ -38,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "伊拉克希望伊朗向其油轮发放特别通行许可",
@@ -49,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "伊朗敦促卡塔尔转移被扣飞行员 卡方重申欢迎调查",
@@ -60,8 +71,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "据以色列i24频道：阿联酋在阿布扎比的燃料储存罐周围建造了大型金属保护围栏，以保护关键能源设施免受潜在的伊朗无人机攻击。",
@@ -69,11 +80,12 @@
           "source": "金十数据",
           "ranks": [
             17,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "伊朗South Pars天然气加工厂完工70%。（IRNA）",
@@ -83,8 +95,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
@@ -94,8 +106,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
@@ -123,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -134,8 +146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -145,8 +157,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -157,19 +169,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
           "url": "https://wallstreetcn.com/articles/3780037",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -179,8 +192,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
@@ -204,11 +217,12 @@
           "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -218,8 +232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -240,8 +254,38 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
         }
       ]
     },
@@ -254,11 +298,12 @@
           "url": "https://wallstreetcn.com/articles/3779986",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -269,26 +314,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         }
       ]
     },
@@ -304,8 +331,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时10分]"
         }
       ]
     }
