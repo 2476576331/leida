@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T12:19:41.877886+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-08-22T13:15:36.600426+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -32,6 +32,17 @@
           "time_info": "[00时17分 ~ 08时26分]"
         },
         {
+          "title": "特朗普，打光了弹药？",
+          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 13时15分]"
+        },
+        {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
           "url": "https://m.thepaper.cn/newsDetail_forward_33823287",
           "source": "澎湃新闻",
@@ -42,19 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时17分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普，打光了弹药？",
-          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 12时19分]"
+          "appearance_count": 13,
+          "time_info": "[03时17分 ~ 13时15分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -92,6 +92,19 @@
           "time_info": "00时18分"
         },
         {
+          "title": "特朗普吐槽伊朗：总统都没人愿意当 我到底该找谁谈？",
+          "url": "https://flash.jin10.com/detail/20260822112456871800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时15分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗没钱，没有海军，没有空军，不给士兵发工资，不给警察发工资，通货膨胀率高达350%。",
           "url": "https://flash.jin10.com/detail/20260822051732491800",
           "source": "金十数据",
@@ -117,16 +130,15 @@
           "time_info": "[02时18分 ~ 03时18分]"
         },
         {
-          "title": "特朗普吐槽伊朗：总统都没人愿意当 我到底该找谁谈？",
-          "url": "https://flash.jin10.com/detail/20260822112456871800",
-          "source": "金十数据",
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时15分]"
         },
         {
           "title": "特朗普称若输掉中期选举他将被弹劾",
@@ -239,17 +251,6 @@
           "time_info": "[05时12分 ~ 08时26分]"
         },
         {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时19分]"
-        },
-        {
           "title": "特朗普谈伊朗：我们正在观察事态发展。 他们（伊朗）没有钱。 他们没有海军。他们没有空军。 他们没有支付士兵薪水。他们没有支付警察薪水。 他们有350%的通货膨胀。",
           "url": "https://wallstreetcn.com/livenews/3153234",
           "source": "华尔街见闻-快讯",
@@ -261,6 +262,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时10分 ~ 08时26分]"
+        },
+        {
+          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
+          "url": "https://wallstreetcn.com/livenews/3153298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时15分]"
         },
         {
           "title": "特朗普：没有指示贝森特干预债券市场",
@@ -374,18 +388,6 @@
         },
         {
           "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
-          "url": "https://wallstreetcn.com/livenews/3153298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时19分]"
-        },
-        {
-          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
           "url": "https://flash.jin10.com/detail/20260822100948753800",
           "source": "金十数据",
           "ranks": [
@@ -486,6 +488,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普敲打韩国却被李在明反将一军",
+          "url": "https://www.toutiao.com/trending/7676039913854418950/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "特朗普力挺AI数据中心 称将创造大量就业和税收",
           "url": "https://flash.jin10.com/detail/20260822021607120800",
           "source": "金十数据",
@@ -544,7 +557,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗总统：现在结束战争是更好的选择",
@@ -583,6 +596,17 @@
           "time_info": "[00时17分 ~ 05时12分]"
         },
         {
+          "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
+          "url": "https://wallstreetcn.com/livenews/3153324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "惠誉：预计坦桑尼亚经济将对伊朗战争的冲击表现出韧性，2026年实际GDP增长率为5.8%。",
           "url": "https://flash.jin10.com/detail/20260822050540574800",
           "source": "金十数据",
@@ -597,6 +621,20 @@
           "time_info": "[05时12分 ~ 08时26分]"
         },
         {
+          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
+          "url": "https://wallstreetcn.com/livenews/3153293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时15分]"
+        },
+        {
           "title": "伊朗总统：现在结束战争是更好选择",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%8E%B0%E5%9C%A8%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%98%AF%E6%9B%B4%E5%A5%BD%E9%80%89%E6%8B%A9",
           "source": "百度热搜",
@@ -609,19 +647,6 @@
           "time_info": "[00时17分 ~ 02时18分]"
         },
         {
-          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
-          "url": "https://wallstreetcn.com/livenews/3153293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时19分]"
-        },
-        {
           "title": "伊朗寻求贸易突围，与阿曼敲定优惠贸易协定",
           "url": "https://flash.jin10.com/detail/20260822020951714800",
           "source": "金十数据",
@@ -632,6 +657,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
+          "url": "https://wallstreetcn.com/livenews/3153305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时15分]"
         },
         {
           "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
@@ -671,18 +709,6 @@
           "time_info": "[02时18分 ~ 03时18分]"
         },
         {
-          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
-          "url": "https://wallstreetcn.com/livenews/3153305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时19分]"
-        },
-        {
           "title": "伊朗议会议长卡利巴夫表示，伊朗 “从不干涉伊拉克内政”。 德黑兰方面愿同地区国家开展合作，通过区域协作构建可持续安全格局。 卡利巴夫结束对伊拉克为期三天的访问，于周五返回德黑兰。（伊朗学生通讯社ISNA）",
           "url": "https://wallstreetcn.com/livenews/3153178",
           "source": "华尔街见闻-快讯",
@@ -700,11 +726,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时15分]"
         },
         {
           "title": "伊朗与伊拉克签署“全面”安全协议。（伊朗国家电视台）",
@@ -949,8 +976,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 12时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 13时15分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -963,8 +990,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 13时15分]"
+        },
+        {
+          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
+          "url": "https://wallstreetcn.com/articles/3780012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时11分 ~ 12时19分]"
+          "time_info": "[08时25分 ~ 13时15分]"
         },
         {
           "title": "周五（8月21日）纽约尾盘，美国10年期基准国债收益率涨2.99个基点，报4.7339%，本周累计上涨4.18个基点，整体交投于4.6308%-4.7458%区间。 两年期美债收益率涨5.05个基点，报4.2359%，本周累涨6.68个基点，整体交投于4.1412%-4.2401%区间，8月21日20:30出现一波显著的上涨行情。",
@@ -978,16 +1017,17 @@
           "time_info": "06时10分"
         },
         {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时15分]"
         },
         {
           "title": "特朗普称解决40万亿美债问题要靠增长 否认指示贝森特干预债市",
@@ -1016,6 +1056,18 @@
           "time_info": "[05时12分 ~ 07时11分]"
         },
         {
+          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
+          "url": "https://wallstreetcn.com/articles/3779987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时15分]"
+        },
+        {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
           "url": "https://www.cls.cn/detail/2461169",
           "source": "财联社热门",
@@ -1028,40 +1080,28 @@
           "time_info": "[04时11分 ~ 06时10分]"
         },
         {
-          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
-          "url": "https://wallstreetcn.com/articles/3779987",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时19分]"
-        },
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时19分]"
-        },
-        {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
           "url": "https://www.cls.cn/detail/2461311",
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时15分]"
+        },
+        {
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时19分]"
+          "time_info": "[12时19分 ~ 13时15分]"
         },
         {
           "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
@@ -1074,17 +1114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时19分]"
-        },
-        {
-          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/articles/3780021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         }
       ]
     },
@@ -1101,8 +1130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -1113,8 +1142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 12时19分]"
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 13时15分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1406,11 +1435,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时15分]"
         },
         {
           "title": "DeepSeek多模态模型表现如何",
