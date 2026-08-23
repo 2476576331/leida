@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T18:10:50.525852+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-23T19:10:21.700833+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时07分 ~ 18时10分]"
+          "appearance_count": 17,
+          "time_info": "[06时07分 ~ 19时10分]"
         },
         {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
@@ -32,11 +32,12 @@
             12,
             15,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时08分 ~ 18时10分]"
+          "appearance_count": 13,
+          "time_info": "[06时08分 ~ 19时10分]"
         },
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
@@ -152,27 +153,29 @@
           "time_info": "[00时08分 ~ 07时08分]"
         },
         {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3153449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
           "title": "伊朗总统说正全力克服美带来的困难",
           "url": "https://wallstreetcn.com/livenews/3153439",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时10分]"
-        },
-        {
-          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
-          "url": "https://wallstreetcn.com/livenews/3153449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时10分]"
         },
         {
           "title": "伊朗黑客突袭英国电厂 美国12州水利设施亦遭袭",
@@ -187,6 +190,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 15时23分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。",
+          "url": "https://flash.jin10.com/detail/20260823190225644800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
+          "title": "据耶路撒冷邮报：伊朗已被邀请加入本月早些时候由沙特阿拉伯、土耳其和巴基斯坦建立的《麦加共同防御协议》（Mecca Joint Defence Agreement）。",
+          "url": "https://flash.jin10.com/detail/20260823183343870800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "伊朗议长：必须制定计划应对制裁",
@@ -322,6 +347,32 @@
           "time_info": "[02时10分 ~ 04时08分]"
         },
         {
+          "title": "伊朗警方在多地查获非法盗接燃油管道案件",
+          "url": "https://flash.jin10.com/detail/20260823164946474800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗副外长",
+          "url": "https://www.toutiao.com/trending/7677137801623637567/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们正处于一场全面的经济、军事和安全战争之中。",
           "url": "https://flash.jin10.com/detail/20260823134550708800",
           "source": "金十数据",
@@ -332,18 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 15时23分]"
-        },
-        {
-          "title": "伊朗警方在多地查获非法盗接燃油管道案件",
-          "url": "https://flash.jin10.com/detail/20260823164946474800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时10分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗将打击那些协助美国对伊朗发动经济战的国家的利益。",
@@ -359,6 +398,19 @@
           "time_info": "[04时08分 ~ 06时08分]"
         },
         {
+          "title": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰",
+          "url": "https://flash.jin10.com/detail/20260823163159912800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
           "title": "伊朗基准股指升至610万点关口",
           "url": "https://flash.jin10.com/detail/20260823143220140800",
           "source": "金十数据",
@@ -369,18 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 16时15分]"
-        },
-        {
-          "title": "外交部副部长苗得雨会见伊朗副外长",
-          "url": "https://www.toutiao.com/trending/7677137801623637567/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时10分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗所有当局都必须支持和执行德黑兰与华盛顿之间的谅解备忘录，以此捍卫该协议，反驳国内的批评。",
@@ -407,18 +447,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时39分 ~ 14时18分]"
-        },
-        {
-          "title": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰",
-          "url": "https://flash.jin10.com/detail/20260823163159912800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时10分]"
         },
         {
           "title": "市场消息：俄罗斯国家原子能公司（Rosatom）正陆续安排工作人员返回伊朗布什尔核电站。",
@@ -490,6 +518,19 @@
           "time_info": "[05时10分 ~ 07时08分]"
         },
         {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://flash.jin10.com/detail/20260823161252842800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
           "title": "据以色列i24频道：阿联酋在阿布扎比的燃料储存罐周围建造了大型金属保护围栏，以保护关键能源设施免受潜在的伊朗无人机攻击。",
           "url": "https://flash.jin10.com/detail/20260822225835713800",
           "source": "金十数据",
@@ -501,6 +542,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 02时10分]"
+        },
+        {
+          "title": "伊朗：感谢中方主持公道正义",
+          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 19时10分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：世界对伊朗的“抵抗、团结和凝聚力”感到惊讶。",
@@ -525,18 +577,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 16时15分]"
-        },
-        {
-          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
-          "url": "https://flash.jin10.com/detail/20260823161252842800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时10分]"
         },
         {
           "title": "伊朗外交部发言人：此次访问是巴基斯坦为加强地区和平与安全所做努力的延续。",
@@ -586,21 +626,21 @@
           "time_info": "[06时07分 ~ 06时08分]"
         },
         {
-          "title": "伊朗：感谢中方主持公道正义",
-          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
-          "source": "凤凰网",
+          "title": "据沙特卫星电视台： 消息人士表示，已提出修改原定于9月30日的限制武器归国家的截止日期的提案。伊拉克的派系倾向于根据“伊朗的愿景”冻结使用武器两年。",
+          "url": "https://flash.jin10.com/detail/20260823182050517800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "19时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -626,8 +666,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 18时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 19时10分]"
+        },
+        {
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时10分]"
         },
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -641,22 +695,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时10分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 19时10分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -681,8 +721,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 18时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 19时10分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -693,11 +733,12 @@
             2,
             5,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 18时10分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 19时10分]"
         },
         {
           "title": "卡尼强硬回击：特朗普误判，加拿大已与美国“开战”",
@@ -721,6 +762,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 05时10分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823184420774800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
@@ -763,6 +815,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时16分 ~ 13时18分]"
+        },
+        {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 19时10分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了一张霍尔木兹海峡的地图，并配文称：“美国的新领土。”",
@@ -826,19 +892,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时10分 ~ 08时28分]"
-        },
-        {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 18时10分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -964,8 +1017,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 18时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 19时10分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -1084,8 +1137,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时10分 ~ 18时10分]"
+          "appearance_count": 14,
+          "time_info": "[05时10分 ~ 19时10分]"
         },
         {
           "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
@@ -1198,6 +1251,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "矿业大佬喊出金价5万美元",
+          "url": "https://www.toutiao.com/trending/7677127001466998308/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "金价反弹重要原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -1247,23 +1328,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时23分 ~ 18时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "矿业大佬喊出金价5万美元",
-          "url": "https://www.toutiao.com/trending/7677127001466998308/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
         }
       ]
     }
