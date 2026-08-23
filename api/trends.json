@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T15:23:29.207530+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-08-23T16:15:06.597594+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时07分 ~ 15时23分]"
+          "appearance_count": 14,
+          "time_info": "[06时07分 ~ 16时15分]"
         },
         {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
@@ -30,11 +30,12 @@
             9,
             11,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时08分 ~ 15时23分]"
+          "appearance_count": 10,
+          "time_info": "[06时08分 ~ 16时15分]"
         },
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
@@ -61,11 +62,12 @@
             21,
             23,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 16时15分]"
         },
         {
           "title": "伊朗称过去一年国防装备产量整体翻番",
@@ -163,26 +165,15 @@
           "time_info": "[12时25分 ~ 15时23分]"
         },
         {
-          "title": "伊朗基准股指升至610万点关口",
-          "url": "https://flash.jin10.com/detail/20260823143220140800",
-          "source": "金十数据",
+          "title": "伊朗总统说正全力克服美带来的困难",
+          "url": "https://wallstreetcn.com/livenews/3153439",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：伊朗所有当局都必须支持和执行德黑兰与华盛顿之间的谅解备忘录，以此捍卫该协议，反驳国内的批评。",
-          "url": "https://flash.jin10.com/detail/20260823141246557800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "16时15分"
         },
         {
           "title": "伊朗议长：必须制定计划应对制裁",
@@ -332,6 +323,30 @@
           "time_info": "[04时08分 ~ 06时08分]"
         },
         {
+          "title": "伊朗基准股指升至610万点关口",
+          "url": "https://flash.jin10.com/detail/20260823143220140800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时15分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗所有当局都必须支持和执行德黑兰与华盛顿之间的谅解备忘录，以此捍卫该协议，反驳国内的批评。",
+          "url": "https://flash.jin10.com/detail/20260823141246557800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时15分]"
+        },
+        {
           "title": "据华盛顿邮报：美国在伊朗战争中受伤或死亡的军人数量已上升至774人。",
           "url": "https://flash.jin10.com/detail/20260823101411612800",
           "source": "金十数据",
@@ -428,6 +443,30 @@
           "time_info": "[00时08分 ~ 02时10分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：世界对伊朗的“抵抗、团结和凝聚力”感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260823140122676800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时15分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：华盛顿在战前错误地预测伊朗会在美国侵略下沦陷，变得像委内瑞拉一样。",
+          "url": "https://flash.jin10.com/detail/20260823140108883800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时15分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
           "url": "https://flash.jin10.com/detail/20260822215454529800",
           "source": "金十数据",
@@ -451,32 +490,32 @@
           "time_info": "[06时07分 ~ 06时08分]"
         },
         {
-          "title": "伊朗总统佩泽希齐扬：世界对伊朗的“抵抗、团结和凝聚力”感到惊讶。",
-          "url": "https://flash.jin10.com/detail/20260823140122676800",
+          "title": "伊朗外交部发言人：此次访问是巴基斯坦为加强地区和平与安全所做努力的延续。",
+          "url": "https://flash.jin10.com/detail/20260823153126836800",
           "source": "金十数据",
           "ranks": [
-            7
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "16时15分"
         },
         {
-          "title": "伊朗总统佩泽希齐扬：华盛顿在战前错误地预测伊朗会在美国侵略下沦陷，变得像委内瑞拉一样。",
-          "url": "https://flash.jin10.com/detail/20260823140108883800",
+          "title": "伊朗外交部发言人：巴基斯坦军队首席将在周一访问德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260823152804569800",
           "source": "金十数据",
           "ranks": [
-            8
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -489,8 +528,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 16时15分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -502,8 +541,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 16时15分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -528,8 +567,36 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 16时15分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -538,11 +605,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时15分]"
         },
         {
           "title": "卡尼强硬回击：特朗普误判，加拿大已与美国“开战”",
@@ -554,32 +622,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时23分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -760,13 +802,24 @@
           "time_info": "[03时13分 ~ 04时08分]"
         },
         {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
           "title": "加拿大总理卡尼：特朗普“误判形势”，升级关税攻势，导致加拿大与美国在贸易问题上“处于战争状态”。",
           "url": "https://flash.jin10.com/detail/20260823135718143800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -788,7 +841,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
@@ -818,11 +871,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 16时15分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -954,8 +1008,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时16分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[10时16分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek再次调价",
@@ -966,11 +1020,12 @@
             20,
             22,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时28分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek再度调价",
@@ -1044,11 +1099,12 @@
           "url": "https://www.toutiao.com/trending/7676771650368441865/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时15分]"
         }
       ]
     },
@@ -1078,11 +1134,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 16时15分]"
         }
       ]
     },
@@ -1095,11 +1152,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时15分]"
         }
       ]
     }
