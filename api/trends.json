@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T10:14:46.392339+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-08-24T11:42:09.821849+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -133,6 +133,18 @@
           "time_info": "[02时10分 ~ 04时08分]"
         },
         {
+          "title": "美将公布对伊经济战具体内容，伊朗亮出反制牌",
+          "url": "https://news.ifeng.com/c/8vqFZfLdZIJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 11时42分]"
+        },
+        {
           "title": "伊朗议会推进霍尔木兹收费草案，最高安全官员：经济战若继续，一滴石油都别想出口",
           "url": "https://flash.jin10.com/detail/20260824065111503800",
           "source": "金十数据",
@@ -181,6 +193,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 08时27分]"
+        },
+        {
+          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
+          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 11时42分]"
+        },
+        {
+          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
+          "url": "https://wallstreetcn.com/articles/3780093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 11时42分]"
         },
         {
           "title": "伊朗议会批准向通过霍尔木兹海峡的船只收取服务费",
@@ -235,18 +269,6 @@
           "time_info": "[05时09分 ~ 07时09分]"
         },
         {
-          "title": "美将公布对伊经济战具体内容，伊朗亮出反制牌",
-          "url": "https://news.ifeng.com/c/8vqFZfLdZIJ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 10时14分]"
-        },
-        {
           "title": "伊朗“波斯湾海峡管理局”：违规船只或遭罚款扣押",
           "url": "https://flash.jin10.com/detail/20260824030549023800",
           "source": "金十数据",
@@ -257,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时09分]"
+        },
+        {
+          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
+          "url": "https://wallstreetcn.com/articles/3780102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
@@ -318,26 +351,26 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
-          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
-          "source": "凤凰网",
+          "title": "中国女排今晚对阵伊朗队",
+          "url": "https://www.toutiao.com/trending/7677206137121440283/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
-          "url": "https://wallstreetcn.com/articles/3780093",
-          "source": "华尔街见闻",
+          "title": "伊朗研究员：德黑兰视美国制裁与封锁为战争行为",
+          "url": "https://flash.jin10.com/detail/20260824112239023800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "11时42分"
         },
         {
           "title": "美欲打空前经济战 伊朗亮出“石油出口反制牌”",
@@ -379,7 +412,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -390,7 +423,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -452,8 +485,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 11时42分]"
         },
         {
           "title": "特朗普凌晨发飙，向加拿大“开炮”",
@@ -463,8 +496,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 10时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 11时42分]"
+        },
+        {
+          "title": "美加贸易谈判破裂，美媒：特朗普的霸凌正在失败",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 11时42分]"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
@@ -478,17 +522,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 06时08分]"
-        },
-        {
-          "title": "美加贸易谈判破裂，美媒：特朗普的霸凌正在失败",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 10时14分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -516,6 +549,17 @@
           "time_info": "[05时09分 ~ 06时08分]"
         },
         {
+          "title": "伊朗官员：特朗普“说太多”",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 11时42分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普将于9月12日、13日到访爱尔兰。",
           "url": "https://flash.jin10.com/detail/20260824045011251800",
           "source": "金十数据",
@@ -526,17 +570,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时08分]"
-        },
-        {
-          "title": "伊朗官员：特朗普“说太多”",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 10时14分]"
         },
         {
           "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
@@ -565,7 +598,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际金价连涨三周，反弹还是反转？",
@@ -575,11 +608,12 @@
             17,
             16,
             18,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 10时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 11时42分]"
         },
         {
           "title": "金价上涨 有人一次性买一斤多黄金",
@@ -594,13 +628,35 @@
           "time_info": "[08时27分 ~ 10时14分]"
         },
         {
+          "title": "金价4600美元后看什么？本周四条线即将交汇！",
+          "url": "https://flash.jin10.com/detail/20260824112204022800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "国内金价重回千元 多家银行积存金克价涨破1000元",
+          "url": "https://wallstreetcn.com/livenews/3153607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "荷兰国际：金价亚洲时段上涨 美国财政前景担忧提供支撑",
           "url": "https://flash.jin10.com/detail/20260824094946566800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -619,7 +675,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
@@ -632,6 +688,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 08时27分]"
+        },
+        {
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "美债风暴席卷全球",
@@ -652,9 +719,49 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic 的 ARR 不及预期，OpenAI 比 A 社还差，AI 热潮要阶段性见顶了吗？",
+          "url": "https://www.zhihu.com/question/2073353873687671056",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 11时42分]"
+        },
+        {
+          "title": "OpenAI修复消耗过快问题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BF%AE%E5%A4%8D%E6%B6%88%E8%80%97%E8%BF%87%E5%BF%AB%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "据Axios：知情人士证实，著名人工智能研究员、OpenAI前员工卢克·梅茨（Luke Metz）已加入Meta Platforms(META.O)的超级智能实验室。",
+          "url": "https://flash.jin10.com/detail/20260824111813896800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
@@ -689,19 +796,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic 的 ARR 不及预期，OpenAI 比 A 社还差，AI 热潮要阶段性见顶了吗？",
-          "url": "https://www.zhihu.com/question/2073353873687671056",
-          "source": "知乎",
+          "title": "中国AI大模型调用量连续十七周领跑：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一",
+          "url": "https://flash.jin10.com/detail/20260824105957795800",
+          "source": "金十数据",
           "ranks": [
-            20
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "11时42分"
         }
       ]
     }
