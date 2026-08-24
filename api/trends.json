@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T08:27:36.413131+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-08-24T10:14:46.392339+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -235,6 +235,18 @@
           "time_info": "[05时09分 ~ 07时09分]"
         },
         {
+          "title": "美将公布对伊经济战具体内容，伊朗亮出反制牌",
+          "url": "https://news.ifeng.com/c/8vqFZfLdZIJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 10时14分]"
+        },
+        {
           "title": "伊朗“波斯湾海峡管理局”：违规船只或遭罚款扣押",
           "url": "https://flash.jin10.com/detail/20260824030549023800",
           "source": "金十数据",
@@ -306,15 +318,26 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "美将公布对伊经济战具体内容，伊朗亮出反制牌",
-          "url": "https://news.ifeng.com/c/8vqFZfLdZIJ",
+          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
+          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时27分"
+          "time_info": "10时14分"
+        },
+        {
+          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
+          "url": "https://wallstreetcn.com/articles/3780093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美欲打空前经济战 伊朗亮出“石油出口反制牌”",
@@ -334,7 +357,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         },
@@ -345,9 +368,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
+        },
+        {
+          "title": "美国防部前高官：对伊制裁不会推翻伊朗政权 但将重创革命卫队",
+          "url": "https://flash.jin10.com/detail/20260824094441886800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "伊朗议员：一定程度的腐败是正常的",
+          "url": "https://www.toutiao.com/trending/7677196689026843162/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
@@ -365,8 +410,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 10时14分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -407,8 +452,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 08时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 10时14分]"
+        },
+        {
+          "title": "特朗普凌晨发飙，向加拿大“开炮”",
+          "url": "https://news.ifeng.com/c/8vqJG7PifU9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 10时14分]"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
@@ -424,6 +480,17 @@
           "time_info": "[00时10分 ~ 06时08分]"
         },
         {
+          "title": "美加贸易谈判破裂，美媒：特朗普的霸凌正在失败",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 10时14分]"
+        },
+        {
           "title": "特朗普最新调仓披露",
           "url": "https://www.douyin.com/hot/2620226",
           "source": "抖音",
@@ -435,28 +502,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时08分 ~ 07时09分]"
-        },
-        {
-          "title": "特朗普凌晨发飙，向加拿大“开炮”",
-          "url": "https://news.ifeng.com/c/8vqJG7PifU9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
-          "title": "美加贸易谈判破裂，美媒：特朗普的霸凌正在失败",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
         },
         {
           "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
@@ -483,6 +528,17 @@
           "time_info": "[05时09分 ~ 06时08分]"
         },
         {
+          "title": "伊朗官员：特朗普“说太多”",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 10时14分]"
+        },
+        {
           "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
           "url": "https://flash.jin10.com/detail/20260824054714681800",
           "source": "金十数据",
@@ -495,24 +551,13 @@
           "time_info": "[06时08分 ~ 07时09分]"
         },
         {
-          "title": "伊朗官员：特朗普“说太多”",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
           "title": "特朗普：反对数据中心的社区“正在犯错”",
           "url": "https://flash.jin10.com/detail/20260824071720458800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         }
@@ -520,7 +565,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价连涨三周，反弹还是反转？",
@@ -533,19 +578,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 10时14分]"
         },
         {
           "title": "金价上涨 有人一次性买一斤多黄金",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8+%E6%9C%89%E4%BA%BA%E4%B8%80%E6%AC%A1%E6%80%A7%E4%B9%B0%E4%B8%80%E6%96%A4%E5%A4%9A%E9%BB%84%E9%87%91",
           "source": "百度热搜",
           "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 10时14分]"
+        },
+        {
+          "title": "荷兰国际：金价亚洲时段上涨 美国财政前景担忧提供支撑",
+          "url": "https://flash.jin10.com/detail/20260824094946566800",
+          "source": "金十数据",
+          "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时27分"
+          "time_info": "10时14分"
         },
         {
           "title": "德黑兰市场黄金价格创纪录",
@@ -562,7 +619,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
@@ -581,11 +638,23 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%80%BA%E9%A3%8E%E6%9A%B4%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 10时14分]"
+        },
+        {
+          "title": "美联储不救美债？卡什卡利直言：没看到市场失灵，可以继续关注通胀",
+          "url": "https://flash.jin10.com/detail/20260824094607368800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时27分"
+          "time_info": "10时14分"
         }
       ]
     },
@@ -616,6 +685,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时09分 ~ 07时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic 的 ARR 不及预期，OpenAI 比 A 社还差，AI 热潮要阶段性见顶了吗？",
+          "url": "https://www.zhihu.com/question/2073353873687671056",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
