@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T21:45:20.922799+08:00",
-  "total_titles_processed": 2090,
+  "generated_at": "2026-08-26T22:32:21.690618+08:00",
+  "total_titles_processed": 2201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "“经济诺曼底”？美国制裁伊朗拿错了剧本",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时16分 ~ 21时45分]"
+          "appearance_count": 16,
+          "time_info": "[10时16分 ~ 22时32分]"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -211,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "伊朗与俄罗斯天然气公司Gazprom讨论天然气行业的合作。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3155404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "有报道称美方计划对不参与制裁伊朗的国家采取反制措施，中方回应",
@@ -492,6 +503,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子",
+          "url": "https://news.ifeng.com/c/8vuYrEyiE2x",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "伊朗称对霍尔木兹海峡拥有完全主权",
           "url": "https://flash.jin10.com/detail/20260825234802594800",
           "source": "金十数据",
@@ -575,7 +597,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -600,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗与俄罗斯天然气公司（Gazprom）探讨天然气行业合作。",
+          "url": "https://flash.jin10.com/detail/20260826221053429800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "伊朗外交部长：伊朗致力于维护地区和平与稳定，并以与邻国开展坚定外交行动与之相呼应。 新浪财经 在同巴基斯坦与阿曼来宾的会谈中，各方着重强调采取地区层面的解决方案。 拟议的新通道框架、联合排雷行动以及霍尔木兹海峡未来管理模式，就是典型例证。",
@@ -795,7 +828,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1051,12 +1084,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "伊朗称若美国不接受相关条件 霍尔木兹海峡不会开放",
+          "url": "https://wallstreetcn.com/livenews/3155378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "民调：特朗普的支持率为33%，达历史最低",
@@ -1091,8 +1135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时42分 ~ 21时45分]"
+          "appearance_count": 15,
+          "time_info": "[11时42分 ~ 22时32分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -1181,7 +1225,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1203,7 +1247,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1225,7 +1269,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1236,7 +1280,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1258,7 +1302,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1389,7 +1433,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1400,7 +1444,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1422,7 +1466,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1444,7 +1488,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1455,7 +1499,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1466,7 +1510,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1488,7 +1532,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1521,7 +1565,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1532,7 +1576,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1554,7 +1598,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1576,7 +1620,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1598,7 +1642,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1631,7 +1675,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1653,7 +1697,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1675,9 +1719,53 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "据CBS新闻：特朗普尚未确定白宫新闻秘书卡罗琳·莱维特的接替人选。莱维特的最后工作日为本周五。",
+          "url": "https://flash.jin10.com/detail/20260826214949640800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "特朗普想掌控美联储，至多还有四张牌！",
+          "url": "https://flash.jin10.com/detail/20260826214839239800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "特朗普谈加拿大：他们没有任何我们必须要拥有的东西。 没有加拿大，“我们也能过得去”。",
+          "url": "https://wallstreetcn.com/livenews/3155381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美国总统特朗普：牛肉价格开始下降。",
+          "url": "https://wallstreetcn.com/livenews/3155379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "加拿大针对特朗普政府宣布报复性关税，对价值大约200亿美元的美国产品实施“15%-50%”的关税。 将美国钢铁产品关税翻倍至50%。 针对遭受特朗普关税影响的企业和人员实施价值75亿加元的（救助）计划。 最新政策9月8日生效。 美元兑加元目前跌0.06%，暂报1.3834。",
@@ -1702,6 +1790,17 @@
           "time_info": "20时23分"
         },
         {
+          "title": "美国总统特朗普：霍尔木兹海峡运转正常。 大量石油从霍尔木兹海峡流出。 昨天有1000万桶石油从霍尔木兹海峡运出。 价格正在下降。",
+          "url": "https://wallstreetcn.com/livenews/3155377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”",
           "url": "https://wallstreetcn.com/livenews/3154745",
           "source": "华尔街见闻-快讯",
@@ -1716,7 +1815,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
@@ -1908,6 +2007,17 @@
           "time_info": "20时23分"
         },
         {
+          "title": "专家：美债失控结局已无法逆转",
+          "url": "https://www.toutiao.com/trending/7678295676790246975/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：美债最终将缩面临清算。 如果债务于某个时间节点膨胀，投资者将停止购买。",
           "url": "https://wallstreetcn.com/livenews/3154869",
           "source": "华尔街见闻-快讯",
@@ -1944,7 +2054,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
@@ -1955,8 +2065,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时27分 ~ 21时45分]"
+          "appearance_count": 18,
+          "time_info": "[08时27分 ~ 22时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
@@ -1971,6 +2081,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[06时12分 ~ 14时24分]"
+        },
+        {
+          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
+          "url": "https://www.cls.cn/detail/2465311",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时32分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨2%",
@@ -1994,17 +2116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时12分 ~ 07时14分]"
-        },
-        {
-          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
-          "url": "https://www.cls.cn/detail/2465311",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "周二（8月25日），美股存储芯片与硬件供应链指数涨1.56%，报195.40点。",
@@ -2072,7 +2183,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -2110,6 +2221,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美股三大指数集体低开 Meta涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "理想汽车第二季度营收257亿元人民币，同比下降15%，预估249.6亿元人民币。 第二季度毛利率11％，上年同期20.1％，预估11.3％。 第二季度交付量98330辆，同比下降11%，预估98212辆。 第二季度归属股东的调整后净亏损15.0亿元人民币，上年同期收益14.6亿元人民币，预估亏损11.5亿元人民币。 预计第三季度营收266亿元人民币至280亿元人民币，预估322.6亿元人民币。 理想汽车美股盘前跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3155133",
           "source": "华尔街见闻-快讯",
@@ -2121,13 +2243,24 @@
           "time_info": "17时29分"
         },
         {
+          "title": "美股三大股指小幅低开，道指跌0.19%，标普500指数跌0.02%，纳指跌0.22%。Meta涨超3%，公司与美国多个州同意就青少年社交媒体危害案达成和解。柯尔百货跌超5%，此前公司公布二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3155384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国经济数据公布后，美股股指期货走低，纳指期货日内跌0.35%，标普500指数期货跌0.09%。美元指数短线上扬近10点，报99.03。",
           "url": "https://wallstreetcn.com/livenews/3155343",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -2160,8 +2293,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时42分 ~ 21时45分]"
+          "appearance_count": 15,
+          "time_info": "[11时42分 ~ 22时32分]"
         },
         {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
@@ -2317,137 +2450,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 7,
       "titles": [
         {
-          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
-          "url": "https://www.cls.cn/detail/2464189",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时27分 ~ 15时35分]"
-        },
-        {
-          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
-          "url": "https://www.cls.cn/detail/2463609",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时12分]"
-        },
-        {
-          "title": "金十图示：2026年08月26日（周三）上海金早盘价为1005.43元/克，较国际金价（约为1004.14元/克），高1.29元/克。",
-          "url": "https://flash.jin10.com/detail/20260826111745290800",
+          "title": "美元指数DXY涨0.3%，已抹去回购计划引发跌幅的一半。",
+          "url": "https://flash.jin10.com/detail/20260826222757586800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "【VIP日报】贵金属板块大涨 栏目解读金价上涨逻辑 提及2家公司涨停",
-          "url": "https://www.cls.cn/detail/2464939",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时45分]"
-        },
-        {
-          "title": "黄金价格持续上涨",
-          "url": "https://www.douyin.com/hot/2624622",
-          "source": "抖音",
-          "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时45分"
+          "time_info": "22时32分"
         },
         {
-          "title": "金十图示：2026年08月26日（周三）上海金午盘价为1000.12元/克，较国际金价（约为1001.78元/克），低1.66元/克。",
-          "url": "https://flash.jin10.com/detail/20260826150218429800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
-          "url": "https://wallstreetcn.com/articles/3780194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 08时28分]"
-        },
-        {
-          "title": "DeepSeek启动IPO筹备",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%90%AF%E5%8A%A8IPO%E7%AD%B9%E5%A4%87&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时21分]"
-        },
-        {
-          "title": "“牛来”！智谱“认领”神秘AI模型Ox Alpha 使用量已达DeepSeek两倍以上",
-          "url": "https://wallstreetcn.com/livenews/3155234",
+          "title": "彭博美元指数涨0.2%，刷新一周高位。",
+          "url": "https://wallstreetcn.com/livenews/3155402",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "22时32分"
         },
-        {
-          "title": "网络热门AI鉴定之DeepSeek",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E9%89%B4%E5%AE%9A%E4%B9%8BDeepSeek",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
         {
           "title": "Figure AI推出指数与机器人训练数据集。 承诺未来12个月投资超过10亿美元，用于数据与算力。 4.4万的周活跃用户数对数据做出贡献。",
           "url": "https://wallstreetcn.com/livenews/3154804",
@@ -2494,12 +2521,175 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度跌超1%，报99.79美元，逼近8月6日盘中最低位99.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3155392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
+          "url": "https://wallstreetcn.com/articles/3780194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 08时28分]"
+        },
+        {
+          "title": "DeepSeek启动IPO筹备",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%90%AF%E5%8A%A8IPO%E7%AD%B9%E5%A4%87&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时21分]"
+        },
+        {
+          "title": "“牛来”！智谱“认领”神秘AI模型Ox Alpha 使用量已达DeepSeek两倍以上",
+          "url": "https://wallstreetcn.com/livenews/3155234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "钟睒睒投了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%95%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2070165569941287944",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "网络热门AI鉴定之DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E9%89%B4%E5%AE%9A%E4%B9%8BDeepSeek",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
+          "url": "https://www.cls.cn/detail/2464189",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时27分 ~ 15时35分]"
+        },
+        {
+          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
+          "url": "https://www.cls.cn/detail/2463609",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 06时12分]"
+        },
+        {
+          "title": "金十图示：2026年08月26日（周三）上海金早盘价为1005.43元/克，较国际金价（约为1004.14元/克），高1.29元/克。",
+          "url": "https://flash.jin10.com/detail/20260826111745290800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "【VIP日报】贵金属板块大涨 栏目解读金价上涨逻辑 提及2家公司涨停",
+          "url": "https://www.cls.cn/detail/2464939",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 22时32分]"
+        },
+        {
+          "title": "黄金价格持续上涨",
+          "url": "https://www.douyin.com/hot/2624622",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时32分]"
+        },
+        {
+          "title": "金十图示：2026年08月26日（周三）上海金午盘价为1000.12元/克，较国际金价（约为1001.78元/克），低1.66元/克。",
+          "url": "https://flash.jin10.com/detail/20260826150218429800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "前谷歌研究人员拟打造AI“裁判”系统，防范模型失控风险",
@@ -2511,6 +2701,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "AI太贵用不起？谷歌开始帮企业“精打细算”",
+          "url": "https://flash.jin10.com/detail/20260826215338992800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "据Axios：谷歌推出一系列新工具，旨在应对人工智能的价格战。",
+          "url": "https://flash.jin10.com/detail/20260826214624570800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     }
