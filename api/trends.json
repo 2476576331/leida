@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T13:21:12.564526+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-08-26T14:24:04.665559+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "“经济诺曼底”？美国制裁伊朗拿错了剧本",
@@ -31,6 +31,18 @@
           "time_info": "[00时22分 ~ 07时14分]"
         },
         {
+          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
+          "url": "https://wallstreetcn.com/articles/3780290",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 14时24分]"
+        },
+        {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
           "url": "https://m.thepaper.cn/newsDetail_forward_33843711",
           "source": "澎湃新闻",
@@ -54,16 +66,17 @@
           "time_info": "[00时22分 ~ 08时28分]"
         },
         {
-          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
-          "url": "https://wallstreetcn.com/articles/3780290",
-          "source": "华尔街见闻",
+          "title": "美伊停火谈判重大进展！伊朗拟设“霍尔木兹临时通航走廊” 国际油价大幅下挫",
+          "url": "https://www.cls.cn/detail/2464238",
+          "source": "财联社热门",
           "ranks": [
+            9,
             5,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时16分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 14时24分]"
         },
         {
           "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
@@ -125,17 +138,17 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "美伊停火谈判重大进展！伊朗拟设“霍尔木兹临时通航走廊” 国际油价大幅下挫",
-          "url": "https://www.cls.cn/detail/2464238",
-          "source": "财联社热门",
+          "title": "伊朗宣布发现大型天然气田，有望创造数百亿美元收益，这会对美伊博弈、中东能源格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2075179937275831775",
+          "source": "知乎",
           "ranks": [
-            9,
-            5,
-            8
+            15,
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时16分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时24分]"
         },
         {
           "title": "消息人士：部分油企将避开使用伊朗列入“黑名单”的船舶",
@@ -144,7 +157,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -234,18 +247,6 @@
           "time_info": "[08时27分 ~ 11时42分]"
         },
         {
-          "title": "伊朗宣布发现大型天然气田，有望创造数百亿美元收益，这会对美伊博弈、中东能源格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2075179937275831775",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时21分]"
-        },
-        {
           "title": "中方：同伊朗合作不应受到干扰破坏",
           "url": "https://www.toutiao.com/trending/7677060472058875428/",
           "source": "今日头条",
@@ -257,6 +258,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 03时22分]"
+        },
+        {
+          "title": "有报道称美方计划对不参与制裁伊朗的国家采取反制措施，中方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33846180",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 14时24分]"
         },
         {
           "title": "伊朗与阿曼拟建立霍尔木兹临时航道，俄媒获悉美伊将重启谈判",
@@ -439,17 +452,6 @@
           "time_info": "[12时28分 ~ 13时21分]"
         },
         {
-          "title": "有报道称美方计划对不参与制裁伊朗的国家采取反制措施，中方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33846180",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
           "title": "据俄新社：伊朗和巴基斯坦消息人士表示，德黑兰与华盛顿已就停火达成一致，其中包括霍尔木兹海峡的航行自由。预计未来几天将宣布正式停火。之后将举行谈判和一系列技术会议。",
           "url": "https://flash.jin10.com/detail/20260826033239322800",
           "source": "金十数据",
@@ -580,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：德黑兰证券交易所综合指数上涨154,000点，突破637.8万点。全市场95%的个股上涨，超80%的个股涨幅在2%至3%区间。",
+          "url": "https://flash.jin10.com/detail/20260826140228078800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格奇与卡塔尔国首相兼外交大臣阿勒萨尼于当地时间周二下午举行电话会谈。双方在通话中回顾了最新地区局势，并强调应充分运用外交手段、持续加强协调，以防止地区紧张局势升级。",
@@ -849,7 +862,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -872,8 +885,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 14时24分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -912,6 +925,29 @@
           "time_info": "[01时20分 ~ 12时28分]"
         },
         {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时24分]"
+        },
+        {
+          "title": "加拿大正式反制，能把特朗普逼回谈判桌吗？",
+          "url": "https://news.ifeng.com/c/8vtumOaZQ1V",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 14时24分]"
+        },
+        {
           "title": "英国首相欲游说特朗普援乌，俄方回应",
           "url": "https://news.ifeng.com/c/8vtYfquIIHs",
           "source": "凤凰网",
@@ -923,29 +959,6 @@
           "time_info": "[10时16分 ~ 12时28分]"
         },
         {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时21分]"
-        },
-        {
-          "title": "加拿大正式反制，能把特朗普逼回谈判桌吗？",
-          "url": "https://news.ifeng.com/c/8vtumOaZQ1V",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
           "title": "美国财长贝森特：感谢巴林财政与经济大臣在“经济孤立”行动中的协调。我们将与特朗普总统先生一道，继续密切合作，捍卫全球金融体系的完整性，并削弱伊朗政权的威胁。",
           "url": "https://flash.jin10.com/detail/20260826111812394800",
           "source": "金十数据",
@@ -955,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普向国会提交沙特核协议，美企将锁定30年优势？",
+          "url": "https://flash.jin10.com/detail/20260826141220778800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "美特勤局回应伊悬赏特朗普小儿子",
@@ -1120,6 +1144,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "关税加停火，特朗普交易卷土重来？",
+          "url": "https://flash.jin10.com/detail/20260826140035241800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "美国总统特朗普：美国将要在中东及海湾地区大赚一笔。",
           "url": "https://flash.jin10.com/detail/20260826002351008800",
           "source": "金十数据",
@@ -1224,8 +1259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 13时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 14时24分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -1251,8 +1286,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时15分 ~ 13时21分]"
+          "appearance_count": 13,
+          "time_info": "[05时15分 ~ 14时24分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -1266,6 +1301,21 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时22分 ~ 10时16分]"
+        },
+        {
+          "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
+          "url": "https://www.zhihu.com/question/2075499047142667659",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 14时24分]"
         },
         {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -1292,19 +1342,17 @@
           "time_info": "[00时22分 ~ 05时15分]"
         },
         {
-          "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
-          "url": "https://www.zhihu.com/question/2075499047142667659",
-          "source": "知乎",
+          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
+          "url": "https://www.cls.cn/detail/2464237",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            10,
             9,
-            6
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时24分]"
         },
         {
           "title": "美联储巴尔金：如果债务继续增加，投资者迟早会在某个时点停止购买（美债）。",
@@ -1330,17 +1378,15 @@
           "time_info": "[07时13分 ~ 08时28分]"
         },
         {
-          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
-          "url": "https://www.cls.cn/detail/2464237",
+          "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
+          "url": "https://www.cls.cn/detail/2464353",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时21分]"
+          "time_info": "[13时20分 ~ 14时24分]"
         },
         {
           "title": "美债收益率、国际油价下跌",
@@ -1353,17 +1399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时21分]"
-        },
-        {
-          "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
-          "url": "https://www.cls.cn/detail/2464353",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "两位美联储官员发声：一人警告美债“清算时刻”，一人提出或需尽快加息",
@@ -1401,9 +1436,187 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
+          "url": "https://wallstreetcn.com/articles/3780238",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 14时24分]"
+        },
+        {
+          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
+          "url": "https://wallstreetcn.com/articles/3780301",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时24分]"
+        },
+        {
+          "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
+          "url": "https://flash.jin10.com/detail/20260826035633665800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。 测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。 该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。 Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
+          "url": "https://wallstreetcn.com/livenews/3154810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时22分]"
+        },
+        {
+          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
+          "url": "https://wallstreetcn.com/articles/3780270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 14时24分]"
+        },
+        {
+          "title": "OpenAI数据中心主管Chris Malone已经离职。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3154839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时15分]"
+        },
+        {
+          "title": "软银据悉拟发债至多200亿美元 为OpenAI投资贷款再融资",
+          "url": "https://flash.jin10.com/detail/20260826131112088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
+          "url": "https://flash.jin10.com/detail/20260826032846220800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "市场消息：软银集团正与投资银行讨论一笔100亿至200亿美元的潜在债券发行，以帮助为其对OpenAI的投资进行再融资。",
+          "url": "https://flash.jin10.com/detail/20260826130805774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
+          "url": "https://flash.jin10.com/detail/20260826031849050800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "SemiAnalysis：OpenAI最快第三季度实现盈利",
+          "url": "https://flash.jin10.com/detail/20260826110449668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "报道：软银考虑发行不超过200亿美元债券为OpenAI融资",
+          "url": "https://wallstreetcn.com/livenews/3155045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "OpenAI：推出适用于ChatGPT Work和Codex的管理员插件（Admin Plugin）。",
+          "url": "https://flash.jin10.com/detail/20260826014436454800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：好产品需要时间。至少34天。",
+          "url": "https://flash.jin10.com/detail/20260826134224963800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 14时24分]"
+        },
         {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
           "url": "https://www.cls.cn/detail/2464164",
@@ -1415,19 +1628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时12分 ~ 13时21分]"
-        },
-        {
-          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 13时21分]"
+          "appearance_count": 12,
+          "time_info": "[06时12分 ~ 14时24分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨2%",
@@ -1558,150 +1760,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
-          "url": "https://wallstreetcn.com/articles/3780238",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 13时21分]"
-        },
-        {
-          "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
-          "url": "https://flash.jin10.com/detail/20260826035633665800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
-          "url": "https://wallstreetcn.com/articles/3780301",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时21分]"
-        },
-        {
-          "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。 测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。 该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。 Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
-          "url": "https://wallstreetcn.com/livenews/3154810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时22分]"
-        },
-        {
-          "title": "OpenAI数据中心主管Chris Malone已经离职。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3154839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时15分]"
-        },
-        {
-          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
-          "url": "https://wallstreetcn.com/articles/3780270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
-          "title": "软银据悉拟发债至多200亿美元 为OpenAI投资贷款再融资",
-          "url": "https://flash.jin10.com/detail/20260826131112088800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
-          "url": "https://flash.jin10.com/detail/20260826032846220800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "市场消息：软银集团正与投资银行讨论一笔100亿至200亿美元的潜在债券发行，以帮助为其对OpenAI的投资进行再融资。",
-          "url": "https://flash.jin10.com/detail/20260826130805774800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
-          "url": "https://flash.jin10.com/detail/20260826031849050800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "SemiAnalysis：OpenAI最快第三季度实现盈利",
-          "url": "https://flash.jin10.com/detail/20260826110449668800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "OpenAI：推出适用于ChatGPT Work和Codex的管理员插件（Admin Plugin）。",
-          "url": "https://flash.jin10.com/detail/20260826014436454800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1809,8 +1867,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 14时24分]"
         },
         {
           "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
