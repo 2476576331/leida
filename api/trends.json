@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T20:23:17.418158+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-08-26T21:45:20.922799+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "“经济诺曼底”？美国制裁伊朗拿错了剧本",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时16分 ~ 20时23分]"
+          "appearance_count": 15,
+          "time_info": "[10时16分 ~ 21时45分]"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -207,7 +208,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -568,6 +569,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "伊朗高级消息人士表示，与阿曼关于霍尔木兹海峡的协议尚未最终敲定。 伊朗和阿曼仍在就霍尔木兹海峡协议的细节进行磋商。",
+          "url": "https://wallstreetcn.com/livenews/3155363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "消息人士：欧洲央行决策者准备在九月加息，以遏制伊朗战争的副作用，但欧洲央行决策者似乎不太愿意释放进一步收紧货币政策的信号。",
           "url": "https://flash.jin10.com/detail/20260826032034907800",
           "source": "金十数据",
@@ -739,7 +751,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -750,7 +762,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -775,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子",
+          "url": "https://wallstreetcn.com/livenews/3155354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "伊朗外长阿拉格奇：伊朗致力于维护和平与稳定，这与其对邻国的坚定外交政策相符。",
@@ -860,7 +883,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -904,7 +927,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -926,7 +949,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -937,7 +960,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -981,7 +1004,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -992,7 +1015,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1025,7 +1048,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -1033,7 +1056,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 58,
       "titles": [
         {
           "title": "民调：特朗普的支持率为33%，达历史最低",
@@ -1068,8 +1091,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时42分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时42分 ~ 21时45分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -1152,6 +1175,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "特朗普重申美国对霍尔木兹海峡的封锁正在奏效。",
+          "url": "https://wallstreetcn.com/livenews/3155375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "特朗普向国会提交沙特核协议，美企将锁定30年优势？",
           "url": "https://flash.jin10.com/detail/20260826141220778800",
           "source": "金十数据",
@@ -1161,6 +1195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美国总统特朗普：是时候教训加拿大了，你们不能再这样做了。",
+          "url": "https://flash.jin10.com/detail/20260826212857168800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-26）",
@@ -1174,6 +1219,28 @@
           "time_info": "18时22分"
         },
         {
+          "title": "据半岛电视台援引特朗普的话表示，美国与伊朗的对抗不受任何时间表限制，将持续下去，无论需要多长时间。",
+          "url": "https://flash.jin10.com/detail/20260826212714816800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们不能允许伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260826212704440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美特勤局回应伊悬赏特朗普小儿子",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E7%89%B9%E5%8B%A4%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%82%AC%E8%B5%8F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%84%BF%E5%AD%90",
           "source": "bilibili 热搜",
@@ -1183,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "美国总统特朗普：美国与伊朗的对抗没有任何时间表，无论需要多长时间，都将持续下去。",
+          "url": "https://flash.jin10.com/detail/20260826212649430800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国政府官员：总统特朗普将沙特核协议递交给国会山（审阅）。（华尔街日报）",
@@ -1293,6 +1371,40 @@
           "time_info": "[06时12分 ~ 07时14分]"
         },
         {
+          "title": "美上将为何抗议特朗普拆电磁弹射",
+          "url": "https://www.toutiao.com/trending/7678275949082709530/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时45分]"
+        },
+        {
+          "title": "美国总统特朗普：我们已经对伊朗确立了绝对且真正的主导地位。",
+          "url": "https://flash.jin10.com/detail/20260826212623083800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在委内瑞拉取得胜利，很快也将在伊朗取得一场重大胜利。",
+          "url": "https://flash.jin10.com/detail/20260826212545041800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "据Axios：两名美国官员证实，特朗普此前宣布霍尔木兹海峡的水雷已全部清除的消息属实。美国海军已清理霍尔木兹海峡中央航道，也就是连接伊朗和阿曼之间、供商船通行的主要航线。",
           "url": "https://flash.jin10.com/detail/20260826005419332800",
           "source": "金十数据",
@@ -1302,6 +1414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的通货膨胀率达到了300%。",
+          "url": "https://flash.jin10.com/detail/20260826212539442800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "特朗普已向国会提交沙特核协议 仍坚持沙特须与以色列关系正常化",
@@ -1315,6 +1438,39 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美国总统特朗普：伊朗货币现在几乎没有价值了。",
+          "url": "https://flash.jin10.com/detail/20260826212519912800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们的财政实力巨大，这些因素将导致对伊朗的重大胜利。许多伊朗士兵没有领取工资。",
+          "url": "https://flash.jin10.com/detail/20260826212450232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗：我们正在监视封锁区域的动向。",
+          "url": "https://flash.jin10.com/detail/20260826212319267800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
           "url": "https://flash.jin10.com/detail/20260826015907972800",
           "source": "金十数据",
@@ -1324,6 +1480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国总统特朗普：牛肉价格开始下跌。",
+          "url": "https://flash.jin10.com/detail/20260826212242036800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国官员：美国总统特朗普仍认为，只有沙特阿拉伯加入《亚伯拉罕协议》并承认以色列，与沙特的核协议才能推进。",
@@ -1348,6 +1515,28 @@
           "time_info": "14时24分"
         },
         {
+          "title": "美国总统特朗普：我们的军队表现令人惊叹。",
+          "url": "https://flash.jin10.com/detail/20260826212130763800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美国总统特朗普：价格正在下降。",
+          "url": "https://flash.jin10.com/detail/20260826212104011800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国总统特朗普：美国将要在中东及海湾地区大赚一笔。",
           "url": "https://flash.jin10.com/detail/20260826002351008800",
           "source": "金十数据",
@@ -1357,6 +1546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：昨天有1000万桶石油离开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260826212025401800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层已承认经济压力正在奏效，特朗普政府将继续切断支撑伊朗政权的经济命脉，直至德黑兰陷入孤立。",
@@ -1370,15 +1570,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美上将为何抗议特朗普拆电磁弹射",
-          "url": "https://www.toutiao.com/trending/7678275949082709530/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：伊朗人并不是最值得信赖的谈判对象，不适合与他们达成协议。",
+          "url": "https://flash.jin10.com/detail/20260826212000723800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "21时45分"
         },
         {
           "title": "一位白宫官员透露，在加拿大采取报复性措施之后，特朗普政府正在讨论对加拿大实施额外的贸易制裁。",
@@ -1390,6 +1590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡正常运作，大量石油正在流出。",
+          "url": "https://flash.jin10.com/detail/20260826211948507800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "加拿大宣布200亿对美关税报复措施，特朗普放话将安大略湖改名“美国湖”",
@@ -1414,6 +1625,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "美国总统特朗普暗示昨晚有22艘船只通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260826211708516800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国总统特朗普周三日程一览",
           "url": "https://flash.jin10.com/detail/20260826100012355800",
           "source": "金十数据",
@@ -1425,6 +1647,17 @@
           "time_info": "10时16分"
         },
         {
+          "title": "美国总统特朗普：关于美国中央情报局局长访俄，可能会有新消息。",
+          "url": "https://flash.jin10.com/detail/20260826211605028800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "战场之外的暗杀战：内塔尼亚胡儿子、特朗普儿子接连遭伊朗点名",
           "url": "https://flash.jin10.com/detail/20260826160530236800",
           "source": "金十数据",
@@ -1434,6 +1667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "美国总统特朗普重申美国对霍尔木兹海峡的封锁仍在生效。",
+          "url": "https://flash.jin10.com/detail/20260826211453378800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "加拿大针对特朗普政府宣布报复性关税，对价值大约200亿美元的美国产品实施“15%-50%”的关税。 将美国钢铁产品关税翻倍至50%。 针对遭受特朗普关税影响的企业和人员实施价值75亿加元的（救助）计划。 最新政策9月8日生效。 美元兑加元目前跌0.06%，暂报1.3834。",
@@ -1453,7 +1697,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1659,7 +1903,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1699,6 +1943,208 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[08时27分 ~ 21时45分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
+          "url": "https://www.cls.cn/detail/2464164",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[06时12分 ~ 14时24分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英伟达涨2%",
+          "url": "https://flash.jin10.com/detail/20260826040308455800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
+          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
+          "url": "https://www.cls.cn/detail/2465311",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "周二（8月25日），美股存储芯片与硬件供应链指数涨1.56%，报195.40点。",
+          "url": "https://wallstreetcn.com/livenews/3154862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时12分]"
+        },
+        {
+          "title": "美股收盘：英伟达涨2.19%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A82.19%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 08时28分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3154858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时12分]"
+        },
+        {
+          "title": "周二（8月25日），美股行业ETF涨跌各异，生物科技指数ETF收涨1.82%，半导体ETF涨1.65%，全球航空业ETF、科技行业ETF、网络股指数ETF等至多涨1.42%，能源业ETF跌1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3154856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时12分]"
+        },
+        {
+          "title": "美股芯片股多数上扬",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时22分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3155370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美股三大指数全线拉升",
+          "url": "https://www.douyin.com/hot/2623965",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "金十图示：2026年08月25日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260826003149107800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "金十图示：2026年08月25日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260826003108560800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "理想汽车第二季度营收257亿元人民币，同比下降15%，预估249.6亿元人民币。 第二季度毛利率11％，上年同期20.1％，预估11.3％。 第二季度交付量98330辆，同比下降11%，预估98212辆。 第二季度归属股东的调整后净亏损15.0亿元人民币，上年同期收益14.6亿元人民币，预估亏损11.5亿元人民币。 预计第三季度营收266亿元人民币至280亿元人民币，预估322.6亿元人民币。 理想汽车美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3155133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "美国经济数据公布后，美股股指期货走低，纳指期货日内跌0.35%，标普500指数期货跌0.09%。美元指数短线上扬近10点，报99.03。",
+          "url": "https://wallstreetcn.com/livenews/3155343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美股内部出现危险信号！摩根大通建议“降仓但别恐慌”",
+          "url": "https://flash.jin10.com/detail/20260825232621456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 14,
       "titles": [
@@ -1714,8 +2160,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时42分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时42分 ~ 21时45分]"
         },
         {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
@@ -1871,176 +2317,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时27分 ~ 20时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
-          "url": "https://www.cls.cn/detail/2464164",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时12分 ~ 14时24分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 英伟达涨2%",
-          "url": "https://flash.jin10.com/detail/20260826040308455800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 07时14分]"
-        },
-        {
-          "title": "周二（8月25日），美股存储芯片与硬件供应链指数涨1.56%，报195.40点。",
-          "url": "https://wallstreetcn.com/livenews/3154862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：英伟达涨2.19%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A82.19%25",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3154858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时12分]"
-        },
-        {
-          "title": "周二（8月25日），美股行业ETF涨跌各异，生物科技指数ETF收涨1.82%，半导体ETF涨1.65%，全球航空业ETF、科技行业ETF、网络股指数ETF等至多涨1.42%，能源业ETF跌1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3154856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时12分]"
-        },
-        {
-          "title": "美股芯片股多数上扬",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时22分]"
-        },
-        {
-          "title": "美股三大指数全线拉升",
-          "url": "https://www.douyin.com/hot/2623965",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "金十图示：2026年08月25日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260826003149107800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "金十图示：2026年08月25日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260826003108560800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "理想汽车第二季度营收257亿元人民币，同比下降15%，预估249.6亿元人民币。 第二季度毛利率11％，上年同期20.1％，预估11.3％。 第二季度交付量98330辆，同比下降11%，预估98212辆。 第二季度归属股东的调整后净亏损15.0亿元人民币，上年同期收益14.6亿元人民币，预估亏损11.5亿元人民币。 预计第三季度营收266亿元人民币至280亿元人民币，预估322.6亿元人民币。 理想汽车美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3155133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "美股内部出现危险信号！摩根大通建议“降仓但别恐慌”",
-          "url": "https://flash.jin10.com/detail/20260825232621456800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
@@ -2086,8 +2364,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时45分]"
+        },
+        {
+          "title": "黄金价格持续上涨",
+          "url": "https://www.douyin.com/hot/2624622",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "金十图示：2026年08月26日（周三）上海金午盘价为1000.12元/克，较国际金价（约为1001.78元/克），低1.66元/克。",
