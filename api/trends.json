@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T17:29:27.600394+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-08-26T18:22:24.792791+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "“经济诺曼底”？美国制裁伊朗拿错了剧本",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时16分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时16分 ~ 18时22分]"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -79,11 +79,12 @@
             16,
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 18时22分]"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统佩泽希齐扬和俄罗斯总统普京计划下周会晤。",
+          "url": "https://flash.jin10.com/detail/20260826181719937800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "消息人士：部分油企将避开使用伊朗列入“黑名单”的船舶",
@@ -831,6 +843,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国封锁逼得伊朗油轮四处漂泊，斯里兰卡海域成“临时避难所”",
+          "url": "https://flash.jin10.com/detail/20260826175611245800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "布油期货下跌2美元至每桶86.58美元，此前伊朗与阿曼磋商霍尔木兹海峡临时航道。",
           "url": "https://wallstreetcn.com/livenews/3154933",
           "source": "华尔街见闻-快讯",
@@ -892,7 +915,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -900,7 +923,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "民调：特朗普的支持率为33%，达历史最低",
@@ -911,8 +934,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时27分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[08时27分 ~ 18时22分]"
         },
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -935,8 +958,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 18时22分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -975,6 +998,17 @@
           "time_info": "[01时20分 ~ 12时28分]"
         },
         {
+          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
+          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时22分]"
+        },
+        {
           "title": "加拿大正式反制，能把特朗普逼回谈判桌吗？",
           "url": "https://news.ifeng.com/c/8vtumOaZQ1V",
           "source": "凤凰网",
@@ -984,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 14时24分]"
-        },
-        {
-          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
-          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时29分]"
         },
         {
           "title": "英国首相欲游说特朗普援乌，俄方回应",
@@ -1028,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-26）",
+          "url": "https://flash.jin10.com/detail/20260826180846586800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美特勤局回应伊悬赏特朗普小儿子",
@@ -1306,7 +1340,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
@@ -1487,6 +1521,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "比特币自 5 月中旬以来首次突破 8 万美元，彻底告别底部区间了吗？如何看待加密资产与美债、黄金的联动逻辑？",
+          "url": "https://www.zhihu.com/question/2075531079084138776",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美债长端现空头挤压 “贝森特看跌期权”效应显现",
           "url": "https://wallstreetcn.com/livenews/3154927",
           "source": "华尔街见闻-快讯",
@@ -1515,8 +1560,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 18时22分]"
         },
         {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
@@ -1543,8 +1588,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 18时22分]"
         },
         {
           "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
@@ -1683,8 +1728,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时27分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[08时27分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
@@ -1822,7 +1867,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1841,7 +1886,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
@@ -1877,6 +1922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "【VIP日报】贵金属板块大涨 栏目解读金价上涨逻辑 提及2家公司涨停",
+          "url": "https://www.cls.cn/detail/2464939",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "金十图示：2026年08月26日（周三）上海金午盘价为1000.12元/克，较国际金价（约为1001.78元/克），低1.66元/克。",
