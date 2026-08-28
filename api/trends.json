@@ -1,239 +1,34 @@
 {
-  "generated_at": "2026-08-28T15:10:00.836065+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-08-29T03:39:11.014895+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 20,
+      "keyword_group": "伊朗",
+      "match_count": 16,
       "titles": [
         {
-          "title": "特朗普又干了两件事，全世界目瞪口呆",
-          "url": "https://news.ifeng.com/c/8vwy3JPTkqb",
+          "title": "伊朗外交部发表声明",
+          "url": "https://news.ifeng.com/c/8vxhTsH4n78",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
+          "time_info": "[03时38分 ~ 03时39分]"
         },
         {
-          "title": "特朗普政府钨废料出口禁令正式生效！美国钨矿股本月暴涨",
-          "url": "https://www.cls.cn/detail/2467190",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普拒绝回到6月协议，美伊谈判连“起点”都没了",
-          "url": "https://flash.jin10.com/detail/20260828064511029800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗是一个失败的国家。",
-          "url": "https://flash.jin10.com/detail/20260828063403661800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "加拿大省长：特朗普为我们国家做了两件好事",
-          "url": "https://news.ifeng.com/c/8vvoVtSBR4l",
+          "title": "交战半年，美国滤镜碎一地，伊朗智勇难双全",
+          "url": "https://news.ifeng.com/c/8vxbV6HugO2",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温",
-          "url": "https://www.cls.cn/detail/2466934",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
-          "url": "https://news.ifeng.com/c/8vxLE853PWK",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
+          "time_info": "[03时38分 ~ 03时39分]"
         },
-        {
-          "title": "特朗普签令，宣布禁止使用部分外国电力系统设备！A股龙头大跌12%，公司最新回应",
-          "url": "https://wallstreetcn.com/articles/3780426",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普宣布低价进口碎牛肉激怒票仓",
-          "url": "https://www.toutiao.com/trending/7678337964698714163/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普：穆杰塔巴仍活着，但伤势非常严重",
-          "url": "https://news.ifeng.com/c/8vvOEOSVv0f",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国总统特朗普：福克斯新闻的乔纳森·亨特对“摇摇欲坠的伊朗伊斯兰共和国”做了一篇特别不准确的报道。我不想见（伊朗）他们，但他们却想见我。事实上，他们正乞求达成协议。",
-          "url": "https://flash.jin10.com/detail/20260828062240938800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "消息人士：特朗普政府考虑将2027年生物燃料配额提高5亿加仑",
-          "url": "https://flash.jin10.com/detail/20260828061205740800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "伊朗称以色列总理吓唬特朗普",
-          "url": "https://wallstreetcn.com/livenews/3156555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "特朗普任命本·莫斯为白宫幕僚秘书",
-          "url": "https://flash.jin10.com/detail/20260828054504000800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普任命本·莫斯为总统助理兼白宫秘书",
-          "url": "https://wallstreetcn.com/livenews/3156342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普祝贺黄仁勋在英伟达的销售业绩。",
-          "url": "https://wallstreetcn.com/livenews/3156339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国总统特朗普：自9月2日起，本·莫斯将担任总统助理及白宫办公厅秘书。",
-          "url": "https://flash.jin10.com/detail/20260828053223722800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "消息人士：特朗普政府正在考虑将2027年生物燃料配额增加约5亿加仑，以抵消即将宣布的小型炼油厂豁免政策。",
-          "url": "https://flash.jin10.com/detail/20260828053006411800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国总统特朗普：美国地质调查局宣布，已正式将安大略湖更名为“美国湖”，官方电子文件及地理名称信息系统已完成更新。",
-          "url": "https://flash.jin10.com/detail/20260828052900212800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国总统特朗普发文称赞英伟达(NVDA.O)业绩及2028财年营收增长预测。",
-          "url": "https://flash.jin10.com/detail/20260828052545455800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
         {
           "title": "伊朗官员：伊方已准备好一份对美条件清单",
           "url": "https://news.ifeng.com/c/8vwi97AEe3J",
@@ -243,153 +38,284 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
+          "time_info": "[03时38分 ~ 03时39分]"
         },
         {
-          "title": "伊朗阿曼外交斡旋初现成效，霍尔木兹海峡运输量悄然恢复至战前75%水平",
-          "url": "https://wallstreetcn.com/articles/3780465",
-          "source": "华尔街见闻",
+          "title": "伊朗总统佩泽希齐扬：由于美国的制裁和封锁，伊朗的出口和进口已减少至多35%。",
+          "url": "https://flash.jin10.com/detail/20260829032347555800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 15时10分]"
-        },
-        {
-          "title": "伊朗战事快速消耗美海军预算",
-          "url": "https://wallstreetcn.com/livenews/3156556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "03时39分"
         },
         {
-          "title": "伊朗外长阿拉格齐：与卡塔尔首相进行了富有创意的讨论。 让外交重回正轨并非不可能。 美国应该建立信任，履行承诺。",
-          "url": "https://wallstreetcn.com/livenews/3156551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "伊朗官员：伊方已准备好一份对美条件清单",
-          "url": "https://wallstreetcn.com/livenews/3156336",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战事的六大影响",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E7%9A%84%E5%85%AD%E5%A4%A7%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：最高领袖的指示是全体国家官员的准则。",
+          "url": "https://flash.jin10.com/detail/20260829031801497800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：英伟达暴涨近9%点燃AI行情 沃什讲话接棒成市场焦点",
-          "url": "https://www.cls.cn/detail/2466959",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 15时10分]"
+          "time_info": "03时39分"
         },
         {
-          "title": "英伟达率领美股冲高之际 华尔街最悲观策略师仍“扛住不改口”",
-          "url": "https://www.cls.cn/detail/2466928",
-          "source": "财联社热门",
+          "title": "据塔斯尼姆通讯社：伊朗第三档汽油价格将约为1万土曼，但该计划实施时间尚未明确。",
+          "url": "https://flash.jin10.com/detail/20260829031155694800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 15时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
-          "title": "沃什杰克逊霍尔首秀今晚来袭，美股如何走？历史数据这样说",
-          "url": "https://www.cls.cn/detail/2467173",
-          "source": "财联社热门",
+          "title": "伊朗总统佩泽希齐扬：承诺内容包括解除燃料及石化制裁、解冻资金，以及恢复投资。",
+          "url": "https://flash.jin10.com/detail/20260829030930129800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：美国必须解除封锁和制裁，解冻我们的资金，并迫使以色列停止对黎巴嫩的侵略。",
+          "url": "https://flash.jin10.com/detail/20260829030617388800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：如果四项承诺得到履行，伊朗将开放航道。",
+          "url": "https://flash.jin10.com/detail/20260829030452759800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：霍尔木兹海峡通行路线已达成内部共识。",
+          "url": "https://flash.jin10.com/detail/20260829030440912800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗愿意与包括沙特阿拉伯和阿联酋在内的地区国家开展合作与相互理解。",
+          "url": "https://flash.jin10.com/detail/20260829030337149800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "真主党总书记纳伊姆·卡西姆：美以正推行一项侵略性计划，企图控制并分裂中东地区；伊朗与黎巴嫩真主党正在对此展开斗争。",
+          "url": "https://flash.jin10.com/detail/20260829030057985800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：战争加剧了伊朗的燃料短缺。",
+          "url": "https://flash.jin10.com/detail/20260829025831975800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗将提高汽油价格。",
+          "url": "https://flash.jin10.com/detail/20260829025720607800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "【伊朗最高领袖声明：禁止任何有损社会凝聚力的行为】8月28日，伊朗最高领袖穆杰塔巴·哈梅内伊发表声明。声明中，穆杰塔巴赞扬了政府在面对美以限制和阴谋、制裁和围困加剧情况下所采取的行动和工作。他强调，伊朗必须展现实力和力量，同时避免出现任何令人失望、削弱民族和公众精神等言论，任何有损社会凝聚力的行为都是被禁止的。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3157088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "谷歌Gemini：借助Gemini Omni 1.1 Flash，可以让你的故事情节更加精彩。现在，人们可以通过创建或上传视频，再让Gemini从视频结束的地方无缝接续场景，创作更长的故事，或探索全新的创意方向。",
-          "url": "https://flash.jin10.com/detail/20260828064920439800",
-          "source": "金十数据",
+          "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
+          "url": "https://news.ifeng.com/c/8vxLE853PWK",
+          "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
         },
         {
-          "title": "美国联邦贸易委员会（FTC）就封禁社交媒体账户问题调查谷歌公司旗下Youtube。",
-          "url": "https://wallstreetcn.com/livenews/3156344",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普格陵兰野心搅动北欧 冰岛入欧公投增添安全变量",
+          "url": "https://www.cls.cn/detail/2468312",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        },
+        {
+          "title": "牛弹琴：特朗普干的事让世界目瞪口呆",
+          "url": "https://www.toutiao.com/trending/7679035179687480858/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        },
         {
-          "title": "OpenAI发布入侵抱抱脸事件报告",
-          "url": "https://www.douyin.com/hot/2625796",
-          "source": "抖音",
+          "title": "伊朗总统佩泽希齐扬：已经围绕霍尔木兹海峡通行路线达成内部共识。 若四项承诺得到履行，伊朗将开放航道。 伊朗已准备好与沙特阿拉伯、阿联酋等地区国家开展合作、达成谅解。 承诺内容包括（特朗普政府）解除对燃料、石化产品的制裁，还包括释放资金、恢复投资。 受美国制裁与封锁影响，伊朗进出口规模降幅最高达35%。",
+          "url": "https://wallstreetcn.com/livenews/3157101",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "特朗普宣布将创建“美国太空学院”",
+          "url": "https://wallstreetcn.com/livenews/3157086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
     {
       "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
+          "url": "https://wallstreetcn.com/articles/3780538",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        },
+        {
+          "title": "沃什鹰派发言提振加息预期，美债短端收益率走高，标普500指数持平，美元走强，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3780532",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        },
+        {
+          "title": "杰克逊霍尔迎来2009年以来最鹰派讲话，沃什推高美债收益率",
+          "url": "https://wallstreetcn.com/livenews/3157090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普企图对美债进行“军事干预”，分析称：或通过挑起地缘冲突等方式实现",
-          "url": "https://wallstreetcn.com/livenews/3156361",
-          "source": "华尔街见闻-快讯",
+          "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2468152",
+          "source": "财联社热门",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数本周涨超0.5%，沃什在杰克逊霍尔全球央行年会释放鹰派基调",
+          "url": "https://wallstreetcn.com/livenews/3157104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "03时39分"
         }
       ]
     }
