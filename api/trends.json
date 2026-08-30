@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-31T05:41:41.396996+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-31T07:58:09.959825+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 38,
       "titles": [
         {
-          "title": "伊朗南部拉腊克岛再次传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3157427",
+          "title": "伊朗革命卫队称摧毁位于约旦的美军基地相关基础设施",
+          "url": "https://wallstreetcn.com/livenews/3157449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗南部拉腊克岛再次传出爆炸声",
@@ -25,9 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗称摧毁美军驻约旦基地设施",
+          "url": "https://flash.jin10.com/detail/20260831072808712800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗总统赴中亚参会，上合如何推动美伊停火止战？",
@@ -37,8 +48,54 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗南部拉腊克岛再次传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3157427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时51分 ~ 05时41分]"
+          "time_info": "[05时41分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗革命卫队：拉腊克岛遭袭致多人受伤，必将惩罚侵略者",
+          "url": "https://wallstreetcn.com/livenews/3157421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴发表声明",
+          "url": "https://www.douyin.com/hot/2629272",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "消息人士称伊朗袭击驻约旦美军",
+          "url": "https://www.toutiao.com/trending/7679461963375149098/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "伊朗总统府：伊朗总统佩泽希齐扬将前往吉尔吉斯斯坦首都比什凯克，出席上海合作组织峰会。",
@@ -58,20 +115,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
         {
-          "title": "伊朗革命卫队：拉腊克岛遭袭致多人受伤，必将惩罚侵略者",
-          "url": "https://wallstreetcn.com/livenews/3157421",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体：伊朗革命卫队警告称，敌人的侵略和罪行无法削弱伊朗对霍尔木兹海峡的控制，（敌人）每一次发射都将得到更为强烈的回应。",
+          "url": "https://flash.jin10.com/detail/20260831070054179800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "07时58分"
         },
         {
           "title": "美军袭击伊朗南部岛屿 伊朗誓言报复",
@@ -80,9 +137,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "消息人士称伊朗袭击驻约旦美军",
+          "url": "https://wallstreetcn.com/livenews/3157442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "美官员称美军打击伊朗两处武器装置",
@@ -91,7 +159,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -113,9 +181,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗革命卫队称，针对美国对拉腊克岛的攻击，向位于约旦的两个美国基地发射了弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260831065933272800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗革命卫队称，美国对拉腊克岛的袭击将遭到“回应和惩罚”。",
@@ -124,7 +203,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -135,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -146,7 +225,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -168,9 +247,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "据半岛电视台：伊朗革命卫队称，已摧毁位于约旦的侯赛因国王空军基地和阿兹拉克空军基地内的基础设施以及敌方战机驻地。",
+          "url": "https://flash.jin10.com/detail/20260831065657029800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "据半岛电视台：伊朗革命卫队称敌人使用“心理战”。",
@@ -179,7 +269,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -190,9 +280,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "美军夜袭霍尔木兹，摧毁伊朗两处发射器，革命卫队放话“必将报复”！",
+          "url": "https://flash.jin10.com/detail/20260831064706218800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗向美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3157434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗媒体Fars News：伊朗拉腊克岛附近发生爆炸，原因不明。",
@@ -201,9 +313,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：未经证实的报道称，阿联酋已发出导弹袭击警报。",
+          "url": "https://flash.jin10.com/detail/20260831064613217800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "报道：经伊朗路线的霍尔木兹海峡通行正“在有限基础上”进行",
@@ -245,7 +368,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -259,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "周一亚市盘初，国际油价涨超2%，此前美国对伊朗拉腊克岛进行打击。 标普500指数期货基本持平，纳斯达克100指数期货微涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3157430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "德国财长将在G20会议上就伊朗战争和贸易争端施压",
@@ -278,7 +412,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -304,11 +438,12 @@
           "url": "https://wallstreetcn.com/articles/3780643",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：所有与美国有业务往来的加拿大公司，立即迁往美国。其中许多公司多年前就因为美国领导层的愚蠢政策而迁出加拿大。等你们搬回来，关税全免！",
@@ -344,17 +479,6 @@
           "time_info": "02时51分"
         },
         {
-          "title": "伊朗革命卫队发言人：此次行动（美军轰炸伊朗南部岛屿）是特朗普政府在经济战争背景下犯下的战略性致命错误。 该错误将使局势转而对策划者不利，并会让其付出沉重代价。 敌人将在经济与军事两个领域，为这一误判承担后果。",
-          "url": "https://wallstreetcn.com/livenews/3157425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
           "title": "美国总统特朗普：加拿大几十年来一直在剥削我们，这种情况必须停止。其他总统早就应该这么做了，就像早就应该阻止伊朗一样。",
           "url": "https://flash.jin10.com/detail/20260831021703778800",
           "source": "金十数据",
@@ -366,17 +490,6 @@
           "time_info": "02时51分"
         },
         {
-          "title": "特朗普称委内瑞拉石油将用于补充美国SPR，指责拜登掏空了该储备",
-          "url": "https://wallstreetcn.com/livenews/3157424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
           "title": "美国总统特朗普：加拿大是滥用关税最严重的国家之一。我不要加拿大汽车，不要加拿大零部件，不要任何加拿大产品。",
           "url": "https://flash.jin10.com/detail/20260831021645656800",
           "source": "金十数据",
@@ -386,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
+          "url": "https://news.ifeng.com/c/8w1BWwoFzwl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
@@ -400,26 +524,40 @@
           "time_info": "[02时51分 ~ 05时41分]"
         },
         {
-          "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
-          "url": "https://news.ifeng.com/c/8w1BWwoFzwl",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队发言人：此次行动（美军轰炸伊朗南部岛屿）是特朗普政府在经济战争背景下犯下的战略性致命错误。 该错误将使局势转而对策划者不利，并会让其付出沉重代价。 敌人将在经济与军事两个领域，为这一误判承担后果。",
+          "url": "https://wallstreetcn.com/livenews/3157425",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时51分 ~ 05时41分]"
+          "time_info": "[05时41分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉石油将用于补充美国SPR，指责拜登掏空了该储备",
+          "url": "https://wallstreetcn.com/livenews/3157424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时58分]"
         },
         {
           "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
           "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：所有与美国开展业务的加拿大企业，请立即迁至美国。 其中很多企业多年前因美国当局的愚蠢决策迁出美国。若迁回美国，即可免征关税。",
@@ -428,7 +566,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -439,7 +577,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -472,7 +610,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -531,11 +669,12 @@
           "url": "https://wallstreetcn.com/livenews/3157397",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时58分]"
         }
       ]
     },
@@ -548,11 +687,12 @@
           "url": "https://wallstreetcn.com/articles/3780645",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 07时58分]"
         },
         {
           "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
@@ -562,8 +702,25 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李大霄提醒11月3日对美股风险",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%9211%E6%9C%883%E6%97%A5%E5%AF%B9%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时51分 ~ 05时41分]"
+          "time_info": "[07时57分 ~ 07时58分]"
         }
       ]
     }
