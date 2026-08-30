@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T18:59:48.554193+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-08-30T23:09:04.498484+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "据半岛电视台：伊朗支持的“真主党旅”称，在美沙联合空袭前曾收到警告。",
@@ -117,6 +117,17 @@
           "time_info": "[01时57分 ~ 08时49分]"
         },
         {
+          "title": "伊朗总统赴中亚参会，上合如何推动美伊停火止战？",
+          "url": "https://original.ifeng.com/c/8w0QiSUDOag",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "伊拉克官员：伊拉克寻求成为伊朗和美国之间的“桥梁”",
           "url": "https://flash.jin10.com/detail/20260830052026233800",
           "source": "金十数据",
@@ -225,6 +236,17 @@
           "time_info": "[01时57分 ~ 08时49分]"
         },
         {
+          "title": "伊朗总统府：伊朗总统佩泽希齐扬将前往吉尔吉斯斯坦首都比什凯克，出席上海合作组织峰会。",
+          "url": "https://wallstreetcn.com/livenews/3157394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美国消息人士向阿拉伯电视台透露：与埃尔比勒方面的谅解备忘录将于9月30日到期，不会延期。<br/>伊朗库尔德方面消息人士透露：埃尔比勒与华盛顿之间的谅解备忘录不再延期，并不意味着双方合作结束。",
           "url": "https://flash.jin10.com/detail/20260830004203466800",
           "source": "金十数据",
@@ -253,7 +275,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -269,6 +291,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "据沙特阿拉比亚电视台：也门海军截获一艘载有伊朗无人机零部件、正运往胡塞武装的船只。",
+          "url": "https://flash.jin10.com/detail/20260830221539078800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "据沙特阿拉伯阿拉比亚电视台：一段流传的视频显示，随着美国封锁持续，伊朗阿巴斯港的沙希德·拉贾伊港一片空旷。",
           "url": "https://flash.jin10.com/detail/20260830002546837800",
           "source": "金十数据",
@@ -278,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗最高领袖最新声明：美以是地区团结之敌",
+          "url": "https://wallstreetcn.com/livenews/3157385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国驻黎巴嫩大使馆：黎巴嫩真主党拒绝与任何一方对话，因为其听命于伊朗 。当真主党准备交出武器时，就可以与黎巴嫩政府进行对话。",
@@ -308,15 +352,59 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "报道：经伊朗路线的霍尔木兹海峡通行正“在有限基础上”进行",
+          "url": "https://wallstreetcn.com/livenews/3157377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗总统佩泽希齐扬将于周一访问吉尔吉斯斯坦。",
+          "url": "https://flash.jin10.com/detail/20260830215029714800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "德国财长将在G20会议上就伊朗战争和贸易争端施压",
+          "url": "https://wallstreetcn.com/livenews/3157370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "据以色列第12频道：由于封锁伊朗预计将导致燃油价格大幅上涨，以色列财政部长预计将签署一项命令，下调燃油消费税，从而降低消费者支付的燃油价格。",
+          "url": "https://flash.jin10.com/detail/20260830214026879800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
@@ -338,8 +426,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 23时09分]"
+        },
+        {
+          "title": "美国航空航天局（NASA）局长贾里德·艾萨克曼：在具有历史意义的“罗曼”望远镜发射后，美国总统特朗普通过电话连线参加了NASA的新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260830225947465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-30）",
@@ -348,9 +447,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
+          "url": "https://wallstreetcn.com/livenews/3157398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "英国“特朗普支持者”被美国驱逐",
@@ -362,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国政府内部文件显示，特朗普政府在10天内将来自阿富汗、古巴、尼加拉瓜等国的100多名被驱逐人员遣送至非洲8个国家，进一步扩大其“第三国”驱逐行动。",
+          "url": "https://flash.jin10.com/detail/20260830223614448800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "沃伦火力全开：特朗普发动伊朗战争，他的“石油盟友”赚得盆满钵满",
@@ -412,6 +533,30 @@
           "time_info": "[06时51分 ~ 08时49分]"
         },
         {
+          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 23时09分]"
+        },
+        {
+          "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
+          "url": "https://news.ifeng.com/c/8w1BWwoFzwl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普改名“美国湖”，加拿大亮出“安大略湖”招牌针锋相对",
           "url": "https://flash.jin10.com/detail/20260830044043158800",
           "source": "金十数据",
@@ -459,18 +604,6 @@
           "time_info": "[13时58分 ~ 18时59分]"
         },
         {
-          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 18时59分]"
-        },
-        {
           "title": "美国总统特朗普周日日程一览",
           "url": "https://flash.jin10.com/detail/20260830080535253800",
           "source": "金十数据",
@@ -504,6 +637,28 @@
           "time_info": "04时07分"
         },
         {
+          "title": "特朗普称将用委内瑞拉石油填满美国战略储备",
+          "url": "https://flash.jin10.com/detail/20260830221438633800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美国总统特朗普：将用委内瑞拉石油填充美国国家战略储备。补充至满储水平的过程很快就会启动。",
+          "url": "https://flash.jin10.com/detail/20260830221142058800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "特朗普：将担任高尔夫“总统杯”名誉主席",
           "url": "https://flash.jin10.com/detail/20260830022118674800",
           "source": "金十数据",
@@ -524,6 +679,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大企业正纷纷涌入美国。我们希望自己生产汽车等产品。这就是接下来会发生的事情。加拿大多年来一直在占我们的便宜，这种情况不会再继续了。",
+          "url": "https://flash.jin10.com/detail/20260830220018666800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美国保守派政治新闻记者、福克斯新闻原主持人Tucker Carlson：如果特朗普正在考虑率先使用核武器，就应将其免职。哪怕只是考虑这种可能性，也应使一名总统失去继续任职的资格，因为这是不可逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260830215938802800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "特朗普任期进入关键阶段之际，其核心幕僚接连离职",
+          "url": "https://flash.jin10.com/detail/20260830215811400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "欧洲极右势力为何开始不满特朗普",
@@ -554,6 +742,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
+          "url": "https://wallstreetcn.com/articles/3780645",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 23时09分]"
+        },
+        {
           "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？",
           "url": "https://www.zhihu.com/question/2076984800188093248",
           "source": "知乎",
@@ -566,15 +766,15 @@
           "time_info": "[01时57分 ~ 06时51分]"
         },
         {
-          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
-          "url": "https://wallstreetcn.com/articles/3780645",
-          "source": "华尔街见闻",
+          "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
+          "url": "https://news.ifeng.com/c/8w0jEyIDiEs",
+          "source": "凤凰网",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 18时59分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时09分]"
         },
         {
           "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应：毫不在意",
@@ -587,17 +787,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 18时59分]"
-        },
-        {
-          "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
-          "url": "https://news.ifeng.com/c/8w0jEyIDiEs",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
@@ -710,15 +899,43 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌地图调整安大略湖显示名称，对美国用户显示“美国湖”",
+          "url": "https://wallstreetcn.com/livenews/3157397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "谷歌地图调整安大略湖显示名称 对美国用户显示“美国湖”",
+          "url": "https://flash.jin10.com/detail/20260830214746122800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
@@ -732,6 +949,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时57分 ~ 18时59分]"
+        },
+        {
+          "title": "李大霄提醒11月3日对美股风险",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%9211%E6%9C%883%E6%97%A5%E5%AF%B9%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         }
       ]
     }
