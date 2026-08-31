@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-31T07:58:09.959825+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-08-31T10:27:11.925281+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美军突然发动袭击，伊朗回应",
+          "url": "https://news.ifeng.com/c/8w0UKBPCmNr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
         {
           "title": "伊朗革命卫队称摧毁位于约旦的美军基地相关基础设施",
           "url": "https://wallstreetcn.com/livenews/3157449",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -64,6 +75,40 @@
           "time_info": "[05时41分 ~ 07时58分]"
         },
         {
+          "title": "消息人士称伊朗袭击驻约旦美军",
+          "url": "https://www.toutiao.com/trending/7679461963375149098/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时27分]"
+        },
+        {
+          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "url": "https://wallstreetcn.com/articles/3780670",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "局势升级！美军袭击伊朗拉腊克岛 伊朗向美军基地发射导弹",
+          "url": "https://www.cls.cn/detail/2469012",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
           "title": "伊朗革命卫队：拉腊克岛遭袭致多人受伤，必将惩罚侵略者",
           "url": "https://wallstreetcn.com/livenews/3157421",
           "source": "华尔街见闻-快讯",
@@ -81,17 +126,6 @@
           "source": "抖音",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "消息人士称伊朗袭击驻约旦美军",
-          "url": "https://www.toutiao.com/trending/7679461963375149098/",
-          "source": "今日头条",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -126,7 +160,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -148,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -192,7 +226,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -258,9 +292,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美国攻击重点是伊朗监控霍尔木兹海峡的核心据点",
+          "url": "https://flash.jin10.com/detail/20260831100024547800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "据半岛电视台：伊朗革命卫队称敌人使用“心理战”。",
@@ -291,7 +336,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -302,7 +347,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -324,7 +369,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -390,7 +435,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -431,7 +476,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "中选之后，“特朗普交易”要反噬了？",
@@ -455,6 +500,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时51分 ~ 10时27分]"
         },
         {
           "title": "特朗普声称不需要加拿大任何产品 早应该遏制加拿大占便宜行为",
@@ -548,16 +606,15 @@
           "time_info": "[05时41分 ~ 07时58分]"
         },
         {
-          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
-          "source": "澎湃新闻",
+          "title": "特朗普“拿下”650亿桶委内瑞拉石油，五角大楼竟要亲自下场分一杯羹",
+          "url": "https://flash.jin10.com/detail/20260831100114414800",
+          "source": "金十数据",
           "ranks": [
-            12,
             13
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 07时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "美国总统特朗普：所有与美国开展业务的加拿大企业，请立即迁至美国。 其中很多企业多年前因美国当局的愚蠢决策迁出美国。若迁回美国，即可免征关税。",
@@ -591,6 +648,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，我们花费数十亿美元援助北约及包括韩国在内的各国，但当我们请求他们提供帮助时，他们却拒绝了。我们不能继续支持那些不与我们站在一起的国家。",
+          "url": "https://flash.jin10.com/detail/20260831095515375800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普重申，伊朗不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3157484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "克宫：普京、特朗普和泽连斯基的峰会只能用于确认固定协商成果",
@@ -709,7 +788,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "李大霄提醒11月3日对美股风险",
@@ -721,6 +800,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "美银：美股牛市恐在秋季受挫",
+          "url": "https://www.toutiao.com/trending/7679652671137579051/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "9月金价展望",
+          "url": "https://www.toutiao.com/trending/7679080632207294483/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     }
