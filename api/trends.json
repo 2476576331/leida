@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T18:34:41.385740+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-09-01T23:15:26.526245+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 23时15分]"
         },
         {
           "title": "美媒曝光特朗普对伊新计划",
@@ -44,6 +44,17 @@
           "time_info": "[13时47分 ~ 18时34分]"
         },
         {
+          "title": "特朗普“密友”戴安斯再度访华",
+          "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "特朗普提议对美国电影行业推出联邦税收抵免措施",
           "url": "https://wallstreetcn.com/livenews/3158274",
           "source": "华尔街见闻-快讯",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "事关马岛，特朗普首次公开表态",
+          "url": "https://news.ifeng.com/c/8w4Ju2hTtqD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "特朗普称伊朗已死",
@@ -123,15 +145,37 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美联邦航空管理局拟限制特朗普佛州住所附近空域飞行",
+          "url": "https://wallstreetcn.com/livenews/3158604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "霍尔木兹局势再升级：超级油轮疑遭水雷袭击，特朗普威胁“狠狠打击”，布油突破91美元关口",
           "url": "https://wallstreetcn.com/articles/3780742",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "伊朗喊话美国重返停火备忘录，万斯称特朗普发轰炸哈尔克岛视频在向伊“传递信息”",
+          "url": "https://wallstreetcn.com/articles/3780760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美最高法院叫停下级法院禁令 特朗普白宫新舞厅建设获准推进",
@@ -349,7 +393,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -390,7 +434,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
@@ -504,6 +548,17 @@
           "time_info": "[13时47分 ~ 18时34分]"
         },
         {
+          "title": "普京与伊朗总统会晤",
+          "url": "https://news.ifeng.com/c/8w4YuyC1zJC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "伊朗议员提出稳定外汇与通胀五大要求",
           "url": "https://flash.jin10.com/detail/20260831235650782800",
           "source": "金十数据",
@@ -521,9 +576,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "伊朗：不允许美国让船只从霍尔木兹海峡南线通过的企图",
+          "url": "https://wallstreetcn.com/livenews/3158606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伊朗外交部发言人巴加埃批评欧洲缺乏“战略自主”，称欧洲若只是执行美国政策，就无法真正成为独立行动者。",
@@ -559,6 +625,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "伊朗称外汇储备充足",
+          "url": "https://wallstreetcn.com/livenews/3158599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，伊朗已向上合组织提出多项倡议，以深化贸易和能源合作。我们必须加强成员国之间的安全与经济联系。",
           "url": "https://flash.jin10.com/detail/20260901131936861800",
           "source": "金十数据",
@@ -568,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "普京与伊朗总统会面",
+          "url": "https://www.toutiao.com/trending/7680555589530910746/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伊拉克国家石油销售商否认与被制裁的伊朗关联油轮有关联",
@@ -598,7 +686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -639,18 +727,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
           "url": "https://wallstreetcn.com/articles/3780702",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 23时15分]"
         },
         {
           "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
@@ -673,6 +762,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
+        },
+        {
+          "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
+          "url": "https://wallstreetcn.com/articles/3780783",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2471151",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
@@ -704,7 +815,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -810,7 +921,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -873,7 +984,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
@@ -886,8 +997,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 23时15分]"
         },
         {
           "title": "抛售再现！10年期美债收益率创19个月新高 关键堡垒告破……",
@@ -901,6 +1012,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "美债点火，负Gamma放大美股波动？",
+          "url": "https://flash.jin10.com/detail/20260901225009833800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "沃什鹰派发言提振加息预期，美股下跌，10年期美债收益率创2025年1月以来新高，中东局势升温油价急涨",
           "url": "https://wallstreetcn.com/articles/3780702",
           "source": "华尔街见闻",
@@ -911,6 +1033,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 05时41分]"
+        },
+        {
+          "title": "30年美债连续55个交易日站上5%，大科技正在和国债抢钱？ | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260901223310960800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨0.44%，报109.98美元，8月份累计上涨16.28%，延续7月份反弹4.39%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3158038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（8月31日），南非富时/JSE非洲领先40可交易指数收跌1.73%，失守10.9万点，8月份累涨5.33%，现货黄金8月份迄今涨9.30%。 南非兰特兑美元8月份迄今累涨2.47%，报16.1152兰特。",
+          "url": "https://wallstreetcn.com/livenews/3157976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "北美科技软件股指数ETF跌幅扩大至2.5%，报107.22美元。",
+          "url": "https://wallstreetcn.com/livenews/3158585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
@@ -941,34 +1113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时49分 ~ 18时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF涨0.44%，报109.98美元，8月份累计上涨16.28%，延续7月份反弹4.39%的表现。",
-          "url": "https://wallstreetcn.com/livenews/3158038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（8月31日），南非富时/JSE非洲领先40可交易指数收跌1.73%，失守10.9万点，8月份累涨5.33%，现货黄金8月份迄今涨9.30%。 南非兰特兑美元8月份迄今累涨2.47%，报16.1152兰特。",
-          "url": "https://wallstreetcn.com/livenews/3157976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     }
