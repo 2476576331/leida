@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-01T13:47:26.766204+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-09-01T18:34:41.385740+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "美媒曝光特朗普对伊新计划",
-          "url": "https://news.ifeng.com/c/8w3jli5zgve",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
         {
           "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
           "url": "https://wallstreetcn.com/articles/3780764",
@@ -27,8 +16,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[08时49分 ~ 18时34分]"
+        },
+        {
+          "title": "美媒曝光特朗普对伊新计划",
+          "url": "https://news.ifeng.com/c/8w3jli5zgve",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 18时34分]"
+        },
+        {
+          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
+          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 18时34分]"
         },
         {
           "title": "特朗普提议对美国电影行业推出联邦税收抵免措施",
@@ -37,18 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
-          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -119,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "霍尔木兹局势再升级：超级油轮疑遭水雷袭击，特朗普威胁“狠狠打击”，布油突破91美元关口",
+          "url": "https://wallstreetcn.com/articles/3780742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "美最高法院叫停下级法院禁令 特朗普白宫新舞厅建设获准推进",
@@ -330,6 +343,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-01）",
+          "url": "https://flash.jin10.com/detail/20260901175806352800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "美国总统特朗普：伊朗打击（美军基地）的影响将是有限的。 霍尔木兹海峡形势极其良好。 大量石油正从霍尔木兹海峡运出。 我们或许会打击伊朗，后续情况有待观察。 昨晚有很多船只通过了霍尔木兹海峡，平均每晚有30艘船通过。 伊朗方面不清楚谁是其领导人。",
           "url": "https://wallstreetcn.com/livenews/3158023",
           "source": "华尔街见闻-快讯",
@@ -366,7 +390,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
@@ -419,7 +443,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -452,7 +476,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -468,6 +492,18 @@
           "time_info": "[00时27分 ~ 05时41分]"
         },
         {
+          "title": "时隔一个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33978400",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 18时34分]"
+        },
+        {
           "title": "伊朗议员提出稳定外汇与通胀五大要求",
           "url": "https://flash.jin10.com/detail/20260831235650782800",
           "source": "金十数据",
@@ -477,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：伊朗总统佩泽希齐扬称，美国的压力和威胁削弱了外交努力。",
+          "url": "https://flash.jin10.com/detail/20260901181613722800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "伊朗外交部发言人巴加埃批评欧洲缺乏“战略自主”，称欧洲若只是执行美国政策，就无法真正成为独立行动者。",
@@ -496,7 +543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -507,7 +554,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -518,18 +565,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "时隔一个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33978400",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -540,7 +576,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -554,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "市场消息：伊朗国会国家安全与外交政策委员会成员马哈茂德·纳巴维安称，伊朗应该对美国在中东的利益发起先发制人的攻击，以迫使华盛顿撤退并打破封锁。",
+          "url": "https://flash.jin10.com/detail/20260901175921713800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "伊朗总统对MECCA防务协议表示欢迎。（伊朗媒体NOUR News）",
@@ -592,7 +639,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
@@ -602,8 +649,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[08时49分 ~ 18时34分]"
         },
         {
           "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
@@ -651,13 +698,24 @@
           "time_info": "[08时49分 ~ 08时50分]"
         },
         {
+          "title": "蔚来汽车：第二季度营收321.4亿元人民币，同比增长69%，市场预期333.6亿元。 第二季度汽车销售收入227.8亿元人民币，同比增长41%，市场预期298.3亿元。 第二季度交付量107,658辆，同比增长49%，市场预期111,501辆。 预计第三季度营收332.9亿元至340.5亿元人民币，市场预期355.8亿元。 预计第三季度交付量10.8万辆至11.1万辆，市场预期12.34万辆。 蔚来美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3158471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "美股近4周持仓首次转正，但要小心短期反弹后走弱",
           "url": "https://flash.jin10.com/detail/20260901132850076800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -709,7 +767,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
@@ -744,6 +802,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时40分 ~ 08时50分]"
+        },
+        {
+          "title": "软银支持的SB Energy称软银、OpenAI和英伟达是其业务的战略投资者。",
+          "url": "https://flash.jin10.com/detail/20260901180904478800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "据相关法律文件：苹果(AAPL.O)称，在8月21日OpenAI提供给苹果的MacBook电脑中发现了新的证据，该证据是法律诉讼程序的一部分。苹果已向美国联邦法院申请加快针对OpenAI的商业秘密案件的证据开示程序。",
@@ -807,13 +876,27 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
+          "url": "https://wallstreetcn.com/articles/3780747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时40分 ~ 18时34分]"
+        },
+        {
           "title": "抛售再现！10年期美债收益率创19个月新高 关键堡垒告破……",
           "url": "https://www.cls.cn/detail/2470279",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -828,19 +911,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 05时41分]"
-        },
-        {
-          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
-          "url": "https://wallstreetcn.com/articles/3780747",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时40分 ~ 13时47分]"
         }
       ]
     },
@@ -865,11 +935,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[08时49分 ~ 18时34分]"
         }
       ]
     },
