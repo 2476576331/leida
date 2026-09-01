@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-09-01T08:50:15.365258+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-09-01T13:47:26.766204+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "美媒曝光特朗普对伊新计划",
+          "url": "https://news.ifeng.com/c/8w3jli5zgve",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
+          "url": "https://wallstreetcn.com/articles/3780764",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普提议对美国电影行业推出联邦税收抵免措施",
+          "url": "https://wallstreetcn.com/livenews/3158274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
+          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
         {
           "title": "特朗普被问是否排除对伊使用核武：很蠢的问题",
           "url": "https://flash.jin10.com/detail/20260901044625252800",
@@ -41,17 +86,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 05时41分]"
-        },
-        {
-          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
-          "url": "https://wallstreetcn.com/articles/3780764",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
         },
         {
           "title": "数据中心拖累选情 特朗普急喊：反对AI基建最终将“落后且贫穷”",
@@ -159,7 +193,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -170,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -192,7 +226,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -313,7 +347,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -332,7 +366,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
@@ -379,6 +413,17 @@
           "time_info": "[00时27分 ~ 05时41分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：一旦美国恢复履行6月谅解备忘录中的承诺，伊朗将立即作出对等回应。",
+          "url": "https://wallstreetcn.com/livenews/3158278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "伊朗革命卫队旗下媒体sepahnews：伊朗副外长加里巴巴迪回应美国昨夜袭击拉腊克岛，称必须让外国势力离开该地区，并让他们吸取深刻教训，不再重复侵略行径。",
           "url": "https://flash.jin10.com/detail/20260901050227802800",
           "source": "金十数据",
@@ -399,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "前美国大使：美国的经济压力不会迫使伊朗改变行为",
+          "url": "https://flash.jin10.com/detail/20260901133529347800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
@@ -432,6 +488,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗总统在上合组织峰会上表示，实践清楚地表明，安全与发展并非两个独立的概念，而是相互关联、不可分割的。",
+          "url": "https://flash.jin10.com/detail/20260901132530373800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "伊朗学生通讯社：伊朗总统在上合组织峰会上表示，一旦美国恢复对6月谅解备忘录的承诺，伊朗将立即作出回应。",
+          "url": "https://flash.jin10.com/detail/20260901132255421800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，伊朗已向上合组织提出多项倡议，以深化贸易和能源合作。我们必须加强成员国之间的安全与经济联系。",
+          "url": "https://flash.jin10.com/detail/20260901131936861800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "时隔一个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33978400",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "伊拉克国家石油销售商否认与被制裁的伊朗关联油轮有关联",
+          "url": "https://flash.jin10.com/detail/20260901131714622800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "伊朗高级指挥官穆罕默德‑礼萨·纳格迪：伊朗革命卫队与政府之间的关系空前牢固。",
@@ -481,7 +592,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
@@ -491,8 +602,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 13时47分]"
         },
         {
           "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
@@ -538,6 +649,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
+        },
+        {
+          "title": "美股近4周持仓首次转正，但要小心短期反弹后走弱",
+          "url": "https://flash.jin10.com/detail/20260901132850076800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "周一（8月31日），美股行业ETF多数收跌，全球航空业ETF收跌2.33%，网络股指数ETF跌0.65%，全球科技股指数ETF涨0.38%，科技行业ETF涨0.44%，半导体ETF涨0.64%，能源业ETF涨2%。 1-8月，半导体ETF累涨54.56%，能源业ETF涨44.97%，全球科技股指数ETF、科技行业ETF至少涨29.86%，可选消费ETF跌1.97%。",
@@ -681,6 +803,48 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "抛售再现！10年期美债收益率创19个月新高 关键堡垒告破……",
+          "url": "https://www.cls.cn/detail/2470279",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "沃什鹰派发言提振加息预期，美股下跌，10年期美债收益率创2025年1月以来新高，中东局势升温油价急涨",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 05时41分]"
+        },
+        {
+          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
+          "url": "https://wallstreetcn.com/articles/3780747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时40分 ~ 13时47分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -700,41 +864,12 @@
           "url": "https://wallstreetcn.com/articles/3780733",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沃什鹰派发言提振加息预期，美股下跌，10年期美债收益率创2025年1月以来新高，中东局势升温油价急涨",
-          "url": "https://wallstreetcn.com/articles/3780702",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时41分]"
-        },
-        {
-          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
-          "url": "https://wallstreetcn.com/articles/3780747",
-          "source": "华尔街见闻",
-          "ranks": [
             10,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时40分 ~ 08时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 13时47分]"
         }
       ]
     },
