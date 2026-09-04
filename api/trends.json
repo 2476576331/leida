@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-04T14:36:25.620403+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-09-04T19:48:03.160761+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "以防长威胁让伊朗回到石器时代",
+          "url": "https://news.ifeng.com/c/8w8XoLbfDkX",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 19时48分]"
+        },
         {
           "title": "伊朗石油部长：在首次封锁期间，我们曾多次成功将石油运出封锁线，并远销至数千公里之外。",
           "url": "https://flash.jin10.com/detail/20260904044948171800",
@@ -41,18 +53,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "以防长威胁让伊朗回到石器时代",
-          "url": "https://news.ifeng.com/c/8w8XoLbfDkX",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 14时36分]"
-        },
-        {
           "title": "美国财长贝森特：欧盟已加入对伊朗的“经济孤立行动”。",
           "url": "https://wallstreetcn.com/livenews/3160199",
           "source": "华尔街见闻-快讯",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时55分 ~ 07时36分]"
+        },
+        {
+          "title": "一图世界｜美军称伊朗使用火箭布设水雷，真的可行吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34000995",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
         },
         {
           "title": "美国副总统万斯：美国纳税人也将在委内瑞拉石油协议中获胜。 正竭尽所能地降低价格。 通胀问题并非一朝一夕就出现的。 我们会继续加码，推动处方药价格进一步下降。 油价走高源于伊朗袭击船只。 我们不能在全球油气供应上过度依赖任何一方。 昨天约有1500万桶石油离开霍尔木兹海峡。",
@@ -300,8 +311,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 19时48分]"
+        },
+        {
+          "title": "OpenAI总裁宣布AGI到来",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 19时48分]"
         },
         {
           "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
@@ -362,16 +385,17 @@
           "time_info": "[09时28分 ~ 14时36分]"
         },
         {
-          "title": "OpenAI总裁宣布AGI到来",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
-          "source": "百度热搜",
+          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
+          "url": "https://wallstreetcn.com/articles/3781029",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            21
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 19时48分]"
         },
         {
           "title": "OpenAI发布GPT-6 Astra",
@@ -396,18 +420,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 09时28分]"
-        },
-        {
-          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-          "url": "https://wallstreetcn.com/articles/3781029",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 14时36分]"
         },
         {
           "title": "OpenAI发布GPT-6 Astra",
@@ -537,7 +549,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -545,7 +557,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国总统特朗普：我不知道英国是否有能力在马岛采取行动。",
@@ -565,7 +577,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -613,6 +625,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 09时28分]"
+        },
+        {
+          "title": "美媒讽特朗普强推造战列舰",
+          "url": "https://www.toutiao.com/trending/7681611301272948265/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
         },
         {
           "title": "美国总统特朗普：每晚有30至40艘船只通过霍尔木兹海峡。",
@@ -687,7 +710,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -738,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 19时48分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
@@ -849,7 +872,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -972,7 +995,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
@@ -984,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 05时27分]"
+        },
+        {
+          "title": "美债或遭800亿美元减持？挪威主权财富基金考虑调低政府债券权重",
+          "url": "https://www.cls.cn/detail/2474210",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
         },
         {
           "title": "德国专家：美债收益率变化影响多国，推高融资成本",
