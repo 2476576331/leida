@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T19:48:03.160761+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-09-04T23:36:01.463104+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "以防长威胁让伊朗回到石器时代",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 23时36分]"
         },
         {
           "title": "伊朗石油部长：在首次封锁期间，我们曾多次成功将石油运出封锁线，并远销至数千公里之外。",
@@ -83,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 23时36分]"
         },
         {
           "title": "美国副总统万斯：美国纳税人也将在委内瑞拉石油协议中获胜。 正竭尽所能地降低价格。 通胀问题并非一朝一夕就出现的。 我们会继续加码，推动处方药价格进一步下降。 油价走高源于伊朗袭击船只。 我们不能在全球油气供应上过度依赖任何一方。 昨天约有1500万桶石油离开霍尔木兹海峡。",
@@ -219,6 +219,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "因土耳其与伊朗的关系 美国制裁土耳其小型投资银行",
+          "url": "https://flash.jin10.com/detail/20260904224247823800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国副总统万斯：我给伊朗人的建议是，别再像疯子一样行事，别再向商船开火了。",
           "url": "https://flash.jin10.com/detail/20260904020953205800",
           "source": "金十数据",
@@ -274,6 +285,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "白宫经济顾问哈塞特：加息是大家认为应该提上日程的。 我们尊重美联储的独立性。 成品油价格仍然高企。 我们正在尽一切努力降低价格。 （谈伊朗）正在追踪通过海峡的石油。",
+          "url": "https://wallstreetcn.com/livenews/3160689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "卡塔尔政府在提交给国际电信联盟（ITU）的一份官方文件中证实，伊朗针对驻扎在卡塔尔领土上的美军发动的防御性打击 “目标为美军军事设施。并未针对任何民用区域。 ” 唯一例外，是3月18日针对一处天然气设施的袭击。但应当指出，当日遭袭的设施当时正服务于美国对伊朗的军事侵略行动。",
           "url": "https://wallstreetcn.com/livenews/3160127",
           "source": "华尔街见闻-快讯",
@@ -291,6 +313,18 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
+          "url": "https://wallstreetcn.com/articles/3781033",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 23时36分]"
+        },
+        {
           "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
           "url": "https://www.zhihu.com/question/2078984478073136308",
           "source": "知乎",
@@ -303,18 +337,6 @@
           "time_info": "[02时55分 ~ 07时36分]"
         },
         {
-          "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-          "url": "https://wallstreetcn.com/articles/3781033",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 19时48分]"
-        },
-        {
           "title": "OpenAI总裁宣布AGI到来",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
           "source": "百度热搜",
@@ -323,8 +345,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 23时36分]"
+        },
+        {
+          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
+          "url": "https://wallstreetcn.com/articles/3781029",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 23时36分]"
         },
         {
           "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
@@ -383,19 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 14时36分]"
-        },
-        {
-          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-          "url": "https://wallstreetcn.com/articles/3781029",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 19时48分]"
         },
         {
           "title": "OpenAI发布GPT-6 Astra",
@@ -557,7 +580,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国总统特朗普：我不知道英国是否有能力在马岛采取行动。",
@@ -591,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普加码施压美联储降息，甚至放出“切断贸易”威胁",
+          "url": "https://flash.jin10.com/detail/20260904230806360800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国总统特朗普：我只希望乌克兰的战争结束。",
@@ -715,6 +749,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "白宫经济顾问哈塞特：昨晚与美国总统特朗普对话，他并没有对美联储给出建议。",
+          "url": "https://wallstreetcn.com/livenews/3160694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国总统特朗普：很高兴地宣布，现任陆军民事工程助理部长亚当·特尔（Adam Telle）将立即担任陆军代理部长。",
           "url": "https://flash.jin10.com/detail/20260904063836293800",
           "source": "金十数据",
@@ -746,12 +791,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普强行要求美联储降息，威胁称：不然就要切断与对美顺差国的贸易",
+          "url": "https://wallstreetcn.com/livenews/3160684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "特朗普称赞就业数据并再次呼吁降低利率",
+          "url": "https://wallstreetcn.com/livenews/3160683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
@@ -761,8 +828,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 19时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时36分 ~ 23时36分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
@@ -788,6 +855,17 @@
           "time_info": "[07时36分 ~ 14时36分]"
         },
         {
+          "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2474660",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
+        },
+        {
           "title": "日元汇率大幅反弹 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2473472",
           "source": "财联社热门",
@@ -798,6 +876,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时55分 ~ 09时28分]"
+        },
+        {
+          "title": "非农爆表提振加息预期，美股开盘走低，Lululemon跌超18%，美元冲高回落，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3781080",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
+        },
+        {
+          "title": "美股开盘震荡：特斯拉跌超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E9%9C%87%E8%8D%A1%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "周四（9月3日），美股行业ETF普遍上涨，网络股指数ETF收涨2.1%，金融业ETF涨1.56%，可选消费ETF、科技行业ETF、银行业ETF、全球科技股指数ETF、工业指数ETF至少涨1.03%，半导体ETF涨0.39%表现靠后，能源业ETF跌0.74%。",
@@ -1034,7 +1134,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "计算机网络公司Ciena收跌10%，创6月4日以来最大单日跌幅。 北美科技软件股指数ETF涨3.41%，报106.95美元。 Global X网络安全ETF涨2.74%，纳斯达克网络安全ETF涨1.9%，ETFMG网络安全ETF涨1.97%。",
@@ -1046,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美元指数基本抹去非农公布以来的涨幅，现报99.12。",
+          "url": "https://wallstreetcn.com/livenews/3160680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     }
