@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T04:13:24.122603+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-09-08T07:05:15.451547+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗首次在美军舰上空试验特殊武器，爆炸场面如地狱",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
         },
         {
           "title": "伊朗婚礼变葬礼：美军一枚炸弹疑“偏离目标”134米",
@@ -26,52 +26,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书Mohsen Rezaee（穆赫辛·雷扎伊）：伊朗已经重新校正（武器）针对美国军舰和（位于中东地区的那些）军事基地的态势。",
+          "url": "https://wallstreetcn.com/livenews/3161520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "伊朗驻国际原子能机构代表：美以袭击伊朗受保障监督的和平核设施若被“正常化”，将带来严重后果。伊朗布什尔核电站符合所有安全标准。",
           "url": "https://flash.jin10.com/detail/20260908041043953800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 07时05分]"
         },
         {
           "title": "伊朗锡里克婚礼遭袭现场发现美武器残骸",
           "url": "https://wallstreetcn.com/livenews/3161488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐向伊合组织新任秘书长通报美以对伊军事行动后的地区局势，并呼吁伊斯兰国家就维护伊朗主权采取统一、负责任的行动。阿拉格齐邀请伊合组织新任秘书长尽早访问德黑兰。",
-          "url": "https://flash.jin10.com/detail/20260908034948952800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐与伊斯兰合作组织（OIC）新任秘书长通电话。",
-          "url": "https://flash.jin10.com/detail/20260908034629146800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 07时05分]"
         },
         {
           "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”",
@@ -79,11 +70,36 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐向伊合组织新任秘书长通报美以对伊军事行动后的地区局势，并呼吁伊斯兰国家就维护伊朗主权采取统一、负责任的行动。阿拉格齐邀请伊合组织新任秘书长尽早访问德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260908034948952800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 07时05分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与伊斯兰合作组织（OIC）新任秘书长通电话。",
+          "url": "https://flash.jin10.com/detail/20260908034629146800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 07时05分]"
         },
         {
           "title": "伊朗议会主席团发言人：伊朗议会举行由200多名议员参加的面对面会议，讨论国内、地区和国际重要议题以及民生问题。",
@@ -92,9 +108,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已从伊朗新型导弹行动中收到明确信号。任何经济战都将遭到回应，伊朗将把波斯湾延伸至美国海上封锁线的区域划为海上禁区。针对美国军舰和军事基地的作战姿态已经发生根本性调整。",
+          "url": "https://flash.jin10.com/detail/20260908055157440800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗税务局发言人表示，今年前5个月的税收收入较去年同期增长55%。（按照波斯历法8月是一年中第5个月）",
@@ -103,9 +130,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已经收到伊朗新型导弹发出的明确警告。 针对经济战，我方将在波斯湾直至封锁圈范围设立海上禁入区。 针对美国军舰与军事基地的作战姿态已完成根本性调整。",
+          "url": "https://wallstreetcn.com/livenews/3161512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗方面警告称，靠近阿曼哈萨布的船只面临袭击风险。",
@@ -141,6 +179,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：加拿大支持美国涉伊政策的实质是屈服于美方施压，此举损害外交信誉。",
+          "url": "https://flash.jin10.com/detail/20260908045436274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
           "title": "伊朗称在美战舰上空试射新反舰导弹",
           "url": "https://wallstreetcn.com/livenews/3161418",
           "source": "华尔街见闻-快讯",
@@ -150,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美国中央司令部：“布什”号航母继续在阿拉伯海执行对伊朗的封锁行动。",
+          "url": "https://flash.jin10.com/detail/20260908044942930800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "土耳其总统：以色列在该地区发动的战争账单不仅由伊朗和海湾国家支付，而是由所有人共同承担。",
@@ -180,7 +240,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -196,15 +256,37 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗：加拿大歪曲了有关本地区局势的全部事实",
+          "url": "https://wallstreetcn.com/livenews/3161501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗阿尔达比勒省省长表示，当地正推动自由贸易工业区全面投入运营，将通过加强基础设施建设和扩大投资，促进该省经济发展。",
           "url": "https://flash.jin10.com/detail/20260908023931488800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：伊朗代理国防部长埃布内-礼萨表示，伊朗具备打击参与对伊朗实施经济封锁的美国军舰的能力和技术，并称“你们将见证结果”。",
+          "url": "https://flash.jin10.com/detail/20260908042349928800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "伊朗公布一款新型导弹",
@@ -213,7 +295,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -232,7 +314,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
@@ -243,8 +325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
         },
         {
           "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
@@ -254,8 +336,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
         },
         {
           "title": "从金发到深褐：特朗普发色突变再引“假发”猜测",
@@ -263,11 +345,45 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
+        },
+        {
+          "title": "英国拟对以色列定居点实施新制裁 或将激怒特朗普",
+          "url": "https://flash.jin10.com/detail/20260908054717998800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险",
+          "url": "https://wallstreetcn.com/livenews/3161511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普发布“扩张版美国地图”：南至中美洲 东至欧洲冰岛",
+          "url": "https://flash.jin10.com/detail/20260908043348210800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "特朗普谈及加拿大：如果他们想要进入我们的市场，就必须在本土建厂。 美国境内不再销售庞巴迪产品。",
@@ -276,9 +392,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普发布“扩张版美国地图”：南至中美洲，东至欧洲冰岛",
+          "url": "https://wallstreetcn.com/livenews/3161496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普威胁在美禁售加拿大庞巴迪产品",
+          "url": "https://wallstreetcn.com/livenews/3161495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "英国唐宁街：英国首相伯纳姆今日下午与美国总统特朗普通话。 谈及经济议题，伯纳姆对美国最新就业数据向特朗普表示祝贺，同时指出英国本国经济显现增长积极信号。 伯纳姆称，政府正在为英国营造更多向好态势，相关工作已取得进展，但仍有更多任务有待完成。",
@@ -287,7 +425,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -295,7 +433,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
@@ -305,8 +443,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
         },
         {
           "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
@@ -317,8 +455,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：我们将对所有付费订阅的使用情况进行全局重置，时间预计为太平洋标准时间今天下午6点左右（北京时间周二早上9点）。",
+          "url": "https://flash.jin10.com/detail/20260908063505691800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”",
@@ -326,22 +475,109 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 07时05分]"
         },
         {
           "title": "苹果和OpenAI为啥反目成仇",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%92%8COpenAI%E4%B8%BA%E5%95%A5%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 07时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数7日下跌",
+          "url": "https://flash.jin10.com/detail/20260908032803705800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "最近24小时，现货比特币跌0.9%，暂报79202.62美元，整体震荡下行。 现货以太坊跌0.3%，暂报2491.670美元。 MarketVectorTM数字资产100小盘指数涨0.51%，MarketVectorTM数字资产100中盘指数涨1.24%，MarketVector数字资产100指数跌0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3161499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "07时05分"
+        },
+        {
+          "title": "周一（9月7日）纽约尾盘，ICE美元指数跌0.25%，报98.925点，日内交投区间为99.209-98.832点，北京时间16:00前后显著扩大跌幅。 彭博美元指数跌0.20%，报1188.20点，日内交投区间为1191.29-1187.13点。",
+          "url": "https://wallstreetcn.com/livenews/3161489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
+        },
+        {
+          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 04时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价周一跌约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3161493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         }
       ]
     },
@@ -359,41 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数7日下跌",
-          "url": "https://flash.jin10.com/detail/20260908032803705800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         }
       ]
     }
