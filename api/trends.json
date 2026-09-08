@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T14:35:33.382550+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-09-08T19:48:06.908271+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗婚礼变葬礼：美军一枚炸弹疑“偏离目标”134米",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 09时32分]"
+        },
+        {
+          "title": "罕见！伊朗用韩文警告韩国",
+          "url": "https://news.ifeng.com/c/8wFXogZ6M7K",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书Mohsen Rezaee（穆赫辛·雷扎伊）：伊朗已经重新校正（武器）针对美国军舰和（位于中东地区的那些）军事基地的态势。",
@@ -169,6 +180,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗经济部长：我们与俄罗斯的协议可以增强我们在面对制裁和压力时的韧性。",
+          "url": "https://flash.jin10.com/detail/20260908191144350800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "报道：伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能",
           "url": "https://wallstreetcn.com/livenews/3161419",
           "source": "华尔街见闻-快讯",
@@ -200,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗阿曼将达成海峡协议？短期美伊局势可能出现两种情形",
+          "url": "https://flash.jin10.com/detail/20260908191007635800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "伊朗称在美战舰上空试射新反舰导弹",
@@ -312,6 +345,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "伊朗外长：围绕霍尔木兹海峡临时安全航道的谈判取得“重大进展”",
+          "url": "https://wallstreetcn.com/livenews/3161892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "伊朗经济部设立经济战争指挥部",
           "url": "https://wallstreetcn.com/livenews/3161400",
           "source": "华尔街见闻-快讯",
@@ -326,7 +370,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
@@ -393,11 +437,45 @@
           "url": "https://www.zhihu.com/question/2080276423739172027",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 19时48分]"
+        },
+        {
+          "title": "特朗普再“画饼”：中东冲突结束后 美国汽油价格将跌破每加仑2美元",
+          "url": "https://www.cls.cn/detail/2476967",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "特朗普用AI疯狂生成假地图意欲何为",
+          "url": "https://www.toutiao.com/trending/7683111480111156742/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
         },
         {
           "title": "英国拟对以色列定居点实施新制裁 或将激怒特朗普",
@@ -420,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "委内瑞拉民众对与特朗普的石油协议看法分裂 半数认为美国获益更多",
+          "url": "https://wallstreetcn.com/livenews/3161910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险",
@@ -501,6 +590,67 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek V4.1 Flash开启内测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "DeepSeek新模型限时内测 烧钱更快了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+          "url": "https://www.zhihu.com/question/2080678583714977593",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash好快",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1Flash%E5%A5%BD%E5%BF%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "DeepSeek大扩招！一次性开放150个后端/服务端工程师岗位",
+          "url": "https://wallstreetcn.com/livenews/3161683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -567,6 +717,59 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时04分 ~ 19时48分]"
+        },
+        {
+          "title": "【早报】美股休市；小米汽车最便宜车型出炉；黄金、白银收跌；2家券商，9月15日起停牌直至终止上市；“大肉签”公告，超1.6万股弃购",
+          "url": "https://www.cls.cn/detail/2476443",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 14时35分]"
+        },
+        {
+          "title": "汇丰的Sels认为美股被低估 但债券收益率飙升是股市面临的最大风险",
+          "url": "https://wallstreetcn.com/livenews/3161922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 04时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -603,47 +806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股休市；小米汽车最便宜车型出炉；黄金、白银收跌；2家券商，9月15日起停牌直至终止上市；“大肉签”公告，超1.6万股弃购",
-          "url": "https://www.cls.cn/detail/2476443",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时35分]"
-        },
-        {
-          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时04分 ~ 14时35分]"
-        },
-        {
-          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
         }
       ]
     },
@@ -697,7 +859,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -715,19 +877,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek大扩招！一次性开放150个后端/服务端工程师岗位",
-          "url": "https://wallstreetcn.com/livenews/3161683",
-          "source": "华尔街见闻-快讯",
+          "title": "据悉谷歌(GOOG.O)在欧洲推出搜索结果变更，以避免新的欧盟反垄断罚款。谷歌表示，变更将降低欧洲用户的搜索结果质量，并增加企业成本。",
+          "url": "https://flash.jin10.com/detail/20260908190032176800",
+          "source": "金十数据",
           "ranks": [
-            26
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "19时48分"
         }
       ]
     }
