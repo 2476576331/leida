@@ -1,140 +1,55 @@
 {
-  "generated_at": "2026-09-08T23:25:53.956267+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-09-09T03:02:07.105275+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 13,
       "titles": [
         {
-          "title": "伊朗婚礼变葬礼：美军一枚炸弹疑“偏离目标”134米",
-          "url": "https://news.ifeng.com/c/8wESdDerf1v",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 14时35分]"
-        },
-        {
-          "title": "伊朗首次在美军舰上空试验特殊武器，爆炸场面如地狱",
-          "url": "https://original.ifeng.com/c/8wE8g6ewZxS",
+          "title": "伊朗军方称捕获美国无人潜艇",
+          "url": "https://news.ifeng.com/c/8wGLPADTHOH",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 09时32分]"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "罕见！伊朗用韩文警告韩国",
           "url": "https://news.ifeng.com/c/8wFXogZ6M7K",
           "source": "凤凰网",
           "ranks": [
-            2,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 23时25分]"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "美国财长贝森特：欧洲人不想再俄乌问题上接触（俄罗斯）。 伊朗战争、俄乌冲突结束后，石油供应将相当充足。",
-          "url": "https://wallstreetcn.com/livenews/3162049",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体Fars News：伊朗贾斯克（Jask）地区传出爆炸声。当地消息人士称，爆炸声来自海上方向，靠近桑吉亚黑（Sang-e Siyah）地区。",
+          "url": "https://flash.jin10.com/detail/20260909025338304800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "03时02分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书Mohsen Rezaee（穆赫辛·雷扎伊）：伊朗已经重新校正（武器）针对美国军舰和（位于中东地区的那些）军事基地的态势。",
-          "url": "https://wallstreetcn.com/livenews/3161520",
+          "title": "伊朗外长：历经47年制裁后，美国代表以色列向伊朗开战。 后果对美国而言堪称灾难，包括其全球地位受损。 在制裁与战争均无法达成目标后，华盛顿的新案竟是更多制裁。 这当真？",
+          "url": "https://wallstreetcn.com/livenews/3162104",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "伊朗驻国际原子能机构代表：美以袭击伊朗受保障监督的和平核设施若被“正常化”，将带来严重后果。伊朗布什尔核电站符合所有安全标准。",
-          "url": "https://flash.jin10.com/detail/20260908041043953800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗锡里克婚礼遭袭现场发现美武器残骸",
-          "url": "https://wallstreetcn.com/livenews/3161488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”",
-          "url": "https://wallstreetcn.com/articles/3781187",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐向伊合组织新任秘书长通报美以对伊军事行动后的地区局势，并呼吁伊斯兰国家就维护伊朗主权采取统一、负责任的行动。阿拉格齐邀请伊合组织新任秘书长尽早访问德黑兰。",
-          "url": "https://flash.jin10.com/detail/20260908034948952800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐与伊斯兰合作组织（OIC）新任秘书长通电话。",
-          "url": "https://flash.jin10.com/detail/20260908034629146800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗释放强硬信号在美舰上方测试导弹",
-          "url": "https://www.toutiao.com/trending/7682937681327689243/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "03时02分"
         },
         {
           "title": "伊朗军方称捕获一艘美国无人潜艇",
@@ -143,229 +58,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗议会主席团发言人：伊朗议会举行由200多名议员参加的面对面会议，讨论国内、地区和国际重要议题以及民生问题。",
-          "url": "https://flash.jin10.com/detail/20260908033526745800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已从伊朗新型导弹行动中收到明确信号。任何经济战都将遭到回应，伊朗将把波斯湾延伸至美国海上封锁线的区域划为海上禁区。针对美国军舰和军事基地的作战姿态已经发生根本性调整。",
-          "url": "https://flash.jin10.com/detail/20260908055157440800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗税务局发言人表示，今年前5个月的税收收入较去年同期增长55%。（按照波斯历法8月是一年中第5个月）",
-          "url": "https://flash.jin10.com/detail/20260908031834527800",
-          "source": "金十数据",
+          "title": "伊朗公布一款新型导弹",
+          "url": "https://www.douyin.com/hot/2639998",
+          "source": "抖音",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已经收到伊朗新型导弹发出的明确警告。 针对经济战，我方将在波斯湾直至封锁圈范围设立海上禁入区。 针对美国军舰与军事基地的作战姿态已完成根本性调整。",
-          "url": "https://wallstreetcn.com/livenews/3161512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗方面警告称，靠近阿曼哈萨布的船只面临袭击风险。",
-          "url": "https://flash.jin10.com/detail/20260907225640156800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗经济部长：我们与俄罗斯的协议可以增强我们在面对制裁和压力时的韧性。",
-          "url": "https://flash.jin10.com/detail/20260908191144350800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "报道：伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能",
-          "url": "https://wallstreetcn.com/livenews/3161419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗军方称捕获一艘美国无人潜艇",
-          "url": "https://wallstreetcn.com/livenews/3162036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗称海峡谈判进入最后阶段，美劳动节汽油价创历史新高| Plus日报",
-          "url": "https://flash.jin10.com/detail/20260907225543339800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：加拿大支持美国涉伊政策的实质是屈服于美方施压，此举损害外交信誉。",
-          "url": "https://flash.jin10.com/detail/20260908045436274800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "伊朗阿曼将达成海峡协议？短期美伊局势可能出现两种情形",
-          "url": "https://flash.jin10.com/detail/20260908191007635800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "伊朗称在美战舰上空试射新反舰导弹",
-          "url": "https://wallstreetcn.com/livenews/3161418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "美国中央司令部：“布什”号航母继续在阿拉伯海执行对伊朗的封锁行动。",
-          "url": "https://flash.jin10.com/detail/20260908044942930800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "土耳其总统：以色列在该地区发动的战争账单不仅由伊朗和海湾国家支付，而是由所有人共同承担。",
-          "url": "https://flash.jin10.com/detail/20260907225437989800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗：在美战舰上空试射新反舰导弹",
-          "url": "https://flash.jin10.com/detail/20260907225338513800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗革命卫队：伊朗议会国家安全与外交政策委员会讨论了重新开放霍尔木兹海峡的条件，相关条件已转达给伊朗外长阿拉格齐。",
-          "url": "https://wallstreetcn.com/livenews/3161466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗军方：一架MQ-1无人机在阿巴斯港上空被击落",
-          "url": "https://wallstreetcn.com/livenews/3162029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "美国能源部长赖特：伊朗核协议可能永远不会达成",
-          "url": "https://wallstreetcn.com/livenews/3161410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗：加拿大歪曲了有关本地区局势的全部事实",
-          "url": "https://wallstreetcn.com/livenews/3161501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗阿尔达比勒省省长表示，当地正推动自由贸易工业区全面投入运营，将通过加强基础设施建设和扩大投资，促进该省经济发展。",
-          "url": "https://flash.jin10.com/detail/20260908023931488800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "伊朗罕见用韩语警告韩国",
@@ -374,449 +80,82 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "据塔斯尼姆通讯社：伊朗代理国防部长埃布内-礼萨表示，伊朗具备打击参与对伊朗实施经济封锁的美国军舰的能力和技术，并称“你们将见证结果”。",
-          "url": "https://flash.jin10.com/detail/20260908042349928800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "伊朗外交部：若国际原子能机构通过针对伊方的决议 伊将回应",
-          "url": "https://wallstreetcn.com/livenews/3162025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗发生恐袭 一民兵武装指挥官身亡",
-          "url": "https://www.toutiao.com/trending/7683129578089578538/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗公布一款新型导弹",
-          "url": "https://wallstreetcn.com/livenews/3161460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗外长：围绕霍尔木兹海峡临时安全航道的谈判取得“重大进展”",
-          "url": "https://wallstreetcn.com/livenews/3161892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：委内瑞拉的石油市场被俄罗斯和伊朗主导。",
-          "url": "https://flash.jin10.com/detail/20260908230358368800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗经济部设立经济战争指挥部",
-          "url": "https://wallstreetcn.com/livenews/3161400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
-          "url": "https://www.cls.cn/detail/2476309",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 09时32分]"
-        },
-        {
-          "title": "伊朗公布一款新型导弹 特朗普威胁在美禁售加拿大庞巴迪产品 | 环球市场",
-          "url": "https://www.cls.cn/detail/2476448",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
-          "url": "https://news.ifeng.com/c/8wCWRVzw04p",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 14时35分]"
-        },
-        {
-          "title": "从金发到深褐：特朗普发色突变再引“假发”猜测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34022309",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 09时32分]"
-        },
-        {
-          "title": "美加贸易战升级！加拿大拟对美国抡起50%关税大棒，特朗普威胁禁售庞巴迪飞机",
-          "url": "https://flash.jin10.com/detail/20260908092225346800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨和经济数据。",
-          "url": "https://wallstreetcn.com/livenews/3162043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
-          "url": "https://www.zhihu.com/question/2080276423739172027",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 19时48分]"
-        },
-        {
-          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 23时25分]"
-        },
-        {
-          "title": "特朗普再“画饼”：中东冲突结束后 美国汽油价格将跌破每加仑2美元",
-          "url": "https://www.cls.cn/detail/2476967",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "特朗普用AI疯狂生成假地图意欲何为",
-          "url": "https://www.toutiao.com/trending/7683111480111156742/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
-        },
-        {
-          "title": "美国总统特朗普结束讲话。",
-          "url": "https://flash.jin10.com/detail/20260908231843413800",
+          "title": "据伊朗国家媒体：伊朗联合军事指挥部表示，如果伊朗船只遭到攻击，将“重创”美国在中东的利益。",
+          "url": "https://flash.jin10.com/detail/20260909024605391800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "03时02分"
         },
         {
-          "title": "英国拟对以色列定居点实施新制裁 或将激怒特朗普",
-          "url": "https://flash.jin10.com/detail/20260908054717998800",
+          "title": "伊朗议长卡利巴夫发布漫画，讽刺美军无人潜航器被伊朗“击败”",
+          "url": "https://flash.jin10.com/detail/20260909023328286800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：商务部长卢特尼克存在“一些缺点”。",
-          "url": "https://wallstreetcn.com/livenews/3162039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "美国总统特朗普周二日程一览",
-          "url": "https://flash.jin10.com/detail/20260908091757624800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "委内瑞拉民众对与特朗普的石油协议看法分裂 半数认为美国获益更多",
-          "url": "https://wallstreetcn.com/livenews/3161910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗的封锁“非常有效”。",
-          "url": "https://wallstreetcn.com/livenews/3162037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险",
-          "url": "https://wallstreetcn.com/livenews/3161511",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "03时02分"
         },
         {
-          "title": "俄方称普京与特朗普通话“富有建设性且非常坦诚”",
-          "url": "https://wallstreetcn.com/livenews/3162035",
+          "title": "伊朗与美国正通过调解人就谈判方案与条件互通意见。 伊朗向美国提出恢复谈判的新条件。 伊朗表示没有必要退出与美国的谅解备忘录。（沙特媒体哈达斯Alhadath）",
+          "url": "https://wallstreetcn.com/livenews/3162094",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "03时02分"
         },
         {
-          "title": "特朗普发布“扩张版美国地图”：南至中美洲 东至欧洲冰岛",
-          "url": "https://flash.jin10.com/detail/20260908043348210800",
+          "title": "伊朗外长阿拉格齐：在对伊朗实施了47年制裁之后，美国代表以色列对伊朗发动战争。这场冲突给美国带来了灾难性后果，包括其全球声望受损。在通过制裁和战争均未实现目标后，华盛顿的“新方案”竟然是……更多制裁。真的吗？",
+          "url": "https://flash.jin10.com/detail/20260909022129706800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "03时02分"
         },
         {
-          "title": "特朗普谈及加拿大：如果他们想要进入我们的市场，就必须在本土建厂。 美国境内不再销售庞巴迪产品。",
-          "url": "https://wallstreetcn.com/livenews/3161463",
-          "source": "华尔街见闻-快讯",
+          "title": "美国回应伊朗“缴获”水下无人机：设备已故障且无敏感数据",
+          "url": "https://flash.jin10.com/detail/20260909020414639800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "03时02分"
         },
         {
-          "title": "中期选举成特朗普“公投”？共和党越来越难守住国会多数席位",
-          "url": "https://flash.jin10.com/detail/20260908090700702800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "美国总统特朗普吹捧股市和经济数据。",
-          "url": "https://flash.jin10.com/detail/20260908230410662800",
+          "title": "据伊朗迈赫尔通讯社：也门萨那方面消息称，沙特过去3天对也门发动超过135次空袭，也门胡塞武装挫败沙特支持力量在焦夫省亚特马市场地区的集结行动。",
+          "url": "https://flash.jin10.com/detail/20260909014821979800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特朗普发布“扩张版美国地图”：南至中美洲，东至欧洲冰岛",
-          "url": "https://wallstreetcn.com/livenews/3161496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "普京与特朗普通电话 就美总统特使访问俄乌议题交换意见",
-          "url": "https://wallstreetcn.com/livenews/3162020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特朗普威胁在美禁售加拿大庞巴迪产品",
-          "url": "https://wallstreetcn.com/livenews/3161495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "英国唐宁街：英国首相伯纳姆今日下午与美国总统特朗普通话。 谈及经济议题，伯纳姆对美国最新就业数据向特朗普表示祝贺，同时指出英国本国经济显现增长积极信号。 伯纳姆称，政府正在为英国营造更多向好态势，相关工作已取得进展，但仍有更多任务有待完成。",
-          "url": "https://wallstreetcn.com/livenews/3161453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "普京与特朗普通话讨论乌危机等问题",
-          "url": "https://www.toutiao.com/trending/7682685014257467428/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "克里姆林宫：普京与特朗普的对话富有建设性。（国际文传电讯社）",
-          "url": "https://wallstreetcn.com/livenews/3162014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "03时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
-          "url": "https://wallstreetcn.com/articles/3781214",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 09时32分]"
-        },
-        {
-          "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
-          "url": "https://wallstreetcn.com/articles/3781186",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 07时05分]"
-        },
-        {
-          "title": "OpenAI Codex产品负责人Tibo：我们将对所有付费订阅的使用情况进行全局重置，时间预计为太平洋标准时间今天下午6点左右（北京时间周二早上9点）。",
-          "url": "https://flash.jin10.com/detail/20260908063505691800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
         {
           "title": "OpenAI或证明数学七大难题之一",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
@@ -824,98 +163,93 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
           "url": "https://www.zhihu.com/question/2080654680389051865",
           "source": "知乎",
           "ranks": [
-            3
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "OpenAI发布ChatGPT Images 2.5。 DALL·E 2.5图像模型现已向所有ChatGPT、ChatGPT Enterprise与Codex用户开放，可在桌面端、移动端和网页端使用。 面向开发者，我们将在API中推出两款新模型，GPT‑IMAGE‑2.5 FLARE与GPT‑IMAGE‑2.5 SUNBURST。",
+          "url": "https://wallstreetcn.com/livenews/3162108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "03时02分"
         },
         {
-          "title": "OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”",
-          "url": "https://wallstreetcn.com/articles/3781192",
-          "source": "华尔街见闻",
+          "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
+          "url": "https://www.zhihu.com/question/2080681933982393659",
+          "source": "知乎",
           "ranks": [
-            8,
-            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "报道：OpenAI首席财务官称企业业务势头强劲",
+          "url": "https://wallstreetcn.com/livenews/3162101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "OpenAI：Images 2.5现已向所有ChatGPT、ChatGPT Work和Codex用户开放，支持桌面端、移动端和网页端使用。",
+          "url": "https://flash.jin10.com/detail/20260909023602651800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 07时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
-          "title": "苹果和OpenAI为啥反目成仇",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%92%8COpenAI%E4%B8%BA%E5%95%A5%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87",
-          "source": "bilibili 热搜",
+          "title": "OpenAI：推出ChatGPT Images 2.5。",
+          "url": "https://flash.jin10.com/detail/20260909023551502800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            30
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 07时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "OpenAI承诺出资500万美元，用于支持针对青少年群体的独立研究。",
+          "url": "https://wallstreetcn.com/livenews/3162075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek V4.1 Flash开启内测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 23时25分]"
-        },
-        {
-          "title": "DeepSeek新模型限时内测 烧钱更快了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 23时25分]"
-        },
-        {
-          "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
-          "url": "https://www.zhihu.com/question/2080678583714977593",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
-        },
-        {
-          "title": "DeepSeek V4.1 Flash好快",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1Flash%E5%A5%BD%E5%BF%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
-        },
         {
           "title": "刚刚，DeepSeek新模型内测！网友实测：快得飞起！",
           "url": "https://wallstreetcn.com/articles/3781316",
@@ -923,213 +257,131 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "DeepSeek大扩招！一次性开放150个后端/服务端工程师岗位",
-          "url": "https://wallstreetcn.com/livenews/3161683",
-          "source": "华尔街见闻-快讯",
+          "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+          "url": "https://www.zhihu.com/question/2080678583714977593",
+          "source": "知乎",
           "ranks": [
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash开启内测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "DeepSeek新模型限时内测 烧钱更快了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时04分 ~ 23时25分]"
-        },
-        {
-          "title": "【早报】美股休市；小米汽车最便宜车型出炉；黄金、白银收跌；2家券商，9月15日起停牌直至终止上市；“大肉签”公告，超1.6万股弃购",
-          "url": "https://www.cls.cn/detail/2476443",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时35分]"
-        },
         {
           "title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3781291",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "汇丰的Sels认为美股被低估 但债券收益率飙升是股市面临的最大风险",
-          "url": "https://wallstreetcn.com/livenews/3161922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
+          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
           "url": "https://wallstreetcn.com/articles/3781194",
           "source": "华尔街见闻",
           "ranks": [
-            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
+          "url": "https://wallstreetcn.com/articles/3781311",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 04时13分]"
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2477380",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "加息、金价、油价同时偏强，9月市场正在出现罕见错位？｜市场赔率数据表",
-          "url": "https://flash.jin10.com/detail/20260908142647524800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "美联储加息概率升至60%、油价逼近100美元，金价为何逆势反弹？",
-          "url": "https://wallstreetcn.com/articles/3781297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "国际金价周一跌约0.6%",
-          "url": "https://wallstreetcn.com/livenews/3161493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "别掉以轻心！伯恩斯坦警告：美债收益率上升对亚洲股市构成巨大风险",
-          "url": "https://www.cls.cn/detail/2476529",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时35分]"
-        },
-        {
-          "title": "美债才是AI泡沫的“终极杀手”？机构警告：10年期收益率破5%或成引爆点",
-          "url": "https://wallstreetcn.com/articles/3781213",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "贝森特病急乱投医？两句回应暴露美债两大死穴",
-          "url": "https://flash.jin10.com/detail/20260907230219727800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "[03时01分 ~ 03时02分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "特朗普",
       "match_count": 3,
       "titles": [
         {
-          "title": "美元指数7日下跌",
-          "url": "https://flash.jin10.com/detail/20260908032803705800",
-          "source": "金十数据",
+          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "最近24小时，现货比特币跌0.9%，暂报79202.62美元，整体震荡下行。 现货以太坊跌0.3%，暂报2491.670美元。 MarketVectorTM数字资产100小盘指数涨0.51%，MarketVectorTM数字资产100中盘指数涨1.24%，MarketVector数字资产100指数跌0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3161499",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普一次惹了20国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%83%B9%E4%BA%8620%E5%9B%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论乌危机等问题",
+          "url": "https://www.toutiao.com/trending/7682685014257467428/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "周一（9月7日）纽约尾盘，ICE美元指数跌0.25%，报98.925点，日内交投区间为99.209-98.832点，北京时间16:00前后显著扩大跌幅。 彭博美元指数跌0.20%，报1188.20点，日内交投区间为1191.29-1187.13点。",
-          "url": "https://wallstreetcn.com/livenews/3161489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         }
       ]
     },
@@ -1138,15 +390,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据悉谷歌(GOOG.O)在欧洲推出搜索结果变更，以避免新的欧盟反垄断罚款。谷歌表示，变更将降低欧洲用户的搜索结果质量，并增加企业成本。",
-          "url": "https://flash.jin10.com/detail/20260908190032176800",
-          "source": "金十数据",
+          "title": "谷歌将在美国得州部署电动卡车及充电框架",
+          "url": "https://wallstreetcn.com/livenews/3162098",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "03时02分"
         }
       ]
     }
