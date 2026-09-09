@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-09-10T05:18:25.438135+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-09-10T07:35:02.309822+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
-          "url": "https://www.cls.cn/detail/2478558",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
-        },
         {
           "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
           "url": "https://original.ifeng.com/c/8wHN09cxCTv",
@@ -27,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
+          "url": "https://www.cls.cn/detail/2478558",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
         },
         {
           "title": "伊朗打击美军基地和战舰",
@@ -36,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            23
+            23,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
         },
         {
           "title": "伊朗第一副总统：美国无权就伊朗核计划进行道德说教。",
@@ -49,9 +51,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "据伊朗Press TV：沙特的法赫德国王空军基地据悉传出数次爆炸声。（注：伊朗媒体报道阿拉伯地区遇袭信息的可靠性稍弱）",
+          "url": "https://flash.jin10.com/detail/20260910060915532800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "中国男排1:3不敌伊朗",
@@ -82,7 +95,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -98,21 +111,76 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗媒体IRNA：伊朗Sirik遭到敌人火力袭击。",
+          "url": "https://wallstreetcn.com/livenews/3162823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国国务卿鲁比奥的谎言无法取代事实。安萨尔真主组织（胡塞武装）是一个独立行动者，会自行作出决定；既不会接受任何人的指令，也不是任何其他人的代理人。",
+          "url": "https://flash.jin10.com/detail/20260910055823739800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "伊朗第一副总统在国际原子能机构决议后于X发帖表示：将坚定维护和平利用核能的权利。",
           "url": "https://wallstreetcn.com/livenews/3162781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "伊朗方面称格什姆岛传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3162821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "据伊朗媒体10日报道，伊朗南部格什姆岛海域、锡里克等地传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260910054238589800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "伊朗南部锡里克、米纳布周边传出爆炸声。（伊朗媒体法尔斯通讯社FARS）",
+          "url": "https://wallstreetcn.com/livenews/3162817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
@@ -122,8 +190,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "美媒：特朗普亲信推敲伊朗战事可能打到特朗普卸任",
+          "url": "https://flash.jin10.com/detail/20260910070957410800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美国总统特朗普的交通部成立新版太空工作组。",
@@ -132,9 +211,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普顾问告诉他，伊朗战争可能会持续到他任期结束。就伊朗战争持续时间向特朗普发出警告的包括万斯、卢比奥。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3162844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "据华尔街日报：美国官员透露，白宫高层顾问向特朗普提出一种可能性，即战事可能会拖至其任期结束。",
+          "url": "https://flash.jin10.com/detail/20260910070302255800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "耶伦等经济学家向法庭陈述：特朗普关税越权",
@@ -143,7 +244,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -155,8 +256,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
         },
         {
           "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
@@ -166,8 +267,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普关税政策现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时35分]"
         },
         {
           "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
@@ -176,20 +289,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
         {
-          "title": "特朗普关税政策现状如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "美国官员：特朗普政府正致力于达成更多药品定价协议",
+          "url": "https://flash.jin10.com/detail/20260910061925532800",
+          "source": "金十数据",
           "ranks": [
-            24
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "07时35分"
+        },
+        {
+          "title": "美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件",
+          "url": "https://wallstreetcn.com/livenews/3162828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "特朗普政府寻求防范外国风险对美国电网的威胁",
@@ -198,27 +322,27 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普专机应急滑梯因误操作弹出",
+          "url": "https://wallstreetcn.com/livenews/3162816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "OpenAI切断Adobe等企业在ChatGPT投放部分竞品AI产品广告",
-          "url": "https://wallstreetcn.com/livenews/3162806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
         {
           "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
           "url": "https://www.zhihu.com/question/2080253796941415480",
@@ -228,8 +352,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "OpenAI切断Adobe等企业在ChatGPT投放部分竞品AI产品广告",
+          "url": "https://wallstreetcn.com/livenews/3162806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "OpenAI官宣攻克千禧年难题",
@@ -240,8 +375,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
         },
         {
           "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
@@ -253,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "OpenAI收紧ChatGPT广告政策，Adobe等竞争对手遭遇限制",
+          "url": "https://flash.jin10.com/detail/20260910064849440800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "研究人员：OpenAI智能体绕过网络限制",
@@ -268,60 +414,82 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-          "url": "https://www.cls.cn/detail/2478606",
+          "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
+          "url": "https://wallstreetcn.com/articles/3781291",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "美股收盘：三大指数连跌三天 存储&光通信逆市走高",
+          "url": "https://www.cls.cn/detail/2478787",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
-          "url": "https://www.zhihu.com/question/2081037199122895830",
-          "source": "知乎",
+          "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2478595",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4
+            6,
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
         },
         {
-          "title": "曝DeepSeek正筹备科创板IPO",
-          "url": "https://www.toutiao.com/trending/7682375308184387610/",
-          "source": "今日头条",
+          "title": "美股大类资产类ETF多数收跌，小盘股指ETF跌约1.4%，地产ETF跌1%，黄金ETF涨0.9%，布油基金涨超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3162795",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
-        },
-        {
-          "title": "DeepSeek新模型要来了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "05时18分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.08%，报5826.91点，逼近6月29日收盘位5810.91点、6月25日收盘位5690.24点，美股早盘显著走低、北京时间22:00以来持续低位震荡。日线图上，中概指数8月11日跌穿100日均线、8月26日跌穿50日均线。 热门中概股里，小马智行初步收跌5.6%，美团跌4.6%，理想跌4.2%，世纪互联跌3.3%，携程、阿特斯太阳能、小米跌3.2%，网易跌2.9%，阿里巴巴跌2.6%，比亚迪跌2.5%，拼多多跌1.3%，腾讯跌1%，百度跌0.4%，日月光半导体涨3.4%，盛大科技涨20%。 ETF中，中概互联网指数ETF（KWEB）收跌2.29%，中国科技指数ETF（CQQQ）收跌1.33%。 XtrackersHarvest中证50（ASHS）收跌0.43%，MSCI新兴市场ex中国ETF（EMXC）收跌0.24%，德银嘉实沪深300指数ETF（ASHR）收跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3162780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数跌2.96%，报73.86点。 最近24小时，现货比特币跌0.21%，暂报78262美元，整体冲高回落，北京时间16:36曾达到79745.84美元。 现货以太坊跌0.65%，暂报2469.540美元。",
+          "url": "https://wallstreetcn.com/livenews/3162820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
@@ -344,19 +512,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
         },
         {
           "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
           "url": "https://wallstreetcn.com/articles/3781432",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时35分]"
+        },
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
@@ -365,60 +545,62 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
         {
-          "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
-          "url": "https://wallstreetcn.com/articles/3781291",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 05时18分]"
-        },
-        {
-          "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2478595",
+          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
+          "url": "https://www.cls.cn/detail/2478606",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "曝DeepSeek正筹备科创板IPO",
+          "url": "https://www.toutiao.com/trending/7682375308184387610/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时35分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
+          "url": "https://www.zhihu.com/question/2081037199122895830",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 05时18分]"
         },
         {
-          "title": "美股大类资产类ETF多数收跌，小盘股指ETF跌约1.4%，地产ETF跌1%，黄金ETF涨0.9%，布油基金涨超2.7%",
-          "url": "https://wallstreetcn.com/livenews/3162795",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek新模型要来了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.08%，报5826.91点，逼近6月29日收盘位5810.91点、6月25日收盘位5690.24点，美股早盘显著走低、北京时间22:00以来持续低位震荡。日线图上，中概指数8月11日跌穿100日均线、8月26日跌穿50日均线。 热门中概股里，小马智行初步收跌5.6%，美团跌4.6%，理想跌4.2%，世纪互联跌3.3%，携程、阿特斯太阳能、小米跌3.2%，网易跌2.9%，阿里巴巴跌2.6%，比亚迪跌2.5%，拼多多跌1.3%，腾讯跌1%，百度跌0.4%，日月光半导体涨3.4%，盛大科技涨20%。 ETF中，中概互联网指数ETF（KWEB）收跌2.29%，中国科技指数ETF（CQQQ）收跌1.33%。 XtrackersHarvest中证50（ASHS）收跌0.43%，MSCI新兴市场ex中国ETF（EMXC）收跌0.24%，德银嘉实沪深300指数ETF（ASHR）收跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3162780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "02时03分"
         }
       ]
     },
@@ -433,7 +615,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
