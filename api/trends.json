@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T06:04:35.465133+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-09-09T08:47:39.399837+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗军方称捕获美国无人潜艇",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "罕见！伊朗用韩文警告韩国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗贾斯克（Jask）地区传出爆炸声。当地消息人士称，爆炸声来自海上方向，靠近桑吉亚黑（Sang-e Siyah）地区。",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -85,33 +85,35 @@
           "time_info": "03时02分"
         },
         {
-          "title": "伊朗军方称捕获一艘美国无人潜艇",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E6%8D%95%E8%8E%B7%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
-        },
-        {
           "title": "伊朗公布一款新型导弹",
           "url": "https://www.douyin.com/hot/2639998",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "伊朗罕见用韩语警告韩国",
           "url": "https://www.douyin.com/hot/2640256",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
+        },
+        {
+          "title": "伊朗军方称捕获一艘美国无人潜艇",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E6%8D%95%E8%8E%B7%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -127,6 +129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "约旦武装部队称遭到来自伊朗境内导弹袭击",
+          "url": "https://wallstreetcn.com/livenews/3162231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "伊朗革命卫队打击约旦美军基地 美军称摧毁5艘伊朗运油船 | 环球市场",
+          "url": "https://www.cls.cn/detail/2477650",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "伊朗议长卡利巴夫发布漫画，讽刺美军无人潜航器被伊朗“击败”",
@@ -146,7 +170,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -173,6 +197,28 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗打击约旦美军基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BA%A6%E6%97%A6%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "约旦武装部队称遭到来自伊朗境内导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260909075319705800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
           "title": "美国回应伊朗“缴获”水下无人机：设备已故障且无敏感数据",
           "url": "https://flash.jin10.com/detail/20260909020414639800",
           "source": "金十数据",
@@ -182,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗革命卫队打击约旦美军基地",
+          "url": "https://wallstreetcn.com/livenews/3162212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：也门萨那方面消息称，沙特过去3天对也门发动超过135次空袭，也门胡塞武装挫败沙特支持力量在焦夫省亚特马市场地区的集结行动。",
@@ -201,7 +258,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -212,7 +269,171 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "约旦方面表示，其防空系统拦截并摧毁了伊朗发射的20枚导弹中的18枚，另有两枚落在远离人口密集区的地带。伊朗导弹袭击后未有人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260909073921714800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "伊朗发射导弹，打击约旦Al-Azraq空军基地。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3162207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3781291",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 06时04分]"
+        },
+        {
+          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 06时04分]"
+        },
+        {
+          "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
+          "url": "https://wallstreetcn.com/articles/3781291",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "【早报】美股光通信，逆市大涨；美袭击伊朗油轮，伊警告将打击美军所在港口；原油上涨、黄金下挫；中际旭创、江波龙发布重要公告",
+          "url": "https://www.cls.cn/detail/2477649",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 算力租赁&光通信逆市走强",
+          "url": "https://www.cls.cn/detail/2477628",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
+          "url": "https://wallstreetcn.com/articles/3781311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
+        },
+        {
+          "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2477380",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
+        },
+        {
+          "title": "A股散户吐槽美股科技股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E6%95%A3%E6%88%B7%E5%90%90%E6%A7%BD%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "新闻交易员：美股怕的不是百元油价，而是软着陆突然失灵",
+          "url": "https://flash.jin10.com/detail/20260909081159708800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "美股 光通信",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%20%E5%85%89%E9%80%9A%E4%BF%A1&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "美股 光通信",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1+%E5%85%89%E9%80%9A%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数收涨0.87%，报76.12点。 最近24小时，比特币跌0.92%，暂报78497.62美元，整体持续走低、北京时间21:52刷新期内最低位至77608.50美元。 以太坊跌0.4%，报2485.297美元，21:41也曾跌至2440.725美元。",
+          "url": "https://wallstreetcn.com/livenews/3162166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
@@ -231,19 +452,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "OpenAI或证明数学七大难题之一",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "OpenAI发布ChatGPT Images 2.5。 DALL·E 2.5图像模型现已向所有ChatGPT、ChatGPT Enterprise与Codex用户开放，可在桌面端、移动端和网页端使用。 面向开发者，我们将在API中推出两款新模型，GPT‑IMAGE‑2.5 FLARE与GPT‑IMAGE‑2.5 SUNBURST。",
@@ -261,11 +483,12 @@
           "url": "https://www.zhihu.com/question/2080681933982393659",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "报道：OpenAI首席财务官称企业业务势头强劲",
@@ -307,7 +530,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -318,7 +541,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -337,8 +560,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "博主：特朗普中期选举被自己亲手烧掉",
+          "url": "https://www.toutiao.com/trending/7683195621762666025/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
         {
           "title": "提醒：美国财长贝森特在讲话中描述“民主党人在2026年中期选举中获胜”情况下（共和党总统特朗普）的财政计划。",
           "url": "https://wallstreetcn.com/livenews/3162184",
@@ -346,7 +580,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -355,11 +589,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
         },
         {
           "title": "特朗普一次惹了20国",
@@ -374,6 +609,18 @@
           "time_info": "[03时01分 ~ 06时04分]"
         },
         {
+          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+          "url": "https://www.zhihu.com/question/2080276423739172027",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 08时47分]"
+        },
+        {
           "title": "普京与特朗普通话讨论乌危机等问题",
           "url": "https://www.toutiao.com/trending/7682685014257467428/",
           "source": "今日头条",
@@ -385,15 +632,15 @@
           "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
-          "url": "https://www.zhihu.com/question/2080276423739172027",
-          "source": "知乎",
+          "title": "美国官员：特朗普正在考虑针对庞巴迪的选项方案。",
+          "url": "https://wallstreetcn.com/livenews/3162222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "08时47分"
         },
         {
           "title": "特朗普拟取消加拿大超500亿美元GSA采购计划资格",
@@ -402,7 +649,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -413,78 +660,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3781291",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
         },
         {
-          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
-        },
-        {
-          "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
-          "url": "https://wallstreetcn.com/articles/3781311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
-        },
-        {
-          "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2477380",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数收涨0.87%，报76.12点。 最近24小时，比特币跌0.92%，暂报78497.62美元，整体持续走低、北京时间21:52刷新期内最低位至77608.50美元。 以太坊跌0.4%，报2485.297美元，21:41也曾跌至2440.725美元。",
-          "url": "https://wallstreetcn.com/livenews/3162166",
+          "title": "特朗普修改加拿大汽车关税范围，拟禁止进口部分乳品和汽车",
+          "url": "https://wallstreetcn.com/livenews/3162208",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "08时47分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "刚刚，DeepSeek新模型内测！网友实测：快得飞起！",
@@ -492,11 +687,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时47分]"
+        },
+        {
+          "title": "怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？",
+          "url": "https://www.zhihu.com/question/2080799652820029727",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "DeepSeek新模型限时内测 烧钱更快了",
@@ -530,6 +737,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "DeepSeek官宣调整flash系列模型定价",
+          "url": "https://wallstreetcn.com/livenews/3162232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "DeepSeek宣布明日下调Flash系列API价格",
+          "url": "https://flash.jin10.com/detail/20260909075039809800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     },
@@ -555,7 +784,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
@@ -570,11 +799,12 @@
           "url": "https://wallstreetcn.com/articles/3781297",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 08时47分]"
         },
         {
           "title": "国际金价跌1%，纽约期铜涨超1.3%一度逼近6.9美元关口",
@@ -583,7 +813,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
@@ -591,7 +821,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华尔街关注贝森特美债回购规模 分析师称或达100亿美元上限",
@@ -600,9 +830,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美债回购周三揭晓，贝森特放狠话：不是QE！转身喊话日元空头“我就是庄家”",
+          "url": "https://flash.jin10.com/detail/20260909075430217800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     }
