@@ -1,22 +1,263 @@
 {
-  "generated_at": "2026-09-10T07:35:02.309822+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-09-10T09:34:51.900943+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
+          "url": "https://www.cls.cn/detail/2478633",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
+        },
+        {
+          "title": "美媒：特朗普亲信推敲伊朗战事可能打到特朗普卸任",
+          "url": "https://flash.jin10.com/detail/20260910070957410800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "美国总统特朗普的交通部成立新版太空工作组。",
+          "url": "https://wallstreetcn.com/livenews/3162810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普预告战事将终结 伊朗开出条件",
+          "url": "https://www.toutiao.com/trending/7683678605951372809/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "特朗普顾问告诉他，伊朗战争可能会持续到他任期结束。就伊朗战争持续时间向特朗普发出警告的包括万斯、卢比奥。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3162844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "据华尔街日报：美国官员透露，白宫高层顾问向特朗普提出一种可能性，即战事可能会拖至其任期结束。",
+          "url": "https://flash.jin10.com/detail/20260910070302255800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "耶伦等经济学家向法庭陈述：特朗普关税越权",
+          "url": "https://wallstreetcn.com/livenews/3162808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
+          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
+        },
+        {
+          "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
+          "url": "https://news.ifeng.com/c/8wHQAosMaqt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
+        },
+        {
+          "title": "特朗普关税政策现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 09时34分]"
+        },
+        {
+          "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
+          "url": "https://www.cls.cn/detail/2478653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 09时34分]"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普登台为中期选举陈述共和党主张。",
+          "url": "https://flash.jin10.com/detail/20260910091435214800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "美伊战事中期选举后“终结”！特朗普抛最新时间表 伊朗重申止战条件",
+          "url": "https://www.cls.cn/detail/2478825",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "特朗普称美伊战事将在中期选举后“立即终结” | 环球市场",
+          "url": "https://www.cls.cn/detail/2478812",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "特朗普在美国共和党全国代表大会上发表主旨演讲：就当我的名字出现在今年11月的选票上吧。",
+          "url": "https://wallstreetcn.com/livenews/3162887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后在达拉斯美国航空中心发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260910090500001800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "美国官员：特朗普政府正致力于达成更多药品定价协议",
+          "url": "https://flash.jin10.com/detail/20260910061925532800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件",
+          "url": "https://wallstreetcn.com/livenews/3162828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "曝特朗普未反对英国等国涉以制裁",
+          "url": "https://www.toutiao.com/trending/7683674493318860314/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "特朗普政府寻求防范外国风险对美国电网的威胁",
+          "url": "https://wallstreetcn.com/livenews/3162774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普专机应急滑梯因误操作弹出",
+          "url": "https://wallstreetcn.com/livenews/3162816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
           "url": "https://original.ifeng.com/c/8wHN09cxCTv",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
         },
         {
           "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
@@ -32,6 +273,17 @@
           "time_info": "[02时03分 ~ 07时35分]"
         },
         {
+          "title": "被伊朗警告后，韩国还派兵吗？",
+          "url": "https://news.ifeng.com/c/8wHYX9oATYv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
           "title": "伊朗打击美军基地和战舰",
           "url": "https://www.douyin.com/hot/2641814",
           "source": "抖音",
@@ -41,8 +293,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
+        },
+        {
+          "title": "中国男排1:3不敌伊朗",
+          "url": "https://www.douyin.com/hot/2642210",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 09时34分]"
         },
         {
           "title": "伊朗第一副总统：美国无权就伊朗核计划进行道德说教。",
@@ -56,26 +320,26 @@
           "time_info": "05时18分"
         },
         {
+          "title": "霍尔木兹海峡风险骤升！伊朗称将设立新的海上“制裁区域”，布油重返100美元",
+          "url": "https://wallstreetcn.com/articles/3781415",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
           "title": "据伊朗Press TV：沙特的法赫德国王空军基地据悉传出数次爆炸声。（注：伊朗媒体报道阿拉伯地区遇袭信息的可靠性稍弱）",
           "url": "https://flash.jin10.com/detail/20260910060915532800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "中国男排1:3不敌伊朗",
-          "url": "https://www.douyin.com/hot/2642210",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "07时35分"
         },
         {
           "title": "伊朗媒体报道称，一艘油轮在霍尔木兹海峡遭到袭击。（沙特媒体哈达斯Alhadath）",
@@ -111,13 +375,24 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗批评国际原子能机构理事会通过的伊核问题决议",
+          "url": "https://wallstreetcn.com/livenews/3162874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
           "title": "伊朗媒体IRNA：伊朗Sirik遭到敌人火力袭击。",
           "url": "https://wallstreetcn.com/livenews/3162823",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -128,7 +403,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -150,7 +425,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -161,7 +436,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -172,168 +447,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
-          "url": "https://www.cls.cn/detail/2478633",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
-        },
-        {
-          "title": "美媒：特朗普亲信推敲伊朗战事可能打到特朗普卸任",
-          "url": "https://flash.jin10.com/detail/20260910070957410800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "美国总统特朗普的交通部成立新版太空工作组。",
-          "url": "https://wallstreetcn.com/livenews/3162810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "特朗普顾问告诉他，伊朗战争可能会持续到他任期结束。就伊朗战争持续时间向特朗普发出警告的包括万斯、卢比奥。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3162844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "据华尔街日报：美国官员透露，白宫高层顾问向特朗普提出一种可能性，即战事可能会拖至其任期结束。",
-          "url": "https://flash.jin10.com/detail/20260910070302255800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "耶伦等经济学家向法庭陈述：特朗普关税越权",
-          "url": "https://wallstreetcn.com/livenews/3162808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
-          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
-          "url": "https://news.ifeng.com/c/8wHQAosMaqt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普关税政策现状如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时35分]"
-        },
-        {
-          "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
-          "url": "https://www.cls.cn/detail/2478653",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美国官员：特朗普政府正致力于达成更多药品定价协议",
-          "url": "https://flash.jin10.com/detail/20260910061925532800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件",
-          "url": "https://wallstreetcn.com/livenews/3162828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "特朗普政府寻求防范外国风险对美国电网的威胁",
-          "url": "https://wallstreetcn.com/livenews/3162774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "特朗普专机应急滑梯因误操作弹出",
-          "url": "https://wallstreetcn.com/livenews/3162816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -341,7 +455,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
@@ -352,8 +466,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
         },
         {
           "title": "OpenAI切断Adobe等企业在ChatGPT投放部分竞品AI产品广告",
@@ -375,8 +489,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
         },
         {
           "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
@@ -386,8 +500,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 09时34分]"
+        },
+        {
+          "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
+          "url": "https://wallstreetcn.com/articles/3781412",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "09时34分"
         },
         {
           "title": "OpenAI收紧ChatGPT广告政策，Adobe等竞争对手遭遇限制",
@@ -396,9 +521,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "加州州长签署获Anthropic和OpenAI支持的AI安全法案",
+          "url": "https://flash.jin10.com/detail/20260910084752562800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "研究人员：OpenAI智能体绕过网络限制",
@@ -433,11 +569,12 @@
           "url": "https://www.cls.cn/detail/2478787",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 09时34分]"
         },
         {
           "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
@@ -481,7 +618,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -491,6 +628,31 @@
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 09时34分]"
+        },
+        {
+          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
+          "url": "https://wallstreetcn.com/articles/3781432",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 09时34分]"
+        },
         {
           "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
           "url": "https://wallstreetcn.com/articles/3781389",
@@ -516,29 +678,6 @@
           "time_info": "[02时03分 ~ 07时35分]"
         },
         {
-          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
-          "url": "https://wallstreetcn.com/articles/3781432",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时35分]"
-        },
-        {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
           "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
           "url": "https://wallstreetcn.com/livenews/3162773",
           "source": "华尔街见闻-快讯",
@@ -556,6 +695,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "曝DeepSeek正筹备科创板IPO",
+          "url": "https://www.toutiao.com/trending/7682375308184387610/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 09时34分]"
+        },
+        {
           "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
           "url": "https://www.cls.cn/detail/2478606",
           "source": "财联社热门",
@@ -563,17 +714,6 @@
             2,
             1,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时35分]"
-        },
-        {
-          "title": "曝DeepSeek正筹备科创板IPO",
-          "url": "https://www.toutiao.com/trending/7682375308184387610/",
-          "source": "今日头条",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
