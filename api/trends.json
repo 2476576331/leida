@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T19:52:33.092793+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-09-11T23:18:23.482272+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
@@ -31,6 +31,17 @@
           "time_info": "[02时43分 ~ 09时33分]"
         },
         {
+          "title": "美研究员发出“末日警告”，特朗普：一点不担心",
+          "url": "https://news.ifeng.com/c/8wKy1i5xyaT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普称不后悔对伊朗开战",
           "url": "https://news.ifeng.com/c/8wKJwXU2xzx",
           "source": "凤凰网",
@@ -53,17 +64,6 @@
           "time_info": "09时33分"
         },
         {
-          "title": "美研究员发出“末日警告”，特朗普：一点不担心",
-          "url": "https://news.ifeng.com/c/8wKy1i5xyaT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "美柴油价格冲破6美元！特朗普中期选举的政治包袱越来越大",
           "url": "https://flash.jin10.com/detail/20260911093006702800",
           "source": "金十数据",
@@ -81,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -132,8 +132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 23时18分]"
         },
         {
           "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
@@ -159,6 +159,17 @@
           "time_info": "[09时33分 ~ 14时41分]"
         },
         {
+          "title": "沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝",
+          "url": "https://news.ifeng.com/c/8wKo2D5E3dD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普称如果伊朗有核武就不打它了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A6%82%E6%9E%9C%E4%BC%8A%E6%9C%97%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%B0%B1%E4%B8%8D%E6%89%93%E5%AE%83%E4%BA%86%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -176,7 +187,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -203,15 +214,15 @@
           "time_info": "07时28分"
         },
         {
-          "title": "沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝",
-          "url": "https://news.ifeng.com/c/8wKo2D5E3dD",
-          "source": "凤凰网",
+          "title": "特朗普驳斥AI末日论：我只担心发展的不够快",
+          "url": "https://www.cls.cn/detail/2481122",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普力推对委石油投资，传统企业谨慎，“门外汉”抢抓机遇",
@@ -280,6 +291,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "美国密歇根大学消费者信心调查主任Joanne Hsu在一份声明中表示：本月对特朗普政府经济政策的看法恶化了约10%，且仍远低于2026年2月的水平，即伊朗冲突爆发前夕。 值得注意的是，即使是通常支持现任政府经济政策的共和党人，其好感度也出现了明显下降。",
+          "url": "https://wallstreetcn.com/livenews/3164008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普称派发5000美元无需国会批准",
           "url": "https://wallstreetcn.com/livenews/3163504",
           "source": "华尔街见闻-快讯",
@@ -338,7 +360,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗拦截1艘美国无人水面艇",
@@ -351,6 +373,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时43分 ~ 14时41分]"
+        },
+        {
+          "title": "“伊朗发了一条消息，嘲讽美国”",
+          "url": "https://news.ifeng.com/c/8wKuxrz593c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 23时18分]"
+        },
+        {
+          "title": "霍尔木兹传来新消息？伊朗与海湾六国下周会晤 油价应声走低",
+          "url": "https://www.cls.cn/detail/2480923",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 23时18分]"
+        },
+        {
+          "title": "印度外交部：在与伊朗总统佩泽希齐扬的会晤中，印度总理莫迪强调了确保该地区持久和平与稳定的持续努力的重要性。",
+          "url": "https://flash.jin10.com/detail/20260911225322991800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "Anthropic披露Claude危险使用案例 声称有伊朗账户用于威胁美军目标",
@@ -375,15 +430,15 @@
           "time_info": "02时44分"
         },
         {
-          "title": "“伊朗发了一条消息，嘲讽美国”",
-          "url": "https://news.ifeng.com/c/8wKuxrz593c",
-          "source": "凤凰网",
+          "title": "印度外交部：莫迪总理在与伊朗总统会晤中强调，须维护航行与商业自由，保障船员的安全与福祉。",
+          "url": "https://wallstreetcn.com/livenews/3164031",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "23时18分"
         },
         {
           "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
@@ -399,15 +454,16 @@
           "time_info": "[07时28分 ~ 19时52分]"
         },
         {
-          "title": "霍尔木兹传来新消息？伊朗与海湾六国下周会晤 油价应声走低",
-          "url": "https://www.cls.cn/detail/2480923",
-          "source": "财联社热门",
+          "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
+          "url": "https://wallstreetcn.com/articles/3781565",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 23时18分]"
         },
         {
           "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
@@ -418,19 +474,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 19时52分]"
-        },
-        {
-          "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
-          "url": "https://wallstreetcn.com/articles/3781565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 23时18分]"
         },
         {
           "title": "美媒称伊朗恢复生产弹道导弹",
@@ -450,7 +495,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -497,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "伊朗说14日将在阿曼开会讨论霍尔木兹海峡商运航线",
+          "url": "https://wallstreetcn.com/livenews/3164017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：国际原子能机构理事会通过的反伊朗决议非法、缺乏技术依据，是政治化产物，受到美国和以色列压力影响；国际原子能机构的行为可能推动更多国家退出不扩散核武器条约。",
@@ -582,9 +638,183 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 05时15分]"
+        },
+        {
+          "title": "CPI前夜，美债先“动手”了：加息概率突破七成，10年期收益率逼近5%",
+          "url": "https://flash.jin10.com/detail/20260911065203454800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+          "url": "https://wallstreetcn.com/articles/3781549",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "贝森特淡化美债回购担忧，称债市状况强劲",
+          "url": "https://wallstreetcn.com/livenews/3163533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美债收益率上涨，此前回购规模没能达到目标",
+          "url": "https://wallstreetcn.com/livenews/3163428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "url": "https://wallstreetcn.com/articles/3781454",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时28分]"
+        },
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 05时15分]"
+        },
+        {
+          "title": "全球市场的“终极考验”来了：10年期美债收益率兵临5%！",
+          "url": "https://www.cls.cn/detail/2480317",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 19时52分]"
+        },
+        {
+          "title": "美债回购规模低于预期 贝森特淡化市场担忧",
+          "url": "https://flash.jin10.com/detail/20260911063612879800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "长端美债价格走高，市场计入年内美联储加息溢价",
+          "url": "https://wallstreetcn.com/livenews/3164021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美国财政部10至20年期美债回购未达60亿美元上限",
+          "url": "https://flash.jin10.com/detail/20260911020505654800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国财政部又想“管住”美债收益率，市场再次说不",
+          "url": "https://flash.jin10.com/detail/20260911141916879800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
+          "url": "https://wallstreetcn.com/livenews/3163507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应",
+          "url": "https://wallstreetcn.com/livenews/3163541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
+          "url": "https://wallstreetcn.com/livenews/3163460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -765,160 +995,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
-          "url": "https://wallstreetcn.com/articles/3781481",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时15分]"
-        },
-        {
-          "title": "CPI前夜，美债先“动手”了：加息概率突破七成，10年期收益率逼近5%",
-          "url": "https://flash.jin10.com/detail/20260911065203454800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "贝森特淡化美债回购担忧，称债市状况强劲",
-          "url": "https://wallstreetcn.com/livenews/3163533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美债收益率上涨，此前回购规模没能达到目标",
-          "url": "https://wallstreetcn.com/livenews/3163428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
-          "url": "https://wallstreetcn.com/articles/3781454",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 07时28分]"
-        },
-        {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时15分]"
-        },
-        {
-          "title": "全球市场的“终极考验”来了：10年期美债收益率兵临5%！",
-          "url": "https://www.cls.cn/detail/2480317",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 19时52分]"
-        },
-        {
-          "title": "美债回购规模低于预期 贝森特淡化市场担忧",
-          "url": "https://flash.jin10.com/detail/20260911063612879800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美国财政部10至20年期美债回购未达60亿美元上限",
-          "url": "https://flash.jin10.com/detail/20260911020505654800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国财政部又想“管住”美债收益率，市场再次说不",
-          "url": "https://flash.jin10.com/detail/20260911141916879800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
-          "url": "https://wallstreetcn.com/livenews/3163507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应",
-          "url": "https://wallstreetcn.com/livenews/3163541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
-          "url": "https://wallstreetcn.com/livenews/3163460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI或再推进数学七大难题",
@@ -929,8 +1007,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时33分 ~ 23时18分]"
         },
         {
           "title": "如何评价贝赫和斯维纳通 - 戴尔猜想（BSD 猜想，七大千禧难题）疑被 OpenAI 或 Anthropic 解决？",
@@ -999,13 +1077,24 @@
           "time_info": "09时33分"
         },
         {
+          "title": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+          "url": "https://wallstreetcn.com/articles/3781534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "奥尔特曼称OpenAI或放缓AI研发",
           "url": "https://www.douyin.com/hot/2644634",
           "source": "抖音",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
