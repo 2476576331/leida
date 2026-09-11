@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T07:28:31.166280+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-09-11T09:33:56.961327+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
@@ -15,19 +15,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 09时33分]"
         },
         {
           "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
           "url": "https://wallstreetcn.com/articles/3781501",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普祝贺德极右翼后被默茨取消通话",
+          "url": "https://www.toutiao.com/trending/7683178689881735210/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "美柴油价格冲破6美元！特朗普中期选举的政治包袱越来越大",
+          "url": "https://flash.jin10.com/detail/20260911093006702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "加拿大总理卡尼称近日已与特朗普通话。",
@@ -60,8 +83,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 07时28分]"
+          "time_info": "[07时28分 ~ 09时33分]"
         },
         {
           "title": "加拿大总理卡尼：在最近几天与美国总统特朗普聊了几次。",
@@ -81,18 +116,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-          "url": "https://wallstreetcn.com/articles/3781496",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -103,9 +127,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "胡塞武装占领红海战略要地 特朗普称派发5000美元无需国会批准 | 环球市场",
+          "url": "https://www.cls.cn/detail/2480152",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "加拿大总理卡尼：最近与美国总统特朗普进行了交谈。",
@@ -136,7 +171,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -147,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -169,9 +204,53 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普称不后悔对伊朗开战",
+          "url": "https://flash.jin10.com/detail/20260911091152400800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "经济学家称：特朗普提议的5000美元选举“红利”可能加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3163557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普：伊朗有一些导弹，大部分已被摧毁。",
+          "url": "https://wallstreetcn.com/livenews/3163539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普：将通过经济增长来处理40万亿美元债务问题。",
+          "url": "https://wallstreetcn.com/livenews/3163538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         }
       ]
     },
@@ -187,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 09时33分]"
         },
         {
           "title": "Anthropic披露Claude危险使用案例 声称有伊朗账户用于威胁美军目标",
@@ -213,6 +292,18 @@
           "time_info": "02时44分"
         },
         {
+          "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34045770",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时33分]"
+        },
+        {
           "title": "美媒称伊朗恢复生产弹道导弹",
           "url": "https://wallstreetcn.com/livenews/3163425",
           "source": "华尔街见闻-快讯",
@@ -222,17 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34045770",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗总统佩泽希齐扬将于当地时间明日前往印度新德里参加第十八届金砖国家峰会。",
@@ -274,7 +354,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -307,7 +387,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -329,7 +409,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -348,7 +428,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
@@ -356,22 +436,35 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 09时33分]"
         },
         {
           "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
           "url": "https://www.cls.cn/detail/2480136",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时33分]"
+        },
+        {
+          "title": "【早报】油价大涨，黄金、白银大跌；美股存储板块，集体回落；燧原科技，今日上市；甲骨文，业绩超预期",
+          "url": "https://www.cls.cn/detail/2480154",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "09时33分"
         },
         {
           "title": "周四（9月10日），美股行业ETF普遍收跌，半导体ETF跌2.44%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF至多跌1.53%，网络股指数跌0.84%，能源业ETF跌0.58%，银行业ETF涨0.43%，区域银行ETF涨0.49%。",
@@ -435,7 +528,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -457,9 +550,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美股三大指数4连跌 SK海力士跌超5%",
+          "url": "https://www.toutiao.com/trending/7684043643438501418/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌3.45%，报71.31点，跳空低开、盘初刷新日低至70.88点，整体低位震荡。 最近24小时，现货比特币跌1.22%，暂报77248.19美元，北京时间20:00过后出现一波短线加速下跌行情。 现货以太坊跌0.38%，报2460.125美元，21:12跌至2405.248美元——前后短时呈现出V形走势。",
@@ -468,7 +572,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -476,7 +580,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
@@ -496,7 +600,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -507,7 +611,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -553,7 +657,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -575,9 +679,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应",
+          "url": "https://wallstreetcn.com/livenews/3163541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
@@ -594,8 +709,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI或再推进数学七大难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
         {
           "title": "OpenAICodex产品负责人Tibo：OpenAI为了确保现有用户能够获得出色的体验，并继续使用Astra，我们将暂停订阅每月200美元的Pro计划。 该计划对我们的系统造成的压力最大，因此我们希望采取最小幅度的调整，以便继续为尽可能多的用户提供访问权限。 其他所有套餐以及API服务仍可正常使用。现有账户不会受到任何影响，我们正在尽快增加更多容量。",
           "url": "https://wallstreetcn.com/livenews/3163431",
@@ -617,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "Sam Altman告知员工：OpenAI对放慢顶尖AI的研发速度持开放态度",
+          "url": "https://wallstreetcn.com/livenews/3163566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "OpenAI：就设计问题与摩根士丹利、Evercore ISI合作。",
@@ -691,11 +828,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 09时33分]"
         }
       ]
     },
