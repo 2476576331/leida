@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-11T09:33:56.961327+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-09-11T14:41:10.425864+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
+          "url": "https://wallstreetcn.com/articles/3781501",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时43分 ~ 14时41分]"
+        },
         {
           "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
           "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
@@ -19,16 +31,15 @@
           "time_info": "[02时43分 ~ 09时33分]"
         },
         {
-          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
-          "url": "https://wallstreetcn.com/articles/3781501",
-          "source": "华尔街见闻",
+          "title": "特朗普称不后悔对伊朗开战",
+          "url": "https://news.ifeng.com/c/8wKJwXU2xzx",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 09时33分]"
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "特朗普祝贺德极右翼后被默茨取消通话",
@@ -37,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -64,6 +75,32 @@
           "time_info": "02时44分"
         },
         {
+          "title": "美伊战事或持续至2029年？万斯、鲁比奥私下警告特朗普：卸任前都打不完",
+          "url": "https://www.cls.cn/detail/2480029",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时15分 ~ 14时41分]"
+        },
+        {
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 14时41分]"
+        },
+        {
           "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
           "url": "https://www.cls.cn/detail/2479400",
           "source": "财联社热门",
@@ -75,28 +112,38 @@
           "time_info": "[02时43分 ~ 05时15分]"
         },
         {
-          "title": "美伊战事或持续至2029年？万斯、鲁比奥私下警告特朗普：卸任前都打不完",
-          "url": "https://www.cls.cn/detail/2480029",
+          "title": "胡塞武装占领红海战略要地 特朗普称派发5000美元无需国会批准 | 环球市场",
+          "url": "https://www.cls.cn/detail/2480152",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时15分 ~ 09时33分]"
+          "time_info": "[09时33分 ~ 14时41分]"
         },
         {
-          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-          "url": "https://wallstreetcn.com/articles/3781496",
+          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
+          "url": "https://wallstreetcn.com/articles/3781540",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时33分]"
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
+          "title": "特朗普称如果伊朗有核武就不打它了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A6%82%E6%9E%9C%E4%BC%8A%E6%9C%97%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%B0%B1%E4%B8%8D%E6%89%93%E5%AE%83%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "加拿大总理卡尼：在最近几天与美国总统特朗普聊了几次。",
@@ -130,17 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "胡塞武装占领红海战略要地 特朗普称派发5000美元无需国会批准 | 环球市场",
-          "url": "https://www.cls.cn/detail/2480152",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
         },
         {
           "title": "加拿大总理卡尼：最近与美国总统特朗普进行了交谈。",
@@ -215,7 +251,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -226,7 +262,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -237,7 +273,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -248,7 +284,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -256,18 +292,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗拦截1艘美国无人水面艇",
           "url": "https://news.ifeng.com/c/8wJoPOwElX7",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 09时33分]"
+          "appearance_count": 7,
+          "time_info": "[02时43分 ~ 14时41分]"
         },
         {
           "title": "Anthropic披露Claude危险使用案例 声称有伊朗账户用于威胁美军目标",
@@ -300,8 +337,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 14时41分]"
+        },
+        {
+          "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
+          "url": "https://wallstreetcn.com/articles/3781524",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时33分]"
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "美媒称伊朗恢复生产弹道导弹",
@@ -414,6 +462,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "巴基斯坦消息人士：伊朗外交部长与巴基斯坦军方首席讨论了恢复外交努力以在各个方面缓解冲突的途径。双方的会谈聚焦于美伊战争、重返谈判的可能性，以及胡塞武装对沙特阿拉伯的袭击。",
+          "url": "https://flash.jin10.com/detail/20260911141412644800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "据伊朗国家媒体报道：伊朗革命卫队称在霍尔木兹海峡击中了美国无人舰艇。",
           "url": "https://wallstreetcn.com/livenews/3163399",
           "source": "华尔街见闻-快讯",
@@ -428,7 +487,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
@@ -449,22 +508,35 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 14时41分]"
         },
         {
           "title": "【早报】油价大涨，黄金、白银大跌；美股存储板块，集体回落；燧原科技，今日上市；甲骨文，业绩超预期",
           "url": "https://www.cls.cn/detail/2480154",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 14时41分]"
+        },
+        {
+          "title": "9月11日投资避雷针：国际油价大涨超6% 黄金、白银重挫 美股半导体全线下跌",
+          "url": "https://www.cls.cn/detail/2480197",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "周四（9月10日），美股行业ETF普遍收跌，半导体ETF跌2.44%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF至多跌1.53%，网络股指数跌0.84%，能源业ETF跌0.58%，银行业ETF涨0.43%，区域银行ETF涨0.49%。",
@@ -544,6 +616,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "国际油价走低，布伦特原油日内跌幅达2.0%，报105.46美元/桶；美股股指期货短线拉升，纳指期货日内转涨，现涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3163673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "周四（9月10日），美股存储芯片与硬件供应链指数跌4.28%，报205.62点，跳空低开之后低位窄幅震荡，成分股全线溃败，拉姆研究收跌5.65%，SK海力士ADR跌5.2%，美光、西部数据、闪迪至少跌4.06%，泰瑞达、应用材料至少跌3.17%，希捷科技、Rambus至少跌2.62%。 信息科技指数跌2.42%，报414.93点，跳空低开之后低位震荡。 人工智能（AI）赢家指数跌2.82%，报402.69点，跳空低开之后低位企稳。 AI软件先驱指数跌0.91%，报125.67点，低开之后冲高回落。",
           "url": "https://wallstreetcn.com/livenews/3163503",
           "source": "华尔街见闻-快讯",
@@ -561,7 +644,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -580,7 +663,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
@@ -651,6 +734,17 @@
           "time_info": "[02时43分 ~ 05时15分]"
         },
         {
+          "title": "全球市场的“终极考验”来了：10年期美债收益率兵临5%！",
+          "url": "https://www.cls.cn/detail/2480317",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
           "title": "美债回购规模低于预期 贝森特淡化市场担忧",
           "url": "https://flash.jin10.com/detail/20260911063612879800",
           "source": "金十数据",
@@ -673,6 +767,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "美国财政部又想“管住”美债收益率，市场再次说不",
+          "url": "https://flash.jin10.com/detail/20260911141916879800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
           "url": "https://wallstreetcn.com/livenews/3163507",
           "source": "华尔街见闻-快讯",
@@ -690,7 +795,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -709,18 +814,18 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
-          "title": "OpenAI或再推进数学七大难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "如何评价贝赫和斯维纳通 - 戴尔猜想（BSD 猜想，七大千禧难题）疑被 OpenAI 或 Anthropic 解决？",
+          "url": "https://www.zhihu.com/question/2081426911943718567",
+          "source": "知乎",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "OpenAICodex产品负责人Tibo：OpenAI为了确保现有用户能够获得出色的体验，并继续使用Astra，我们将暂停订阅每月200美元的Pro计划。 该计划对我们的系统造成的压力最大，因此我们希望采取最小幅度的调整，以便继续为尽可能多的用户提供访问权限。 其他所有套餐以及API服务仍可正常使用。现有账户不会受到任何影响，我们正在尽快增加更多容量。",
@@ -745,13 +850,47 @@
           "time_info": "02时44分"
         },
         {
+          "title": "OpenAI或再推进数学七大难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 14时41分]"
+        },
+        {
+          "title": "OpenAI高管：人类正失去对AI系统控制",
+          "url": "https://www.toutiao.com/trending/7683866843341147691/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
+          "title": "ChatGPT Pro 200美元档停售",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
           "title": "Sam Altman告知员工：OpenAI对放慢顶尖AI的研发速度持开放态度",
           "url": "https://wallstreetcn.com/livenews/3163566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
