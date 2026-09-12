@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:43:30.001342+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-09-13T05:44:23.613704+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时44分]"
         },
         {
           "title": "“胡塞武装粉碎了特朗普的计划”",
@@ -25,9 +25,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时44分]"
         },
         {
           "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "俄方不排除普京和特朗普在中国会晤",
@@ -58,11 +59,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普7400万美元广告砸向关键选区",
@@ -70,11 +72,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普：与委内瑞拉人相处得非常好，他们现在非常开心。 爱尔兰正在扩大军事投资。 美国国防工业基础正在迅速增长。 对美国武器的需求“惊人”，包括爱国者系统。 （谈毒品走私）我们尚未聚焦陆地渠道。 英国必须像美国一样遣返犯罪移民。",
@@ -84,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普盛赞就业形势，将工厂建设归功于关税。 特朗普批评欧洲的商业监管“不可接受”。",
@@ -95,8 +98,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
@@ -106,8 +109,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普称赞美国股市是“独一无二的”。",
@@ -117,8 +120,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "特朗普：关于爱尔兰统一，无论怎样回答都不讨好。",
@@ -128,8 +131,19 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
+        },
+        {
+          "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
+          "url": "https://news.ifeng.com/c/8wMngvlWOwB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "time_info": "[03时43分 ~ 05时44分]"
         },
         {
           "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
@@ -143,24 +157,13 @@
           "time_info": "01时28分"
         },
         {
-          "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
-          "url": "https://news.ifeng.com/c/8wMngvlWOwB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
           "title": "爱尔兰总统告诉特朗普：“战争和种族灭绝正常化”不可接受",
           "url": "https://flash.jin10.com/detail/20260913012241241800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -168,7 +171,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗总统：目前无法做出与美国直接谈判的决定，美国必须停止封锁",
@@ -178,8 +181,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与伊拉克外长通话确认，有必要继续就共同边境安全保持协调。",
+          "url": "https://flash.jin10.com/detail/20260913050839757800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "据伊朗Press TV：卫星图像显示沙特阿拉伯阿布哈的阿美石油至少有六个油库遭受了严重损坏。",
@@ -201,8 +215,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "知情人士：伊朗和阿曼达成的协议并不意味着霍尔木兹海峡开放",
@@ -233,11 +247,12 @@
           "url": "https://flash.jin10.com/detail/20260913020613882800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时44分]"
         },
         {
           "title": "据伊朗国家媒体：在格什姆岛听到两声爆炸声，声音来自海上。",
@@ -246,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -268,7 +283,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -297,30 +312,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "奥尔特曼：OpenAI今年不会上市 仍有大量安全工作需要完成",
           "url": "https://flash.jin10.com/detail/20260913033345855800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时44分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：鉴于OpenAI还有很多安全方面的工作要做，公司今年不会上市。",
           "url": "https://flash.jin10.com/detail/20260913032928385800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时44分]"
         },
         {
           "title": "OpenAI 创始人：同意Anthropic的看法 正讨论如何控制前沿模型进展",
@@ -338,7 +355,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
@@ -348,8 +365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -359,8 +376,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
+        },
+        {
+          "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
+          "url": "https://wallstreetcn.com/articles/3781632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     },
@@ -377,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         }
       ]
     },
@@ -394,8 +422,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时44分]"
         }
       ]
     }
