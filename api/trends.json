@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T19:19:23.546475+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-09-12T22:26:35.666240+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 36,
       "titles": [
         {
           "title": "美研究员发出“末日警告”，特朗普：一点不担心",
@@ -48,26 +48,27 @@
           "time_info": "[02时47分 ~ 19时19分]"
         },
         {
-          "title": "美国总统特朗普：（关于与爱尔兰的贸易）我们需要让几家医疗公司回归。",
-          "url": "https://flash.jin10.com/detail/20260912185902114800",
-          "source": "金十数据",
+          "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
+          "url": "https://original.ifeng.com/c/8wM2pkaSs1S",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 22时26分]"
         },
         {
-          "title": "美国总统特朗普：（关于爱尔兰统一）无论怎么说，都没有好的答案。",
-          "url": "https://flash.jin10.com/detail/20260912185618799800",
-          "source": "金十数据",
+          "title": "特朗普松口允许中国大厂赴美造车",
+          "url": "https://www.toutiao.com/trending/7684610424217538074/",
+          "source": "今日头条",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "22时26分"
         },
         {
           "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
@@ -83,16 +84,28 @@
           "time_info": "[02时47分 ~ 07时35分]"
         },
         {
-          "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
-          "url": "https://original.ifeng.com/c/8wM2pkaSs1S",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（关于与爱尔兰的贸易）我们需要让几家医疗公司回归。",
+          "url": "https://flash.jin10.com/detail/20260912185902114800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            6
+            1,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时34分 ~ 19时19分]"
+          "time_info": "[19时19分 ~ 22时26分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于爱尔兰统一）无论怎么说，都没有好的答案。",
+          "url": "https://flash.jin10.com/detail/20260912185618799800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 22时26分]"
         },
         {
           "title": "将耗资约1.35万亿美元，特朗普连续3天许诺5000美元分红",
@@ -122,11 +135,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 22时26分]"
         },
         {
           "title": "特朗普：如果能重来，我还是会打伊朗！",
@@ -149,6 +163,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
+          "url": "https://wallstreetcn.com/articles/3781620",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄方不排除普京和特朗普在中国会晤",
+          "url": "https://www.toutiao.com/trending/7683801352208891967/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "据华尔街日报：拉美盟友正加强与美国总统特朗普政府在打击毒品贩运方面的合作，表明对华盛顿打击行动的区域支持力度加大。",
@@ -179,9 +215,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "特朗普：与委内瑞拉人相处得非常好，他们现在非常开心。 爱尔兰正在扩大军事投资。 美国国防工业基础正在迅速增长。 对美国武器的需求“惊人”，包括爱国者系统。 （谈毒品走私）我们尚未聚焦陆地渠道。 英国必须像美国一样遣返犯罪移民。",
+          "url": "https://wallstreetcn.com/livenews/3164343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有",
@@ -195,15 +242,37 @@
           "time_info": "07时35分"
         },
         {
+          "title": "特朗普盛赞就业形势，将工厂建设归功于关税。 特朗普批评欧洲的商业监管“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3164342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普：（被问及伊朗冲突何时结束时表示）我认为很快。 伊朗不能拥有核武器。 目前加沙正在建立许多良好的关系。",
           "url": "https://wallstreetcn.com/livenews/3164319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
+          "url": "https://wallstreetcn.com/livenews/3164341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美国总统特朗普：（谈及美墨加贸易协议谈判）将等到你们看见我们与加拿大、墨西哥达成协议。",
@@ -217,15 +286,37 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普称赞美国股市是“独一无二的”。",
+          "url": "https://wallstreetcn.com/livenews/3164340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-12）",
           "url": "https://flash.jin10.com/detail/20260912183823656800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "特朗普称美国与加拿大很可能“很快”达成协议",
+          "url": "https://flash.jin10.com/detail/20260912193628110800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美国法院驳回特朗普政府强令密歇根州燃煤电厂继续运营的命令",
@@ -250,6 +341,28 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普：关于爱尔兰统一，无论怎样回答都不讨好。",
+          "url": "https://wallstreetcn.com/livenews/3164336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "接近特朗普的消息人士：内塔尼亚胡已在特朗普面前“失宠”",
+          "url": "https://flash.jin10.com/detail/20260912191024066800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "伊朗消息人士：特朗普正寻求重返与伊朗谈判",
           "url": "https://flash.jin10.com/detail/20260912012403616800",
           "source": "金十数据",
@@ -267,7 +380,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -278,7 +391,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -292,12 +405,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普：你们可能很快就会看到与加拿大达成协议。 加拿大必须更好地对待美国的农民。 （谈伊朗）我们有很多好牌。 加拿大希望达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3164323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
@@ -372,6 +496,28 @@
           "time_info": "14时34分"
         },
         {
+          "title": "伊拉克军事消息人士称，在发现无人机发射地点后，伊拉克与伊朗接壤的塔伊卜边境地区已关闭。",
+          "url": "https://flash.jin10.com/detail/20260912215629431800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "伊朗将于周一向海湾国家通报霍尔木兹海峡航运协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3164355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美企称伊朗试图利用AI大模型攻击美国军舰，详情披露",
           "url": "https://original.ifeng.com/c/8wLwf1DbPBs",
           "source": "凤凰网",
@@ -392,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯国家原子能公司表示，计划在不久的将来将伊朗布什尔核电站的专家人数增加到150人。",
-          "url": "https://flash.jin10.com/detail/20260912185455761800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "市场消息：根据发布的公告，伊拉克方面已暂停巴士拉国际机场所有往返伊朗的航班，直至另行通知。",
@@ -440,6 +575,18 @@
           "time_info": "[07时35分 ~ 09时40分]"
         },
         {
+          "title": "据国际文传电讯社：俄罗斯国家原子能公司表示，计划在不久的将来将伊朗布什尔核电站的专家人数增加到150人。",
+          "url": "https://flash.jin10.com/detail/20260912185455761800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 22时26分]"
+        },
+        {
           "title": "IEA警告：伊朗战争拖累石油需求创疫情后最大降幅，警告未来数月恐进一步走弱",
           "url": "https://wallstreetcn.com/articles/3781588",
           "source": "华尔街见闻",
@@ -450,6 +597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 19时19分]"
+        },
+        {
+          "title": "伊拉克军方：伊拉克同意伊朗的请求，将联合调查两国边境是否存在无人机发射装置。",
+          "url": "https://flash.jin10.com/detail/20260912205938944800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "伊朗确认沙拉姆切赫和恰扎贝边境口岸关闭",
@@ -463,6 +621,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "据巴林国家通讯社：巴林表示将不参加与伊朗关于霍尔木兹海峡的会议。",
+          "url": "https://flash.jin10.com/detail/20260912205131855800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
           "url": "https://wallstreetcn.com/articles/3781524",
           "source": "华尔街见闻",
@@ -472,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "据巴林国家通讯社：巴林表示，在两国恢复外交关系之前，将不参加与伊朗的任何会议。",
+          "url": "https://flash.jin10.com/detail/20260912205109435800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "伊朗原子能组织主席启程前往维也纳，将出席IAEA大会并会见多国代表",
@@ -491,7 +671,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -516,6 +696,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "分析师：沙特输油管道遇袭表明“伊朗不可信”",
+          "url": "https://flash.jin10.com/detail/20260912195436860800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "伊朗革命卫队挫败暗杀图谋 击毙4名恐怖分子",
+          "url": "https://flash.jin10.com/detail/20260912195112851800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "两名安全消息人士表示，伊拉克下令关闭伊拉克与伊朗之间的沙拉姆切赫边境口岸，作为沙特阿拉伯近期遭袭后的预防措施。",
@@ -551,6 +753,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "伊朗驻印度大使馆：伊朗总统在印度新德里会见阿布扎比王储。",
+          "url": "https://flash.jin10.com/detail/20260912192058315800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "伊朗革命卫队发言人：也门安萨鲁拉（胡塞武装）在西部海岸的胜利，是一场神圣胜利的写照，也是多年来在最艰难战场上坚持的成果。",
           "url": "https://flash.jin10.com/detail/20260912131504438800",
           "source": "金十数据",
@@ -574,11 +787,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 22时26分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -586,11 +800,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 22时26分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -926,7 +1141,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -956,8 +1171,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "与谷歌合作智能家居项目是否涵盖AI眼镜相关产品？创维数字回应",
+          "url": "https://wallstreetcn.com/livenews/3164350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
         {
           "title": "美国总统特朗普：对谷歌(GOOG.O)在芬兰投资建设AI中心感到不高兴。",
           "url": "https://flash.jin10.com/detail/20260912081536867800",
