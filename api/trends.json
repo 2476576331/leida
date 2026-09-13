@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T09:30:12.490444+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-09-13T14:50:27.834837+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗总统：目前无法做出与美国直接谈判的决定，美国必须停止封锁",
@@ -19,6 +19,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 09时30分]"
+        },
+        {
+          "title": "带受伤儿童出席发布会！伊朗硬刚美国：这是战争罪",
+          "url": "https://original.ifeng.com/c/8wNawlntNP2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "伊朗女孩回忆遭美军轰炸：我看到我手上露出了骨头",
+          "url": "https://news.ifeng.com/c/8wNbbaNFwwO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "伊朗总统说伊朗绝不会投降",
+          "url": "https://wallstreetcn.com/livenews/3164402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐与伊拉克外长通话确认，有必要继续就共同边境安全保持协调。",
@@ -74,11 +107,25 @@
           "url": "https://news.ifeng.com/c/8wNOw311E94",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 14时50分]"
+        },
+        {
+          "title": "伊拉克外长同伊朗外长通话，讨论边境口岸关闭及沙特遭袭事件",
+          "url": "https://wallstreetcn.com/livenews/3164382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时30分]"
+          "time_info": "[07时28分 ~ 14时50分]"
         },
         {
           "title": "知情人士：伊朗和阿曼达成的协议并不意味着霍尔木兹海峡开放",
@@ -105,16 +152,16 @@
           "time_info": "[01时28分 ~ 03时43分]"
         },
         {
-          "title": "伊拉克外长同伊朗外长通话，讨论边境口岸关闭及沙特遭袭事件",
-          "url": "https://wallstreetcn.com/livenews/3164382",
+          "title": "伊朗革命卫队挫败暗杀图谋，击毙4名恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3164384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            16
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时30分]"
+          "time_info": "[09时30分 ~ 14时50分]"
         },
         {
           "title": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
@@ -141,15 +188,37 @@
           "time_info": "[07时28分 ~ 09时30分]"
         },
         {
-          "title": "伊朗革命卫队挫败暗杀图谋，击毙4名恐怖分子",
-          "url": "https://wallstreetcn.com/livenews/3164384",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：伊朗总统佩泽希齐扬在金砖国家峰会间隙会见阿布扎比王储。",
+          "url": "https://flash.jin10.com/detail/20260913143653474800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时30分"
+          "time_info": "14时50分"
+        },
+        {
+          "title": "伊朗立法推动AI发展，拟成立国家人工智能组织",
+          "url": "https://flash.jin10.com/detail/20260913142230123800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "伊朗总统：伊朗与沙特并不处于战争状态",
+          "url": "https://wallstreetcn.com/livenews/3164397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "据伊朗国家媒体：在格什姆岛听到两声爆炸声，声音来自海上。",
@@ -174,6 +243,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗议会主席团发言人阿巴斯·古达尔齐表示，退出《不扩散核武器条约》和修改该国核学说都是“完全可以实现”的选项，这将“让美国及其追随者认清自己的位置”。",
+          "url": "https://flash.jin10.com/detail/20260913140732400800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "伊朗总统与印度总统讨论两国长期友好关系",
           "url": "https://flash.jin10.com/detail/20260913012511293800",
           "source": "金十数据",
@@ -183,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗和埃及外长在新德里举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260913133437545800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "伊拉克军事消息人士称，在发现无人机发射地点后，伊拉克与伊朗接壤的塔伊卜边境地区已关闭。",
@@ -199,7 +290,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
@@ -216,6 +307,19 @@
           "time_info": "[01时28分 ~ 09时30分]"
         },
         {
+          "title": "“胡塞武装粉碎了特朗普的计划”",
+          "url": "https://news.ifeng.com/c/8wN3YhgAwg2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 14时50分]"
+        },
+        {
           "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
           "url": "https://news.ifeng.com/c/8wMngvlWOwB",
           "source": "凤凰网",
@@ -228,16 +332,17 @@
           "time_info": "[03时43分 ~ 09时30分]"
         },
         {
-          "title": "“胡塞武装粉碎了特朗普的计划”",
-          "url": "https://news.ifeng.com/c/8wN3YhgAwg2",
-          "source": "凤凰网",
+          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
+          "url": "https://www.cls.cn/detail/2481345",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            6,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时43分 ~ 09时30分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 14时50分]"
         },
         {
           "title": "特朗普扬言能解决马岛问题",
@@ -251,28 +356,17 @@
           "time_info": "[03时43分 ~ 05时44分]"
         },
         {
-          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
-          "url": "https://www.cls.cn/detail/2481345",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 09时30分]"
-        },
-        {
           "title": "特朗普称胡塞武装已致电美方",
           "url": "https://news.ifeng.com/c/8wNNWAeJ2Fk",
           "source": "凤凰网",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 14时50分]"
         },
         {
           "title": "俄方不排除普京和特朗普在中国会晤",
@@ -378,12 +472,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "特朗普称胡塞武装致电美方",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%87%B4%E7%94%B5%E7%BE%8E%E6%96%B9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI的CEO Altman：我同意Dario（Anthropic的CEO Amodei）有关需要控制前沿模型发展步伐的观点。",
@@ -397,6 +502,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 09时30分]"
+        },
+        {
+          "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
+          "url": "https://wallstreetcn.com/articles/3781638",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "为何 OpenAI 等 AI 公司，最近集中且花这么大力气卷数学猜想？数学后，下一个学科又是谁？",
+          "url": "https://www.zhihu.com/question/2082124730757113470",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "奥尔特曼：OpenAI今年不会上市 仍有大量安全工作需要完成",
@@ -437,6 +564,18 @@
           "time_info": "[01时28分 ~ 03时43分]"
         },
         {
+          "title": "一图｜25位菲尔兹奖得主联合发声，OpenAI千禧难题风波如何发酵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33809347",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 14时50分]"
+        },
+        {
           "title": "OpenAI CEO：今年不会上市，不能冒哪怕10%杀死所有人的风险",
           "url": "https://wallstreetcn.com/livenews/3164364",
           "source": "华尔街见闻-快讯",
@@ -449,21 +588,21 @@
           "time_info": "[07时28分 ~ 09时30分]"
         },
         {
-          "title": "一图｜25位菲尔兹奖得主联合发声，OpenAI千禧难题风波如何发酵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33809347",
-          "source": "澎湃新闻",
+          "title": "三巨头支持“放缓”、OpenAI推迟IPO！社区热议：“AI交易”周一遭暴击？",
+          "url": "https://wallstreetcn.com/articles/3781643",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
@@ -473,8 +612,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 09时30分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 14时50分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -484,8 +623,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 09时30分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 14时50分]"
         },
         {
           "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
@@ -493,11 +632,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时44分 ~ 09时30分]"
+          "appearance_count": 5,
+          "time_info": "[05时44分 ~ 14时50分]"
+        },
+        {
+          "title": "美股长牛背后有大小熊",
+          "url": "https://wallstreetcn.com/articles/3781629",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
