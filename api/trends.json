@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T15:14:20.286927+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-09-14T22:27:44.087300+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "“胡塞武装粉碎了特朗普的计划”",
@@ -19,6 +19,30 @@
           "time_info": "[00时41分 ~ 05时50分]"
         },
         {
+          "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
+          "url": "https://original.ifeng.com/c/8wPLgfuiHXV",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 22时27分]"
+        },
+        {
+          "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
+          "url": "https://wallstreetcn.com/articles/3781667",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 22时27分]"
+        },
+        {
           "title": "特朗普：（谈及约旦河西岸事宜）以色列总理周一将与我通话。",
           "url": "https://flash.jin10.com/detail/20260914025510069800",
           "source": "金十数据",
@@ -28,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
-          "url": "https://original.ifeng.com/c/8wPLgfuiHXV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "特朗普：（谈及5000美元支票政策）关税等项目带来巨额财政收入。5000美元支票计划一定会落地，我们能获得数万亿美元收入。",
@@ -86,15 +99,15 @@
           "time_info": "[00时41分 ~ 05时50分]"
         },
         {
-          "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
-          "url": "https://wallstreetcn.com/articles/3781667",
-          "source": "华尔街见闻",
+          "title": "“我比任何人都懂公式”，特朗普：美国的利率理应全球最低",
+          "url": "https://news.ifeng.com/c/8wPtYgPuyUB",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "22时27分"
         },
         {
           "title": "据CNN高级国家安全记者：知情人士透露，特朗普政府官员私下告诉海湾地区的人士，他们希望将未来的美伊谈判重心放在德黑兰的核计划上，而不是重新开放霍尔木兹海峡。",
@@ -177,6 +190,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 05时50分]"
+        },
+        {
+          "title": "特朗普称，考虑解密更多“9·11事件”档案",
+          "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 22时27分]"
         },
         {
           "title": "特朗普（被问及人工智能行业是否应放缓时表示）：谁赢得人工智能，谁就赢得未来。 我们可以设置保护措施，但有些声音过于消极。",
@@ -285,26 +309,26 @@
           "time_info": "[05时50分 ~ 07时42分]"
         },
         {
-          "title": "特朗普称，考虑解密更多“9·11事件”档案",
-          "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 15时14分]"
-        },
-        {
           "title": "AI行业大佬齐呼“放慢脚步”？特朗普淡化担忧：赢AI竞赛者赢天下！",
           "url": "https://www.cls.cn/detail/2481830",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "特朗普拒绝AI减速呼吁：赢得AI就赢得一切",
+          "url": "https://wallstreetcn.com/articles/3781674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": ".特朗普暗示不排除留在伊朗并取走原油，类比委内瑞拉",
@@ -346,7 +370,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -362,6 +386,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "加拿大总理卡尼：欢迎特朗普关于协议可能很快达成的言论。",
+          "url": "https://flash.jin10.com/detail/20260914221241327800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "特朗普：已要求泽连斯基不要打击柴油炼油厂。",
           "url": "https://wallstreetcn.com/livenews/3164461",
           "source": "华尔街见闻-快讯",
@@ -371,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美国总统特朗普：政府已经阻止AI人做坏事。",
+          "url": "https://wallstreetcn.com/livenews/3164896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普宣布取消美国对爱尔兰威士忌征收的关税",
@@ -393,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普称无需更多AI监管，痛批Anthropic CEO",
+          "url": "https://wallstreetcn.com/livenews/3164895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普称将取消对爱尔兰威士忌的关税。",
@@ -489,7 +546,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -500,7 +557,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -508,7 +565,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
@@ -661,6 +718,18 @@
           "time_info": "[05时50分 ~ 07时42分]"
         },
         {
+          "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
+          "url": "https://wallstreetcn.com/articles/3781665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 22时27分]"
+        },
+        {
           "title": "伊朗称霍尔木兹海峡或将开新通道",
           "url": "https://wallstreetcn.com/livenews/3164421",
           "source": "华尔街见闻-快讯",
@@ -705,6 +774,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "伊朗：因美国施压缺席国际原子能机构大会",
+          "url": "https://wallstreetcn.com/livenews/3164906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "王毅与俄罗斯外长、伊朗外长友好交流",
           "url": "https://www.toutiao.com/trending/7685097834332308018/",
           "source": "今日头条",
@@ -714,17 +794,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
-          "url": "https://wallstreetcn.com/articles/3781665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "分析：伊朗与阿联酋之间的经济联系并非轻易就能切断",
@@ -744,7 +813,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -843,7 +912,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -879,6 +948,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，布油涨破109，现货黄金失守4300",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美股三大股指齐跌，小摩却逆势看多：珍惜“黄金坑”！",
+          "url": "https://flash.jin10.com/detail/20260914221550636800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美联储本周加息“箭在弦上”！华尔街热议：会终结美股牛市吗？",
+          "url": "https://www.cls.cn/detail/2482000",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "美联储加息在即，美股牛市不保？高盛反驳：盈利增长才是关键！",
+          "url": "https://www.cls.cn/detail/2482234",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，日常消费品ETF、医疗业ETF涨近2%，半导体ETF跌超5%，全球科技股指数ETF跌超3%，科技行业ETF跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3164886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美股盘初：纳指跌1.2%，费城半导体指数跌5.5%，存储芯片股、光通信股大跌",
+          "url": "https://wallstreetcn.com/livenews/3164884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -928,7 +1069,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -936,7 +1077,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "白金汉宫生命：英国国王查尔斯本周将在苏格兰会见多家AI公司的老板，其中包括英伟达、谷歌、Deepmind。（纽约时报）",
@@ -961,13 +1102,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 07时42分]"
+        },
+        {
+          "title": "加拿大总理卡尼：已经与OpenAI、Anthropic、谷歌讨论AI安全。",
+          "url": "https://wallstreetcn.com/livenews/3164902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价跳水后震荡磨底",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%90%8E%E9%9C%87%E8%8D%A1%E7%A3%A8%E5%BA%95&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
         {
           "title": "金价为啥卡在4330",
           "url": "https://www.toutiao.com/trending/7685245003764878858/",
@@ -975,26 +1138,54 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美联储本周加息“箭在弦上”！华尔街热议：会终结美股牛市吗？",
-          "url": "https://www.cls.cn/detail/2482000",
-          "source": "财联社热门",
+          "title": "10年期美债收益率约三年来首次突破5%，美联储利率会议开幕在即",
+          "url": "https://wallstreetcn.com/livenews/3164910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美联储决议前夕 10年期美债收益率站上5%关键水平",
+          "url": "https://flash.jin10.com/detail/20260914221357459800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨2.5%，报104.07美元，处于连续第二个交易日反弹之中。",
+          "url": "https://wallstreetcn.com/livenews/3164891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     }
