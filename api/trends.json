@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T09:48:27.266183+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-09-14T15:14:20.286927+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "“胡塞武装粉碎了特朗普的计划”",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
+          "url": "https://original.ifeng.com/c/8wPLgfuiHXV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "特朗普：（谈及5000美元支票政策）关税等项目带来巨额财政收入。5000美元支票计划一定会落地，我们能获得数万亿美元收入。",
@@ -73,6 +84,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 05时50分]"
+        },
+        {
+          "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
+          "url": "https://wallstreetcn.com/articles/3781667",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "据CNN高级国家安全记者：知情人士透露，特朗普政府官员私下告诉海湾地区的人士，他们希望将未来的美伊谈判重心放在德黑兰的核计划上，而不是重新开放霍尔木兹海峡。",
@@ -229,6 +251,28 @@
           "time_info": "[00时41分 ~ 03时02分]"
         },
         {
+          "title": "事关中企，特朗普“口头接受”",
+          "url": "https://news.ifeng.com/c/8wP2USEga22",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
+          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 15时14分]"
+        },
+        {
           "title": "美国总统特朗普在返回美国前对记者发表讲话：在爱尔兰期间做了很多生意。 我在美国的支持率很高。 其他总统允许出现巨额赤字，我绝不会允许。 （谈及美国民主党众议员亚历山德里娅·奥卡西奥-科尔特斯与纽约市市长马姆达尼在9·11纪念现场被拍到大笑一事）太糟糕了。 5000美元支票肯定会发放 因为我们获得数万亿美元的收入，正获得大量收入 包括关税。",
           "url": "https://wallstreetcn.com/livenews/3164447",
           "source": "华尔街见闻-快讯",
@@ -241,37 +285,26 @@
           "time_info": "[05时50分 ~ 07时42分]"
         },
         {
-          "title": "事关中企，特朗普“口头接受”",
-          "url": "https://news.ifeng.com/c/8wP2USEga22",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
-          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "特朗普称，考虑解密更多“9·11事件”档案",
           "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
           "source": "凤凰网",
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 15时14分]"
+        },
+        {
+          "title": "AI行业大佬齐呼“放慢脚步”？特朗普淡化担忧：赢AI竞赛者赢天下！",
+          "url": "https://www.cls.cn/detail/2481830",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "15时14分"
         },
         {
           "title": ".特朗普暗示不排除留在伊朗并取走原油，类比委内瑞拉",
@@ -305,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普：可以接受中国车企在美建厂",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "特朗普称美国必须保持AI领先优势，淡化放缓AI发展呼吁",
@@ -401,7 +445,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -437,12 +481,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普和沃什会陷入政治博弈吗",
+          "url": "https://www.toutiao.com/trending/7685192117387267625/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "美巨头呼吁AI刹车 特朗普先想到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%B7%A8%E5%A4%B4%E5%91%BC%E5%90%81AI%E5%88%B9%E8%BD%A6+%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%83%B3%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
@@ -645,9 +711,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
+          "url": "https://wallstreetcn.com/articles/3781665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "分析：伊朗与阿联酋之间的经济联系并非轻易就能切断",
@@ -659,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟 国际油价大涨3%",
+          "url": "https://www.cls.cn/detail/2481858",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "伊拉克逐步重新开放与伊朗接壤边境口岸",
@@ -749,13 +837,24 @@
           "time_info": "00时41分"
         },
         {
+          "title": "伊朗革命卫队称在霍尔木兹海峡上空击落美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3164613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "报道：沙特针对阿曼-伊朗的霍尔木兹海峡方案提出修正案",
           "url": "https://wallstreetcn.com/livenews/3164474",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -785,7 +884,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“AI交易”周一要遭暴击？三巨头支持“放缓”、OpenAI推迟IPO引热议",
@@ -821,6 +920,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 05时50分]"
+        },
+        {
+          "title": "25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界",
+          "url": "https://wallstreetcn.com/articles/3781657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
@@ -851,6 +961,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 07时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价为啥卡在4330",
+          "url": "https://www.toutiao.com/trending/7685245003764878858/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储本周加息“箭在弦上”！华尔街热议：会终结美股牛市吗？",
+          "url": "https://www.cls.cn/detail/2482000",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     }
