@@ -1,102 +1,171 @@
 {
-  "generated_at": "2026-09-14T22:27:44.087300+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-09-15T03:39:17.436735+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 49,
+      "keyword_group": "伊朗",
+      "match_count": 13,
       "titles": [
         {
-          "title": "“胡塞武装粉碎了特朗普的计划”",
-          "url": "https://news.ifeng.com/c/8wN3YhgAwg2",
+          "title": "美飞行员被伊朗击落后数十小时才获救，细节披露",
+          "url": "https://news.ifeng.com/c/8wQEGFmgtju",
           "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
-          "url": "https://original.ifeng.com/c/8wPLgfuiHXV",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时14分 ~ 22时27分]"
+          "time_info": "[03时38分 ~ 03时39分]"
         },
+        {
+          "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
+          "url": "https://wallstreetcn.com/articles/3781665",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗无法与美国谈判，因为华盛顿从未兑现其承诺。伊朗的要求与此前保持一致。",
+          "url": "https://wallstreetcn.com/livenews/3165020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬： 所谓伊朗正在谋求核武器的说法纯属谎言，就如同美国制造的其他谎言一样；这些指控不过是袭击伊朗的借口。",
+          "url": "https://flash.jin10.com/detail/20260915032605425800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们准备在恰巴哈尔与印度开展经济合作。",
+          "url": "https://flash.jin10.com/detail/20260915032024828800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：地区国家可以通过合作创造安全与充满活力的经济。",
+          "url": "https://flash.jin10.com/detail/20260915031343827800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们无意与沙特阿拉伯开战。",
+          "url": "https://flash.jin10.com/detail/20260915031250436800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：美国从未履行过自己的承诺，我们又怎能与他们谈判？我们的要求与之前一致。",
+          "url": "https://flash.jin10.com/detail/20260915031008707800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统：即便是那些对伊朗国内现状不满、遭遇困境、持有不同意见的民众，也捍卫了伊朗的领土完整，并抗议美国的侵略。 有大量旅居海外的伊朗人选择回到伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3165008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们与地区国家没有矛盾，但反对美国在该地区设立基地。美国既拿走石油收入，又挑拨各国相互争斗。",
+          "url": "https://flash.jin10.com/detail/20260915030339780800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗革命卫队称霍尔木兹海峡仍处“智能控制”状态",
+          "url": "https://flash.jin10.com/detail/20260915025749845800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊拉克消息人士称，伊拉克埃尔比勒的沙马马克（Shamamak）地区发生爆炸并起火。",
+          "url": "https://flash.jin10.com/detail/20260915023914605800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "美国财政部制裁俄罗斯外贸银行，因其协助伊朗规避制裁。",
+          "url": "https://flash.jin10.com/detail/20260915023755084800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
         {
           "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
           "url": "https://wallstreetcn.com/articles/3781667",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 22时27分]"
-        },
-        {
-          "title": "特朗普：（谈及约旦河西岸事宜）以色列总理周一将与我通话。",
-          "url": "https://flash.jin10.com/detail/20260914025510069800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普：（谈及5000美元支票政策）关税等项目带来巨额财政收入。5000美元支票计划一定会落地，我们能获得数万亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260914025433815800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普：将考虑是否发布更多与9/11袭击相关的记录。",
-          "url": "https://flash.jin10.com/detail/20260914025331351800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普：在爱尔兰期间做了很多生意。我在美国的支持率很高。其他总统允许出现巨额赤字，我绝不会允许。",
-          "url": "https://flash.jin10.com/detail/20260914025119257800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普称已要求乌克兰停止袭击俄柴油燃料设施",
-          "url": "https://wallstreetcn.com/livenews/3164441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
         },
         {
           "title": "“我比任何人都懂公式”，特朗普：美国的利率理应全球最低",
@@ -105,921 +174,53 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
         },
         {
-          "title": "据CNN高级国家安全记者：知情人士透露，特朗普政府官员私下告诉海湾地区的人士，他们希望将未来的美伊谈判重心放在德黑兰的核计划上，而不是重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260914065941894800",
+          "title": "美媒：特朗普曾与奥尔特曼私下会面 AI安全分歧浮现",
+          "url": "https://flash.jin10.com/detail/20260915032640880800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：特朗普的5000美元支票计划需要国会批准。",
-          "url": "https://wallstreetcn.com/livenews/3164439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：特朗普和我都认为没有理由加息。 特朗普百分之百尊重沃什的独立性。 美联储在选举前保持现状很重要。 我们将百分之百支持美联储的任何决定。 人工智能的风险在于恶意行为者获取更先进的人工智能。",
-          "url": "https://wallstreetcn.com/livenews/3164438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "无视英国反对，特朗普再挺爱尔兰统一",
-          "url": "https://news.ifeng.com/c/8wOtRCXsZnJ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普称胡塞武装已致电美方",
-          "url": "https://news.ifeng.com/c/8wNNWAeJ2Fk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "无视英国反对，特朗普再挺“爱尔兰统一”",
-          "url": "https://wallstreetcn.com/livenews/3164450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时42分]"
-        },
-        {
-          "title": "特朗普：石油公司给我打电话，说他们想去北海。 如果英国开放北海石油，他们就能变得富有。 英国若不开放北海，就会“破产”。",
-          "url": "https://wallstreetcn.com/livenews/3164435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普称，考虑解密更多“9·11事件”档案",
-          "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 22时27分]"
-        },
-        {
-          "title": "特朗普（被问及人工智能行业是否应放缓时表示）：谁赢得人工智能，谁就赢得未来。 我们可以设置保护措施，但有些声音过于消极。",
-          "url": "https://wallstreetcn.com/livenews/3164433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须停止打击柴油燃料。",
-          "url": "https://wallstreetcn.com/livenews/3164432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普谈伊朗局势：伊朗战争将在中期选举后立即结束，甚至在之前。 伊朗迫切希望达成协议。 美国最终会脱身。",
-          "url": "https://wallstreetcn.com/livenews/3164431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普在被问及是否预计美联储加息时表示：我不知道。 我们的利率应该是全球最低的。",
-          "url": "https://wallstreetcn.com/livenews/3164430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊：AI监管不能仓促推进。 任何立法前应先与AI领袖会面。 特朗普提出的5000美元支票方案不会增加债务。",
-          "url": "https://wallstreetcn.com/livenews/3164429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普访爱尔兰猛戳英国神经有何算计",
-          "url": "https://www.toutiao.com/trending/7684604033547223086/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 03时02分]"
-        },
-        {
-          "title": "事关中企，特朗普“口头接受”",
-          "url": "https://news.ifeng.com/c/8wP2USEga22",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
-          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 15时14分]"
-        },
-        {
-          "title": "美国总统特朗普在返回美国前对记者发表讲话：在爱尔兰期间做了很多生意。 我在美国的支持率很高。 其他总统允许出现巨额赤字，我绝不会允许。 （谈及美国民主党众议员亚历山德里娅·奥卡西奥-科尔特斯与纽约市市长马姆达尼在9·11纪念现场被拍到大笑一事）太糟糕了。 5000美元支票肯定会发放 因为我们获得数万亿美元的收入，正获得大量收入 包括关税。",
-          "url": "https://wallstreetcn.com/livenews/3164447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时42分]"
-        },
-        {
-          "title": "AI行业大佬齐呼“放慢脚步”？特朗普淡化担忧：赢AI竞赛者赢天下！",
-          "url": "https://www.cls.cn/detail/2481830",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "特朗普拒绝AI减速呼吁：赢得AI就赢得一切",
-          "url": "https://wallstreetcn.com/articles/3781674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "03时39分"
         },
         {
-          "title": ".特朗普暗示不排除留在伊朗并取走原油，类比委内瑞拉",
-          "url": "https://flash.jin10.com/detail/20260914000112463800",
+          "title": "据美国财经媒体Semafor：美国参议院共和党领袖图恩表示，他没有提前得知特朗普提出发放5000美元支票的想法。\"目前尚无具体提案，显然，如果真要落实，国会将在决策中发挥重要作用。\"",
+          "url": "https://flash.jin10.com/detail/20260915032304992800",
           "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "无视英国反对 特朗普再挺“爱尔兰统一”",
-          "url": "https://flash.jin10.com/detail/20260914042813722800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普：发现加拿大是最难打交道的国家。 加拿大迫切希望达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3164463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普：可以接受中国车企在美建厂",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "特朗普称美国必须保持AI领先优势，淡化放缓AI发展呼吁",
-          "url": "https://flash.jin10.com/detail/20260913235632377800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "加拿大总理卡尼：欢迎特朗普关于协议可能很快达成的言论。",
-          "url": "https://flash.jin10.com/detail/20260914221241327800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "特朗普：已要求泽连斯基不要打击柴油炼油厂。",
-          "url": "https://wallstreetcn.com/livenews/3164461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "美国总统特朗普：政府已经阻止AI人做坏事。",
-          "url": "https://wallstreetcn.com/livenews/3164896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "特朗普宣布取消美国对爱尔兰威士忌征收的关税",
-          "url": "https://flash.jin10.com/detail/20260914015747812800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普称考虑解密更多“9·11”事件档案",
-          "url": "https://flash.jin10.com/detail/20260914064948823800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普称无需更多AI监管，痛批Anthropic CEO",
-          "url": "https://wallstreetcn.com/livenews/3164895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "特朗普称将取消对爱尔兰威士忌的关税。",
-          "url": "https://flash.jin10.com/detail/20260914014518817800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国总统特朗普：激光武器对某些类型、某些速度较慢的导弹来说，效果非常非常好。我认为激光武器将成为未来。",
-          "url": "https://flash.jin10.com/detail/20260914063732747800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普为“爱尔兰统一”言论辩护，称只是“相当常规的评论”",
-          "url": "https://flash.jin10.com/detail/20260914011224313800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国总统特朗普：威特科夫和库什纳的工作做得非常出色。看看加沙的例子。加沙现在没有太多战斗。哈马斯现在愿意放弃他们的武器。没人能完成他们俩所做的工作。",
-          "url": "https://flash.jin10.com/detail/20260914063308636800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普童年故居193万美元再易主",
-          "url": "https://www.toutiao.com/trending/7683910489646432310/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "美国总统特朗普：大部分柴油都来自俄罗斯。俄罗斯的工厂遭到了乌克兰的打击。我已经请求泽连斯基不要袭击那些柴油厂和炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260914063151626800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普重申伊朗战事将在中期选举后结束",
-          "url": "https://flash.jin10.com/detail/20260913224828022800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：发现加拿大是最难打交道的国家。 加拿大迫切希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260914063113801800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普和沃什会陷入政治博弈吗",
-          "url": "https://www.toutiao.com/trending/7685192117387267625/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美巨头呼吁AI刹车 特朗普先想到中国",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%B7%A8%E5%A4%B4%E5%91%BC%E5%90%81AI%E5%88%B9%E8%BD%A6+%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%83%B3%E5%88%B0%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 34,
-      "titles": [
-        {
-          "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
-          "url": "https://original.ifeng.com/c/8wNyTyekeYc",
-          "source": "凤凰网",
-          "ranks": [
-            1,
             3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 09时48分]"
-        },
-        {
-          "title": "与沙特是否处于战争状态？伊朗总统回应",
-          "url": "https://news.ifeng.com/c/8wO7SPoeaJH",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗女孩回忆遭美军轰炸：我看到我手上露出了骨头",
-          "url": "https://news.ifeng.com/c/8wNbbaNFwwO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "也门局势骤然升温！胡塞武装与沙特互相袭击，伊朗：我们与沙特“并不处于战争状态”",
-          "url": "https://wallstreetcn.com/articles/3781644",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 09时48分]"
-        },
-        {
-          "title": "据Axios全球事务记者：一位海湾国家的高级官员表示，沙特已就阿曼-伊朗关于霍尔木兹海峡的提案提交了修正意见，因沙特担忧拟议措辞可能实际上在该海峡确立一种新的现状，而这是沙特及其他海合会国家无法接受的。",
-          "url": "https://flash.jin10.com/detail/20260914052625734800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "分析人士：海湾地区会议推迟成关键信号，美国担心沙特转向伊朗",
-          "url": "https://flash.jin10.com/detail/20260914072842650800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "美国能源部长赖特：美国“无论如何”都会终止伊朗的核计划；美国对伊朗核核查中断的状况表示担忧。指望与伊朗达成霍尔木兹相关协议并非稳妥选择。",
-          "url": "https://flash.jin10.com/detail/20260914002501187800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伊朗锡里克地区传出数声爆炸巨响",
-          "url": "https://flash.jin10.com/detail/20260914051846082800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "伊朗央行行长赴伊斯坦布尔，将商讨新贸易机制等问题",
-          "url": "https://flash.jin10.com/detail/20260914051252047800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "据伊朗媒体Fars News援引消息人士称，沙特阿拉伯哈立德国王空军基地遭到也门武装部队袭击。该基地是沙特战机从沙特境内起飞、对也门实施空袭的主要基地。",
-          "url": "https://flash.jin10.com/detail/20260914001624179800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伊朗高级议员：美国只懂“武力语言”",
-          "url": "https://flash.jin10.com/detail/20260914051151807800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "伊朗股市单日大涨逾15万点",
-          "url": "https://www.douyin.com/hot/2648474",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗锡里克地区传出数声爆炸巨响",
-          "url": "https://wallstreetcn.com/livenews/3164453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时42分]"
-        },
-        {
-          "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
-          "url": "https://wallstreetcn.com/articles/3781665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 22时27分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡或将开新通道",
-          "url": "https://wallstreetcn.com/livenews/3164421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗一货轮遭袭致1死4伤",
-          "url": "https://wallstreetcn.com/livenews/3164419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗称欧美促国际原子能机构施压伊朗",
-          "url": "https://wallstreetcn.com/livenews/3164409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时02分]"
-        },
-        {
-          "title": "据伊通社（IRNA）：据已证实消息，伊朗霍尔木兹甘省锡里克地区传出数声爆炸，爆炸源尚不清楚。",
-          "url": "https://flash.jin10.com/detail/20260914050227689800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "伊朗：因美国施压缺席国际原子能机构大会",
-          "url": "https://wallstreetcn.com/livenews/3164906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "03时39分"
         },
         {
-          "title": "王毅与俄罗斯外长、伊朗外长友好交流",
-          "url": "https://www.toutiao.com/trending/7685097834332308018/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "分析：伊朗与阿联酋之间的经济联系并非轻易就能切断",
-          "url": "https://flash.jin10.com/detail/20260914000641757800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟 国际油价大涨3%",
-          "url": "https://www.cls.cn/detail/2481858",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "伊拉克逐步重新开放与伊朗接壤边境口岸",
-          "url": "https://flash.jin10.com/detail/20260914065531268800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "伊朗国防部代理部长：我们根本不把敌方威胁放在眼里",
-          "url": "https://flash.jin10.com/detail/20260914000225144800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国中央司令部司令：对应对伊朗导弹与无人机袭击的弹药短缺情况不担忧。",
-          "url": "https://flash.jin10.com/detail/20260914021751449800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据中东媒体：沙特已要求阿曼推迟原定明天在阿曼举行的伊朗-伊拉克-海湾合作委员会会议。推迟的原因是来自伊拉克领土对沙特东西输油管道的袭击。昨日，巴林方面退出会议，但阿联酋原预计会出席。",
-          "url": "https://flash.jin10.com/detail/20260914041851950800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "伊朗国防部代理部长：下一场战斗中将更加强大地作战",
-          "url": "https://flash.jin10.com/detail/20260913234340251800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "据伊朗学生通讯社援引也门军方消息人士表示，沙特媒体有关“从也门发射的导弹击中沙特境内一座清真寺”的说法不实，相关指控“毫无事实依据”。",
-          "url": "https://flash.jin10.com/detail/20260913233134325800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伊朗国防部长称，伊朗已做好应对更多战斗的准备",
-          "url": "https://flash.jin10.com/detail/20260913232424763800",
-          "source": "金十数据",
+          "title": "特朗普宣称俄乌同意停止攻击能源设施，基辅方面说此事言之过早",
+          "url": "https://wallstreetcn.com/livenews/3165001",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "03时39分"
         },
         {
-          "title": "伊朗电力危机仍未解除 政府说法遭质疑",
-          "url": "https://flash.jin10.com/detail/20260913232030669800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伊朗革命卫队称在霍尔木兹海峡上空击落美军无人机",
-          "url": "https://wallstreetcn.com/livenews/3164613",
+          "title": "特朗普发文称将向全美成年人发放5000美元红利",
+          "url": "https://wallstreetcn.com/livenews/3164986",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "报道：沙特针对阿曼-伊朗的霍尔木兹海峡方案提出修正案",
-          "url": "https://wallstreetcn.com/livenews/3164474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗强硬派擅自行动，搅黄对美和谈努力，政府高层大部分不知情",
-          "url": "https://flash.jin10.com/detail/20260914010750851800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "分析师：伊朗周一或将与海湾国家罕见会晤，伊朗欲”踢开美国“构建地区安全新格局",
-          "url": "https://flash.jin10.com/detail/20260913224148344800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，布油涨破109，现货黄金失守4300",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美股三大股指齐跌，小摩却逆势看多：珍惜“黄金坑”！",
-          "url": "https://flash.jin10.com/detail/20260914221550636800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美联储本周加息“箭在弦上”！华尔街热议：会终结美股牛市吗？",
-          "url": "https://www.cls.cn/detail/2482000",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美联储加息在即，美股牛市不保？高盛反驳：盈利增长才是关键！",
-          "url": "https://www.cls.cn/detail/2482234",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，日常消费品ETF、医疗业ETF涨近2%，半导体ETF跌超5%，全球科技股指数ETF跌超3%，科技行业ETF跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3164886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美股盘初：纳指跌1.2%，费城半导体指数跌5.5%，存储芯片股、光通信股大跌",
-          "url": "https://wallstreetcn.com/livenews/3164884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "03时39分"
         }
       ]
     },
@@ -1028,119 +229,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "“AI交易”周一要遭暴击？三巨头支持“放缓”、OpenAI推迟IPO引热议",
-          "url": "https://wallstreetcn.com/articles/3781643",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 09时48分]"
-        },
-        {
-          "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
-          "url": "https://wallstreetcn.com/articles/3781638",
-          "source": "华尔街见闻",
+          "title": "据MSNOW：美国总统特朗普在共和党大会上会见了OpenAI首席执行官奥尔特曼。",
+          "url": "https://flash.jin10.com/detail/20260915031640151800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 07时42分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：很高兴看到OpenAI和马斯克支持Amodei的AI帖子。 Amodei的帖子是私营部门在AI方面的路线图。 AI安全是一个“可解决的问题”。 基于通胀数据，他会对加息持谨慎态度。 如果沃什加息，特朗普将捍卫其独立性。",
-          "url": "https://wallstreetcn.com/livenews/3164434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 05时50分]"
-        },
-        {
-          "title": "25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界",
-          "url": "https://wallstreetcn.com/articles/3781657",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白金汉宫生命：英国国王查尔斯本周将在苏格兰会见多家AI公司的老板，其中包括英伟达、谷歌、Deepmind。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3164451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时42分]"
+          "time_info": "03时39分"
         },
         {
-          "title": "报道：Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构",
-          "url": "https://wallstreetcn.com/livenews/3164444",
+          "title": "苹果在商业秘密诉讼中要求获取OpenAI即将推出的设备",
+          "url": "https://wallstreetcn.com/livenews/3165004",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时42分]"
-        },
-        {
-          "title": "加拿大总理卡尼：已经与OpenAI、Anthropic、谷歌讨论AI安全。",
-          "url": "https://wallstreetcn.com/livenews/3164902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价跳水后震荡磨底",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%90%8E%E9%9C%87%E8%8D%A1%E7%A3%A8%E5%BA%95&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "03时39分"
         },
         {
-          "title": "金价为啥卡在4330",
-          "url": "https://www.toutiao.com/trending/7685245003764878858/",
-          "source": "今日头条",
+          "title": "OpenAI收购初创公司来开发智能手机摄像头，这笔交易对Glass Imaging的估值超过3亿美元。 在之前一轮融资中，Glass Imaging的估值大约为1亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3164998",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI收购了一家名为Glass Imaging的初创公司，该公司专注于智能手机相机的开发，交易估值超过3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260915023255750800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
@@ -1149,26 +279,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "10年期美债收益率约三年来首次突破5%，美联储利率会议开幕在即",
-          "url": "https://wallstreetcn.com/livenews/3164910",
-          "source": "华尔街见闻-快讯",
+          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
         },
         {
-          "title": "美联储决议前夕 10年期美债收益率站上5%关键水平",
-          "url": "https://flash.jin10.com/detail/20260914221357459800",
-          "source": "金十数据",
+          "title": "花旗、高盛和摩根大通等上调年末美债收益率预测",
+          "url": "https://wallstreetcn.com/livenews/3164994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "03时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国总统特朗普：希望谷歌公司在芬兰电厂投资问题上转变想法。 所谓AI正在接管世界的说法是骗局。",
+          "url": "https://wallstreetcn.com/livenews/3164987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
         }
       ]
     },
@@ -1177,15 +341,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "北美科技软件股指数ETF涨2.5%，报104.07美元，处于连续第二个交易日反弹之中。",
-          "url": "https://wallstreetcn.com/livenews/3164891",
+          "title": "周一（9月14日）纽约尾盘，彭博谷物分类指数涨0.20%，报34.6308点。 CBOT玉米期货涨0.71%，报5.34美元/蒲式耳。 CBOT小麦期货跌0.41%，报7.22美元/蒲式耳。 CBOT大豆期货涨0.75%，报13.05美元/蒲式耳，豆粕期货涨0.99%，豆油期货涨0.60%。 CBOT瘦肉猪期货跌2.20%，活牛期货涨1.37%，饲牛期货涨1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3165019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "03时39分"
         }
       ]
     }
