@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T07:42:23.599131+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-09-14T09:48:27.266183+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "“胡塞武装粉碎了特朗普的计划”",
@@ -81,7 +81,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -108,6 +108,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 05时50分]"
+        },
+        {
+          "title": "无视英国反对，特朗普再挺爱尔兰统一",
+          "url": "https://news.ifeng.com/c/8wOtRCXsZnJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时48分]"
         },
         {
           "title": "特朗普称胡塞武装已致电美方",
@@ -229,15 +241,37 @@
           "time_info": "[05时50分 ~ 07时42分]"
         },
         {
-          "title": "无视英国反对，特朗普再挺爱尔兰统一",
-          "url": "https://news.ifeng.com/c/8wOtRCXsZnJ",
+          "title": "事关中企，特朗普“口头接受”",
+          "url": "https://news.ifeng.com/c/8wP2USEga22",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
+          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普称，考虑解密更多“9·11事件”档案",
+          "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": ".特朗普暗示不排除留在伊朗并取走原油，类比委内瑞拉",
@@ -268,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -290,7 +324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -312,7 +346,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -334,7 +368,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -356,9 +390,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普童年故居193万美元再易主",
+          "url": "https://www.toutiao.com/trending/7683910489646432310/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：大部分柴油都来自俄罗斯。俄罗斯的工厂遭到了乌克兰的打击。我已经请求泽连斯基不要袭击那些柴油厂和炼油厂。",
@@ -367,7 +412,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -389,7 +434,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -397,18 +442,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
           "url": "https://original.ifeng.com/c/8wNyTyekeYc",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 09时48分]"
         },
         {
           "title": "与沙特是否处于战争状态？伊朗总统回应",
@@ -433,6 +479,19 @@
           "time_info": "[00时41分 ~ 05时50分]"
         },
         {
+          "title": "也门局势骤然升温！胡塞武装与沙特互相袭击，伊朗：我们与沙特“并不处于战争状态”",
+          "url": "https://wallstreetcn.com/articles/3781644",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 09时48分]"
+        },
+        {
           "title": "据Axios全球事务记者：一位海湾国家的高级官员表示，沙特已就阿曼-伊朗关于霍尔木兹海峡的提案提交了修正意见，因沙特担忧拟议措辞可能实际上在该海峡确立一种新的现状，而这是沙特及其他海合会国家无法接受的。",
           "url": "https://flash.jin10.com/detail/20260914052625734800",
           "source": "金十数据",
@@ -450,7 +509,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -475,18 +534,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        },
-        {
-          "title": "也门局势骤然升温！胡塞武装与沙特互相袭击，伊朗：我们与沙特“并不处于战争状态”",
-          "url": "https://wallstreetcn.com/articles/3781644",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 07时42分]"
         },
         {
           "title": "伊朗央行行长赴伊斯坦布尔，将商讨新贸易机制等问题",
@@ -592,6 +639,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "王毅与俄罗斯外长、伊朗外长友好交流",
+          "url": "https://www.toutiao.com/trending/7685097834332308018/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "分析：伊朗与阿联酋之间的经济联系并非轻易就能切断",
           "url": "https://flash.jin10.com/detail/20260914000641757800",
           "source": "金十数据",
@@ -609,7 +667,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -691,6 +749,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "报道：沙特针对阿曼-伊朗的霍尔木兹海峡方案提出修正案",
+          "url": "https://wallstreetcn.com/livenews/3164474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "伊朗强硬派擅自行动，搅黄对美和谈努力，政府高层大部分不知情",
           "url": "https://flash.jin10.com/detail/20260914010750851800",
           "source": "金十数据",
@@ -723,11 +792,12 @@
           "url": "https://wallstreetcn.com/articles/3781643",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 09时48分]"
         },
         {
           "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
