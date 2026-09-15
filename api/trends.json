@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-09-15T13:52:41.994081+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-09-15T18:32:07.544011+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
+          "url": "https://tech.ifeng.com/c/8wQkfkSVHfL",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 18时32分]"
+        },
         {
           "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
           "url": "https://wallstreetcn.com/articles/3781667",
@@ -30,27 +54,15 @@
           "time_info": "[03时38分 ~ 06时48分]"
         },
         {
-          "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
-          "url": "https://tech.ifeng.com/c/8wQkfkSVHfL",
+          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
+          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时52分]"
-        },
-        {
-          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
-          "url": "https://wallstreetcn.com/articles/3781728",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
         },
         {
           "title": "美媒：特朗普曾与奥尔特曼私下会面 AI安全分歧浮现",
@@ -62,6 +74,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普公开致电黄仁勋：AI风险是骗局，数据中心是未来石油！",
+          "url": "https://www.cls.cn/detail/2483181",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
         },
         {
           "title": "据美国财经媒体Semafor：美国参议院共和党领袖图恩表示，他没有提前得知特朗普提出发放5000美元支票的想法。\"目前尚无具体提案，显然，如果真要落实，国会将在决策中发挥重要作用。\"",
@@ -86,27 +123,61 @@
           "time_info": "06时48分"
         },
         {
-          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
-          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
-          "source": "凤凰网",
+          "title": "特朗普将于9月21日在纽约市为共和党筹款活动发表主题演讲。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3165472",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "18时32分"
         },
         {
-          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
+          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
+          "url": "https://wallstreetcn.com/articles/3781756",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
+        },
+        {
+          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
           "source": "澎湃新闻",
           "ranks": [
-            3,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普突袭连线黄仁勋",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E8%A2%AD%E8%BF%9E%E7%BA%BF%E9%BB%84%E4%BB%81%E5%8B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时52分]"
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普抨击人工智能末日论",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%A8%E5%87%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AB%E6%97%A5%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "“AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎",
@@ -132,26 +203,15 @@
           "time_info": "[09时01分 ~ 13时52分]"
         },
         {
-          "title": "特朗普公开致电黄仁勋：AI风险是骗局，数据中心是未来石油！",
-          "url": "https://www.cls.cn/detail/2483181",
-          "source": "财联社热门",
+          "title": "黄仁勋峰会现场公放接特朗普电话",
+          "url": "https://www.douyin.com/hot/2650726",
+          "source": "抖音",
           "ranks": [
-            7
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
-          "url": "https://wallstreetcn.com/articles/3781756",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普突然宣布俄乌“能源停火”！泽连斯基“泼冷水”：需确保俄方履约",
@@ -174,17 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "特朗普宣称俄乌同意停止攻击能源设施，基辅方面说此事言之过早",
@@ -226,7 +275,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -251,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "据Axios：美国众议院监督委员会民主党最高级别成员正在调查俄罗斯寡头涉嫌为唐纳德·特朗普二世婚礼相关庆祝活动提供资金支持一事。",
+          "url": "https://flash.jin10.com/detail/20260915174328003800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普发文称将向全美成年人发放5000美元红利",
@@ -278,7 +338,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美飞行员被伊朗击落后数十小时才获救，细节披露",
@@ -289,8 +349,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时38分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时38分 ~ 18时32分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗无法与美国谈判，因为华盛顿从未兑现其承诺。伊朗的要求与此前保持一致。",
@@ -338,6 +398,18 @@
           "time_info": "03时39分"
         },
         {
+          "title": "美军飞行员讲述伊朗逃生经历",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BC%8A%E6%9C%97%E9%80%83%E7%94%9F%E7%BB%8F%E5%8E%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：地区国家可以通过合作创造安全与充满活力的经济。",
           "url": "https://flash.jin10.com/detail/20260915031343827800",
           "source": "金十数据",
@@ -355,7 +427,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -415,6 +487,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "据伊朗方面报道，伊朗科学部长率领代表团前往沙特首都利雅得，参加第四届联合国教科文组织人工智能伦理全球论坛（GFEAI 2026）。",
+          "url": "https://flash.jin10.com/detail/20260915174951858800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "周二亚太盘初，WTI原油期货高开0.7%，伊朗说没有与美国对话，伊朗革命卫队称一艘油轮试图穿越海峡时触雷爆炸。",
           "url": "https://wallstreetcn.com/livenews/3165077",
           "source": "华尔街见闻-快讯",
@@ -443,7 +526,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -492,17 +575,6 @@
           "time_info": "06时48分"
         },
         {
-          "title": "美军飞行员讲述伊朗逃生经历",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BC%8A%E6%9C%97%E9%80%83%E7%94%9F%E7%BB%8F%E5%8E%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "伊朗官员：两艘渔船遭无人机袭击 多名渔民失踪",
           "url": "https://flash.jin10.com/detail/20260915050930776800",
           "source": "金十数据",
@@ -531,7 +603,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -539,7 +611,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
@@ -550,8 +622,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时48分 ~ 18时32分]"
         },
         {
           "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
@@ -570,22 +642,46 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 18时32分]"
         },
         {
           "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
           "url": "https://wallstreetcn.com/articles/3781749",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
+        },
+        {
+          "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
+          "url": "https://www.cls.cn/detail/2483760",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "美债收益率高企吸引力上升 美国投资咨询公司Marsh上调美债配置至中性",
+          "url": "https://wallstreetcn.com/livenews/3165470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "18时32分"
         },
         {
           "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
@@ -594,7 +690,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -605,7 +701,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -627,7 +723,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -644,7 +740,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -666,7 +762,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -826,7 +922,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -834,18 +930,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
           "url": "https://www.zhihu.com/question/2083123101873844765",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时32分]"
+        },
+        {
+          "title": "DeepSeek工程师文章海外刷屏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%96%87%E7%AB%A0%E6%B5%B7%E5%A4%96%E5%88%B7%E5%B1%8F&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "模拟DeepSeek Harness漏洞",
