@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T18:21:30.317456+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-09-16T23:12:17.588667+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
@@ -103,6 +103,28 @@
           "time_info": "[03时19分 ~ 08时52分]"
         },
         {
+          "title": "加拿大总理用“特朗普送钥匙”形容美加关系",
+          "url": "https://news.ifeng.com/c/8wTGldiMoqm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国能源部长赖特：感谢上帝，我们有特朗普总统，他在能源问题上具有常识。",
+          "url": "https://flash.jin10.com/detail/20260916230220759800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
           "url": "https://wallstreetcn.com/articles/3781745",
           "source": "华尔街见闻",
@@ -132,7 +154,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -228,7 +250,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗总统：穆杰塔巴还健在，不能让美以获知他的行踪",
@@ -276,6 +298,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽",
+          "url": "https://news.ifeng.com/c/8wTKr5D1mPA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗格什姆岛传出数声爆炸声，爆炸声来自海上，官方暂未对此作出回应。",
           "url": "https://flash.jin10.com/detail/20260916060728641800",
           "source": "金十数据",
@@ -305,7 +338,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -371,7 +404,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -382,7 +415,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -415,7 +448,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -423,18 +456,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
           "url": "https://wallstreetcn.com/articles/3781779",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 23时12分]"
         },
         {
           "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
@@ -516,8 +550,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 23时12分]"
         },
         {
           "title": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功",
@@ -565,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "笃信今晚美联储加息！美债市场现“极端空头”",
+          "url": "https://wallstreetcn.com/articles/3781839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
@@ -586,24 +631,25 @@
           "time_info": "[03时19分 ~ 08时52分]"
         },
         {
+          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
+          "url": "https://wallstreetcn.com/articles/3781850",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 23时12分]"
+        },
+        {
           "title": "DeepSeek研究员文章走红",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%96%87%E7%AB%A0%E8%B5%B0%E7%BA%A2",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-          "url": "https://wallstreetcn.com/articles/3781850",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -613,11 +659,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 23时12分]"
         },
         {
           "title": "DeepSeek工程师发文引热议",
@@ -709,7 +756,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -717,7 +764,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 投资者聚焦美联储利率决议",
@@ -738,9 +785,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "新西兰超级基金警示美股收益或将降温",
+          "url": "https://wallstreetcn.com/livenews/3166317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
