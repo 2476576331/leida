@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-16T06:30:02.067693+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-09-16T08:52:15.042066+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
+          "url": "https://wallstreetcn.com/articles/3781756",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
+        },
         {
           "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
           "url": "https://wallstreetcn.com/articles/3781728",
@@ -30,15 +42,28 @@
           "time_info": "[03时19分 ~ 06时30分]"
         },
         {
-          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
-          "url": "https://wallstreetcn.com/articles/3781756",
+          "title": "特朗普真急了，一个电话打到黄仁勋那里",
+          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
+          "url": "https://wallstreetcn.com/articles/3781803",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
         },
         {
           "title": "美国总统特朗普的顾问称会见了Anthropic高管，讨论人工智能安全问题。",
@@ -47,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -68,23 +93,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
-        },
-        {
-          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
-          "url": "https://wallstreetcn.com/articles/3781803",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
         },
         {
           "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
@@ -116,7 +130,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -149,7 +163,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -160,7 +174,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -182,7 +196,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -193,15 +207,155 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "凤凰记者探访伊朗遇袭地，伊方现场控诉：骇人听闻的罪行",
+          "url": "https://original.ifeng.com/c/8wRjWjgjNhe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
+        },
+        {
+          "title": "伊朗总统：穆杰塔巴还健在，不能让美以获知他的行踪",
+          "url": "https://news.ifeng.com/c/8wRgmNyW2fF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐将访华",
+          "url": "https://news.ifeng.com/c/8wRQxeSggZb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有美国8月零售销售数据、伊朗外长访华，美联储次日凌晨公布决议",
+          "url": "https://flash.jin10.com/detail/20260916082042606800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗格什姆岛传出数声爆炸声，爆炸声来自海上，官方暂未对此作出回应。",
+          "url": "https://flash.jin10.com/detail/20260916060728641800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美战机遭伊朗击落，重伤飞行员爬上2千米山脊？美媒采访视频被批“战争宣传片”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34075061",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 08时52分]"
+        },
+        {
+          "title": "伊朗格什姆岛传出数声爆炸声。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3165782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "伊朗格什姆岛传出数次爆炸声",
+          "url": "https://flash.jin10.com/detail/20260916075807942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "据伊朗媒体16日报道，伊朗南部格什姆岛传出数次爆炸声。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3165816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）：预计2027年一季度年化PCE通胀将（比之前预期）高出0.5个百分点。 （美国+以色列挑起的）伊朗战争已经在最近五个月给美国造成380亿美元代价。",
+          "url": "https://wallstreetcn.com/livenews/3165693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "伊朗原子能组织发言人在国际原子能机构会议上表示：伊朗不会屈服，我国核计划是和平性质的。 伊朗是《不扩散核武器条约》最早的成员国之一，并且一直恪守条约义务。 国际原子能机构核查人员在对伊朗核设施开展反复、持续核查后，至今是否提交过显示伊朗存在违规行为的报告？ 国际原子能机构总干事与理事会当年难道没有谴责1981年针对伊拉克核设施的军事袭击吗？ 那么，针对伊朗核设施规模大得多的军事袭击，为何没有受到谴责？",
+          "url": "https://wallstreetcn.com/livenews/3165683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "AWS：伊朗袭击半年后，巴林与阿联酋部分设施仍无法恢复服务",
+          "url": "https://wallstreetcn.com/livenews/3165809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
@@ -240,6 +394,30 @@
           "time_info": "[03时19分 ~ 06时30分]"
         },
         {
+          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+          "url": "https://wallstreetcn.com/articles/3781779",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "url": "https://wallstreetcn.com/articles/3781749",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
+        },
+        {
           "title": "油价飙升加剧通胀担忧，10年期美债站上5%，美股指连跌两日静待美联储决策",
           "url": "https://wallstreetcn.com/articles/3781779",
           "source": "华尔街见闻",
@@ -262,18 +440,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
-          "url": "https://wallstreetcn.com/articles/3781749",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
-        },
-        {
           "title": "10年期美债收益率创19年新高 美股期指走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2483994",
           "source": "财联社热门",
@@ -286,105 +452,33 @@
           "time_info": "[03时19分 ~ 06时30分]"
         },
         {
+          "title": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功",
+          "url": "https://www.cls.cn/detail/2484206",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "10年期美债收益率破5%之际，日债收益率也失守3%，全球债市压力骤增！",
+          "url": "https://wallstreetcn.com/articles/3781781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
           "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
           "url": "https://wallstreetcn.com/articles/3781729",
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "凤凰记者探访伊朗遇袭地，伊方现场控诉：骇人听闻的罪行",
-          "url": "https://original.ifeng.com/c/8wRjWjgjNhe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
-        },
-        {
-          "title": "伊朗总统：穆杰塔巴还健在，不能让美以获知他的行踪",
-          "url": "https://news.ifeng.com/c/8wRgmNyW2fF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐将访华",
-          "url": "https://news.ifeng.com/c/8wRQxeSggZb",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗格什姆岛传出数声爆炸声，爆炸声来自海上，官方暂未对此作出回应。",
-          "url": "https://flash.jin10.com/detail/20260916060728641800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "美战机遭伊朗击落，重伤飞行员爬上2千米山脊？美媒采访视频被批“战争宣传片”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34075061",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时30分]"
-        },
-        {
-          "title": "伊朗格什姆岛传出数声爆炸声。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3165782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "美国国会预算办公室（CBO）：预计2027年一季度年化PCE通胀将（比之前预期）高出0.5个百分点。 （美国+以色列挑起的）伊朗战争已经在最近五个月给美国造成380亿美元代价。",
-          "url": "https://wallstreetcn.com/livenews/3165693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "伊朗原子能组织发言人在国际原子能机构会议上表示：伊朗不会屈服，我国核计划是和平性质的。 伊朗是《不扩散核武器条约》最早的成员国之一，并且一直恪守条约义务。 国际原子能机构核查人员在对伊朗核设施开展反复、持续核查后，至今是否提交过显示伊朗存在违规行为的报告？ 国际原子能机构总干事与理事会当年难道没有谴责1981年针对伊拉克核设施的军事袭击吗？ 那么，针对伊朗核设施规模大得多的军事袭击，为何没有受到谴责？",
-          "url": "https://wallstreetcn.com/livenews/3165683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -402,11 +496,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时52分]"
         },
         {
           "title": "DeepSeek工程师发文引热议",
@@ -443,7 +538,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -454,7 +549,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -465,7 +560,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
@@ -480,11 +575,12 @@
           "url": "https://www.cls.cn/detail/2484236",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时30分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 08时52分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
@@ -493,7 +589,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
