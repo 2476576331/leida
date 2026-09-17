@@ -1,356 +1,106 @@
 {
-  "generated_at": "2026-09-17T23:21:33.253414+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-09-18T03:21:46.345311+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 8,
       "titles": [
         {
           "title": "打脸特朗普！美联储全票通过三年来首次加息，点阵图料年内还将加一次",
           "url": "https://wallstreetcn.com/articles/3781919",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 23时21分]"
-        },
-        {
-          "title": "加拿大总理用“特朗普送钥匙”形容美加关系",
-          "url": "https://news.ifeng.com/c/8wTGldiMoqm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 08时56分]"
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
           "url": "https://wallstreetcn.com/articles/3781922",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 23时21分]"
-        },
-        {
-          "title": "美联储主席沃什：拒绝置评与美国总统特朗普的任何讨论情况。",
-          "url": "https://wallstreetcn.com/livenews/3166434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "特朗普谈伊朗：将是一个非常好的结局。",
-          "url": "https://wallstreetcn.com/livenews/3166574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国总统特朗普：如果我们赢了（中期选举），我们会给你5,000美元。就这么简单。",
-          "url": "https://flash.jin10.com/detail/20260917084443862800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普：战争很快就会结束，因为伊朗撑不下去了。",
-          "url": "https://wallstreetcn.com/livenews/3166573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "中方回应特朗普可对买俄石油国加税",
-          "url": "https://www.toutiao.com/trending/7686402905910853695/",
-          "source": "今日头条",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "03时21分"
         },
         {
-          "title": "特朗普：我们非常接近与墨西哥达成协议。 我们为什么要带加拿大玩？ 我们不需要欧洲拥有的任何东西。 我们正在努力解决俄罗斯和乌克兰问题，最难结束的是俄乌问题。 乌克兰冲突才是推高柴油价格的原因。",
-          "url": "https://wallstreetcn.com/livenews/3166570",
+          "title": "特朗普与辛鲍姆通话，美墨接近达成贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3166952",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普为赢中期选举打现金牌能兑现吗",
-          "url": "https://www.toutiao.com/trending/7686122596324085267/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易",
-          "url": "https://news.ifeng.com/c/8wU8oPZMulC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 18时31分]"
-        },
-        {
-          "title": "特朗普不满美联储加息：美国利率应在1%或以下，赶紧降息！",
-          "url": "https://www.cls.cn/detail/2485612",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普称利率应降至1%或更低",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%88%A9%E7%8E%87%E5%BA%94%E9%99%8D%E8%87%B31%25%E6%88%96%E6%9B%B4%E4%BD%8E%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "03时21分"
         },
         {
-          "title": "特朗普：伊朗战争将很快结束。 伊朗还没准备好达成协议。 我们随时都可以达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3166566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国总统特朗普：我是一个高智商的人。",
-          "url": "https://flash.jin10.com/detail/20260917084020073800",
+          "title": "据Politico：消息人士称，美国总统特朗普和墨西哥总统辛鲍姆即将达成贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260918021353379800",
           "source": "金十数据",
           "ranks": [
-            10
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "03时21分"
         },
         {
-          "title": "特朗普发文称美国利率应当降至 1% 或更低，这一利率对美国意味着什么？能实现吗？",
-          "url": "https://www.zhihu.com/question/2083822190844015426",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "美国总统特朗普：美国人正在支付更高的汽油价格，但这相对于美国所取得的成果而言是“非常廉价的代价”。",
-          "url": "https://flash.jin10.com/detail/20260917083343260800",
+          "title": "特朗普撤回对兰斯·施罗耶出任美移民与海关执法局局长提名",
+          "url": "https://flash.jin10.com/detail/20260918021232043800",
           "source": "金十数据",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "03时21分"
         },
         {
-          "title": "特朗普预计将于下周会见海湾阿拉伯国家合作委员会（GCC）领导人，预计将讨论伊朗问题。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3166556",
+          "title": "特朗普政府官员称，伊朗近期至少击落两架美国无人机。（美国媒体CBS）",
+          "url": "https://wallstreetcn.com/livenews/3166935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "03时21分"
         },
         {
-          "title": "特朗普称美国利率应降至1%以下，敦促美联储快速降息",
-          "url": "https://wallstreetcn.com/livenews/3166486",
+          "title": "美国总统特朗普：我在伊朗战争问题上正接近重大十字路口。 我即将做出一个重大决定。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3166930",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "特朗普强烈反对美联储加息",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E7%83%88%E5%8F%8D%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "中方回应特朗普可对买俄石油国加税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AF%E5%AF%B9%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "03时21分"
         },
         {
-          "title": "美国总统特朗普登上“空军一号”，前往北卡罗来纳州加斯托尼亚，计划在当地发表中期选举演讲。",
-          "url": "https://flash.jin10.com/detail/20260917052513774800",
-          "source": "金十数据",
+          "title": "特朗普为何硬刚AI三巨头",
+          "url": "https://www.toutiao.com/trending/7686451484564655670/",
+          "source": "今日头条",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国交通部：特朗普政府宣布临时放宽运送汽油和柴油的卡车司机服务时间限制规则。",
-          "url": "https://wallstreetcn.com/livenews/3166547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）预测战争将很快结束，政府已将美国从“黑暗时代”转变为“黄金时代”。",
-          "url": "https://flash.jin10.com/detail/20260917081452980800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国众议院通过员工持股计划估值法案，现已提交等待特朗普签署。",
-          "url": "https://wallstreetcn.com/livenews/3166546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国总统特朗普：我们在养活欧洲国家。我们所要做的就是告诉他们，‘你知道吗？我们不再和你们做生意了。我们不需要你们的任何东西。’我们有汽车。我们有木材。我们有粮食。我们什么都有。",
-          "url": "https://flash.jin10.com/detail/20260917081307224800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普：伊朗战争很快结束 特朗普在一切事情上都是对的",
-          "url": "https://flash.jin10.com/detail/20260917081115735800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽",
-          "url": "https://news.ifeng.com/c/8wTKr5D1mPA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 08时56分]"
-        },
-        {
-          "title": "美前国务卿布林肯称中东盟友正转向伊朗",
-          "url": "https://news.ifeng.com/c/8wU8oPZMulB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 18时31分]"
-        },
-        {
-          "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空？",
-          "url": "https://www.zhihu.com/question/2083344144982980584",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 08时56分]"
-        },
         {
           "title": "“以色列、伊朗、俄罗斯、北约的代表都坐在同一个厅里”",
           "url": "https://news.ifeng.com/c/8wV0k1GOPSC",
@@ -358,361 +108,70 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "03时21分"
         },
         {
-          "title": "安理会未授权伊朗制裁委专家组延期",
-          "url": "https://wallstreetcn.com/livenews/3166879",
-          "source": "华尔街见闻-快讯",
+          "title": "美国批准伊朗总统和外长赴纽约参加联大",
+          "url": "https://flash.jin10.com/detail/20260918024807293800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐与巴基斯坦军队指挥官通电话，讨论了最新的地区局势并交换了看法。",
-          "url": "https://flash.jin10.com/detail/20260917125640602800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "03时21分"
         },
         {
-          "title": "据环境能源媒体碳简报（Carbon Brief），伊朗战争预计将使2026年全球化石燃料排放减少0.5%，这将是自疫情以来二氧化碳排放首次出现年度下降。这充分反映出自战争爆发以来，市场上减少了多少燃料供应。",
-          "url": "https://flash.jin10.com/detail/20260917083551112800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社，伊朗要求瑞典外交官48小时内离开德黑兰。",
-          "url": "https://wallstreetcn.com/livenews/3166759",
+          "title": "摩根大通：根本不知道伊朗战争何时结束，经济红线已现",
+          "url": "https://wallstreetcn.com/livenews/3166953",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "据伊朗方面报道，针对德国高级官员近期发表针对伊朗的不当言论，以及德国驻伊朗大使馆采取的某些干涉性行动，伊朗外交部副部长兼西欧司司长阿里礼萨·优素菲召见了德国驻德黑兰大使阿克塞尔·威廉·迪特曼，并向其表达了伊朗方面对这些行为的强烈反对。",
-          "url": "https://flash.jin10.com/detail/20260917225056863800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "俄罗斯常驻联合国代表：伊朗核计划问题只能通过外交途径解决。",
-          "url": "https://flash.jin10.com/detail/20260917224953864800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会主席阿齐兹：伊朗民众与伊朗军方并肩战立，已经让美国和以色列的联盟陷入困境。我们的立场从未改变。美国，继续愤怒吧，让这股怒火吞噬你自己。",
-          "url": "https://flash.jin10.com/detail/20260917052815090800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "土耳其称伊朗支持土方解散库尔德工人党",
-          "url": "https://wallstreetcn.com/livenews/3166550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美股收盘：FED鹰派加息打压市场情绪 三大指数集体走低",
-          "url": "https://www.cls.cn/detail/2485595",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 13时33分]"
-        },
-        {
-          "title": "【早报】时隔3年多，美联储重启加息；美股、原油、黄金全线跳水；多家A股公司，披露回购进展",
-          "url": "https://www.cls.cn/detail/2485626",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 13时33分]"
-        },
-        {
-          "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
-          "url": "https://www.cls.cn/detail/2486411",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "一文看懂： 美联储三年来首度加息，以史为鉴美股会怎么走？",
-          "url": "https://www.cls.cn/detail/2485638",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 13时33分]"
-        },
-        {
-          "title": "美联储加息落地，美股高开，纳指涨1.5%，存储芯片、光通信股普涨，布油跌3%，黄金逼近4370",
-          "url": "https://wallstreetcn.com/articles/3781940",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "AI股抛售已释放风险，城堡证券Rubner看好美股年末走势",
-          "url": "https://wallstreetcn.com/livenews/3166872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美股牛市走到头了？全球最强主权基金重磅示警：回调将至！",
-          "url": "https://www.cls.cn/detail/2485768",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "美联储加息美股全线跳水",
-          "url": "https://www.douyin.com/hot/2653143",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "美股期货反弹，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3166552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "布油基金收跌2.9%，与道指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3166480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "周三（9月16日），美股降息赢家指数收跌1.79%，报88.51点。 美股开盘至北京时间02:00大致持平，美联储宣布加息后持续下跌，03:26刷新日低至87.61点。 成分股普遍下跌，俄亥俄州亨廷顿银行控股HBAN收跌5.55%，公民金融集团CFG跌4.84%，Polarris跌4.51%，Truist金融公司跌4%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3166478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-          "url": "https://wallstreetcn.com/articles/3781779",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 06时26分]"
-        },
-        {
-          "title": "两年期美债收益率于美联储加息日涨超7个基点",
-          "url": "https://wallstreetcn.com/livenews/3166510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
-          "url": "https://wallstreetcn.com/articles/3781871",
-          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
-          "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
-          "url": "https://wallstreetcn.com/articles/3781822",
-          "source": "华尔街见闻",
+          "title": "美国国务院发言人：伊朗政权的核心代表团将能够参加联合国大会高级别周。",
+          "url": "https://flash.jin10.com/detail/20260918023947299800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国国务院：华盛顿已向伊朗发放出席联合国会议的签证。",
+          "url": "https://flash.jin10.com/detail/20260918023641739800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
-        },
-        {
-          "title": "美债海外持仓降至9个月低点，5%收益率能否发挥“吸金力”？",
-          "url": "https://flash.jin10.com/detail/20260917083453818800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "7月外国持有美债降至9个月低点",
-          "url": "https://wallstreetcn.com/livenews/3166487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美联储加息正揭开美债高风险盖头吗",
-          "url": "https://www.toutiao.com/trending/7686488271534165555/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美联储发布决议声明前，美国10年期国债收益率跌5.53个基点，刷新日低至4.9446%；两年期美债收益率跌5.9个基点，持稳于日低4.6017%附近；10年期TIPS收益率跌3.8个基点，两年期实际收益率跌2.5个基点持稳于日高附近。 现货黄金涨1.3%，持稳于日高4360.85美元附近。 标普500指数涨0.3%，道指大致持平，纳指涨0.6%，半导体指数涨1.5%，银行指数跌0.6%。 美元指数涨0.1%，日元持平，欧元跌0.1%，英镑跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3166404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI：不当行为示例还包括合作代理之间未经授权的文件共享。",
-          "url": "https://flash.jin10.com/detail/20260917060956016800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI：不当行为示例包括在任务摘要中自行生成指令、在任务摘要中指示隐瞒错误。",
-          "url": "https://flash.jin10.com/detail/20260917060928884800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI发布六份报告，有关模型训练或评估过程中观察到的不当行为。",
-          "url": "https://flash.jin10.com/detail/20260917060845154800",
-          "source": "金十数据",
+          "title": "OpenAI、微软高管承认AI对新闻业构成威胁",
+          "url": "https://wallstreetcn.com/livenews/3166954",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "03时21分"
         },
         {
           "title": "如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这类模型会成为 Agent 的新技术路线吗？",
@@ -721,178 +180,110 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "03时21分"
         },
         {
-          "title": "报道：OpenAI有望攻克另一项千禧年大奖数学难题，“霍奇猜想”有望在较短时间内得到证明",
-          "url": "https://wallstreetcn.com/livenews/3166859",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：OpenAI和微软(MSFT.O)都意识到了人工智能对新闻行业的威胁。",
+          "url": "https://flash.jin10.com/detail/20260918020449112800",
+          "source": "金十数据",
           "ranks": [
-            21
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
+          "url": "https://www.cls.cn/detail/2486411",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美联储加息落地，美股高开，纳指涨1.5%，存储芯片、光通信股普涨，布油跌3%，黄金逼近4370",
+          "url": "https://wallstreetcn.com/articles/3781940",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "加息冲击暂缓 美股三大期指均涨超1% 布油跌近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2486467",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "deepseek工程师自嘲被AI取代",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
           "source": "贴吧",
           "ranks": [
-            7,
-            17,
-            20
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时08分 ~ 23时21分]"
-        },
-        {
-          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-          "url": "https://wallstreetcn.com/articles/3781850",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 08时56分]"
-        },
-        {
-          "title": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？",
-          "url": "https://www.zhihu.com/question/2083642920830251152",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 18时31分]"
-        },
-        {
-          "title": "DeepSeek研究员文章走红",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%96%87%E7%AB%A0%E8%B5%B0%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国法官表示，鉴于谷歌反垄断违法行为的 “严重性”，谷歌应任命一名内部合规官。",
-          "url": "https://wallstreetcn.com/livenews/3166508",
+          "title": "谷歌：我们正在使用新的测试框架更新Gemini托管代理。 antigravity‑preview‑09‑2026版本为Google AI Studio以及交互API带来相关工具与行为能力。",
+          "url": "https://wallstreetcn.com/livenews/3166946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "苹果三星谷歌被查",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%89%E6%98%9F%E8%B0%B7%E6%AD%8C%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "市场消息：美国一名联邦法官就谷歌(GOOG.O)广告技术业务反垄断案作出裁决，拒绝了美国司法部要求“拆分谷歌广告技术业务”的方案。",
-          "url": "https://flash.jin10.com/detail/20260917053726679800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "谷歌DeepMind分拆初创公司成立仅一个月估值逼近40亿美元",
-          "url": "https://flash.jin10.com/detail/20260917123813645800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
           "url": "https://wallstreetcn.com/articles/3781920",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 23时21分]"
-        },
-        {
-          "title": "现货黄金价格转跌，逼近北京时间08:56刷新的日低4275.57美元，美联储宣布加息时达到4366.49美元刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3166429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "国际金价在美联储加息日跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3166492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "市场反应：两年期美债收益率从日低4.5975%附近反弹，美联储决议声明后拉升至接近4.65%的水平。 美国10年期基准国债收益率在美联储宣布加息时跌还在4.9323%刷新日低，瞬间反弹至接近4.96%的水平，并未改变北京时间16:00以来持续下挫的跌势。 道指转跌。 金价从4360美元上方跳水，回撤至4320美元下方。",
-          "url": "https://wallstreetcn.com/livenews/3166410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "03时21分"
         }
       ]
     }
