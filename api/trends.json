@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-19T04:02:36.495248+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-09-19T06:54:13.883214+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国上诉法院驳回特朗普政府关于快速将移民遣送至第三国的政策。",
@@ -14,9 +14,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+          "url": "https://flash.jin10.com/detail/20260919061129307800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基感谢美国总统特朗普签署俄罗斯制裁法案，并感谢国会成员对此的支持。",
+          "url": "https://flash.jin10.com/detail/20260919060817824800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "沃什是如何在不激怒特朗普的情况下加息的",
@@ -27,8 +49,52 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时54分]"
+        },
+        {
+          "title": "李在明：特朗普金正恩数月内或会晤",
+          "url": "https://www.toutiao.com/trending/7686804726591065663/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时02分]"
+          "time_info": "[06时53分 ~ 06时54分]"
+        },
+        {
+          "title": "特朗普称美国与丹麦就格陵兰安全协议达成一致",
+          "url": "https://flash.jin10.com/detail/20260919055223697800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美国总统特朗普下周将在纽约市会见委内瑞拉代总统Rodriguez。",
+          "url": "https://wallstreetcn.com/livenews/3167507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。 特朗普将与海湾领导人举行多边会议。",
+          "url": "https://wallstreetcn.com/livenews/3167505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "特朗普称柴油涨价主因俄乌冲突而非伊朗战事 市场数据显示中东供应损失更大",
@@ -37,7 +103,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -53,6 +119,28 @@
           "time_info": "01时56分"
         },
         {
+          "title": "【美总统特朗普签署针对俄罗斯和伊朗的制裁法案】9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3167503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "白宫：特朗普签署俄罗斯制裁法案，使其正式成为法律。",
+          "url": "https://flash.jin10.com/detail/20260919054532930800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "美国总统特朗普：美国正与也门胡塞武装对话。 （与伊朗一样）胡塞也希望达成一份协议。（Newsnation）",
           "url": "https://wallstreetcn.com/livenews/3167413",
           "source": "华尔街见闻-快讯",
@@ -64,15 +152,48 @@
           "time_info": "01时56分"
         },
         {
+          "title": "美国民主党参议员沃伦：总统为何要审查媒体？特朗普将美国拖入一场无休止的战争，抬高了从汽油到食品等各类商品的价格。 特朗普想要掩盖自己的败绩。选民会追究他的责任。",
+          "url": "https://wallstreetcn.com/livenews/3167501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "白宫公告：对部分非移民工人实施美国入境限制。 总统特朗普将H-1B签证入境限制延长12个月至2027年9月。",
+          "url": "https://wallstreetcn.com/livenews/3167499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "特朗普封禁三家媒体进入白宫 指控其报道失实",
           "url": "https://flash.jin10.com/detail/20260919030733559800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国已与丹麦和格陵兰达成协议，美国将获得对格陵兰安全事务及相关需求的“永久控制权”。该协议无需美国承担成本，解决了美国长期以来对格陵兰战略安全的担忧。",
+          "url": "https://flash.jin10.com/detail/20260919051953651800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "特朗普：是否要“摧毁”伊朗，拭目以待",
@@ -92,7 +213,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -108,6 +229,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "特朗普：美国已与丹麦达成协议，将永久控制格陵兰岛的安全",
+          "url": "https://wallstreetcn.com/livenews/3167487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "美媒：全球为特朗普的历史执念买单",
           "url": "https://www.toutiao.com/trending/7685735571751272454/",
           "source": "今日头条",
@@ -117,12 +249,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普再称对伊朗战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3167477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国务院放话：绝不允许伊朗官员在纽约大肆购物",
@@ -132,8 +275,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时54分]"
         },
         {
           "title": "中俄投反对票，伊朗表态",
@@ -143,8 +286,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时54分]"
+        },
+        {
+          "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34094739",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时54分]"
         },
         {
           "title": "巴勒斯坦消息人士经伊朗学生通讯社（ISNA）披露：沙特高级安全与军事代表团会晤摩萨德及以色列军事情报部门负责人，在美国中央司令部监督下寻求针对胡塞武装行动的支援。",
@@ -159,24 +314,13 @@
           "time_info": "[01时56分 ~ 04时02分]"
         },
         {
-          "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34094739",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时02分]"
-        },
-        {
           "title": "据伊朗媒体Fars News：也门胡塞武装政治局成员阿卜杜拉·纳伊米（Abdullah al-Naimi）表示，有报道称沙特已与伊朗接触，希望伊朗介入斡旋沙特与也门之间的问题。",
           "url": "https://flash.jin10.com/detail/20260919032656385800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -190,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "据伊朗媒体Fars News： 阿拉伯消息人士称，也门胡塞武装向海米斯穆谢特的哈立德国王空军基地发动了导弹和无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260919052555939800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "据伊朗学生通讯社：消息人士称，沙特高级安全与军事代表团在美国中央司令部监督下会见了摩萨德和以色列军事情报部门领导人，以寻求应对胡塞武装行动的支持。",
@@ -216,36 +371,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至9月15日当周，投机者减少CBOT 2年期美债期货净空头头寸73,754份合约，至345,203份。投机者增加CBOT超长期美债期货净空头头寸63份合约，至345,203份。投机者增加CBOT美债期货净空头头寸2,640份合约，至203,157份。",
-          "url": "https://flash.jin10.com/detail/20260919033224902800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至9月15日当周，投机者减少CBOT 5年期美债期货净空头头寸270,127份合约，至997,366份。投机者减少CBOT 10年期美债期货净空头头寸13,547份合约，至821,236份。",
-          "url": "https://flash.jin10.com/detail/20260919033213316800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
@@ -256,15 +383,109 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时54分]"
+        },
+        {
+          "title": "Gemini首次出现自主访问外部系统事件 谷歌称未造成实际损害",
+          "url": "https://flash.jin10.com/detail/20260919061946164800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "据华尔街日报：谷歌Gemini模型在网络安全测试中自主攻击3家公司系统，系谷歌AI首次已知自主执行此类行为。",
+          "url": "https://flash.jin10.com/detail/20260919061626069800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "谷歌Gemini在安全测试中自主入侵三家真实企业，公司称未构成模型错配且未主动披露",
+          "url": "https://wallstreetcn.com/livenews/3167504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“三巫日”叠加10年期美债重回5%，标普、纳指艰难收涨，闪迪大涨11%，油价跌黄金涨",
+          "url": "https://wallstreetcn.com/articles/3782058",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时02分]"
+          "time_info": "[06时53分 ~ 06时54分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至9月15日当周，投机者减少CBOT 2年期美债期货净空头头寸73,754份合约，至345,203份。投机者增加CBOT超长期美债期货净空头头寸63份合约，至345,203份。投机者增加CBOT美债期货净空头头寸2,640份合约，至203,157份。",
+          "url": "https://flash.jin10.com/detail/20260919033224902800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至9月15日当周，投机者减少CBOT 5年期美债期货净空头头寸270,127份合约，至997,366份。投机者减少CBOT 10年期美债期货净空头头寸13,547份合约，至821,236份。",
+          "url": "https://flash.jin10.com/detail/20260919033213316800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "两年期美债收益率创去年4月底以来新高，周五涨约8个基点，两年期实际收益率本周涨超19个基点",
+          "url": "https://wallstreetcn.com/livenews/3167494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "报道：OpenAI到2030年这段时间料将烧钱2800亿美元",
+          "url": "https://wallstreetcn.com/livenews/3167512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
         {
           "title": "88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”",
           "url": "https://wallstreetcn.com/articles/3782066",
@@ -274,8 +495,53 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时54分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman下周将对联合国安理会讲话。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3167474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价周五涨超0.8%，本周涨约0.7%，现货白银累涨超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3167481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周",
+          "url": "https://www.cls.cn/detail/2487680",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时02分]"
+          "time_info": "[06时53分 ~ 06时54分]"
         }
       ]
     },
@@ -290,7 +556,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
