@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T15:17:45.785944+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-09-21T22:35:31.910969+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "周末要闻汇总：伊朗向美国开出7项谈判条件；沈鼓集团部分投资者被暂停交易",
@@ -61,11 +61,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 22时35分]"
         },
         {
           "title": "中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台",
@@ -339,7 +340,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -355,6 +356,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗称在霍尔木兹海峡击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3168339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "据塔斯尼姆通讯社：伊朗陆军公共关系部门表示，当地时间今天18时30分，一架“轨道器”（Orbiter）先进侦察无人机，在伊朗东南部地区、国家一体化防空网络覆盖下，被伊朗陆军防空部队国产防空系统火力打击，于霍尔木兹海峡上空被击落并坠毁。",
           "url": "https://flash.jin10.com/detail/20260921010056148800",
           "source": "金十数据",
@@ -364,12 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗总统22日赴美出席联合国大会",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F22%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
@@ -402,8 +425,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 22时35分]"
+        },
+        {
+          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
+          "url": "https://news.ifeng.com/c/8wb657JvMmu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 15时17分]"
+          "time_info": "[15时17分 ~ 22时35分]"
         },
         {
           "title": "特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套",
@@ -419,6 +453,17 @@
           "time_info": "[00时32分 ~ 09时47分]"
         },
         {
+          "title": "美媒称特朗普下令空袭胡塞后又变卦",
+          "url": "https://news.ifeng.com/c/8wbLU7n9HHo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "特朗普：也门胡塞武装同意不与美国交战",
           "url": "https://wallstreetcn.com/livenews/3167850",
           "source": "华尔街见闻-快讯",
@@ -430,17 +475,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 07时42分]"
-        },
-        {
-          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
-          "url": "https://news.ifeng.com/c/8wb657JvMmu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普通话，双方同意在纽约举行会面。此次会面“可能改变很多事情”。",
@@ -589,7 +623,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -625,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普宣布与丹麦达成安全协议后，美国上市的格陵兰概念股暴涨",
+          "url": "https://wallstreetcn.com/livenews/3168358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "消息人士：柴油价格成为特朗普与泽连斯基通话焦点",
@@ -707,7 +752,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大股指期货集体拉升",
@@ -721,15 +766,59 @@
           "time_info": "09时47分"
         },
         {
+          "title": "美股高开 英特尔涨超9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%859%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
+          "url": "https://wallstreetcn.com/articles/3782211",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2489316",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "高盛：AI投资热贡献美股近半数盈利增长 但明年这一动力将逐渐消失…",
           "url": "https://www.cls.cn/detail/2488257",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.49%，标普500指数涨0.6%，纳指涨0.7%。明星科技股普涨，英特尔涨超9%，公司携手友达布局Micro LED先进封装，瞄准CPO与高密度算力整合市场；Arm涨超8%，美光科技涨3%；华纳兄弟探索上涨7%，派拉蒙涨超4.2%，此前有报道称派拉蒙与加州检察长讨论包括15亿美元投资在内的让步措施。",
+          "url": "https://wallstreetcn.com/livenews/3168345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "美股三大股指期货周一开盘微涨。",
@@ -752,43 +841,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-          "url": "https://www.zhihu.com/question/2084432664535241222",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 05时57分]"
         },
         {
-          "title": "马斯克转发帖文，该帖文称，“GPT-6 Astra在多次模拟测试中将一个模拟人物推下悬崖，而Grok、Gemini和Claude均未这样做。”",
-          "url": "https://wallstreetcn.com/livenews/3168026",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260921214136648800",
+          "source": "金十数据",
           "ranks": [
-            11
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "22时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "据悉OpenAI与Anthropic接近达成AI模型相互压力测试协议",
+          "url": "https://flash.jin10.com/detail/20260921220233490800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
         {
           "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？",
           "url": "https://wallstreetcn.com/articles/3782152",
@@ -810,6 +891,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "报道：OpenAI和Anthropic正在洽谈相互进行压力测试",
+          "url": "https://wallstreetcn.com/livenews/3168359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "据The Information：OpenAI与Anthropic正洽谈相互对对方的人工智能模型进行压力测试。",
+          "url": "https://flash.jin10.com/detail/20260921215703649800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
+          "url": "https://www.zhihu.com/question/2084432664535241222",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时57分]"
+        },
+        {
+          "title": "马斯克转发帖文，该帖文称，“GPT-6 Astra在多次模拟测试中将一个模拟人物推下悬崖，而Grok、Gemini和Claude均未这样做。”",
+          "url": "https://wallstreetcn.com/livenews/3168026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "高通：与谷歌合作，将骁龙X Elite平台引入首批Googlebook笔记本电脑。",
+          "url": "https://wallstreetcn.com/livenews/3168332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -835,7 +979,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
