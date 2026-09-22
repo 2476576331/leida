@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T06:52:49.966126+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-09-22T09:18:29.602047+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 06时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 09时18分]"
         },
         {
           "title": "特朗普政府拟拨款50亿美元用于重建中东能源设施",
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/articles/3782225",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 06时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 09时18分]"
         },
         {
           "title": "特朗普回应中美元首会晤",
@@ -69,7 +70,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -102,7 +103,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -113,9 +114,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "特朗普力推与白俄罗斯达成大规模钾肥交易 欲在贸易战中削弱加拿大优势",
+          "url": "https://www.cls.cn/detail/2489470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普要给中东能源“换条路”：100亿美元基金瞄准霍尔木兹替代通道",
+          "url": "https://flash.jin10.com/detail/20260922083746402800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "巴西总统卢拉：若无法与美国达成贸易协议，我们将不得不采取对等反制措施。 已告知总统特朗普，美国不应干涉巴西大选。",
@@ -129,15 +152,37 @@
           "time_info": "03时47分"
         },
         {
+          "title": "美媒称特朗普下令空袭胡塞后又变卦",
+          "url": "https://www.toutiao.com/trending/7687797930430005290/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "据美媒透露，在上周特朗普禁止Politico、CNN和MS NOW进入白宫之前，是他的助手娜塔莉·哈普（Natalie Harp）给他看了相关媒体报道的视频片段。哈普是特朗普的特别助理兼执行助理。据悉她被称为人形打印机，因为她习惯随身携带便携打印机，给特朗普打印新闻文章和社交媒体内容（特朗普更喜欢看纸质版）。她还经常帮助管理特朗普的Truth Social账号。",
           "url": "https://flash.jin10.com/detail/20260922054251236800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "法国总统马克龙称，与特朗普讨论了乌克兰、俄罗斯打击能源设施的问题。 马克龙表示，他将与泽连斯基讨论停止打击能源设施的问题。",
+          "url": "https://wallstreetcn.com/livenews/3168530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国总统特朗普周二将会见丹麦和格陵兰领导人。",
@@ -157,7 +202,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -168,7 +213,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -179,7 +224,114 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股收盘：纳指涨超2%再创新高 Meta版“龙虾”点燃行情 AMD市值首次突破万亿美元",
+          "url": "https://www.cls.cn/detail/2489502",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 09时18分]"
+        },
+        {
+          "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
+          "url": "https://wallstreetcn.com/articles/3782211",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "【早报】美股芯片股，全线暴涨；原油大跌、黄金走弱；宁德时代、江波龙披露回购进展",
+          "url": "https://www.cls.cn/detail/2489519",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2489316",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 09时18分]"
+        },
+        {
+          "title": "美股半导体股深夜飙涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%82%A1%E6%B7%B1%E5%A4%9C%E9%A3%99%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "纳指ETF收涨将近2.9%，与新兴市场ETF领跑美股大类资产类ETF，布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3168494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "瑞银预警：美股迎中期选举风暴，波动率或飙升！",
+          "url": "https://flash.jin10.com/detail/20260922081940882800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "周一（9月21日），美股行业ETF多数收涨，半导体ETF涨4.02%，网络股指数ETF涨3.02%，全球科技股指数ETF涨2.97%，科技行业ETF涨2.89%，可选消费ETF涨1.3%，日常消费品ETF跌0.41%，区域银行ETF跌0.48%，能源业ETF跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3168489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周一（9月21日），彭博电动汽车价格回报指数涨0.25%，报3265.91点，亚太时段呈现出V形走势，美股时段呈现出V形走势、但整体上延续亚太午盘以来持续走高的表现。",
+          "url": "https://wallstreetcn.com/livenews/3168488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         }
@@ -187,8 +339,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗外长阿拉格齐除了参与联大议程相关讨论并阐明伊朗的立场外，还将与出席此次会议的多国官员及外长举行会谈与磋商。",
+          "url": "https://flash.jin10.com/detail/20260922090258008800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
         {
           "title": "中国男篮不敌伊朗无缘领奖台",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
@@ -197,8 +360,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 06时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 09时18分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：卡塔尔外交部发言人表示，卡塔尔正致力于促成华盛顿与德黑兰之间达成协议，哪怕只是短期协议。",
@@ -240,7 +403,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -262,82 +425,59 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "伊朗外长介绍伊朗总统联大行程安排",
+          "url": "https://flash.jin10.com/detail/20260922081920647800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
-          "url": "https://wallstreetcn.com/articles/3782211",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 03时47分]"
-        },
-        {
-          "title": "美股收盘：纳指涨超2%再创新高 Meta版“龙虾”点燃行情 AMD市值首次突破万亿美元",
-          "url": "https://www.cls.cn/detail/2489502",
+          "title": "AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse",
+          "url": "https://www.cls.cn/detail/2489489",
           "source": "财联社热门",
           "ranks": [
-            2
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "09时18分"
         },
         {
-          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2489316",
-          "source": "财联社热门",
+          "title": "OpenAI敦促美国牵头为人工智能制定全球标准",
+          "url": "https://wallstreetcn.com/livenews/3168464",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 06时52分]"
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
-          "title": "纳指ETF收涨将近2.9%，与新兴市场ETF领跑美股大类资产类ETF，布油基金跌2.8%",
-          "url": "https://wallstreetcn.com/livenews/3168494",
+          "title": "OpenAI成立独立的数学顾问团队。 自8月28日以来，OpenAI模型解决了超过100个数学问题。",
+          "url": "https://wallstreetcn.com/livenews/3168440",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "周一（9月21日），美股行业ETF多数收涨，半导体ETF涨4.02%，网络股指数ETF涨3.02%，全球科技股指数ETF涨2.97%，科技行业ETF涨2.89%，可选消费ETF涨1.3%，日常消费品ETF跌0.41%，区域银行ETF跌0.48%，能源业ETF跌2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3168489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "周一（9月21日），彭博电动汽车价格回报指数涨0.25%，报3265.91点，亚太时段呈现出V形走势，美股时段呈现出V形走势、但整体上延续亚太午盘以来持续走高的表现。",
-          "url": "https://wallstreetcn.com/livenews/3168488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "03时47分"
         }
       ]
     },
@@ -363,37 +503,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI敦促美国牵头为人工智能制定全球标准",
-          "url": "https://wallstreetcn.com/livenews/3168464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "OpenAI成立独立的数学顾问团队。 自8月28日以来，OpenAI模型解决了超过100个数学问题。",
-          "url": "https://wallstreetcn.com/livenews/3168440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
         }
       ]
     },
@@ -436,7 +548,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         }
