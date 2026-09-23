@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T14:49:44.216038+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-09-23T20:21:43.918644+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
@@ -25,22 +25,24 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 20时21分]"
         },
         {
           "title": "特朗普：委内瑞拉石油是美军战利品，它属于胜利者",
           "url": "https://news.ifeng.com/c/8weCZ7eZh3s",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 20时21分]"
         },
         {
           "title": "据MSNOWnews：一名美国官员透露，特朗普近日签署了一项任命，正式任命鲁比奥为国家安全顾问。此前他一直以代理身份担任该职务——如今这一任命已正式生效。",
@@ -78,6 +80,31 @@
           "time_info": "[07时19分 ~ 14时49分]"
         },
         {
+          "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
+          "url": "https://wallstreetcn.com/articles/3782306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 20时21分]"
+        },
+        {
+          "title": "美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”",
+          "url": "https://wallstreetcn.com/articles/3782334",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 20时21分]"
+        },
+        {
           "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
           "url": "https://www.cls.cn/detail/2490453",
           "source": "财联社热门",
@@ -90,28 +117,17 @@
           "time_info": "[01时23分 ~ 09时54分]"
         },
         {
-          "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
-          "url": "https://wallstreetcn.com/articles/3782306",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 14时49分]"
-        },
-        {
           "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce",
           "url": "https://wallstreetcn.com/articles/3782324",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 20时21分]"
         },
         {
           "title": "如何看待特朗普禁止三家媒体进入白宫",
@@ -170,17 +186,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”",
-          "url": "https://wallstreetcn.com/articles/3782334",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
           "title": "特朗普威胁“摧毁伊朗”之际，美伊纽约密谈3小时：双方很快再会",
           "url": "https://flash.jin10.com/detail/20260923064941203800",
           "source": "金十数据",
@@ -209,7 +214,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -231,7 +236,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -275,7 +280,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -289,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "谁会成为特朗普口中的“AI沙皇”？据爆料贝森特是热门人选",
+          "url": "https://www.cls.cn/detail/2490966",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美媒：特朗普顾问将高油价归因于炼油问题",
@@ -333,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "消息人士：特朗普政府官员已放弃撤换美国国防部副部长斯蒂芬·范伯格的计划。",
+          "url": "https://flash.jin10.com/detail/20260923195909160800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国总统特朗普：如果法官裁定，可能会允许CNN、MSNOW和Politico重新进入白宫。",
@@ -401,6 +428,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普天天叫嚣利率应降至1%，他的逻辑究竟是啥？",
+          "url": "https://flash.jin10.com/detail/20260923195601984800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "美国总统特朗普：目前尚未发现镐山的动向，但一旦发现，我们将予以打击。",
           "url": "https://flash.jin10.com/detail/20260923034205793800",
           "source": "金十数据",
@@ -421,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普在联合国总部“阴阳”CNN：“说好联合抵制我，怎么又来采访”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34126828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国总统特朗普：可能不得不摧毁镐山。",
@@ -506,7 +555,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -517,7 +566,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
@@ -525,7 +574,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "受美国制裁影响，土耳其多家航司取消往返伊朗航班",
@@ -545,7 +594,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -605,7 +654,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -627,7 +676,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -731,13 +780,24 @@
           "time_info": "07时19分"
         },
         {
+          "title": "伊朗第一副总统阿里夫：总统将向世界展现伊朗的实力与发展，并回应敌方的暴力行为和不公正制裁。",
+          "url": "https://flash.jin10.com/detail/20260923195247719800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "伊朗总统抵达纽约出席联合国大会",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E7%BA%BD%E7%BA%A6%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -756,7 +816,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：纳指又创新高 Muse概念股继续走强",
@@ -818,6 +878,28 @@
           "time_info": "04时31分"
         },
         {
+          "title": "美股三大股指期货下跌，纳指期货下跌0.3%，道琼斯指数期货下跌0.2%，标普指数期货下跌0.1%。 布伦特原油日内涨幅达1.0%，报96.37美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3169610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "不认同美股“崩盘论”！高盛和德银一致看多：标普500有望冲破八千点大关",
+          "url": "https://www.cls.cn/detail/2491306",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "金十图示：2026年09月22日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260923010017094800",
           "source": "金十数据",
@@ -854,7 +936,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI将允许外部团体评估其处于开发早期阶段的那些AI模型。",
@@ -868,26 +950,133 @@
           "time_info": "01时23分"
         },
         {
+          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 20时21分]"
+        },
+        {
+          "title": "OpenAI扩大向乌克兰提供网络安全工具的使用权限，以支持民用防御。",
+          "url": "https://flash.jin10.com/detail/20260923200247157800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
           "url": "https://www.cls.cn/detail/2490735",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
         {
-          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
-          "source": "澎湃新闻",
+          "title": "OpenAI CEO将出席安理会会议 以“务实中间派”立场推动建立AI安全标准",
+          "url": "https://wallstreetcn.com/livenews/3169532",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "20时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“DeepSeek将向联合国安理会作通报”",
+          "url": "https://news.ifeng.com/c/8wdIpvxWoQW",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 20时21分]"
+        },
+        {
+          "title": "DeepSeek新论文公开Agent训练",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E8%AE%BA%E6%96%87%E5%85%AC%E5%BC%80Agent%E8%AE%AD%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价正与利率逐步脱钩 黄金ETF持仓量升至七个月来最高水平",
+          "url": "https://www.cls.cn/detail/2490887",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "国际金价涨约0.4%，白银涨约1.6%，纽约铜涨超1.9%一度逼近6.93美元",
+          "url": "https://wallstreetcn.com/livenews/3169157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（9月22日）纽约尾盘，美国10年期国债收益率跌1.22个基点，报4.9388%。 两年期美债收益率跌1.86个基点，报4.7277%；30年期美债收益率跌0.32个基点，报5.2814%。 2/10年期美债收益率利差涨1.236个基点，报+21.288个基点。 10年期通胀保值国债（TIPS）收益率涨0.74个基点，至2.62%；两年期TIPS收益率跌0.67个基点，至2.3055%；30年期TIPS收益率涨1.59个基点，至3.0450%。",
+          "url": "https://wallstreetcn.com/livenews/3169124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美债收益率持续走高，2年期美债收益率升至4.79%，创年内新高。",
+          "url": "https://wallstreetcn.com/livenews/3169609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -913,60 +1102,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“DeepSeek将向联合国安理会作通报”",
-          "url": "https://news.ifeng.com/c/8wdIpvxWoQW",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 14时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价涨约0.4%，白银涨约1.6%，纽约铜涨超1.9%一度逼近6.93美元",
-          "url": "https://wallstreetcn.com/livenews/3169157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（9月22日）纽约尾盘，美国10年期国债收益率跌1.22个基点，报4.9388%。 两年期美债收益率跌1.86个基点，报4.7277%；30年期美债收益率跌0.32个基点，报5.2814%。 2/10年期美债收益率利差涨1.236个基点，报+21.288个基点。 10年期通胀保值国债（TIPS）收益率涨0.74个基点，至2.62%；两年期TIPS收益率跌0.67个基点，至2.3055%；30年期TIPS收益率涨1.59个基点，至3.0450%。",
-          "url": "https://wallstreetcn.com/livenews/3169124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         }
       ]
     }
