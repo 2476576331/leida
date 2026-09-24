@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-24T14:50:24.186611+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-09-24T20:22:06.720580+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "特朗普总统赴机场，欢迎习近平主席到访",
+          "url": "https://wallstreetcn.com/articles/3782407",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 20时22分]"
+        },
         {
           "title": "特朗普：“人工智能”一词低估了这项技术，将改称“超级智能”",
           "url": "https://news.ifeng.com/c/8wefMzNG5re",
@@ -32,6 +44,17 @@
           "time_info": "[01时31分 ~ 07时15分]"
         },
         {
+          "title": "习主席抵美 特朗普总统这样迎接",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8A%B5%E7%BE%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%BF%99%E6%A0%B7%E8%BF%8E%E6%8E%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "凤凰独家：特朗普和夫人梅拉尼娅手拉手现身红毯",
           "url": "https://v.ifeng.com/c/8wfX78y9LFo",
           "source": "凤凰网",
@@ -41,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普亲赴机场迎接，打破美国60年外交惯例",
+          "url": "https://news.ifeng.com/c/8wgBogFlYwK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "特朗普夫妇机场迎接",
@@ -66,17 +100,6 @@
           "time_info": "[01时31分 ~ 04时45分]"
         },
         {
-          "title": "特朗普总统赴机场，欢迎习近平主席到访",
-          "url": "https://wallstreetcn.com/articles/3782407",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 14时50分]"
-        },
-        {
           "title": "特朗普抵达机场",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -86,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普总统抵达机场，迎接习近平主席到访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34137674",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 20时22分]"
         },
         {
           "title": "习近平抵美 特朗普夫妇热情迎接",
@@ -138,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -176,49 +211,51 @@
           "time_info": "09时43分"
         },
         {
-          "title": "特朗普遗憾欢迎晚宴座位不够多",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%97%E6%86%BE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E5%BA%A7%E4%BD%8D%E4%B8%8D%E5%A4%9F%E5%A4%9A",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "凤凰直击：特朗普提前40多分钟到场，中美元首舷梯下交谈数分钟",
           "url": "https://original.ifeng.com/c/8wg22nIPJVH",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "特朗普遗憾欢迎晚宴座位不够多",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%97%E6%86%BE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E5%BA%A7%E4%BD%8D%E4%B8%8D%E5%A4%9F%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 20时22分]"
         },
         {
           "title": "特朗普遗憾欢迎晚宴座位不够多",
           "url": "https://www.toutiao.com/trending/7688270536492781092/",
           "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "特朗普总统抵达机场，迎接习近平主席到访",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34137674",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            3
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 20时22分]"
+        },
+        {
+          "title": "特朗普：将举行晚宴欢迎习主席到访，人人都想来，唯一遗憾是座位有限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34139663",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 20时22分]"
         },
         {
           "title": "特朗普在联合国总部“阴阳”CNN：“说好联合抵制我，怎么又来采访”",
@@ -245,6 +282,17 @@
           "time_info": "[01时31分 ~ 04时45分]"
         },
         {
+          "title": "特朗普遗憾欢迎宴会座位不够多",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%97%E6%86%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E5%BA%A7%E4%BD%8D%E4%B8%8D%E5%A4%9F%E5%A4%9A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "特朗普再喊1%利率 分析人士警告：或推高通胀预期、打压美元",
           "url": "https://www.cls.cn/detail/2491618",
           "source": "财联社热门",
@@ -254,6 +302,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 14时50分]"
+        },
+        {
+          "title": "特朗普挥手目送习主席专车驶离：这是伟大时刻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34139945",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "佩泽希齐扬联大痛斥特朗普“霸凌心态”：伊朗绝不投降，但仍愿谈判",
@@ -306,7 +365,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -331,17 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普：将举行晚宴欢迎习主席到访，人人都想来，唯一遗憾是座位有限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34139663",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "共和党大佬称特朗普并未完全反对AI监管 支持企业自律",
@@ -482,7 +530,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -490,7 +538,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "英国财政大臣希利：今天与美国财长贝森特进行通话，讨论了如何加大对伊朗的施压力度，以及如何共同努力推动两国经济增长。",
@@ -510,7 +558,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -548,6 +596,19 @@
           "time_info": "04时45分"
         },
         {
+          "title": "伊朗总统联大讲话：愿谈判但不接受强权威胁，霍尔木兹不能被“自由使用”",
+          "url": "https://wallstreetcn.com/articles/3782393",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 20时22分]"
+        },
+        {
           "title": "美国财长贝森特：（谈及伊朗）他们像是一只被逼入绝境的困兽。我不知道会是一个星期、一个月还是两个月，但他们最终会喊“我投降！”。",
           "url": "https://flash.jin10.com/detail/20260924064407808800",
           "source": "金十数据",
@@ -573,17 +634,15 @@
           "time_info": "[01时31分 ~ 09时43分]"
         },
         {
-          "title": "伊朗总统联大讲话：愿谈判但不接受强权威胁，霍尔木兹不能被“自由使用”",
-          "url": "https://wallstreetcn.com/articles/3782393",
-          "source": "华尔街见闻",
+          "title": "亚运男足伊朗 1-4 负于朝鲜，被对手挤出前二惨遭淘汰，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2086113920851206195",
+          "source": "知乎",
           "ranks": [
-            9,
-            6,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 14时50分]"
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "阿联酋制裁伊朗国民银行境内分行",
@@ -617,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐与乌克兰外长会晤。",
+          "url": "https://flash.jin10.com/detail/20260924194632691800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美国财长贝森特：阿联酋方面一直是美国的良好合作伙伴，协助关闭了涉嫌向伊朗输送18亿美元资金的埃及第二大银行分支机构。",
@@ -680,7 +750,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -754,7 +824,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "不认同美股“崩盘论”！高盛和德银一致看多：标普500有望冲破八千点大关",
@@ -850,6 +920,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "高通美股盘前上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3170395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "金十图示：2026年09月23日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260924040635865800",
           "source": "金十数据",
@@ -889,7 +970,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -897,7 +978,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI智能体访问了澳大利亚联邦医疗保险统计数据，这起事件发生于6月。（News24）",
@@ -923,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 09时43分]"
+        },
+        {
+          "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34139046",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "OpenAI：爱彼迎允许多个工程团队接入GPT-6 Astra。",
@@ -1049,9 +1141,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "DeepSeek将参加联合国会议",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 20时22分]"
+        },
+        {
+          "title": "梁文锋署名，DeepSeek发新论文，剑指大规模Agent训练",
+          "url": "https://wallstreetcn.com/articles/3782390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 20时22分]"
         },
         {
           "title": "什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度",
@@ -1083,31 +1199,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "DeepSeek将参加联合国会议",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "梁文锋署名，DeepSeek发新论文，剑指大规模Agent训练",
-          "url": "https://wallstreetcn.com/articles/3782390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "14时50分"
         },
         {
           "title": "报道：DeepSeek年化营收达10亿美元",
@@ -1116,7 +1210,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -1135,8 +1229,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 20时22分]"
         },
         {
           "title": "美股收盘：美债抛售潮再起 纳指告别纪录高位跌超1%",
@@ -1163,6 +1257,18 @@
           "time_info": "07时15分"
         },
         {
+          "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
+          "url": "https://wallstreetcn.com/articles/3782417",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 20时22分]"
+        },
+        {
           "title": "美国9月综合PMI初值大幅超预期，创五年新高，10年期美债收益率再破5%",
           "url": "https://wallstreetcn.com/articles/3782392",
           "source": "华尔街见闻",
@@ -1171,8 +1277,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 20时22分]"
         },
         {
           "title": "油价涨、美债跌，市场再掀加息风暴！美联储10月加息概率逼近七成",
@@ -1185,17 +1291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 14时50分]"
-        },
-        {
-          "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
-          "url": "https://wallstreetcn.com/articles/3782417",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         }
       ]
     },
@@ -1203,6 +1298,18 @@
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
+        {
+          "title": "升破101关口！美元指数刷新八周高位 加息预期全面点燃",
+          "url": "https://www.cls.cn/detail/2491963",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 20时22分]"
+        },
         {
           "title": "彭博美元指数涨0.6%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3169783",
@@ -1213,17 +1320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "升破101关口！美元指数刷新八周高位 加息预期全面点燃",
-          "url": "https://www.cls.cn/detail/2491963",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "美元指数23日上涨",
@@ -1279,8 +1375,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价阴跌背后，90吨黄金ETF被套牢？",
+          "url": "https://flash.jin10.com/detail/20260924194608047800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
         {
           "title": "金价多空博弈背后的真相",
           "url": "https://www.toutiao.com/trending/7688724286101524009/",
