@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T15:07:36.787603+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-09-25T21:03:33.285398+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "习近平同特朗普会谈",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 04时50分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34147373",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 21时03分]"
+        },
+        {
+          "title": "习近平：与特朗普达成很多新的共识",
+          "url": "https://www.toutiao.com/trending/7688663315194760758/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 21时03分]"
         },
         {
           "title": "习近平出席特朗普举行的欢迎仪式",
@@ -53,6 +76,17 @@
           "time_info": "[01时36分 ~ 04时50分]"
         },
         {
+          "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34147964",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 21时03分]"
+        },
+        {
           "title": "特朗普总统赴机场，欢迎习近平主席到访",
           "url": "https://wallstreetcn.com/articles/3782407",
           "source": "华尔街见闻",
@@ -65,14 +99,16 @@
         },
         {
           "title": "习近平同美国总统特朗普会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34147373",
-          "source": "澎湃新闻",
+          "url": "https://www.cls.cn/detail/2492836",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 21时03分]"
         },
         {
           "title": "习近平同美国总统特朗普小范围交流",
@@ -86,16 +122,16 @@
           "time_info": "[04时49分 ~ 04时50分]"
         },
         {
-          "title": "习近平：与特朗普达成很多新的共识",
-          "url": "https://www.toutiao.com/trending/7688663315194760758/",
-          "source": "今日头条",
+          "title": "学者：白宫国宴中，特朗普的一个细节很有意思",
+          "url": "https://original.ifeng.com/c/8whmAAddUiM",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            1
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 15时07分]"
+          "time_info": "[15时07分 ~ 21时03分]"
         },
         {
           "title": "特朗普听到大熊猫将落户美国笑了",
@@ -103,22 +139,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 15时07分]"
-        },
-        {
-          "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34147964",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 15时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 21时03分]"
         },
         {
           "title": "习近平在特朗普举行的欢迎宴会上的祝酒辞（全文）",
@@ -141,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "特朗普致辞专门提到一个中文词",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E8%BE%9E%E4%B8%93%E9%97%A8%E6%8F%90%E5%88%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E6%96%87%E8%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普欢迎习近平访美",
@@ -182,9 +219,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "特朗普赠送亲自参与设计白头鹰雕像",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A0%E9%80%81%E4%BA%B2%E8%87%AA%E5%8F%82%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%99%BD%E5%A4%B4%E9%B9%B0%E9%9B%95%E5%83%8F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普听到大熊猫将落户美国笑了",
@@ -193,21 +241,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://www.cls.cn/detail/2492836",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 15时07分]"
         },
         {
           "title": "中方回应会否邀请特朗普出席APEC峰会",
@@ -222,15 +258,16 @@
           "time_info": "[04时49分 ~ 07时36分]"
         },
         {
-          "title": "学者：白宫国宴中，特朗普的一个细节很有意思",
-          "url": "https://original.ifeng.com/c/8whmAAddUiM",
-          "source": "凤凰网",
+          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://wallstreetcn.com/articles/3782517",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 21时03分]"
         },
         {
           "title": "特朗普：今年到访北京感受到中国人民的热情好客，我们希望以同样的热情款待各位",
@@ -282,6 +319,20 @@
           "time_info": "[01时36分 ~ 07时36分]"
         },
         {
+          "title": "特朗普：这是一次伟大的会晤",
+          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            10,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 21时03分]"
+        },
+        {
           "title": "特朗普总统夫妇在下车处迎候",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%9C%A8%E4%B8%8B%E8%BD%A6%E5%A4%84%E8%BF%8E%E5%80%99",
           "source": "百度热搜",
@@ -293,19 +344,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时36分 ~ 07时36分]"
-        },
-        {
-          "title": "特朗普：这是一次伟大的会晤",
-          "url": "https://www.toutiao.com/trending/7689240553585954350/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 15时07分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -320,6 +358,18 @@
           "time_info": "[01时36分 ~ 04时50分]"
         },
         {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "https://www.cls.cn/detail/2492899",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 21时03分]"
+        },
+        {
           "title": "美国总统特朗普、众议院议长约翰逊将于9月29日与科技界CEO们开会，讨论AI问题。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3170647",
           "source": "华尔街见闻-快讯",
@@ -330,6 +380,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 10时01分]"
+        },
+        {
+          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://www.cls.cn/detail/2492885",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 21时03分]"
         },
         {
           "title": "习近平和彭丽媛将出席特朗普总统夫妇举行的欢迎宴会",
@@ -356,15 +418,16 @@
           "time_info": "[07时36分 ~ 10时01分]"
         },
         {
-          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-          "url": "https://wallstreetcn.com/articles/3782517",
-          "source": "华尔街见闻",
+          "title": "特朗普展示白宫翻修成果",
+          "url": "https://www.toutiao.com/trending/7688231467637489710/",
+          "source": "今日头条",
           "ranks": [
-            6
+            27,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 21时03分]"
         },
         {
           "title": "新华社：习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
@@ -376,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://wallstreetcn.com/articles/3782507",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普说中美携手共创更美好未来",
@@ -422,17 +496,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
-          "url": "https://www.cls.cn/detail/2492899",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        },
-        {
           "title": "美国总统特朗普：我们举行了一次很好的会议。",
           "url": "https://flash.jin10.com/detail/20260925010807290800",
           "source": "金十数据",
@@ -442,6 +505,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对美国在加拿大的立场感到满意。",
+          "url": "https://flash.jin10.com/detail/20260925205216954800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "特朗普讲到开心处称必须要脱稿",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E5%88%B0%E5%BC%80%E5%BF%83%E5%A4%84%E7%A7%B0%E5%BF%85%E9%A1%BB%E8%A6%81%E8%84%B1%E7%A8%BF",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "“当然由美国出钱！”丹麦称特朗普政府应为格陵兰军事基地买单",
@@ -455,15 +540,15 @@
           "time_info": "01时36分"
         },
         {
-          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-          "url": "https://www.cls.cn/detail/2492885",
-          "source": "财联社热门",
+          "title": "特朗普会中文的外孙女出席欢迎仪式",
+          "url": "https://www.toutiao.com/trending/7688663315194809910/",
+          "source": "今日头条",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时07分"
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普会说中文的外孙女出席欢迎仪式",
@@ -472,7 +557,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -486,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普外孙女18个月大就开始学中文",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%96%E5%AD%99%E5%A5%B318%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B8%AD%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "据Axios：美国总统特朗普、众议院议长约翰逊及科技公司首席执行官将于9月29日就人工智能召开会议。",
@@ -549,7 +645,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -571,18 +667,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        },
-        {
-          "title": "特朗普展示白宫翻修成果",
-          "url": "https://www.toutiao.com/trending/7688231467637489710/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
@@ -590,8 +675,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "报道称美伊探讨分阶段重启霍尔木兹海峡，伊朗官媒否认、总统喊话“中期选举前签协议”、军方威胁“将战事扩大至印度洋地区”",
+          "url": "https://wallstreetcn.com/articles/3782499",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 21时03分]"
+        },
         {
           "title": "伊朗外长阿拉格齐与英国外交部长米利班德在第81届联合国大会期间举行会面并进行了讨论。",
           "url": "https://flash.jin10.com/detail/20260925012359207800",
@@ -613,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "报道称美伊探讨分阶段重启霍尔木兹海峡，伊朗官媒否认、总统喊话“中期选举前签协议”、军方威胁“将战事扩大至印度洋地区”",
-          "url": "https://wallstreetcn.com/articles/3782499",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗不断恶化的经济状况是美国政策造成的。我们确实面临经济问题，但我们准备承受任何困难，抵御美国制裁。",
@@ -690,9 +775,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗总统：不想拥有核武器，愿推进与美谈判",
+          "url": "https://news.ifeng.com/c/8wi7oaRXQ6L",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗议会议长卡利巴夫针对美国国债收益率创下新高一事作出回应，并向美国财政部长斯科特·贝森特写道：“恭喜你们国债收益率创下纪录新高！”",
@@ -704,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美参议院以一票之差否决终止伊朗战争决议，油价压力令共和党人承压",
+          "url": "https://wallstreetcn.com/articles/3782508",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：任何人都可以提出抗议。",
@@ -734,7 +841,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -761,6 +868,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "伊朗总统在纽约会见卡塔尔首相，讨论了使冲突降级的努力。",
+          "url": "https://wallstreetcn.com/livenews/3170746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美国参议院以微弱劣势否决要求结束伊朗战争的决议",
           "url": "https://wallstreetcn.com/livenews/3170589",
           "source": "华尔街见闻-快讯",
@@ -770,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗总统：最高领袖很健康",
+          "url": "https://wallstreetcn.com/livenews/3170744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗革命卫队：在美军袭击中受损的霍尔木兹甘省9座桥梁和2条隧道，在哈塔姆安比亚建设总部、道路养护部门及本地优秀承包商的参与下已完成修复，计划于明日由道路与城市发展部长出席，以国家项目形式部分投入使用。",
@@ -852,8 +981,20 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
+          "url": "https://www.cls.cn/detail/2492840",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 21时03分]"
+        },
         {
           "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
           "url": "https://wallstreetcn.com/articles/3782354",
@@ -866,16 +1007,16 @@
           "time_info": "[01时36分 ~ 04时50分]"
         },
         {
-          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
-          "url": "https://www.cls.cn/detail/2492840",
-          "source": "财联社热门",
+          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+          "url": "https://wallstreetcn.com/articles/3782452",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 21时03分]"
         },
         {
           "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
@@ -890,18 +1031,6 @@
           "time_info": "[01时36分 ~ 07时36分]"
         },
         {
-          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
-          "url": "https://wallstreetcn.com/articles/3782452",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 15时07分]"
-        },
-        {
           "title": "20+年期美债ETF收跌约1.3%，领跌美股大类资产类ETF，布油基金涨超2.4%",
           "url": "https://wallstreetcn.com/livenews/3170608",
           "source": "华尔街见闻-快讯",
@@ -911,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美债市场剧烈震荡 投资者暂避利率交易风险",
+          "url": "https://flash.jin10.com/detail/20260925205736636800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美债收益率与油价齐升 美股期指下跌 纳指期货跌1% | 今夜看点",
@@ -947,21 +1087,43 @@
           "time_info": "[04时49分 ~ 04时50分]"
         },
         {
+          "title": "债市抛售暂歇，10年期美债收益率下行，美股盘前光通信股普涨，布油跌2%，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3782519",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "AI如何使美债收益率上涨",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E4%BD%BF%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E4%B8%8A%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "华尔街面对利率新格局 5%美债收益率或成常态甚至下限",
+          "url": "https://wallstreetcn.com/livenews/3170737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "周四（9月24日），美股行业ETF多数收跌，公用事业ETF收跌0.98%，科技行业ETF、全球科技股指数ETF、半导体ETF至多跌0.32%，能源业ETF涨0.37%，网络股指数ETF涨0.77%，区域银行ETF涨0.8%，生物科技指数ETF涨1.28%。",
@@ -973,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-09-25）",
+          "url": "https://flash.jin10.com/detail/20260925205434435800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "欧洲期货小幅走高，欧洲Stoxx 50指数期货涨0.4%，德国DAX指数期货涨0.4%，英国富时指数期货涨0.2%。 美股期货小幅走低，标普500、纳指期货跌0.2%。",
@@ -1003,7 +1176,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -1158,8 +1331,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数回落至101下方，日内跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3170751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
         {
           "title": "周四（9月24日）纽约尾盘，ICE美元指数涨0.17%，报101.270点，日内交投区间为101.001-101.398点，继续逼近7月28日顶部101.640点、6月24日顶部101.800点。 彭博美元指数涨0.29%，报1215.90点，日内交投区间为1211.76-1216.98点。",
           "url": "https://wallstreetcn.com/livenews/3170588",
@@ -1198,8 +1382,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 15时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时36分 ~ 21时03分]"
         }
       ]
     },
