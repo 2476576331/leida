@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T05:41:22.034918+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-09-28T08:03:20.516229+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "油市重磅：沙特9月出口量创伊朗战争爆发来新高 环比飙升近80%",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "伊朗捕获第2艘美军无人潜航器",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "伊朗革命卫队表示，从海岸到深海，伊朗霍尔木兹甘省举行11万人规模的“伊朗献身者军演”。",
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -94,7 +94,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -127,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -149,7 +149,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -182,7 +182,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -229,12 +229,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "消息人士：伊朗外长将于周二回国，代表团没有与美举行会谈的计划",
+          "url": "https://flash.jin10.com/detail/20260928053902428800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普拒绝重开霍尔木兹方案，伊朗军方称做好迎战准备",
@@ -244,30 +255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
-        },
-        {
-          "title": "美国总统特朗普：将与Anthropic首席执行官Amodei（阿莫代伊）会谈，商讨人工智能议题。",
-          "url": "https://wallstreetcn.com/livenews/3171082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "美国总统特朗普就中期选举前是否打击伊朗一事表态：不想说。 截至今晨，伊朗通胀率达到318%。 我们很快就会赢得这场战争，油价也会下跌。 我们将在军事和经济战中战胜伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3171081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "特朗普表示，美国将在与伊朗的军事和经济战中获胜，伊朗通胀率已达318%，并预计战争将“很快”结束、油价将下跌。",
@@ -276,18 +265,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "特朗普称他在“非常认真”地考虑禁止柴油出口",
-          "url": "https://wallstreetcn.com/livenews/3171080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -298,20 +276,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
         {
-          "title": "报道：Anthropic的CEO将与特朗普共进晚餐",
-          "url": "https://wallstreetcn.com/livenews/3171083",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普拒绝伊朗方案，却称本周还要谈：核问题成重启谈判关键",
+          "url": "https://flash.jin10.com/detail/20260928071330477800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "08时03分"
         },
         {
           "title": "美国总统特朗普表示将与Anthropic首席执行官讨论人工智能，并谈及这次会面称：“出发吧，让我们赢。”",
@@ -320,9 +298,57 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "美国总统特朗普：将与Anthropic首席执行官Amodei（阿莫代伊）会谈，商讨人工智能议题。",
+          "url": "https://wallstreetcn.com/livenews/3171082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 08时03分]"
+        },
+        {
+          "title": "美国总统特朗普就中期选举前是否打击伊朗一事表态：不想说。 截至今晨，伊朗通胀率达到318%。 我们很快就会赢得这场战争，油价也会下跌。 我们将在军事和经济战中战胜伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3171081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普称他在“非常认真”地考虑禁止柴油出口",
+          "url": "https://wallstreetcn.com/livenews/3171080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 08时03分]"
+        },
+        {
+          "title": "报道：Anthropic的CEO将与特朗普共进晚餐",
+          "url": "https://wallstreetcn.com/livenews/3171083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 08时03分]"
         },
         {
           "title": "美国总统特朗普：伊朗战争很快就会结束，届时油价将下跌。 昨晚我们从霍尔木兹海峡抽取了创纪录数量的石油。",
@@ -337,15 +363,37 @@
           "time_info": "[02时42分 ~ 05时41分]"
         },
         {
+          "title": "【早报】伊朗：已为与美战事重开做好准备；特朗普：预计本周与伊朗谈判；原油高开、黄金下跌；武契奇宣布辞职",
+          "url": "https://www.cls.cn/detail/2493599",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美国总统特朗普再次在社媒放出图片，将霍尔木兹海峡称为“特朗普海峡”。",
           "url": "https://flash.jin10.com/detail/20260928043250399800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "特朗普拒绝伊朗提议 油价开盘上涨",
+          "url": "https://flash.jin10.com/detail/20260928062850376800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "这座“特朗普堡”造价高达44亿美元",
@@ -354,9 +402,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "特朗普：AI领域没有第三名的位置。",
+          "url": "https://flash.jin10.com/detail/20260928055828218800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "英国基地附近5人被捕 特朗普称嫌疑人企图制造“重大破坏”",
@@ -390,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "特朗普称近日将继续与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3171091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
@@ -405,8 +475,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报",
@@ -416,8 +486,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
@@ -427,8 +497,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
@@ -438,25 +508,26 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
           "url": "https://www.cls.cn/detail/2493334",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情",
@@ -466,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         },
         {
           "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
@@ -477,8 +548,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货小幅下跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3171100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美股三大股指期货周一低开，跌幅约为0.1%。",
+          "url": "https://flash.jin10.com/detail/20260928060152599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
@@ -494,8 +587,25 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落叠加节日促销，黄金零售市场迎来消费旺季",
+          "url": "https://wallstreetcn.com/livenews/3171103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
@@ -511,8 +621,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 08时03分]"
         }
       ]
     }
