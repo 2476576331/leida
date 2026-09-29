@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T12:11:37.005495+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-09-29T18:57:12.373482+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普说的“Gung Ho”，源自八路军和游击战",
@@ -20,13 +20,35 @@
           "time_info": "[03时53分 ~ 12时11分]"
         },
         {
+          "title": "美专家：特朗普或将淡化对台军售问题",
+          "url": "https://original.ifeng.com/c/8wonFVuW1z6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "特朗普评中美会晤：满分10分我打12分",
+          "url": "https://www.toutiao.com/trending/7690091446392651839/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普绕过国会强砍预算，两党议员或立法堵死漏洞",
           "url": "https://flash.jin10.com/detail/20260929114604982800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -105,7 +127,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -149,7 +171,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -204,7 +226,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -248,7 +270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -256,7 +278,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗外长警告：已为“末日战争”做好准备",
@@ -337,6 +359,28 @@
           "time_info": "[03时53分 ~ 08时01分]"
         },
         {
+          "title": "伊朗称已就美国航班限制措施提出申诉",
+          "url": "https://www.toutiao.com/trending/7690071090991808555/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "伊朗：美国若想结束战争必须承认战败",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%8B%A5%E6%83%B3%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E5%BF%85%E9%A1%BB%E6%89%BF%E8%AE%A4%E6%88%98%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗议会副议长表示，议会正在审议退出《不扩散核武器条约》的三项紧急议案。",
           "url": "https://flash.jin10.com/detail/20260929032457838800",
           "source": "金十数据",
@@ -387,7 +431,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -442,7 +486,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -469,6 +513,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "伊朗革命卫队发言人：美国若想结束战争则必须承认战败",
+          "url": "https://wallstreetcn.com/livenews/3172091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "伊朗外长：周一与调解方进行了会谈 不会留在纽约等待美国回应",
           "url": "https://flash.jin10.com/detail/20260929060409598800",
           "source": "金十数据",
@@ -493,8 +548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时00分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 18时57分]"
         },
         {
           "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
@@ -520,6 +575,18 @@
           "time_info": "03时53分"
         },
         {
+          "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
+          "url": "https://wallstreetcn.com/articles/3782689",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 18时57分]"
+        },
+        {
           "title": "美债恐慌指数飙升29%",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%81%90%E6%85%8C%E6%8C%87%E6%95%B0%E9%A3%99%E5%8D%8729%25",
           "source": "bilibili 热搜",
@@ -531,24 +598,13 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
-          "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
-          "url": "https://wallstreetcn.com/articles/3782689",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
           "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
           "url": "https://www.cls.cn/detail/2494747",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -599,7 +655,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -651,7 +707,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普拒绝伊朗停火条件 美股期指下跌 英伟达盘前涨近2% | 今夜看点",
@@ -694,9 +750,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "汇丰：股票估值下行反映利率带来的压力 重申对美股看涨观点",
+          "url": "https://wallstreetcn.com/livenews/3172086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
@@ -723,7 +790,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -734,7 +801,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
