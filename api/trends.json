@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T15:52:40.622954+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-10-01T23:14:06.339494+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时38分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普催账，韩国先掏2000亿美元",
+          "url": "https://news.ifeng.com/c/8wsMzIb2Ot9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
+          "url": "https://news.ifeng.com/c/8ws8CkGQnAO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国总统特朗普：加拿大多年来一直占美国的便宜。",
@@ -63,6 +85,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
+          "url": "https://news.ifeng.com/c/8wsCYJXj4Sx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普称美国几乎完全控制霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2496752",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国总统特朗普：我拒绝说白宫很破，但我可以告诉你，它当时状况很糟糕。我让这座建筑比以往任何时候都更加美丽。总得有人去做这件事。",
@@ -159,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -324,9 +379,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "特朗普吹嘘韩国参与阿拉斯加LNG项目，韩总统李在明迅速反驳",
+          "url": "https://wallstreetcn.com/livenews/3173370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：在长期美国国债拍卖方面，贝森特“具有良好的判断力”。",
@@ -349,13 +415,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普政府正将美国几个主要盟友排除在北约会议之外",
+          "url": "https://wallstreetcn.com/livenews/3173368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗代表团称离开纽约系既定行程，已提前告知美方",
+          "url": "https://news.ifeng.com/c/8ws6VuNY2RT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
         {
           "title": "美联储Kashkari：伊朗战争所造成的干扰的持续时间超过之前预料。 我已经缓慢地修正自己对中性利率的预期。",
           "url": "https://wallstreetcn.com/livenews/3173196",
@@ -379,15 +467,38 @@
           "time_info": "09时38分"
         },
         {
+          "title": "伊朗：美国总统的虚无与专制主义已将生存恐惧转化为政治武器",
+          "url": "https://flash.jin10.com/detail/20261001223653080800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "英国称伊朗涉空军基地袭击图谋，伊方再否认",
           "url": "https://news.ifeng.com/c/8wrqRvITCfT",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
+          "url": "https://www.cls.cn/detail/2496818",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 23时14分]"
         },
         {
           "title": "“花费23年1.7万亿美元，美国把伊拉克留给了伊朗”",
@@ -412,6 +523,28 @@
           "time_info": "[09时38分 ~ 15时52分]"
         },
         {
+          "title": "美媒：鲁比奥要求伊朗代表团立即离美",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34185339",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "信件显示，美国国务院以埃及在伊朗冲突以来的“有益作用”为由，豁免了对埃及军事援助的人权条件。",
+          "url": "https://flash.jin10.com/detail/20261001222109529800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "伊朗女歌手演出不戴头巾遭判笞刑74鞭",
           "url": "https://www.toutiao.com/trending/7691120944848928811/",
           "source": "今日头条",
@@ -423,24 +556,13 @@
           "time_info": "09时38分"
         },
         {
-          "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
-          "url": "https://www.cls.cn/detail/2496818",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "伊情报显示以色列欲制造袭击“嫁祸”伊朗 以方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3173278",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -462,7 +584,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -473,7 +595,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -502,8 +624,119 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 23时14分]"
+        },
+        {
+          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 23时14分]"
+        },
+        {
+          "title": "睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易",
+          "url": "https://wallstreetcn.com/articles/3782833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "美股三大股指期货走低 纳指回吐多数涨幅",
+          "url": "https://flash.jin10.com/detail/20261001153426744800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "美股纳指期货日内上涨1%，标普500指数期货上涨0.5%，道指期货上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3173269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "埃森哲美股盘初大涨22%，创纪录最大单日涨幅，公司此前发布乐观年度销售预测。",
+          "url": "https://wallstreetcn.com/livenews/3173374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美股三大股指小幅高开，埃森哲大涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3173372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "大V：美股正处在矛盾交织的十字路口",
+          "url": "https://www.toutiao.com/trending/7691543015596232234/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
@@ -534,7 +767,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -561,6 +794,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "新思科技盘初逾10%，公司携手OpenAI开发芯片设计AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3173377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "OpenAI：已识别并瓦解一场旨在窃取我们模型受保护推理能力的协同攻击活动。 运营人员并未破解我们的加密系统，未入侵数据库，也未直接获取存储的用户对话记录。 操纵风险并非OpenAI模型独有的漏洞，我们已通过前沿模型论坛与行业合作伙伴共享相关信息。 本次协同行动最早被观测到的活动发生于7月第一周。 进一步调查发现，超过1.5万名用户组成的群组中存在关联的提示词模式攻击活动，我们已于7月28日彻底清除了该活动。",
           "url": "https://wallstreetcn.com/livenews/3173090",
           "source": "华尔街见闻-快讯",
@@ -585,85 +829,21 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 6,
       "titles": [
         {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 15时52分]"
-        },
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 15时52分]"
-        },
-        {
-          "title": "睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易",
-          "url": "https://wallstreetcn.com/articles/3782833",
+          "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
+          "url": "https://wallstreetcn.com/articles/3782819",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 23时14分]"
         },
-        {
-          "title": "美股三大股指期货走低 纳指回吐多数涨幅",
-          "url": "https://flash.jin10.com/detail/20261001153426744800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美股纳指期货日内上涨1%，标普500指数期货上涨0.5%，道指期货上涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3173269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "大V：美股正处在矛盾交织的十字路口",
-          "url": "https://www.toutiao.com/trending/7691543015596232234/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
         {
           "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
           "url": "https://wallstreetcn.com/articles/3782726",
@@ -674,18 +854,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 06时42分]"
-        },
-        {
-          "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
-          "url": "https://wallstreetcn.com/articles/3782819",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 15时52分]"
         },
         {
           "title": "10年期美债收益率自2007年以来首次涨穿5.3%，两年期美债收益率三季度涨超71个基点",
@@ -709,6 +877,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 06时42分]"
+        },
+        {
+          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+          "url": "https://wallstreetcn.com/articles/3782880",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "受ISM数据影响，美债下跌，30年期国债领跌。",
+          "url": "https://wallstreetcn.com/livenews/3173387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
@@ -726,8 +916,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 23时14分]"
         },
         {
           "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
@@ -760,6 +950,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 23时14分]"
+        },
+        {
           "title": "如何评价 10 月 1 号发布的 Gemini 4 Argon？",
           "url": "https://www.zhihu.com/question/2088845041045337914",
           "source": "知乎",
@@ -771,24 +973,13 @@
           "time_info": "[09时38分 ~ 15时52分]"
         },
         {
-          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
-          "url": "https://wallstreetcn.com/articles/3782853",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "谷歌发布Gemini 4 Argon",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini%204%20Argon",
           "source": "bilibili 热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
@@ -796,7 +987,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数突破7月前高，一度升至101.66，创6月末以来新高。",
@@ -805,9 +996,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨超1.1%，持稳于日高108.28美元附近，该基金9月份累跌3.18%——结束了之前两个月先后涨4.39%、16.28%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3173373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美元指数上涨至两个月高点101.62。",
@@ -816,7 +1018,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
@@ -824,8 +1026,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "汇丰下调今明两年金价预估，称加息和高油价或继续施压黄金",
+          "url": "https://wallstreetcn.com/livenews/3173378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
         {
           "title": "国际金价9月份跌6.3%，现货白银累跌约9.3%",
           "url": "https://wallstreetcn.com/livenews/3173169",
