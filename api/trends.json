@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T10:39:25.725214+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-10-02T17:04:34.999384+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普催账，韩国先掏2000亿美元",
@@ -30,13 +30,24 @@
           "time_info": "[03时59分 ~ 10时39分]"
         },
         {
+          "title": "死刑犯处决失败，特朗普费解：这不应该很难啊",
+          "url": "https://news.ifeng.com/c/8wtcuZMSCGf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "特朗普称考虑未来几周恢复对伊轰炸行动，美媒爆料美国向中东增派航母及兵力，中东紧张局势一触即发；隔夜行情震荡，美指一度站上102大关创去年4月来新高，布油重回100美元，现货黄金亚盘走弱……当前现货金银多头占比维持高位，美油空头占比回升，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20261002103121669800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -76,6 +87,18 @@
           "time_info": "[03时59分 ~ 10时39分]"
         },
         {
+          "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
+          "url": "https://wallstreetcn.com/articles/3782903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 17时04分]"
+        },
+        {
           "title": "特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei",
           "url": "https://wallstreetcn.com/articles/3782862",
           "source": "华尔街见闻",
@@ -86,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 10时39分]"
+        },
+        {
+          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 17时04分]"
         },
         {
           "title": "美国总统特朗普：我的政策正在努力降低生活成本，而不是推高成本。",
@@ -116,7 +151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -138,20 +173,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
         {
-          "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
-          "url": "https://wallstreetcn.com/articles/3782903",
-          "source": "华尔街见闻",
+          "title": "特朗普提议人工智能改称SI，斯洛文尼亚域名注册量暴涨",
+          "url": "https://news.ifeng.com/c/8wtPqcA1csW",
+          "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "17时04分"
+        },
+        {
+          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
+          "url": "https://www.cls.cn/detail/2497157",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "特朗普很不爽：我提名的大法官，怎么老反对我",
+          "url": "https://news.ifeng.com/c/8wteAEPWoAT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "康奈尔大学“性侵案”重启刑事调查，特朗普：这是所好学校",
+          "url": "https://news.ifeng.com/c/8wtJd969xpi",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "特朗普重申美国应该拥有全球最低的利率。",
@@ -160,7 +228,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -174,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "法国总统府：法国总统马克龙与特朗普、卡尼就能源和燃料价格进行通话。",
+          "url": "https://wallstreetcn.com/livenews/3173635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美国贸易代表格里尔：特朗普政府认为无条件最惠国关税概念需要改革。",
@@ -193,7 +272,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -204,18 +283,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -242,6 +310,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "法国总统府：法国总统马克龙昨晚与美国总统特朗普、加拿大总理卡尼就全球能源形势进行了通话。法国总统在通话中谈及需要共同努力应对燃油价格上涨以及确保成品油供应。法国计划与七国集团领导人举行电话会议，以协调应对价格和供应问题的行动。",
+          "url": "https://flash.jin10.com/detail/20261002160734238800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "特朗普：伊朗要么签署协议，要么将不复存在",
           "url": "https://wallstreetcn.com/livenews/3173443",
           "source": "华尔街见闻-快讯",
@@ -255,8 +334,149 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
+          "url": "https://www.cls.cn/detail/2497140",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 17时04分]"
+        },
+        {
+          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "周四（10月1日）纽约尾盘，美元兑日元涨0.40%，报158.03日元，日内交投区间为157.24-158.45日元，美股盘初曾快速转跌。 欧元兑日元跌0.41%，英镑兑日元的0.13%，日元兑离岸人民币跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3173472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 17时04分]"
+        },
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
+          "url": "https://www.cls.cn/detail/2497130",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 17时04分]"
+        },
+        {
+          "title": "美股三大股指跳水 美光科技跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%B3%E6%B0%B4+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 07时31分]"
+        },
+        {
+          "title": "耐克美股盘后跌幅扩大至8.4%。",
+          "url": "https://wallstreetcn.com/livenews/3173537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股指数期货涨幅扩大，纳斯达克100指数期货上涨0.9%，标普500期货上涨0.5%。 欧股主要股指涨幅扩大，欧洲斯托克50指数、法国CAC40指数、德国DAX指数均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3173633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "耐克美股盘前延续跌势，跌超8%，公司第一财季营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3173630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "通信应用程序编程接口供应商Twilio美股盘后涨2%，该公司将被纳入标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3173520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "耐克(NKE.N)美股盘前跌超8%，公司预测全年营收下滑，2027财年第一季度销售额不及预期。",
+          "url": "https://flash.jin10.com/detail/20261002160125480800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
@@ -266,8 +486,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 17时04分]"
+        },
+        {
+          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+          "url": "https://wallstreetcn.com/articles/3782880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 17时04分]"
         },
         {
           "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
@@ -279,19 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
-          "url": "https://wallstreetcn.com/articles/3782880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时59分 ~ 10时39分]"
         },
         {
           "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
@@ -329,6 +550,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/articles/3782907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "高盛交易台主管：“油价下跌但美债收益率依旧涨”，那情况就复杂了",
           "url": "https://wallstreetcn.com/articles/3782842",
           "source": "华尔街见闻",
@@ -360,129 +592,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
-          "url": "https://wallstreetcn.com/articles/3782859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         },
         {
-          "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-          "url": "https://www.cls.cn/detail/2497140",
-          "source": "财联社热门",
+          "title": "法国债务风险压低美债收益率，今晚非农或决定短端定价方向 | 每日市场观察10.02",
+          "url": "https://flash.jin10.com/detail/20261002160243897800",
+          "source": "金十数据",
           "ranks": [
-            3
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "周四（10月1日）纽约尾盘，美元兑日元涨0.40%，报158.03日元，日内交投区间为157.24-158.45日元，美股盘初曾快速转跌。 欧元兑日元跌0.41%，英镑兑日元的0.13%，日元兑离岸人民币跌0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3173472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时59分 ~ 10时39分]"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时31分]"
-        },
-        {
-          "title": "美股三大股指跳水 美光科技跌近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%B3%E6%B0%B4+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%BF%913%25",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时31分]"
-        },
-        {
-          "title": "耐克美股盘后跌幅扩大至8.4%。",
-          "url": "https://wallstreetcn.com/livenews/3173537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
-          "url": "https://www.cls.cn/detail/2497130",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "通信应用程序编程接口供应商Twilio美股盘后涨2%，该公司将被纳入标普500指数。",
-          "url": "https://wallstreetcn.com/livenews/3173520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "17时04分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
           "url": "https://www.cls.cn/detail/2496818",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时59分 ~ 10时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 17时04分]"
         },
         {
           "title": "伊朗代表团称离开纽约系既定行程，已提前告知美方",
@@ -507,6 +645,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时59分 ~ 10时39分]"
+        },
+        {
+          "title": "伊朗官员：伊朗航班安全已得到百分之百保障",
+          "url": "https://flash.jin10.com/detail/20261002162812355800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "据伊朗媒体Fars News：一位知情人士表示，关于伊朗向美方提议允许国际原子能机构核查人员入境的报道不实。",
@@ -570,7 +719,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -599,7 +748,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -610,7 +759,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -618,7 +767,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本软银集团：对OpenAI累计投资额现已达646亿美元，持股约13%。 自9月30日起，取消3月27日与OpenAI签署的过渡融资协议项下剩余100亿美元未动用授信额度。",
@@ -638,15 +787,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
+          "url": "https://www.cls.cn/detail/2496950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
@@ -658,6 +818,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 07时31分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 2026 年 10 月 02 日 03:40 起崩溃（性能下降）？",
+          "url": "https://www.zhihu.com/question/2089208749558965172",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
