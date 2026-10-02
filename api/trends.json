@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-03T00:01:41.386336+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-03T04:21:43.747601+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "普京谈与特朗普关系",
+          "url": "https://news.ifeng.com/c/8wtpA6QFKHj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
+        },
         {
           "title": "死刑犯处决失败，特朗普费解：这不应该很难啊",
           "url": "https://news.ifeng.com/c/8wtcuZMSCGf",
@@ -19,15 +30,70 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "普京谈与特朗普关系",
-          "url": "https://news.ifeng.com/c/8wtpA6QFKHj",
-          "source": "凤凰网",
+          "title": "金十提示：美国总统特朗普结束在白宫的讲话。",
+          "url": "https://flash.jin10.com/detail/20261003040539767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（关于柴油）欧洲做出了重大贡献，我们也是如此。",
+          "url": "https://flash.jin10.com/detail/20261003040409893800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：在韩国对美投资问题上，我没有操之过急。",
+          "url": "https://wallstreetcn.com/livenews/3173809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "特朗普：不会实施柴油出口禁令",
+          "url": "https://wallstreetcn.com/livenews/3173808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：柴油出口禁令从未真正提上日程。",
+          "url": "https://flash.jin10.com/detail/20261003040251739800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗形势不容乐观。",
+          "url": "https://wallstreetcn.com/livenews/3173807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
@@ -37,8 +103,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
@@ -48,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "特朗普很不爽：我提名的大法官，怎么老反对我",
@@ -59,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "康奈尔大学“性侵案”重启刑事调查，特朗普：这是所好学校",
@@ -70,8 +136,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于柴油）我们与欧洲的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20261003040030666800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（关于柴油）我们不会实施出口禁令。",
+          "url": "https://flash.jin10.com/detail/20261003040008188800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（关于韩国在美国的投资）我没有在阿拉斯加管道项目上急于行动。",
+          "url": "https://flash.jin10.com/detail/20261003035957853800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的情况不太好。<br/>",
+          "url": "https://flash.jin10.com/detail/20261003035940549800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "据韩联社：韩国产业通商资源部官员表示，美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分。",
@@ -80,9 +190,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "特朗普执政困局与美中期选举博弈",
+          "url": "https://www.toutiao.com/trending/7692063644539948586/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美国总统特朗普：欧洲刚刚同意释放大量库存充足的柴油。相关进程将立即启动。",
@@ -91,7 +212,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -102,7 +223,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -113,7 +234,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -124,7 +245,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         }
@@ -139,11 +260,12 @@
           "url": "https://wallstreetcn.com/articles/3782938",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
@@ -153,8 +275,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
@@ -164,25 +286,26 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "美债一夜掉头 抛压退了吗",
           "url": "https://www.toutiao.com/trending/7692050248549535241/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
@@ -192,8 +315,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 SpaceX涨超7%",
+          "url": "https://flash.jin10.com/detail/20261003040220422800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
@@ -203,8 +337,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
@@ -214,8 +348,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         }
       ]
     },
@@ -231,8 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
         },
         {
           "title": "伊拉克表示，除马汉航空外，伊朗航空公司已获准每日飞往纳杰夫40个航班。",
@@ -241,7 +375,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -252,7 +386,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         }
@@ -260,7 +394,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
@@ -270,8 +404,36 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时21分]"
+        },
+        {
+          "title": "OpenAI聘请曾担任过美国总统特朗普AI官员的Thomas Lind。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3173793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数在非农日跌约0.2%，本周涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3173799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }
