@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-03T13:51:47.699331+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-10-03T18:42:33.611144+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "普京谈与特朗普关系",
@@ -30,6 +30,31 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
+          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
+          "url": "https://news.ifeng.com/c/8wui8KprllQ",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 18时42分]"
+        },
+        {
+          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
+          "url": "https://www.cls.cn/detail/2497157",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 18时42分]"
+        },
+        {
           "title": "美国总统特朗普：在韩国对美投资问题上，我没有操之过急。",
           "url": "https://wallstreetcn.com/livenews/3173809",
           "source": "华尔街见闻-快讯",
@@ -39,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
-          "url": "https://news.ifeng.com/c/8wui8KprllQ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
         },
         {
           "title": "特朗普称韩国若退出阿拉斯加LNG投资 将面临更高成本",
@@ -63,16 +77,15 @@
           "time_info": "08时03分"
         },
         {
-          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
-          "url": "https://www.cls.cn/detail/2497157",
-          "source": "财联社热门",
+          "title": "特朗普核心内阁闭门会：一些事已作出决定",
+          "url": "https://news.ifeng.com/c/8wvL5KltnlR",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "金十提示：美国总统特朗普结束在白宫的讲话。",
@@ -227,15 +240,70 @@
           "time_info": "08时03分"
         },
         {
+          "title": "美媒：美俄的乌克兰谈判涉及一项与特朗普盟友有关的石油交易",
+          "url": "https://flash.jin10.com/detail/20261003173614125800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "向中方释放某种信号？特朗普计划出席东盟峰会",
+          "url": "https://news.ifeng.com/c/8wvR7pLsHjb",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "特朗普威胁韩国：不签字，就加倍收费",
+          "url": "https://news.ifeng.com/c/8wvEttZzvhT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "据纽约时报：美俄关于乌克兰问题的谈判如今涉及一项与特朗普盟友有关的数十亿美元石油交易。该石油交易涉及卢克石油在全球拥有的大片油田、炼油厂和加油站。",
+          "url": "https://flash.jin10.com/detail/20261003171512369800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "曝特朗普抓马杜罗前曾咨询Grok数小时",
           "url": "https://www.toutiao.com/trending/7691663537861771290/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34194095",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美媒：特朗普核心内阁成员在戴维营密会数小时，讨论伊朗及胡塞冲突下一步行动",
@@ -244,7 +312,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -255,7 +323,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -288,7 +356,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -299,7 +367,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -310,7 +378,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -332,7 +400,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -365,7 +433,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -395,7 +463,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
@@ -405,8 +473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 18时42分]"
         },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
@@ -414,11 +482,25 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 18时42分]"
+        },
+        {
+          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
+          "url": "https://wallstreetcn.com/articles/3782926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 18时42分]"
         },
         {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
@@ -429,20 +511,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 18时42分]"
         },
         {
-          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
-          "url": "https://wallstreetcn.com/articles/3782926",
+          "title": "美股要“通宵”了！12月起迈入23小时交易时代",
+          "url": "https://wallstreetcn.com/articles/3782956",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 13时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美股收盘：三大股指收涨 SpaceX涨超7%",
@@ -462,11 +543,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 18时42分]"
         },
         {
           "title": "“表面平静”的美股：指数距离新高“一步之遥”，但几乎所有板块都遭重创",
@@ -538,8 +620,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 18时42分]"
         },
         {
           "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
@@ -565,6 +647,30 @@
           "time_info": "[00时00分 ~ 04时21分]"
         },
         {
+          "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
+          "url": "https://wallstreetcn.com/articles/3782957",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 18时42分]"
+        },
+        {
+          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "url": "https://wallstreetcn.com/articles/3782953",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 18时42分]"
+        },
+        {
           "title": "美债一夜掉头 抛压退了吗",
           "url": "https://www.toutiao.com/trending/7692050248549535241/",
           "source": "今日头条",
@@ -587,28 +693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 13时51分]"
-        },
-        {
-          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
-          "url": "https://wallstreetcn.com/articles/3782953",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
-          "url": "https://wallstreetcn.com/articles/3782957",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
         }
       ]
     },
@@ -626,8 +710,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 18时42分]"
         },
         {
           "title": "OpenAI的CEO Altman：Cerebras是一个紧密的合作伙伴。",
@@ -648,7 +732,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -709,9 +793,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini调整用户模型访问权限",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E8%B0%83%E6%95%B4%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "谷歌搭载AI芯片测试卫星发射升空",
+          "url": "https://wallstreetcn.com/livenews/3173863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -740,23 +852,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini调整用户模型访问权限",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E8%B0%83%E6%95%B4%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
         }
       ]
     },
