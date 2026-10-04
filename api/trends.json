@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T04:32:19.641471+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-10-05T07:39:13.098626+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗外长：继续对伊非法战争没出路",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "外交官遭美“驱逐”，伊朗回应",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "伊朗将军萨尔达尔·法杜伊：欧洲柴油价格已达每升2欧元，约合70万伊朗里亚尔。 而我们这里加1万伊朗里亚尔的汽油，连1美元都不到，根本无法理解2欧元的柴油意味着什么。",
@@ -36,18 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "伊朗石油部长辞职，伊朗国家石油公司CEO任代理部长",
-          "url": "https://wallstreetcn.com/livenews/3173983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -57,11 +46,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
@@ -69,11 +59,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            19
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗石油部长辞职，伊朗国家石油公司CEO任代理部长",
+          "url": "https://wallstreetcn.com/livenews/3173983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "time_info": "[04时32分 ~ 07时39分]"
         },
         {
           "title": "伊拉克纳杰夫与伊朗间航班复航",
@@ -94,7 +97,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -105,9 +108,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "伊朗回应美方：七项条件不落实，霍尔木兹海峡绝不重开！",
+          "url": "https://flash.jin10.com/detail/20261005065105542800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "伊朗石油部长帕克内贾德辞职",
@@ -116,7 +130,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -127,7 +141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -179,7 +193,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普“AI沙皇”人选曝光",
@@ -189,8 +203,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "选情不容乐观！特朗普又承诺发钱",
@@ -200,8 +214,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美总统人质事务特使",
@@ -209,11 +223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住",
@@ -223,8 +238,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "特朗普宣布成立“超级智能特别工作组”",
@@ -237,6 +252,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 04时32分]"
+        },
+        {
+          "title": "特朗普宣布成立“超级智能特别工作组”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34199525",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
           "title": "特朗普谈对伊朗下一步行动",
@@ -263,6 +289,74 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股期货小幅走高，纳斯达克100指数期货上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3174000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
+        },
+        {
+          "title": "美股股指期货小幅走高，纳指期货涨超0.2%，道指、标普500指数期货涨超0.1%。",
+          "url": "https://flash.jin10.com/detail/20261005060347682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
+          "url": "https://wallstreetcn.com/articles/3782981",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman在AI风险问题上与Anthropic PBC的立场发生分歧。 Altman认为，AI技术的益处有助于证明值得承担风险。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3173994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -274,8 +368,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
@@ -285,42 +379,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
-          "url": "https://wallstreetcn.com/articles/3782981",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
-          "url": "https://www.cls.cn/detail/2497450",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时39分]"
         }
       ]
     }
