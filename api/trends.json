@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-10-07T03:09:52.596204+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-07T07:23:40.395438+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国副总统万斯：伊朗必须通过砍掉铀浓缩（项目）来结束战争。 如果伊朗在核问题上做出让步，美方对达成协议持开放态度。 美国与伊朗总统、外长对话。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3174673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "伊朗外交部：新任德国驻伊朗大使与伊朗外交部发言人会面，就国际关系中的当前进程进行了坦诚而富有成效的对话。",
+          "url": "https://flash.jin10.com/detail/20261007024813811800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "万斯：不确定伊朗谁是“话事人”，不清楚伊总统和外长掌握多少实权",
+          "url": "https://flash.jin10.com/detail/20261007065850841800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "伊朗议长发图回应贝森特对伊施压言论",
+          "url": "https://flash.jin10.com/detail/20261007024044625800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "万斯：伊朗必须“实质性”地削减核能力，对达成协议持开放态度",
+          "url": "https://flash.jin10.com/detail/20261007065420952800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国副总统万斯：尚不清楚伊朗如何做出决策。",
+          "url": "https://flash.jin10.com/detail/20261007063705876800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗必须削减核浓缩能力以结束战争。",
+          "url": "https://flash.jin10.com/detail/20261007063650022800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "伊朗格什姆岛附近海域传出爆炸声。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3174574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国财长贝森特：自8月25日起，伊朗未向任何船只装载一桶原油。",
+          "url": "https://wallstreetcn.com/livenews/3174638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
@@ -65,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         },
         {
           "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
@@ -84,39 +189,42 @@
           "url": "https://wallstreetcn.com/articles/3783047",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         },
         {
           "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
           "url": "https://wallstreetcn.com/articles/3783043",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
           "url": "https://www.cls.cn/detail/2498089",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         },
         {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
@@ -126,8 +234,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
+          "url": "https://www.cls.cn/detail/2497962",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "07时23分"
         },
         {
           "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
@@ -144,7 +263,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
@@ -154,8 +273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         },
         {
           "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
@@ -165,8 +284,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         },
         {
           "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
@@ -176,47 +295,47 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3174648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "07时23分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "伊朗外交部：新任德国驻伊朗大使与伊朗外交部发言人会面，就国际关系中的当前进程进行了坦诚而富有成效的对话。",
-          "url": "https://flash.jin10.com/detail/20261007024813811800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "伊朗议长发图回应贝森特对伊施压言论",
-          "url": "https://flash.jin10.com/detail/20261007024044625800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "伊朗格什姆岛附近海域传出爆炸声。（IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3174574",
+          "title": "OpenAI通过前沿模型发布新的数学成果",
+          "url": "https://wallstreetcn.com/livenews/3174665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "07时23分"
+        },
+        {
+          "title": "OpenAI或将发布400个重大数学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -229,11 +348,12 @@
           "url": "https://wallstreetcn.com/articles/3783055",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
         }
       ]
     }
