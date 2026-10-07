@@ -1,11 +1,138 @@
 {
-  "generated_at": "2026-10-07T10:47:27.579009+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-10-07T17:25:32.209756+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
+          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
+        },
+        {
+          "title": "对伊军事行动如何收尾？特朗普再释放强硬信号",
+          "url": "https://original.ifeng.com/c/8x1jE3AnRUj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普称可让伊朗摧毁洛杉矶或圣迭戈，加州州长斥责",
+          "url": "https://original.ifeng.com/c/8x1bAPMGpbB",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
+          "url": "https://news.ifeng.com/c/8x057HlG52b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 10时47分]"
+        },
+        {
+          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
+          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
+        },
+        {
+          "title": "贝森特掌舵20个月：财政部高层接连出走，特朗普押给他的经济目标仍未兑现",
+          "url": "https://flash.jin10.com/detail/20261007102014034800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "外媒：特朗普称预计“很快”与普京通话",
+          "url": "https://wallstreetcn.com/livenews/3174761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "不投资就加税！在特朗普关税威胁后，韩国\"基本确定\"参与阿拉斯加天然气项目",
+          "url": "https://wallstreetcn.com/articles/3783061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3174648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普：政府将大量投资“下一代”潜艇造船厂",
+          "url": "https://flash.jin10.com/detail/20261007095558801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "特朗普：对伊朗的军事行动 “必须收尾了”",
+          "url": "https://wallstreetcn.com/livenews/3174741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国副总统万斯：伊朗必须通过砍掉铀浓缩（项目）来结束战争。 如果伊朗在核问题上做出让步，美方对达成协议持开放态度。 美国与伊朗总统、外长对话。（路透）",
@@ -75,6 +202,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美国国务卿鲁比奥：赞扬希腊对国防开支的承诺。 宣布与希腊新的安全合作谅解备忘录。 这将加强反恐信息共享。 我们驻希腊的大使一直是一位强有力的使节。 伊朗已失去对霍尔木兹海峡的控制。 通过霍尔木兹海峡的石油量几乎与冲突前一样多。",
+          "url": "https://wallstreetcn.com/livenews/3174752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国副总统万斯：伊朗必须削减核浓缩能力以结束战争。",
           "url": "https://flash.jin10.com/detail/20261007063650022800",
           "source": "金十数据",
@@ -110,91 +248,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
-          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
-          "url": "https://news.ifeng.com/c/8x057HlG52b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 10时47分]"
-        },
-        {
-          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
-          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "贝森特掌舵20个月：财政部高层接连出走，特朗普押给他的经济目标仍未兑现",
-          "url": "https://flash.jin10.com/detail/20261007102014034800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "不投资就加税！在特朗普关税威胁后，韩国\"基本确定\"参与阿拉斯加天然气项目",
-          "url": "https://wallstreetcn.com/articles/3783061",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
-          "url": "https://wallstreetcn.com/livenews/3174648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普：政府将大量投资“下一代”潜艇造船厂",
-          "url": "https://flash.jin10.com/detail/20261007095558801800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
@@ -205,19 +260,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
           "url": "https://www.cls.cn/detail/2498401",
           "source": "财联社热门",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 17时25分]"
+        },
+        {
+          "title": "全球股市涨势暂歇，美股期指涨跌互现，港股收跌，半导体、大模型股走低，油价上涨",
+          "url": "https://wallstreetcn.com/articles/3783096",
+          "source": "华尔街见闻",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "17时25分"
         },
         {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
@@ -228,8 +295,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 17时25分]"
         },
         {
           "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
@@ -257,8 +324,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营",
+          "url": "https://wallstreetcn.com/articles/3783087",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
         {
           "title": "谷歌旗下无人驾驶汽车部门Waymo：在美国底特律推出全自动驾驶。",
           "url": "https://wallstreetcn.com/livenews/3174585",
@@ -306,8 +384,71 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+          "url": "https://wallstreetcn.com/articles/3783101",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "OpenAI通过前沿模型发布新的数学成果",
+          "url": "https://wallstreetcn.com/livenews/3174665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时47分]"
+        },
+        {
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 17时25分]"
+        },
+        {
+          "title": "OpenAI或将发布400个重大数学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "OpenAI发布722篇数学论文",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83722%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
@@ -354,46 +495,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI通过前沿模型发布新的数学成果",
-          "url": "https://wallstreetcn.com/livenews/3174665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 10时47分]"
         },
         {
-          "title": "OpenAI或将发布400个重大数学成果",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "美债收益率走高压制美股期指 市场等待美联储会议纪要",
+          "url": "https://flash.jin10.com/detail/20261007165624045800",
+          "source": "金十数据",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
-          "url": "https://www.zhihu.com/question/2091064625987170716",
-          "source": "知乎",
-          "ranks": [
-            16
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "17时25分"
         }
       ]
     },
@@ -426,7 +538,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
