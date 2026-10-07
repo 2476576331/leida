@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T07:23:40.395438+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-10-07T10:47:27.579009+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3174673",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时47分]"
         },
         {
           "title": "伊朗外交部：新任德国驻伊朗大使与伊朗外交部发言人会面，就国际关系中的当前进程进行了坦诚而富有成效的对话。",
@@ -36,7 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -102,9 +103,155 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
+          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
+          "url": "https://news.ifeng.com/c/8x057HlG52b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 10时47分]"
+        },
+        {
+          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
+          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 07时23分]"
+        },
+        {
+          "title": "贝森特掌舵20个月：财政部高层接连出走，特朗普押给他的经济目标仍未兑现",
+          "url": "https://flash.jin10.com/detail/20261007102014034800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "不投资就加税！在特朗普关税威胁后，韩国\"基本确定\"参与阿拉斯加天然气项目",
+          "url": "https://wallstreetcn.com/articles/3783061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3174648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普：政府将大量投资“下一代”潜艇造船厂",
+          "url": "https://flash.jin10.com/detail/20261007095558801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
+          "url": "https://www.cls.cn/detail/2498089",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 10时47分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
+          "url": "https://www.cls.cn/detail/2498401",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
+          "url": "https://www.cls.cn/detail/2498075",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 10时47分]"
+        },
+        {
+          "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
+          "url": "https://www.cls.cn/detail/2497962",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时47分]"
+        },
+        {
+          "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34204191",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     },
@@ -170,8 +317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 10时47分]"
         },
         {
           "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
@@ -211,120 +358,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
-          "url": "https://www.cls.cn/detail/2498089",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
-          "url": "https://www.cls.cn/detail/2498075",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
-          "url": "https://www.cls.cn/detail/2497962",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34204191",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
-          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
-          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
-          "url": "https://news.ifeng.com/c/8x057HlG52b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
-          "url": "https://wallstreetcn.com/livenews/3174648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI通过前沿模型发布新的数学成果",
           "url": "https://wallstreetcn.com/livenews/3174665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时47分]"
         },
         {
           "title": "OpenAI或将发布400个重大数学成果",
@@ -333,9 +380,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
@@ -352,8 +410,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 10时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向上触及102，日内涨0.16%。",
+          "url": "https://flash.jin10.com/detail/20261007095106912800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     }
