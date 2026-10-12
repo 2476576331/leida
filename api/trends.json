@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-10-12T07:15:31.956794+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-10-12T10:43:56.987811+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普宣布俄乌达成“能源停火”",
+          "url": "https://news.ifeng.com/c/8x90UwKzhnS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
+        {
+          "title": "沙特首都机场遇袭，特朗普再发声：可怕且不可接受",
+          "url": "https://original.ifeng.com/c/8x8Z9alZX8n",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
         {
           "title": "沙特利雅得机场遇袭造成12人死亡309人受伤，特朗普称美国有可能加入对胡塞武装的打击",
           "url": "https://wallstreetcn.com/articles/3783345",
@@ -19,26 +43,38 @@
           "time_info": "[03时14分 ~ 07时15分]"
         },
         {
-          "title": "特朗普宣布俄乌达成“能源停火”",
-          "url": "https://news.ifeng.com/c/8x90UwKzhnS",
+          "title": "秋后算账？美司法部调查五大电视网停拍特朗普活动",
+          "url": "https://news.ifeng.com/c/8x8al9ONK7b",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
-        },
-        {
-          "title": "沙特首都机场遇袭，特朗普再发声：可怕且不可接受",
-          "url": "https://original.ifeng.com/c/8x8Z9alZX8n",
-          "source": "凤凰网",
-          "ranks": [
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
+        {
+          "title": "泽连斯基回应特朗普说乌需要新总统",
+          "url": "https://www.toutiao.com/trending/7695170750323916863/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "【早报】特朗普：俄乌同意“能源停火”；吴清：共同把资本市场建设好，更好回报广大投资者；四部门出手，事关汽车产业",
+          "url": "https://www.cls.cn/detail/2501666",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "美国跨党派参议员团体要求特朗普取消俄罗斯柴油交易",
@@ -47,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -59,24 +95,13 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
         },
         {
           "title": "特朗普要求乌克兰不能打俄炼油厂，“泽连斯基最好立刻停手，乌克兰该换个新总统”",
           "url": "https://wallstreetcn.com/articles/3783348",
           "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
-        },
-        {
-          "title": "秋后算账？美司法部调查五大电视网停拍特朗普活动",
-          "url": "https://news.ifeng.com/c/8x8al9ONK7b",
-          "source": "凤凰网",
           "ranks": [
             7
           ],
@@ -153,6 +178,17 @@
           "time_info": "[03时14分 ~ 03时15分]"
         },
         {
+          "title": "特朗普现场提议：改名为“特朗普洋”",
+          "url": "https://www.cls.cn/detail/2501592",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰希望和平。问题在于俄罗斯是否也希望和平。乌克兰武装部队已经收到所有适当命令。我们正在等待美国与俄罗斯之间对话的明确细节，并期待普京落实特朗普总统所宣布的内容。",
           "url": "https://flash.jin10.com/detail/20261012020336579800",
           "source": "金十数据",
@@ -170,7 +206,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -181,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -214,7 +250,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -230,13 +266,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国总统特朗普周一日程一览",
+          "url": "https://flash.jin10.com/detail/20261012094223515800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "美国总统特朗普：凯蒂·扎卡里亚（Katie Zacharia）将于明天（美东时间12日）——即哥伦布日——正式出任新闻秘书，并于周二上午9:30在白宫新闻简报室举行首次新闻发布会。凯蒂从一开始就与我同心同行，她定会表现出色。",
           "url": "https://flash.jin10.com/detail/20261012053959829800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -252,6 +299,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "泽连斯基回应特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "据英国金融时报：据欧洲官员透露，特朗普政府正威胁叫停向乌克兰提供武器的采购机制，以此向基辅施压，要求其停止对俄罗斯能源基础设施实施纵深打击。美国正游说欧洲各国政府及基辅，试图阻止乌克兰袭击俄罗斯炼油厂。这些官员在周六和周日接到了美国官员的电话，或听取了有关通话的情况通报。",
           "url": "https://flash.jin10.com/detail/20261012012337039800",
           "source": "金十数据",
@@ -261,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普下令买俄油引发跨党派震怒！党内4名议员倒戈，指控其违法",
+          "url": "https://flash.jin10.com/detail/20261012093714601800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "特朗普提议将太平洋或大西洋更名为 “特朗普洋”。（澎湃）",
@@ -277,7 +346,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗外交部副部长：我们正处于战争状态，任何商船均不得未经与我方协调便通过霍尔木兹海峡。正努力在国际海事组织登记与阿曼就霍尔木兹海峡过境航线达成的协议。即便我们与阿曼在国际海事组织备案，也不意味着霍尔木兹海峡将被开放。开放海峡取决于美国履行此前承诺，而这些承诺曾被美国中止执行。",
@@ -377,9 +446,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "一油轮在霍尔木兹触雷 伊朗公布画面",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%B2%B9%E8%BD%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E8%A7%A6%E9%9B%B7+%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "伊朗央行行长：经济崩溃不能通过政治声明来认定",
@@ -406,49 +486,32 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
-          "url": "https://wallstreetcn.com/articles/3783359",
-          "source": "华尔街见闻",
+          "title": "数学家怎么看OpenAI的722篇论文",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
-        },
-        {
-          "title": "“只剩一笔交易”的美股牛市",
-          "url": "https://wallstreetcn.com/articles/3783355",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
-        },
-        {
-          "title": "美股股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20261012060016047800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
+          "time_info": "10时43分"
+        },
+        {
+          "title": "OpenAI狂发论文,数学家炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
         {
           "title": "OpenAI 发布 175 页四维挂谷猜想证明稿，这意味着什么？",
           "url": "https://www.zhihu.com/question/2092197283857175132",
@@ -461,32 +524,86 @@
           "time_info": "[03时14分 ~ 07时15分]"
         },
         {
-          "title": "OpenAI狂发论文,数学家炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
+          "title": "丘成桐谈OpenAI公开722篇数学手稿",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%98%E6%88%90%E6%A1%90%E8%B0%88OpenAI%E5%85%AC%E5%BC%80722%E7%AF%87%E6%95%B0%E5%AD%A6%E6%89%8B%E7%A8%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
+          "url": "https://wallstreetcn.com/articles/3783359",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
+        {
+          "title": "“只剩一笔交易”的美股牛市",
+          "url": "https://wallstreetcn.com/articles/3783355",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
+        {
+          "title": "美股股指期货周一小幅高开。",
+          "url": "https://flash.jin10.com/detail/20261012060016047800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”",
           "url": "https://wallstreetcn.com/articles/3783366",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 10时43分]"
+        },
+        {
+          "title": "美国现券债市周一休市 美股及美债期货正常交易",
+          "url": "https://flash.jin10.com/detail/20261012100809604800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     },
@@ -501,7 +618,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
