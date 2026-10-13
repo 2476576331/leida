@@ -1,287 +1,238 @@
 {
-  "generated_at": "2026-10-13T16:34:06.444399+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-10-14T00:32:09.728776+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普指责胡塞武装袭击沙特并推高油价",
+          "url": "https://flash.jin10.com/detail/20261014001113729800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普不信中俄帮伊朗，外交部表态",
+          "url": "https://news.ifeng.com/c/8xBr4ZCOTK4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国总统特朗普：胡塞武装的行为非常恶劣。",
+          "url": "https://flash.jin10.com/detail/20261014000502221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "记者提问：是什么让你如此确信，普京比泽连斯基更希望结束这场冲突？ 特朗普：靠谈判。我一辈子做的事，就是促成交易。",
+          "url": "https://wallstreetcn.com/livenews/3178091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：我可能会要求土耳其加入对也门采取行动的行列。",
+          "url": "https://wallstreetcn.com/livenews/3178085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：将针对伊朗问题做决定。",
+          "url": "https://wallstreetcn.com/livenews/3178084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国参议院共和党成员们希望总统特朗普退出自己宣布的俄罗斯（柴油供应）协议。（美国媒体Axios）",
+          "url": "https://wallstreetcn.com/livenews/3178082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：正与俄罗斯努力结束战争。 认为乌克兰总统泽连斯基、俄罗斯总统普京都希望结束战争。",
+          "url": "https://wallstreetcn.com/livenews/3178081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "Gemini 4 Argon或将开放",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Argon%E6%88%96%E5%B0%86%E5%BC%80%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 4 Argon可通过付费版Gemini API和Google AI Ultra订阅服务使用。",
+          "url": "https://flash.jin10.com/detail/20261014000822012800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：面向软件工程和网络安全领域的开发者推出Gemini 4 Argon。",
+          "url": "https://flash.jin10.com/detail/20261014000801991800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌：开始向Google AI订阅用户推出Gemini 4 Argon，适用平台包括Google Antigravity、Gemini应用以及谷歌搜索中的AI模式。 Gemini 4 Argon以每百万输入代币2美元和每百万输出代币10美元的优惠价格推出。",
+          "url": "https://wallstreetcn.com/livenews/3178095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：通过Gemini API向全球开发者和企业推出Gemini4 Argon。",
+          "url": "https://flash.jin10.com/detail/20261014000318260800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将把Fairwind计划扩展至数百家新增合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20261014000249697800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：开始向 Google AI 订阅用户推出 Gemini 4 Argon，适用平台包括 Google Antigravity、Gemini 应用以及谷歌搜索中的 AI 模式。Gemini 4 Argon以每百万输入代币2美元和每百万输出代币10美元的优惠价格推出。",
+          "url": "https://flash.jin10.com/detail/20261014000158090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "PIMCO：美债收益率尚未见顶，美联储或再加息一到两次",
+          "url": "https://wallstreetcn.com/livenews/3178096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "债市资深人士Bassman：若20年期美债收益率升至6%，“噩梦情景”将出现",
+          "url": "https://wallstreetcn.com/livenews/3178079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3783408",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 16时34分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "【早报】美股存储、光通信板块，全线走低；原油上涨、黄金收跌；一批A股公司业绩预喜",
-          "url": "https://www.cls.cn/detail/2502832",
+          "title": "华尔街大行财报分化 芯片股压力不减 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2503733",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股普跌，油价走高，黄金小幅下跌",
-          "url": "https://wallstreetcn.com/articles/3783408",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "美股三大期指窄幅震荡 芯片股整体承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2502622",
-          "source": "财联社热门",
-          "ranks": [
-            11,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时26分 ~ 09时40分]"
-        },
-        {
-          "title": "美股收盘：本轮牛市平淡度过四周年节点 能源、航运ETF创历史新高",
-          "url": "https://www.cls.cn/detail/2502814",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "美股盘前：存储芯片股普跌，SK海力士跌约5%",
-          "url": "https://wallstreetcn.com/livenews/3177788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美股芯片相关股在盘前交易中下跌，英伟达(NVDA.O)下跌0.8%，AMD(AMD.O)下跌2%，英特尔(INTC.O)下跌1%，迈威尔科技(MRVL.O)下跌2.7%，应用材料(AMAT.O)下跌2.3%，博通(AVGO.O)下跌1.3%。",
-          "url": "https://flash.jin10.com/detail/20261013161005061800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "内存和数据存储相关公司股价在美股盘前交易中下跌，美光科技(MU.O)下跌2.8%，闪迪(SNDK.O)下跌3%，西部数据(WDC.O)下跌3.5%，希捷科技(STX.O)下跌3.1%，SK海力士(SKHY.O)下跌4.8%。",
-          "url": "https://flash.jin10.com/detail/20261013160717026800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "存储板块走弱 美股三大指数涨跌不一",
-          "url": "https://www.toutiao.com/trending/7695921529355243044/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特朗普：我可能与金正恩会面",
-          "url": "https://news.ifeng.com/c/8xBMfv9GmV7",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 16时34分]"
-        },
-        {
-          "title": "中方回应特朗普称不相信中俄在帮伊朗",
-          "url": "https://www.toutiao.com/trending/7695661082907610687/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "美联储理事沃勒：特朗普对美联储独立性的威胁迄今为止尚未成功。 相信国会和法院会保护美联储的独立性。",
-          "url": "https://wallstreetcn.com/livenews/3177800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "特朗普为什么突然“倒向”俄罗斯",
-          "url": "https://www.toutiao.com/trending/7696043056503459354/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普政府计划将人工智能测试机构人员调至美国白宫。",
-          "url": "https://wallstreetcn.com/livenews/3177433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "据The Information：特朗普政府计划将美国人工智能安全研究所（CAISI）的部分官员调入白宫，并寻求将CAISI纳入人工智能政策决策流程。",
-          "url": "https://flash.jin10.com/detail/20261013023839296800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：（关于与美国总统特朗普的柴油供应协议）俄罗斯和美国政府之间正在进行供应谈判。 我们有可能在全球市场上增加柴油供应。 来自俄罗斯的额外供应将部分平衡供需关系。 俄罗斯今年已向欧盟供应价值 213 亿美元的能源。 到年底，俄罗斯柴油出口量或将达到300万-350万吨。 OPEC+已讨论运输成本问题，运输成本已大幅上涨。",
-          "url": "https://wallstreetcn.com/livenews/3177430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "宣布俄乌能源停火是特朗普自导自演吗",
-          "url": "https://www.toutiao.com/trending/7695725230601276937/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普对油价的影响力正在减弱：市场不再只听白宫怎么说",
-          "url": "https://flash.jin10.com/detail/20261013160845059800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI：正在调查GPT-6.1性能下降的问题。",
-          "url": "https://wallstreetcn.com/livenews/3177801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "OpenAI狂发论文,数学家炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 16时34分]"
-        },
-        {
-          "title": "数学家怎么看OpenAI的722篇论文",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 09时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数涨约0.4%，创去年4月份以来新高",
-          "url": "https://wallstreetcn.com/livenews/3177449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "周一（10月12日）纽约尾盘，彭博谷物分类指数涨0.07%，报32.4671点。 CBOT玉米期货涨0.78%，CBOT小麦期货涨0.29%，CBOT大豆期货跌0.29%，报12.8825美元/蒲式耳，豆粕期货涨0.75%，豆油期货涨0.91%。 CBOT瘦肉猪期货涨0.77%，活牛期货跌0.23%，饲牛期货跌0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3177437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     },
@@ -290,26 +241,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "伊朗副外长加里巴巴迪：伊朗正在敲定对美国的回应，一旦磋商完成，将通过中间人传达其立场。",
-          "url": "https://wallstreetcn.com/livenews/3177448",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗：英国就空军基地安全事件对伊指控“毫无根据”",
+          "url": "https://news.ifeng.com/c/8xBwGVIgUwm",
+          "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "伊朗安全主管与印度安全顾问Doval通电话，讨论地区局势。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3177427",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊通社（IRNA）：伊朗与土耳其外长在电话中讨论也门及地区事务。",
+          "url": "https://flash.jin10.com/detail/20261013235826747800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "半个月，500亿变1000亿！DeepSeek将完成新一轮融资，梁文峰盯上具身智能",
+          "url": "https://wallstreetcn.com/articles/3783495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI狂发论文,数学家炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
