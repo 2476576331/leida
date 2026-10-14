@@ -1,29 +1,202 @@
 {
-  "generated_at": "2026-10-15T03:46:37.500652+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-15T06:44:43.745760+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 8,
+      "keyword_group": "美股",
+      "match_count": 15,
       "titles": [
         {
-          "title": "马斯克：星盾系统由美国政府控制 使用限制最终由特朗普决定",
-          "url": "https://flash.jin10.com/detail/20261015032519790800",
-          "source": "金十数据",
+          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2504896",
+          "source": "财联社热门",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "周三（10月14日）纽约尾盘，美元兑日元跌0.04%，报158.26日元，日内交投区间为158.95-158.05日元，美国CPI数据带来一波短线加速上涨行情，临近美股开盘时逼近9月24日顶部159.04日元、9月2日顶部160.39日元。 欧元兑日元跌0.45%，报176.50日元；英镑兑日元跌0.55%，报208.694日元；日元兑离岸人民币涨0.07%，报4.2306元。",
+          "url": "https://wallstreetcn.com/livenews/3178886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
         },
         {
+          "title": "美元指数在美国CPI通胀数据发布后涨约0.4%，美股早盘曾创去年4月以来新高",
+          "url": "https://wallstreetcn.com/livenews/3178885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "周三（10月14日），美股存储芯片与硬件供应链指数跌4.81%，报179.29点。",
+          "url": "https://wallstreetcn.com/livenews/3178931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "Rocket Lab Corp.（RKLB）收跌7.85%，美股盘后跌7.76%。 Rocket Lab 推迟了其中子（Neutron）火箭的首次亮相，将该火箭的首飞时间延后至2027年。 此次推迟的原因是，公司在发射准备阶段发现了火箭推进剂贮箱制造环节存在新问题。 Rocket Lab 首席执行官彼得·贝克表示，公司不会带着不必要的风险仓促走向发射台，并称中子火箭这类研发项目难免会遇到挑战。",
+          "url": "https://wallstreetcn.com/livenews/3178930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+          "url": "https://wallstreetcn.com/articles/3783492",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "url": "https://wallstreetcn.com/articles/3783579",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（10月14日），美国科技股七巨头（Magnificent 7）指数跌1.73%，报235.99点，大致平开之后持续下跌，持续脱离周二所创盘中历史新高241.53点和收盘历史最高位。 “超大”市值科技股指数收跌2.54%，报465.73点。",
+          "url": "https://wallstreetcn.com/livenews/3178927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "内存崩溃，高盛：谁高位接盘了美股科技？",
+          "url": "https://wallstreetcn.com/articles/3783632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
+          "url": "https://www.cls.cn/detail/2505098",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数收跌8.06%，报59.99点。 最近24小时，现货比特币跌2.04%，暂报81658.81美元，美国CPI通胀数据发布后转跌。 现货以太坊跌3.81%，暂报2412.308美元。",
+          "url": "https://wallstreetcn.com/livenews/3178924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美股三大指数集体低开",
+          "url": "https://www.douyin.com/hot/2695733",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "Northlight Asset Management首席投资官Chris Zaccarelli表示：（美股）一些涨幅过大的股票，如芯片制造商和AI基础设施股票，正在失去部分上涨动力。 美国9月通胀数据加剧了人们对美联储进一步加息的担忧。 市场原本希望9月通胀只是“一次性”冲高，但今早公布的数据使这种情景的可能性大大降低。",
+          "url": "https://wallstreetcn.com/livenews/3178910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，可转债ETF收跌2.9%，新兴市场ETF跌2%",
+          "url": "https://wallstreetcn.com/livenews/3178906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "高盛：谁高位接盘了美股科技",
+          "url": "https://www.toutiao.com/trending/7696513698201865764/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 15,
+      "titles": [
+        {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
           "url": "https://news.ifeng.com/c/8xDZ9NqdItH",
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "马斯克：星盾系统由美国政府控制 使用限制最终由特朗普决定",
+          "url": "https://flash.jin10.com/detail/20261015032519790800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +210,42 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "泽连斯基为何罕见怒怼特朗普",
+          "url": "https://www.toutiao.com/trending/7696431919977729555/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普驳斥媒体对其认知能力测试的质疑",
+          "url": "https://flash.jin10.com/detail/20261015061819623800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及通胀报告）我们目前情况不错。",
+          "url": "https://flash.jin10.com/detail/20261015061536248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee称，美国9月通胀数据高于预期，令人失望，但暗示希望在进一步加息前等待更多数据。 服务业通胀是一个顾虑。 关注通胀趋势是关键，不要仅仅注重单独一份报告。 （总统特朗普挑起的）关税对价格的影响比预期更加持久。 如果通胀维持当前水平，货币政策就需要对此作出应对。 不希望美联储被未来几次会议束缚手脚。（雅虎财经）",
@@ -74,6 +281,28 @@
           "time_info": "03时46分"
         },
         {
+          "title": "美国总统特朗普：糟糕的美联储故意让利率偏高。",
+          "url": "https://wallstreetcn.com/livenews/3178923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "特朗普称他刚与台积电董事长通话",
+          "url": "https://wallstreetcn.com/livenews/3178919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "美国银行CEO Moynihan：“略微”讨论了如何解决诸多问题。 我们严肃认真对待（特朗普）政府的命令，我们将处理好（最新暴露的监管罚款）问题。 我们对公司的一切行为负责。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3178866",
           "source": "华尔街见闻-快讯",
@@ -85,122 +314,62 @@
           "time_info": "03时46分"
         },
         {
-          "title": "泽连斯基为何罕见怒怼特朗普",
-          "url": "https://www.toutiao.com/trending/7696431919977729555/",
-          "source": "今日头条",
+          "title": "美国总统特朗普的政府与针对乌克兰的星链（StarLink）服务限制无关。（美国媒体Axios）",
+          "url": "https://wallstreetcn.com/livenews/3178912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美国总统特朗普：由于油价如此之高，我们国家现在赚的钱比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20261015053447768800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "周三（10月14日）纽约尾盘，美元兑日元跌0.04%，报158.26日元，日内交投区间为158.95-158.05日元，美国CPI数据带来一波短线加速上涨行情，临近美股开盘时逼近9月24日顶部159.04日元、9月2日顶部160.39日元。 欧元兑日元跌0.45%，报176.50日元；英镑兑日元跌0.55%，报208.694日元；日元兑离岸人民币涨0.07%，报4.2306元。",
-          "url": "https://wallstreetcn.com/livenews/3178886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "06时44分"
         },
         {
-          "title": "美元指数在美国CPI通胀数据发布后涨约0.4%，美股早盘曾创去年4月以来新高",
-          "url": "https://wallstreetcn.com/livenews/3178885",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：糟糕的美联储故意让利率偏高。",
+          "url": "https://flash.jin10.com/detail/20261015052502379800",
+          "source": "金十数据",
           "ranks": [
-            2
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2504896",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
-          "url": "https://wallstreetcn.com/articles/3783492",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
-          "url": "https://wallstreetcn.com/articles/3783579",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "美股三大指数集体低开",
-          "url": "https://www.douyin.com/hot/2695733",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "高盛：谁高位接盘了美股科技",
-          "url": "https://www.toutiao.com/trending/7696513698201865764/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "06时44分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "数学家如何评价OpenAI公开论文",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
         {
           "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
           "url": "https://www.zhihu.com/question/2093654423369152454",
           "source": "知乎",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "数学家如何评价OpenAI公开论文",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -227,12 +396,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "OpenAI窃听案嫌疑人被捕前曾为家人预订飞往沙特阿拉伯的单程机票",
+          "url": "https://wallstreetcn.com/livenews/3178911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美国八个州因用户安全问题起诉OpenAI",
+          "url": "https://flash.jin10.com/detail/20261015052727779800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
@@ -242,8 +433,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 06时44分]"
+        },
+        {
+          "title": "美债收益率在美国CPI发布后冲高回落，两年期实际收益率跌约6.3个基点，市场权衡通胀数据与美联储官员讲话",
+          "url": "https://wallstreetcn.com/livenews/3178922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "06时44分"
         },
         {
           "title": "大摩发行新债，美债收益率走高之际仍选择入市",
@@ -255,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "美债收益率在CPI后冲高回落 市场评估通胀数据与美联储官员讲话",
+          "url": "https://flash.jin10.com/detail/20261015052650279800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     },
@@ -300,6 +513,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价跌约1.4%，白银跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3178914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     },
