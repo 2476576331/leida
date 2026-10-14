@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T08:41:29.175951+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-10-14T13:32:34.654609+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普指责胡塞武装袭击沙特并推高油价",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -61,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普在社交媒体发文称，格陵兰岛正准备启动大规模的石油、天然气和矿产勘探。",
+          "url": "https://wallstreetcn.com/livenews/3178394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价",
+          "url": "https://www.cls.cn/detail/2504027",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "美国总统特朗普：我可能会要求土耳其加入对也门采取行动的行列。",
@@ -102,7 +124,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -116,12 +138,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "邵永灵：特朗普硬推俄乌停火不现实",
+          "url": "https://www.toutiao.com/trending/7696365669020864054/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Gemini 4 Argon或将开放",
@@ -170,6 +203,18 @@
           "time_info": "00时32分"
         },
         {
+          "title": "如何评价 10 月 13 日正式推出的 Gemini 4 Argon？",
+          "url": "https://www.zhihu.com/question/2093454112922912690",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 13时32分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：通过Gemini API向全球开发者和企业推出Gemini4 Argon。",
           "url": "https://flash.jin10.com/detail/20261014000318260800",
           "source": "金十数据",
@@ -181,6 +226,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "谷歌Gemini 4 Argon 实测",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CGemini%204%20Argon%20%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "谷歌(GOOG.O)：将把Fairwind计划扩展至数百家新增合作伙伴。",
           "url": "https://flash.jin10.com/detail/20261014000249697800",
           "source": "金十数据",
@@ -190,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "如何评价 10 月 13 日正式推出的 Gemini 4 Argon？",
-          "url": "https://www.zhihu.com/question/2093454112922912690",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
         },
         {
           "title": "谷歌(GOOG.O)：开始向 Google AI 订阅用户推出 Gemini 4 Argon，适用平台包括 Google Antigravity、Gemini 应用以及谷歌搜索中的 AI 模式。Gemini 4 Argon以每百万输入代币2美元和每百万输出代币10美元的优惠价格推出。",
@@ -220,7 +265,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         }
@@ -228,8 +273,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】美以领导人被曝：磋商联手再袭伊朗；香港证监会出手！暂停茶百道交易；多家公司三季报预增逾5倍",
+          "url": "https://www.cls.cn/detail/2503958",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 13时32分]"
+        },
         {
           "title": "伊朗：英国就空军基地安全事件对伊指控“毫无根据”",
           "url": "https://news.ifeng.com/c/8xBwGVIgUwm",
@@ -253,26 +310,26 @@
           "time_info": "05时36分"
         },
         {
-          "title": "【早报】美以领导人被曝：磋商联手再袭伊朗；香港证监会出手！暂停茶百道交易；多家公司三季报预增逾5倍",
-          "url": "https://www.cls.cn/detail/2503958",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
           "title": "伊朗副外长：若美再次侵略伊朗 后果将延伸至地区外",
           "url": "https://wallstreetcn.com/livenews/3178262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：正在等待美军舰靠近，然后将其击沉",
+          "url": "https://news.ifeng.com/c/8xCtA6cLmnn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗副外长：若美再次侵略伊朗 后果将延伸至地区外",
@@ -281,7 +338,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -314,7 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -333,7 +390,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
@@ -353,9 +410,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 13时32分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡走弱 苹果、微软齐创新高",
+          "url": "https://www.cls.cn/detail/2503947",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 13时32分]"
         },
         {
           "title": "华尔街大行财报分化 芯片股压力不减 美股期指涨跌不一 | 今夜看点",
@@ -371,15 +440,15 @@
           "time_info": "[00时31分 ~ 08时41分]"
         },
         {
-          "title": "美股收盘：三大指数震荡走弱 苹果、微软齐创新高",
-          "url": "https://www.cls.cn/detail/2503947",
-          "source": "财联社热门",
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "url": "https://wallstreetcn.com/articles/3783579",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "13时32分"
         },
         {
           "title": "周二（10月13日），美股行业ETF多数收跌，生物科技指数ETF收跌2.08%，医疗业ETF跌1.35%，银行业ETF跌0.71%，半导体ETF跌0.49%，能源业ETF涨1.8%。 标普500指数的11个板块中，保健板块收跌1.33%，金融板块跌0.41%，信息技术/科技板块涨0.08%，电信板块涨0.88%，能源板块涨1.74%。",
@@ -421,7 +490,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         }
@@ -429,8 +498,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "陶哲轩呼吁抵制OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
         {
           "title": "一沙特籍员工因涉嫌在OpenAI会议室藏匿录音设备被捕",
           "url": "https://flash.jin10.com/detail/20261014045525020800",
@@ -489,47 +569,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国际金价跌0.3%，亚太中午曾涨穿4200美元",
-          "url": "https://wallstreetcn.com/livenews/3178208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "中信证券：金价底部或抬升 黄金板块有望先行",
-          "url": "https://wallstreetcn.com/livenews/3178261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "中信证券：金价底部或抬升，黄金板块有望先行",
-          "url": "https://flash.jin10.com/detail/20261014080736194800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "PIMCO：美债收益率尚未见顶，美联储或再加息一到两次",
@@ -554,6 +595,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "黄金等了大半年，5.3%的美债到底是不是顶部？",
+          "url": "https://flash.jin10.com/detail/20261014125013469800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "长周末归来，中长期美债收益率下跌",
           "url": "https://wallstreetcn.com/livenews/3178181",
           "source": "华尔街见闻-快讯",
@@ -563,6 +615,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价跌0.3%，亚太中午曾涨穿4200美元",
+          "url": "https://wallstreetcn.com/livenews/3178208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "中信证券：金价底部或抬升 黄金板块有望先行",
+          "url": "https://wallstreetcn.com/livenews/3178261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "中信证券：金价底部或抬升，黄金板块有望先行",
+          "url": "https://flash.jin10.com/detail/20261014080736194800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     },
