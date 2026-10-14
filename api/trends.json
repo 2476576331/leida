@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-14T13:32:34.654609+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-10-14T18:41:00.835695+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "“特朗普下令：赴美生子，倒查6年”",
+          "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "特朗普忙“划清界限”：她不是我的家庭成员",
+          "url": "https://news.ifeng.com/c/8xDZ9NqdItH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
         {
           "title": "特朗普指责胡塞武装袭击沙特并推高油价",
           "url": "https://flash.jin10.com/detail/20261014001113729800",
@@ -41,6 +63,28 @@
           "time_info": "[00时31分 ~ 08时41分]"
         },
         {
+          "title": "特朗普或拉土耳其入伙打击胡塞武装",
+          "url": "https://news.ifeng.com/c/8xDWGl4Al1D",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "泽连斯基为何罕见怒怼特朗普",
+          "url": "https://www.toutiao.com/trending/7696431919977729555/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
           "title": "美国总统特朗普：胡塞武装的行为非常恶劣。",
           "url": "https://flash.jin10.com/detail/20261014000502221800",
           "source": "金十数据",
@@ -69,7 +113,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -80,7 +124,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -140,13 +184,35 @@
           "time_info": "00时32分"
         },
         {
+          "title": "数据显示，在普京与特朗普达成协议后，俄罗斯恢复柴油出口装船作业。",
+          "url": "https://flash.jin10.com/detail/20261014180316843800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "美媒：特朗普与普京柴油交易的政治影响大于价格影响",
+          "url": "https://flash.jin10.com/detail/20261014175842405800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "邵永灵：特朗普硬推俄乌停火不现实",
           "url": "https://www.toutiao.com/trending/7696365669020864054/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -154,7 +220,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "Gemini 4 Argon或将开放",
@@ -168,6 +234,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 08时41分]"
+        },
+        {
+          "title": "Gemini 4 Argon各项能力实测",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Argon%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini 4 Argon可通过付费版Gemini API和Google AI Ultra订阅服务使用。",
@@ -203,6 +280,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "Gemini4对比Opus 5.5实测",
+          "url": "https://search.bilibili.com/all?keyword=Gemini4%E5%AF%B9%E6%AF%94Opus%205.5%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
           "title": "如何评价 10 月 13 日正式推出的 Gemini 4 Argon？",
           "url": "https://www.zhihu.com/question/2093454112922912690",
           "source": "知乎",
@@ -213,6 +301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时41分 ~ 13时32分]"
+        },
+        {
+          "title": "Gemini 4 Argon正式上线",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Argon%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "谷歌(GOOG.O)：通过Gemini API向全球开发者和企业推出Gemini4 Argon。",
@@ -232,7 +331,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -264,6 +363,126 @@
           "source": "百度热搜",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+          "url": "https://wallstreetcn.com/articles/3783492",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时41分 ~ 18时41分]"
+        },
+        {
+          "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3783408",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 05时36分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡走弱 苹果、微软齐创新高",
+          "url": "https://www.cls.cn/detail/2503947",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 13时32分]"
+        },
+        {
+          "title": "华尔街大行财报分化 芯片股压力不减 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2503733",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时41分]"
+        },
+        {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "url": "https://wallstreetcn.com/articles/3783579",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 18时41分]"
+        },
+        {
+          "title": "周二（10月13日），美股行业ETF多数收跌，生物科技指数ETF收跌2.08%，医疗业ETF跌1.35%，银行业ETF跌0.71%，半导体ETF跌0.49%，能源业ETF涨1.8%。 标普500指数的11个板块中，保健板块收跌1.33%，金融板块跌0.41%，信息技术/科技板块涨0.08%，电信板块涨0.88%，能源板块涨1.74%。",
+          "url": "https://wallstreetcn.com/livenews/3178195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "周二（10月13日），美股大类资产类ETF多数收跌，新兴市场ETF收跌0.62%，巴克莱美国可转债ETF、大豆基金至少跌0.51%，罗素2000指数ETF、做多美元指数、道指ETF、纳斯达克100 ETF至多跌0.43%，美国房地产ETF、黄金ETF、农产品基金、美国布伦特油价基金、标普500 ETF至多跌0.24%。 通胀债券指数ETF、日元做多至多收涨0.19%，欧元做多涨0.38%，美国国债20+年ETF涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3178193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国银行（BAC）美股盘后跌1.9%，据英国金融时报，因为洗钱问题而被罚没12亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3178190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国通胀再抬头？六种CPI结果，对美元、黄金和美股影响完全不同",
+          "url": "https://flash.jin10.com/detail/20261014175858602800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "美股集体收跌 苹果微软创新高",
+          "url": "https://www.toutiao.com/trending/7695216290709045274/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -327,7 +546,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -389,128 +608,9 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3783408",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 05时36分]"
-        },
-        {
-          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
-          "url": "https://wallstreetcn.com/articles/3783492",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 13时32分]"
-        },
-        {
-          "title": "美股收盘：三大指数震荡走弱 苹果、微软齐创新高",
-          "url": "https://www.cls.cn/detail/2503947",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 13时32分]"
-        },
-        {
-          "title": "华尔街大行财报分化 芯片股压力不减 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2503733",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 08时41分]"
-        },
-        {
-          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
-          "url": "https://wallstreetcn.com/articles/3783579",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "周二（10月13日），美股行业ETF多数收跌，生物科技指数ETF收跌2.08%，医疗业ETF跌1.35%，银行业ETF跌0.71%，半导体ETF跌0.49%，能源业ETF涨1.8%。 标普500指数的11个板块中，保健板块收跌1.33%，金融板块跌0.41%，信息技术/科技板块涨0.08%，电信板块涨0.88%，能源板块涨1.74%。",
-          "url": "https://wallstreetcn.com/livenews/3178195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "周二（10月13日），美股大类资产类ETF多数收跌，新兴市场ETF收跌0.62%，巴克莱美国可转债ETF、大豆基金至少跌0.51%，罗素2000指数ETF、做多美元指数、道指ETF、纳斯达克100 ETF至多跌0.43%，美国房地产ETF、黄金ETF、农产品基金、美国布伦特油价基金、标普500 ETF至多跌0.24%。 通胀债券指数ETF、日元做多至多收涨0.19%，欧元做多涨0.38%，美国国债20+年ETF涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3178193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国银行（BAC）美股盘后跌1.9%，据英国金融时报，因为洗钱问题而被罚没12亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3178190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美股集体收跌 苹果微软创新高",
-          "url": "https://www.toutiao.com/trending/7695216290709045274/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
-        {
-          "title": "陶哲轩呼吁抵制OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
         {
           "title": "一沙特籍员工因涉嫌在OpenAI会议室藏匿录音设备被捕",
           "url": "https://flash.jin10.com/detail/20261014045525020800",
@@ -521,6 +621,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "陶哲轩呼吁抵制OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 18时41分]"
         },
         {
           "title": "OpenAI狂发论文,数学家炮轰",
@@ -570,7 +682,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "PIMCO：美债收益率尚未见顶，美联储或再加息一到两次",
@@ -582,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "富达预计10年期美债收益率有上探6%的可能",
+          "url": "https://wallstreetcn.com/livenews/3178631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "债市资深人士Bassman：若20年期美债收益率升至6%，“噩梦情景”将出现",
@@ -601,7 +724,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -620,7 +743,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价跌0.3%，亚太中午曾涨穿4200美元",
@@ -654,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "晚间CPI来袭炸场，能否打破金价震荡格局？金十研究员高阳正在直播分析，点击进入直播间<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20261014175619232800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
