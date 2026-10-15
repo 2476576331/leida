@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T09:01:26.172889+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-10-15T13:32:48.670249+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,19 @@
           "time_info": "03时46分"
         },
         {
+          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
+          "url": "https://www.cls.cn/detail/2505098",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 13时32分]"
+        },
+        {
           "title": "周三（10月14日），美股存储芯片与硬件供应链指数跌4.81%，报179.29点。",
           "url": "https://wallstreetcn.com/livenews/3178931",
           "source": "华尔街见闻-快讯",
@@ -92,23 +105,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 09时01分]"
-        },
-        {
-          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
-          "url": "https://www.cls.cn/detail/2505098",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 13时32分]"
         },
         {
           "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
@@ -214,7 +216,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
@@ -228,6 +230,17 @@
           "time_info": "[03时46分 ~ 06时44分]"
         },
         {
+          "title": "“特朗普下令：赴美生子，倒查6年”",
+          "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时46分 ~ 13时32分]"
+        },
+        {
           "title": "马斯克：星盾系统由美国政府控制 使用限制最终由特朗普决定",
           "url": "https://flash.jin10.com/detail/20261015032519790800",
           "source": "金十数据",
@@ -237,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "“特朗普下令：赴美生子，倒查6年”",
-          "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时46分 ~ 09时01分]"
         },
         {
           "title": "中期选举迫近特朗普发起“悲情动员”",
@@ -295,6 +297,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "美国总统特朗普发布翻新后白宫南面的实景照片。特朗普称，多年来，白宫南北两侧的外立面都遭受了严重的磨损和损毁。外墙及装饰部分，无论是缺失还是状况不佳之处，均已按最高标准得到全面修复，使白宫的使用寿命得以延长数十年。这项工程势在必行，作为促成此事的一任总统，我深感自豪。同样，宴会厅和军事综合楼项目也如期完工且未超预算，这将成为白宫自1901年西翼扩建以来的首个重大扩建。",
+          "url": "https://flash.jin10.com/detail/20261015130040959800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee称，美国9月通胀数据高于预期，令人失望，但暗示希望在进一步加息前等待更多数据。 服务业通胀是一个顾虑。 关注通胀趋势是关键，不要仅仅注重单独一份报告。 （总统特朗普挑起的）关税对价格的影响比预期更加持久。 如果通胀维持当前水平，货币政策就需要对此作出应对。 不希望美联储被未来几次会议束缚手脚。（雅虎财经）",
           "url": "https://wallstreetcn.com/livenews/3178880",
           "source": "华尔街见闻-快讯",
@@ -337,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34249940",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "特朗普称他刚与台积电董事长通话",
@@ -396,8 +420,113 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "大肥鱼罢工!DeepSeek又崩了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BD%A2%E5%B7%A5%21DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+          "url": "https://www.zhihu.com/question/2093997001205445814",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "崩了5个小时，DeepSeek刚刚恢复服务",
+          "url": "https://wallstreetcn.com/livenews/3179128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.toutiao.com/trending/7696697739286941247/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%B4%A9%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek回应",
+          "url": "https://www.toutiao.com/trending/7696053000448032795/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.douyin.com/hot/2696017",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "数学家如何评价OpenAI公开论文",
@@ -443,6 +572,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "我觉得 OpenAI 最近这段时间写出来的所有论文，全部都是错误的，这难道不是很明显的吗？",
+          "url": "https://www.zhihu.com/question/2092058455427359070",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "OpenAI：欧洲企业正在迅速扩大对AI智能体的使用。如今，我们欧盟企业和商业客户使用AI的案例中，超过一半涉及这类工具；小企业用户数量也在整个地区增长了8倍。",
@@ -512,7 +652,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -556,7 +696,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -575,7 +715,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗议长谈对美战略：必须边打边谈 迫使美国接受要求",
@@ -598,6 +738,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "IMF：财政储备与替代石油出口通道助沙特抵御伊朗战争冲击",
+          "url": "https://flash.jin10.com/detail/20261015125737436800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "报道：美国正在考虑对伊朗使用“炸弹之母”",
+          "url": "https://wallstreetcn.com/livenews/3179103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗议长：德黑兰的目标既不是“无休止战争”，也不是“旷日持久的谈判”。",
@@ -624,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时00分 ~ 13时32分]"
         },
         {
           "title": "美元指数14日上涨",
