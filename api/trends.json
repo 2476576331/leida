@@ -1,22 +1,238 @@
 {
-  "generated_at": "2026-10-16T06:43:50.157664+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-10-16T08:51:35.836210+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
+      "keyword_group": "特朗普",
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美国总统特朗普：俄罗斯是一个幅员辽阔的国家。俄罗斯可以折损一百万人，而且他们还有数以百万计的其他人。乌克兰没有这样的人力。",
+          "url": "https://flash.jin10.com/detail/20261016083635930800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普：乌克兰需要举行选举。 在炼油厂之外有很多其他目标可以打击。",
+          "url": "https://wallstreetcn.com/livenews/3179760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：除了炼油厂，乌克兰方面（对俄）还有很多其他目标可以打击。",
+          "url": "https://flash.jin10.com/detail/20261016083023971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及是否信任内塔尼亚胡）我不信任任何人。",
+          "url": "https://flash.jin10.com/detail/20261016083009504800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普：不会对伊朗使用核弹。",
+          "url": "https://wallstreetcn.com/livenews/3179756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国民主党参议员马克·凯利：特朗普购买了500万美元的SpaceX债券，随后两天就宣布了影响SpaceX的重大太空政策变化。他还能有多明显的腐败？",
+          "url": "https://flash.jin10.com/detail/20261016055835391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及民主党人）他们唯一能用来弹劾我的理由，就是我让我们的国家变得真正强大。",
+          "url": "https://flash.jin10.com/detail/20261016082927926800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及前总统拜登赦免了多人）我可以自行赦免自己。我不希望为我工作的人经历多年的无谓折腾。",
+          "url": "https://flash.jin10.com/detail/20261016082407219800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：泽连斯基不是个好对付的人。他比普京更难对付。",
+          "url": "https://flash.jin10.com/detail/20261016081751333800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及“炸弹之母”有关报道）这是一枚威力极大的炸弹。它就像一枚小型核弹。",
+          "url": "https://flash.jin10.com/detail/20261016081744737800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯等讨论去核化问题。",
+          "url": "https://flash.jin10.com/detail/20261016081533615800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普11月赴菲律宾出席东盟峰会",
+          "url": "https://www.toutiao.com/trending/7696312285712154650/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：不认为会向伊朗派遣地面部队。",
+          "url": "https://flash.jin10.com/detail/20261016081521793800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：不会对伊朗动用核武器。",
+          "url": "https://flash.jin10.com/detail/20261016081416521800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普：（就众议员奥马尔美公民身份遭审查一事）未参与其中。",
+          "url": "https://flash.jin10.com/detail/20261016081227097800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
+          "url": "https://flash.jin10.com/detail/20261016052101575800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20261016051554430800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
+          "url": "https://wallstreetcn.com/livenews/3179701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美以就打击伊朗预案进行磋商",
+          "url": "https://news.ifeng.com/c/8xGBZfO7xXc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
         {
           "title": "为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举",
           "url": "https://m.thepaper.cn/newsDetail_forward_34257391",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
         },
         {
           "title": "美国财长贝森特：伊朗经济正被步步紧逼，就连其所谓的盟友也无力回天。除非伊朗政权金库耗尽、支撑其战争机器的每一条金融生命线都被切断，否则美国财政部绝不会罢休。",
@@ -28,6 +244,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
+          "url": "https://wallstreetcn.com/articles/3783688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国考虑对伊朗动用炸弹之母",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E7%82%B8%E5%BC%B9%E4%B9%8B%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美军称伊朗控制霍尔木兹海峡等说法不实",
@@ -50,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "媒体调查：伊朗方面自冲突爆发以来共打击了84处基础设施",
+          "url": "https://flash.jin10.com/detail/20261016080910721800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国财政部宣布新一轮伊朗及古巴制裁，调整卢克石油交易许可",
@@ -80,7 +329,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         },
@@ -99,19 +348,8 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
-          "url": "https://www.zhihu.com/question/2094116217489450760",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
-        },
         {
           "title": "已恢复!DeepSeek发故障补偿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
@@ -120,8 +358,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
+          "url": "https://www.zhihu.com/question/2094116217489450760",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
         },
         {
           "title": "DeepSeek公布补偿方案",
@@ -129,11 +379,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
         },
         {
           "title": "DeepSeek宣布故障补偿方案",
@@ -141,11 +392,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
         },
         {
           "title": "DeepSeek发布补偿方案",
@@ -153,91 +405,53 @@
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
         },
         {
           "title": "DeepSeek致歉，补偿方案公布",
           "url": "https://news.ifeng.com/c/8xFNuMcEhvB",
           "source": "凤凰网",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，黄仁勋力挺、CoreWeave拉升转涨",
-          "url": "https://wallstreetcn.com/articles/3783663",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
             10,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 08时51分]"
         },
         {
-          "title": "美股收盘：惊魂逆转！科技股深夜上演绝境反击",
-          "url": "https://www.cls.cn/detail/2506261",
-          "source": "财联社热门",
+          "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34257535",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "周四（10月15日），美股行业ETF多数收涨，全球航空业ETF收涨2.79%，生物科技指数ETF涨2.05%，医疗业ETF、区域银行ETF、可选消费ETF等至多涨1.86%，科技行业ETF收跌0.65%，全球科技股指数ETF跌0.84%，半导体ETF跌1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3179699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，黄金ETF涨约1.8%，大豆基金跌超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3179697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "08时51分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美银：AI泡沫破裂或引发美股、美债收益率同步下跌，OpenAI收入事件已提前预演",
+          "url": "https://wallstreetcn.com/articles/3783700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
         {
           "title": "市场消息：OpenAI通过招募Meta Platforms(META.O)员工及降低广告价格，加快拓展广告业务。",
           "url": "https://flash.jin10.com/detail/20261016023607721800",
@@ -261,6 +475,17 @@
           "time_info": "03时30分"
         },
         {
+          "title": "美国八州联手起诉OpenAI，称ChatGPT危害儿童和老年人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34254005",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
           "title": "ChatGPT语音升级GPT-Live-1.1 新增六种语言声音。",
           "url": "https://flash.jin10.com/detail/20261016022222129800",
           "source": "金十数据",
@@ -278,57 +503,70 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美国民主党参议员马克·凯利：特朗普购买了500万美元的SpaceX债券，随后两天就宣布了影响SpaceX的重大太空政策变化。他还能有多明显的腐败？",
-          "url": "https://flash.jin10.com/detail/20261016055835391800",
-          "source": "金十数据",
+          "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，黄仁勋力挺、CoreWeave拉升转涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "03时30分"
         },
         {
-          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
-          "url": "https://flash.jin10.com/detail/20261016052101575800",
-          "source": "金十数据",
+          "title": "美股收盘：惊魂逆转！科技股深夜上演绝境反击",
+          "url": "https://www.cls.cn/detail/2506261",
+          "source": "财联社热门",
           "ranks": [
-            22
+            11,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 08时51分]"
         },
         {
-          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
-          "url": "https://flash.jin10.com/detail/20261016051554430800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            23
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 06时43分]"
         },
         {
-          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
-          "url": "https://wallstreetcn.com/livenews/3179701",
+          "title": "周四（10月15日），美股行业ETF多数收涨，全球航空业ETF收涨2.79%，生物科技指数ETF涨2.05%，医疗业ETF、区域银行ETF、可选消费ETF等至多涨1.86%，科技行业ETF收跌0.65%，全球科技股指数ETF跌0.84%，半导体ETF跌1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3179699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            26
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，黄金ETF涨约1.8%，大豆基金跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3179697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
@@ -384,7 +622,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         },
@@ -395,9 +633,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，美债全线走强",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         }
       ]
     },
@@ -426,23 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，美债全线走强",
-          "url": "https://wallstreetcn.com/articles/3783663",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
         }
       ]
     }
