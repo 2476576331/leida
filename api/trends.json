@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T09:54:58.435733+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-10-19T15:01:36.409784+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -41,6 +41,19 @@
           "time_info": "[01时37分 ~ 05时58分]"
         },
         {
+          "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34274890",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时01分]"
+        },
+        {
           "title": "伊朗武装部队开火",
           "url": "https://wallstreetcn.com/articles/3783852",
           "source": "华尔街见闻",
@@ -63,19 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34274890",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 09时54分]"
         },
         {
           "title": "据伊朗学生通讯社（ISNA）消息，巴基斯坦陆军参谋长阿西姆·穆尼尔可能于本周访问德黑兰。此行据称将延续伊朗与巴基斯坦在双边事务及安全领域的密切合作，并涉及巴基斯坦在地区局势和伊朗与美国谈判中的作用。",
@@ -192,6 +192,28 @@
           "time_info": "05时58分"
         },
         {
+          "title": "伊朗外长：抗议活动代表了法国的“未来”",
+          "url": "https://flash.jin10.com/detail/20261019144032965800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
+          "url": "https://www.cls.cn/detail/2507809",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "法国总统马克龙：燃料价格的上涨是因为对伊朗的战争。",
           "url": "https://flash.jin10.com/detail/20261019021830372800",
           "source": "金十数据",
@@ -275,7 +297,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -338,7 +360,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -369,9 +391,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
@@ -420,6 +453,17 @@
           "time_info": "[01时37分 ~ 05时58分]"
         },
         {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 15时01分]"
+        },
+        {
           "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
           "url": "https://flash.jin10.com/detail/20261019012501322800",
           "source": "金十数据",
@@ -432,24 +476,24 @@
           "time_info": "[01时37分 ~ 03时44分]"
         },
         {
+          "title": "美国一参议员支持特朗普针对伊朗的行动",
+          "url": "https://flash.jin10.com/detail/20261019144204611800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "美国总统特朗普周一日程一览",
           "url": "https://flash.jin10.com/detail/20261019094112164800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -460,7 +504,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -474,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "邵永灵：特朗普已为中期选举找战犯",
+          "url": "https://www.toutiao.com/trending/7698253231079558675/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -509,6 +564,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "美媒统计特朗普执政下美国人财务状况的五大变化（五）：油价",
+          "url": "https://flash.jin10.com/detail/20261019143105554800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "特朗普发文支持内塔尼亚胡竞选连任总理 能扭转选情吗？",
           "url": "https://flash.jin10.com/detail/20261019061653613800",
           "source": "金十数据",
@@ -534,7 +600,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
@@ -547,6 +613,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时37分 ~ 09时54分]"
+        },
+        {
+          "title": "DeepSeek V4.1 F性价比实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
@@ -573,15 +661,48 @@
           "time_info": "[01时37分 ~ 05时58分]"
         },
         {
+          "title": "DeepSeek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "Deepseek 对百度搜索的冲击有多大？",
           "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "DeepSeekV4.1F六维测试",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4.1F%E5%85%AD%E7%BB%B4%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "DeepSeek新模型有哪些优势",
@@ -598,7 +719,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -625,13 +746,24 @@
           "time_info": "[01时37分 ~ 05时58分]"
         },
         {
+          "title": "10月19日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数连跌8日",
+          "url": "https://www.cls.cn/detail/2507819",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "美股期货走高，纳斯达克100指数期货涨幅扩大至1%，标普500指数期货涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3180754",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -670,9 +802,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 15时01分]"
         }
       ]
     },
