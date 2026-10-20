@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-20T16:14:24.786897+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-10-20T21:54:26.802546+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 21时54分]"
+        },
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
           "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
@@ -19,26 +31,27 @@
           "time_info": "[11时01分 ~ 16时14分]"
         },
         {
-          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
-          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 16时14分]"
-        },
-        {
           "title": "特朗普：中方在乌问题上立场很公允",
           "url": "https://www.toutiao.com/trending/7697897058136604715/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 21时54分]"
+        },
+        {
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "21时54分"
         },
         {
           "title": "路透社/益普索民调显示，美国总统特朗普的支持率跌至31%的历史新低。",
@@ -61,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美国总统特朗普：我不知道乌克兰总统泽连斯基在说些什么。",
@@ -109,6 +133,18 @@
           "time_info": "[04时16分 ~ 07时59分]"
         },
         {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 21时54分]"
+        },
+        {
           "title": "美国总统特朗普：如果欧洲不关闭边境，那么欧洲就完了。",
           "url": "https://flash.jin10.com/detail/20261020033734086800",
           "source": "金十数据",
@@ -126,7 +162,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -203,7 +239,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -274,17 +310,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "美国总统特朗普：（关于乌克兰总统泽连斯基的言论）是时候让其他人代表乌克兰进行谈判了。",
           "url": "https://flash.jin10.com/detail/20261020032605356800",
           "source": "金十数据",
@@ -324,7 +349,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -357,7 +382,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -401,7 +426,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -431,7 +456,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -463,9 +488,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "美国财政部长贝森特谈：（房利美、房地美）可能在明年处理所有权问题。 我认为抵押贷款利率将会下降。 利率因能源冲击而上升，住房市场已放缓。 如果我们失去来自中国台湾的芯片供应，那将是破坏性的。 伊朗开始出现恐慌情绪，货币崩溃。 伊朗经济将在某个时点出现非线性变化。",
+          "url": "https://wallstreetcn.com/livenews/3181955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国的所有军事行动均可被视为犯罪。从国际视角来看，美方是违法者，根本不把国际法准则放在眼里。",
@@ -474,7 +510,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -501,13 +537,24 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
+          "title": "伊朗革命卫队：两艘“违规”油轮在霍尔木兹海峡触雷",
+          "url": "https://wallstreetcn.com/livenews/3181951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "伊朗恢复海外侨民自用汽车进口业务",
           "url": "https://flash.jin10.com/detail/20261020160828668800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -529,7 +576,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -540,7 +587,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -578,6 +625,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美国财长贝森特：美方掌握所有向伊朗政权提供服务的相关方信息，并已观察到此类活动已经停止。",
+          "url": "https://flash.jin10.com/detail/20261020212919123800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "伊朗边境附近战机活动频繁，消息称美以持续进行联合攻击演练",
           "url": "https://flash.jin10.com/detail/20261020064002159800",
           "source": "金十数据",
@@ -600,6 +658,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美国财长贝森特：自今年8月以来，未监测到伊朗哈尔克岛石油设施有任何装油作业。",
+          "url": "https://flash.jin10.com/detail/20261020212826781800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "伊朗警告可将封锁范围扩至苏伊士运河",
           "url": "https://flash.jin10.com/detail/20261020032141831800",
           "source": "金十数据",
@@ -609,6 +678,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗目前没有任何在海上运输的石油货物，其处境堪比一家濒临破产的公司。",
+          "url": "https://flash.jin10.com/detail/20261020212751516800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席阿齐兹：以色列最终将被勇敢的伊朗人民和抵抗阵线消灭。",
+          "url": "https://flash.jin10.com/detail/20261020212641828800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗开始出现恐慌，货币已经崩盘。",
+          "url": "https://flash.jin10.com/detail/20261020212625644800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗与地区国家不存在根本性分歧，愿通过对话解决现存问题。",
@@ -639,9 +741,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗经济将在某一时点进入非线性状态。",
+          "url": "https://flash.jin10.com/detail/20261020212551256800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
@@ -658,7 +771,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -678,9 +791,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 21时54分]"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -705,15 +841,15 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "url": "https://www.cls.cn/detail/2509748",
-          "source": "财联社热门",
+          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
+          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
+          "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "21时54分"
         },
         {
           "title": "华为工程师入驻DeepSeek，双方合作加速",
@@ -733,7 +869,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -766,7 +902,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -774,7 +910,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -813,6 +949,28 @@
           "time_info": "[07时59分 ~ 11时02分]"
         },
         {
+          "title": "AI交易情绪趋紧，美股低开，费城半导体指数跌1.75%，存储芯片股、光通信股普跌，美元走软",
+          "url": "https://wallstreetcn.com/articles/3783983",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "金十图示：2026年10月20日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20261020214137086800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美股牛市4岁了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%824%E5%B2%81%E4%BA%86",
           "source": "百度热搜",
@@ -822,6 +980,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3181939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美股收盘：费城半导体指数结束下跌",
@@ -835,21 +1015,43 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美股三大指数低开 存储板块领跌",
+          "url": "https://flash.jin10.com/detail/20261020213055269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "3M(MMM.N)美股盘前上涨3.9%，此前该公司扩大与亚马逊数据中心合作。",
           "url": "https://flash.jin10.com/detail/20261020160426835800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "通用汽车美股盘前跌幅扩大至8%，公司此前公布了三季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3181928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI据悉加速300亿美元融资，抢在Anthropic上市前锁定资金",
@@ -872,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "市场消息：消息人士称，软银与MGX正洽谈参与OpenAI本轮融资。",
@@ -902,7 +1115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -930,7 +1143,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
