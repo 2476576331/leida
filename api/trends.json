@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T08:02:15.989402+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-10-25T13:26:17.292852+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
@@ -16,8 +16,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 13时26分]"
+        },
+        {
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 13时26分]"
         },
         {
           "title": "特朗普将于10月30日前往佛罗里达。",
@@ -55,18 +68,6 @@
           "time_info": "[06时01分 ~ 08时02分]"
         },
         {
-          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
-          "url": "https://www.cls.cn/detail/2514121",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
-        },
-        {
           "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
           "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
           "source": "凤凰网",
@@ -89,15 +90,61 @@
           "time_info": "[00时18分 ~ 08时02分]"
         },
         {
+          "title": "特朗普炮轰奥巴马“极其无能”，助选谁谁就输",
+          "url": "https://flash.jin10.com/detail/20261025124759530800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "佩斯科夫：目前尚未谈及特朗普访问莫斯科事宜",
+          "url": "https://flash.jin10.com/detail/20261025124437776800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
+          "url": "https://news.ifeng.com/c/8xVYLHGYK3v",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
           "url": "https://wallstreetcn.com/livenews/3185142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 08时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 13时26分]"
+        },
+        {
+          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 13时26分]"
         },
         {
           "title": "美国前总统奥巴马：特朗普现在把白宫装饰得像是萨达姆开的连锁餐厅。",
@@ -134,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 08时02分]"
-        },
-        {
-          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
@@ -301,6 +337,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
+          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
           "url": "https://flash.jin10.com/detail/20261025004301977800",
           "source": "金十数据",
@@ -310,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "奥巴马批特朗普：赤裸裸地借机敛财",
+          "url": "https://www.toutiao.com/trending/7699813230826455076/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "共和党参议院优势缩水，特朗普采取守势",
@@ -370,7 +428,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美削减中东多国使馆人员，防伊朗威胁",
@@ -390,9 +448,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美航母重填弹药，或再袭伊朗",
+          "url": "https://news.ifeng.com/c/8xVKU5lBHlV",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "以色列总理内塔尼亚胡：10月27日的以色列选举为一场关乎以色列存亡的较量，继续领导以色列对于应对伊朗威胁至关重要。",
@@ -404,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊总统：伊朗人正为一日三餐苦苦挣扎，应结束“不战不和”",
+          "url": "https://news.ifeng.com/c/8xVDEBxYuXz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "伊朗驻印度大使馆：伊朗议会议长兼伊方谈判代表团团长卡利巴夫因“某些不可预见的情况”，将不出席在新德里举行的金砖国家成员国议长会议。",
@@ -422,11 +502,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[06时01分 ~ 13时26分]"
         },
         {
           "title": "奥巴马：伊朗掌握霍尔木兹海峡通行否决权",
@@ -519,6 +600,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "以防长：美中期选举前不对伊朗开战，但已做好应对准备",
+          "url": "https://flash.jin10.com/detail/20261025114448177800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴表示，必须就美以方面犯罪行为造成的物质和精神损害寻求赔偿。",
           "url": "https://flash.jin10.com/detail/20261025003454691800",
           "source": "金十数据",
@@ -576,6 +668,45 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
+          "url": "https://wallstreetcn.com/articles/3784376",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 08时02分]"
+        },
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时01分]"
+        },
+        {
+          "title": "美债开始被抢着买，市场最怕的不再是加息？",
+          "url": "https://flash.jin10.com/detail/20261025120104648800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -614,11 +745,12 @@
           "url": "https://www.cls.cn/detail/2514203",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 13时26分]"
         },
         {
           "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
@@ -635,34 +767,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
-          "url": "https://wallstreetcn.com/articles/3784376",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
-        },
-        {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -672,11 +776,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 13时26分]"
         }
       ]
     },
@@ -691,11 +796,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 13时26分]"
         }
       ]
     }
