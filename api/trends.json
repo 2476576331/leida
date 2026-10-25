@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T13:26:17.292852+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-10-25T18:13:33.274921+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 18时13分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 18时13分]"
         },
         {
           "title": "特朗普将于10月30日前往佛罗里达。",
@@ -68,6 +68,17 @@
           "time_info": "[06时01分 ~ 08时02分]"
         },
         {
+          "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
+          "url": "https://news.ifeng.com/c/8xVYLHGYK3v",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 18时13分]"
+        },
+        {
           "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
           "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
           "source": "凤凰网",
@@ -96,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -107,18 +118,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
-          "url": "https://news.ifeng.com/c/8xVYLHGYK3v",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -140,11 +140,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 18时13分]"
         },
         {
           "title": "美国前总统奥巴马：特朗普现在把白宫装饰得像是萨达姆开的连锁餐厅。",
@@ -181,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
+          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 18时13分]"
         },
         {
           "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
@@ -326,6 +338,28 @@
           "time_info": "[06时01分 ~ 08时02分]"
         },
         {
+          "title": "奥巴马中期选举首秀抨击特朗普",
+          "url": "https://www.douyin.com/hot/2712071",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "特朗普称随时可能再打伊朗",
+          "url": "https://wallstreetcn.com/livenews/3185179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国白宫：特朗普总统正在全方位严厉打击欺诈行为。",
           "url": "https://flash.jin10.com/detail/20261024234920462800",
           "source": "金十数据",
@@ -335,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
-          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
@@ -365,7 +388,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -379,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-25）",
+          "url": "https://flash.jin10.com/detail/20261025170414475800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗革命卫队发言人穆赫比：特朗普夸张的言论和威胁都是无稽之谈。",
@@ -428,8 +462,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "美航母重填弹药，或再袭伊朗",
+          "url": "https://news.ifeng.com/c/8xVKU5lBHlV",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 18时13分]"
+        },
         {
           "title": "美削减中东多国使馆人员，防伊朗威胁",
           "url": "https://news.ifeng.com/c/8xU7l9ERVqX",
@@ -440,6 +485,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 08时02分]"
+        },
+        {
+          "title": "伊总统：伊朗人正为一日三餐苦苦挣扎，应结束“不战不和”",
+          "url": "https://news.ifeng.com/c/8xVDEBxYuXz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 18时13分]"
+        },
+        {
+          "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325583",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时01分 ~ 18时13分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社报道，也门南部城市亚丁传出多声爆炸声。",
@@ -453,17 +523,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "美航母重填弹药，或再袭伊朗",
-          "url": "https://news.ifeng.com/c/8xVKU5lBHlV",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：10月27日的以色列选举为一场关乎以色列存亡的较量，继续领导以色列对于应对伊朗威胁至关重要。",
           "url": "https://flash.jin10.com/detail/20261025015636760800",
           "source": "金十数据",
@@ -475,17 +534,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "伊总统：伊朗人正为一日三餐苦苦挣扎，应结束“不战不和”",
-          "url": "https://news.ifeng.com/c/8xVDEBxYuXz",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "伊朗驻印度大使馆：伊朗议会议长兼伊方谈判代表团团长卡利巴夫因“某些不可预见的情况”，将不出席在新德里举行的金砖国家成员国议长会议。",
           "url": "https://flash.jin10.com/detail/20261025015552118800",
           "source": "金十数据",
@@ -495,19 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34325583",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时01分 ~ 13时26分]"
         },
         {
           "title": "奥巴马：伊朗掌握霍尔木兹海峡通行否决权",
@@ -578,6 +613,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗据称在伊拉克​​境内打击库尔德反对派组织",
+          "url": "https://flash.jin10.com/detail/20261025172518458800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "伊朗自由贸易区负责人：已推出工业原材料进口便利措施，以最简化的海关程序进口所需原材料，货物清关最多只需一周至10天。",
           "url": "https://flash.jin10.com/detail/20261024234607808800",
           "source": "金十数据",
@@ -587,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "伊朗：即便美国发动新一轮打击，也无法改变德黑兰的立场",
+          "url": "https://flash.jin10.com/detail/20261025172205663800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗议员桑加尔：伊朗对霍尔木兹海峡的掌控权毋庸置疑。",
@@ -606,9 +663,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：呼吁应对物价上涨，规范基本商品的分配。",
+          "url": "https://flash.jin10.com/detail/20261025170729337800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：持续上涨的基本商品价格加重了人民的负担。",
+          "url": "https://flash.jin10.com/detail/20261025170623757800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴表示，必须就美以方面犯罪行为造成的物质和精神损害寻求赔偿。",
@@ -644,6 +723,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗塔斯尼姆通讯社：伊朗议员们已责成情报部及伊朗革命卫队情报机构公开一份“敌对”媒体名单，以供公众知悉。",
+          "url": "https://flash.jin10.com/detail/20261025165508415800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "伊朗媒体Fars News：初步报告显示，霍尔木兹海峡传出爆炸声；一艘超大型原油运输船（VLCC）在驶离海峡时成为袭击目标。",
           "url": "https://flash.jin10.com/detail/20261024222110277800",
           "source": "金十数据",
@@ -664,6 +754,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "伊朗议会议长：伊朗人民不会屈服于美国",
+          "url": "https://flash.jin10.com/detail/20261025163308729800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "伊朗军方称击落一架美军无人机",
+          "url": "https://www.toutiao.com/trending/7700502409268773427/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 18时13分]"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://www.toutiao.com/trending/7699776708773249067/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "38美元，DeepSeek算了一笔赚钱的账",
+          "url": "https://wallstreetcn.com/articles/3784386",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 08时02分]"
+        },
+        {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 08时02分]"
+        },
+        {
+          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
+          "url": "https://www.cls.cn/detail/2514315",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -700,39 +906,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "38美元，DeepSeek算了一笔赚钱的账",
-          "url": "https://wallstreetcn.com/articles/3784386",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
-        },
-        {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时02分]"
         }
       ]
     },
@@ -767,25 +943,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
-          "url": "https://www.cls.cn/detail/2514076",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -800,8 +957,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 18时13分]"
         }
       ]
     }
