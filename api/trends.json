@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T06:52:08.734141+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-10-26T08:47:50.484311+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -53,6 +53,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "奥巴马罕见火力全开！痛批特朗普对伊战争、推高物价",
+          "url": "https://flash.jin10.com/detail/20261026082215661800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
           "title": "美国总统特朗普：多亏了我，美国汽车行业的表现比以往任何时候都好。",
           "url": "https://flash.jin10.com/detail/20261026013008075800",
           "source": "金十数据",
@@ -75,6 +86,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://news.ifeng.com/c/8xWloHz7H6W",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
           "title": "美国总统特朗普：美国如今是全球最炙手可热的国家，远超世界其他任何地方！",
           "url": "https://flash.jin10.com/detail/20261026013000525800",
           "source": "金十数据",
@@ -84,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "巴西大选突生变数：选情胶着，特朗普密切关注",
+          "url": "https://news.ifeng.com/c/8xWsLqxpE1P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "美国总统特朗普：不担心伊朗会在数月内重建铀浓缩能力。",
@@ -197,7 +230,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -241,7 +274,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -274,7 +307,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -285,7 +318,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -321,6 +354,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "马查多结束近11个月流亡返国，特朗普支持的委内瑞拉过渡安排面临变数",
+          "url": "https://flash.jin10.com/detail/20261026080044485800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "特朗普宣布，将亚利桑那州的奇里卡瓦国家公园设立为美国最新的旗舰级国家公园。",
+          "url": "https://flash.jin10.com/detail/20261026080025725800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
@@ -362,7 +417,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -395,7 +450,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -428,7 +483,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -439,9 +494,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普：利比亚不能继续成为非法移民的通道，这种情况必须立即结束。",
+          "url": "https://flash.jin10.com/detail/20261026072827618800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "据法庭听证会消息，美国上诉法院在审理特朗普政府针对加利福尼亚州提起的诉讼时，似乎对其主张持怀疑态度。特朗普政府指控加州选民名册中登记有非美国公民。",
@@ -450,7 +516,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -461,7 +527,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         }
@@ -479,8 +545,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 08时47分]"
         },
         {
           "title": "据以色列第14频道：以色列总理内塔尼亚胡表示，我们将再次打击伊朗。",
@@ -530,6 +596,18 @@
           "time_info": "[01时55分 ~ 04时02分]"
         },
         {
+          "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328105",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 08时47分]"
+        },
+        {
           "title": "伊朗电力行业发言人：国家工业用电供应的限制已完全解除。",
           "url": "https://flash.jin10.com/detail/20261026012414982800",
           "source": "金十数据",
@@ -558,7 +636,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -579,17 +657,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328105",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -618,11 +685,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 08时47分]"
         },
         {
           "title": "人造黄金会不会击穿金价",
@@ -630,22 +698,24 @@
           "source": "今日头条",
           "ranks": [
             7,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 08时47分]"
         },
         {
           "title": "三大因素致国际金价走低",
           "url": "https://www.douyin.com/hot/2712115",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 08时47分]"
         }
       ]
     },
@@ -662,8 +732,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 08时47分]"
         },
         {
           "title": "DeepSeek到底怎么得罪了美国",
@@ -671,11 +741,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 08时47分]"
         }
       ]
     },
@@ -690,7 +761,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -701,7 +772,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         }
