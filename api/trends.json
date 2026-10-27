@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-28T00:54:52.307576+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-28T05:02:32.951974+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普：关闭边境无需新立法，只需要换一位总统",
+          "url": "https://wallstreetcn.com/livenews/3187914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
         {
           "title": "美国两位主教与特朗普同框后，懊悔了",
           "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
@@ -15,8 +26,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时02分]"
+        },
+        {
+          "title": "美国总统特朗普：我没获得诺贝尔奖，但我拯救了3000万条生命。这要好得多。",
+          "url": "https://flash.jin10.com/detail/20261028044051034800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "05时02分"
         },
         {
           "title": "美国总统特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。 华尔街日报何时才会开始将人工智能（AI）这个糟糕且不准确的名称改称为超级智能（SI）？ 几乎其他所有人都在使用这个名称，或者很快就会使用。 很快，我们将正式禁止在所有相关文件及其他一切场合使用“AI/人工智能”这一术语，因为该名称不准确。",
@@ -28,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国总统特朗普：选民的记忆大约只有两周。",
+          "url": "https://flash.jin10.com/detail/20261028042736726800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "美国总统特朗普：很快，我们将正式在所有相关文件中禁用“人工智能（AI）”这一术语。",
@@ -52,6 +85,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普暗示委内瑞拉可能成为美国的一个州",
+          "url": "https://wallstreetcn.com/livenews/3187897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普重申石油流出霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3187896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
           "title": "美国总统特朗普打算前往生产石油的得克萨斯州，考察囤积委内瑞拉石油的一个有关。",
           "url": "https://wallstreetcn.com/livenews/3187811",
           "source": "华尔街见闻-快讯",
@@ -68,6 +123,111 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "泰瑞达三季度净营收13.1亿美元，分析师预期12.7亿美元。 三季度调整后每股收益（EPS）为2.29美元，分析师预期2.09美元。 三季度净利润3.599亿美元，分析师预期3.213亿美元。 预计四季度营收12.5亿-13.5亿美元，分析师预期12.4亿美元。 预计四季度调整后EPS为1.95-2.25美元，分析师预期2美元。 泰瑞达美股盘后跌5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3187915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3187911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "周二（10月27日），美股行业ETF涨跌各异，半导体ETF收涨3.02%，全球航空业ETF涨2.23%，全球科技股指数ETF、科技行业ETF至多涨1.84%，能源业ETF跌2.05%。 标普500指数的11个板块中，信息技术/科技板块收涨1.49%，可选消费板块涨1.36%，能源板块跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3187908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "周二（10月27日），彭博电动汽车价格回报指数涨1.12%，报2912.70点，亚太时段冲高回落，美股盘初快速拉升、随后逐步扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3187907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "恩智浦美股盘后跌超8%。该公司三季度营收37.9亿美元，预期37.5亿美元。三季度调整后EPS为4.20美元，分析师预期4.12美元。预计四季度营收37.5亿-39.5亿美元，分析师预期38.7亿美元。预计四季度调整后运营利润13.7亿-15.1亿美元，分析师预期14.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3187906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "金十图示：2026年10月27日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261028003227781800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "金十图示：2026年10月27日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261028003020137800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "美股费城半导体指数日内涨4.00%，英伟达涨1.13%，博通涨4.61%，美光涨3.52%，英特尔涨4.05%，AMD涨6.03%，高通涨2.02%，台积电涨3.33%，阿斯麦涨3.38%。标普目前涨约0.8%，纳指涨1.4%，纳斯达克100指数涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3187895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美股城半导体指数日内涨3.00%，英伟达涨1.20%，博通涨3.89%，美光涨2.76%，英特尔涨3.56%，AMD涨5.43%，高通涨1.09%，台积电涨3.03%，阿斯麦涨3.00%。",
+          "url": "https://wallstreetcn.com/livenews/3187812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -134,11 +294,12 @@
           "url": "https://www.zhihu.com/question/2096860633161545316",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时02分]"
         },
         {
           "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
@@ -148,8 +309,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时02分]"
         },
         {
           "title": "Crusoe首席执行官：OpenAI正与Abilene合作开发另一款尚未发布的模型。 OpenAI尚未发布的新模型旨在解决数学问题。",
@@ -168,45 +329,6 @@
           "source": "金十数据",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年10月27日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261028003227781800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "金十图示：2026年10月27日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261028003020137800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美股城半导体指数日内涨3.00%，英伟达涨1.20%，博通涨3.89%，美光涨2.76%，英特尔涨3.56%，AMD涨5.43%，高通涨1.09%，台积电涨3.03%，阿斯麦涨3.00%。",
-          "url": "https://wallstreetcn.com/livenews/3187812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -262,11 +384,12 @@
           "url": "https://wallstreetcn.com/articles/3784535",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时02分]"
         },
         {
           "title": "男子趁金价下跌给媳妇买金镯子",
@@ -276,25 +399,54 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时02分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
           "url": "https://wallstreetcn.com/articles/3784464",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时02分]"
+        },
+        {
+          "title": "两年期美债收益率涨约1.3个基点",
+          "url": "https://wallstreetcn.com/livenews/3187898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（10月27日）纽约尾盘，ICE美元指数涨0.3%，报102.302点，日内交投区间为101.986-102.331点，整体持续上涨。 彭博美元指数涨0.24%，报1225.23点，日内交投区间为1222.04-1225.55点，北京时间12:00以来也持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3187887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         }
       ]
     }
