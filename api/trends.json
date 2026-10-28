@@ -1,11 +1,189 @@
 {
-  "generated_at": "2026-10-29T03:10:42.770284+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-29T07:40:59.868376+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+          "url": "https://www.cls.cn/detail/2518554",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+          "url": "https://wallstreetcn.com/articles/3784679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时40分]"
+        },
+        {
+          "title": "美股收盘：SK海力士涨超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨0.12%，美股盘后重挫3.92%。",
+          "url": "https://wallstreetcn.com/livenews/3189439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "微软美股盘后涨幅扩大至超过6%。 微软在电话会上预计第二财季资本支出预计超500亿美元，预计第二财季总收入960亿-971亿美元。 预计第二财季Azure营收按恒定汇率将增长49%-50%。 预计第二财季agents、基础设施（营收）将达到807亿美元。 预计日历年资本开支大概为1700亿美元。 预计2027财年将继续实现自由现金流为正。 公司将获得额外的资金来源。",
+          "url": "https://wallstreetcn.com/livenews/3189436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "周三（10月28日）纽约尾盘，现货黄金涨0.17%，报4066.85美元/盎司，日内交投于4025.21-4082.58美元，经历了美联储按兵不动、主席沃什新闻发布会之后，在美股收盘时刷新日高。 现货白银跌0.81%，报53.857美元/盎司，美股收盘时刷新日高。 COMEX铜期货涨0.45%，报6.6825美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3189433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "周三（10月28日），美股降息赢家指数涨0.08%，报90.20点，美联储宣布按兵不动、主席沃什举行新闻发布会、至美股收盘实现W形反转。",
+          "url": "https://wallstreetcn.com/livenews/3189432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+          "url": "https://www.cls.cn/detail/2518583",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "10月成谷歌财报“重灾月”：史上最惨三个交易日有两次在10月",
+          "url": "https://flash.jin10.com/detail/20261029071001775800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "谷歌盘后大跌 巴菲特卸任前的最后一笔投资表现不佳",
+          "url": "https://flash.jin10.com/detail/20261029065241743800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784714",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "纳指期货跌近1%，受谷歌(GOOG.O)盘后跌势拖累。",
+          "url": "https://flash.jin10.com/detail/20261029060917813800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "周四亚太盘初，纳指期货跌0.85%，标普股指期货跌0.2%，小盘股指期货涨0.3%。 谷歌A当前（美股盘后）重挫10.7%，Nebius跌4.8%，SK海力士ADR、甲骨文跌2.9%，西部数据跌2.4%，英特尔、闪迪跌超2%，苹果涨0.2%，Meta涨0.9%，微软涨幅收窄至3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3189437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -15,8 +193,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时40分]"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
@@ -26,8 +204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时40分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -37,25 +215,70 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时40分]"
+        },
+        {
+          "title": "美媒：在特朗普授意下，万斯致信伊朗安全高官试图重启谈判",
+          "url": "https://wallstreetcn.com/livenews/3189467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普承认万斯致信伊朗官员 但淡化重启和平谈判意味",
+          "url": "https://flash.jin10.com/detail/20261029065344976800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美国总统特朗普走下空军一号，抵达俄亥俄州，前往集会助选。",
+          "url": "https://flash.jin10.com/detail/20261029064134158800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美国总统特朗普：没有让副总统万斯致信伊朗。 给了（流亡的）巴西政客博索纳罗赴美“通行证”。",
+          "url": "https://wallstreetcn.com/livenews/3189438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
           "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时40分]"
         },
         {
           "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
@@ -67,12 +290,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
+          "url": "https://www.zhihu.com/question/2096860633161545316",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场反应：两年期美债收益率、彭博美元指数短线V形走势",
@@ -95,40 +329,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
-          "url": "https://wallstreetcn.com/articles/3784679",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
         },
         {
-          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
+          "title": "两年期美债收益率周三跌约4个基点，美联储宣布按兵不动",
+          "url": "https://wallstreetcn.com/livenews/3189435",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "07时40分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "普京会晤伊朗总统讨论中东局势",
@@ -140,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2518584",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "据美国媒体报道：中期选举后对伊朗的袭击可能针对其领导层。",
