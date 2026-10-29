@@ -1,11 +1,141 @@
 {
-  "generated_at": "2026-10-29T07:40:59.868376+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-10-29T10:59:30.753334+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+          "url": "https://www.cls.cn/detail/2518583",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时59分]"
+        },
+        {
+          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时59分]"
+        },
+        {
+          "title": "Gemini 4 Carbon发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Carbon%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "10月成谷歌财报“重灾月”：史上最惨三个交易日有两次在10月",
+          "url": "https://flash.jin10.com/detail/20261029071001775800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784714",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时59分]"
+        },
+        {
+          "title": "谷歌盘后大跌 巴菲特卸任前的最后一笔投资表现不佳",
+          "url": "https://flash.jin10.com/detail/20261029065241743800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
+          "url": "https://wallstreetcn.com/articles/3784718",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+          "url": "https://www.cls.cn/detail/2518619",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
+          "url": "https://www.zhihu.com/question/2098949045934880103",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "纳指期货跌近1%，受谷歌(GOOG.O)盘后跌势拖累。",
+          "url": "https://flash.jin10.com/detail/20261029060917813800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "周四亚太盘初，纳指期货跌0.85%，标普股指期货跌0.2%，小盘股指期货涨0.3%。 谷歌A当前（美股盘后）重挫10.7%，Nebius跌4.8%，SK海力士ADR、甲骨文跌2.9%，西部数据跌2.4%，英特尔、闪迪跌超2%，苹果涨0.2%，Meta涨0.9%，微软涨幅收窄至3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3189437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
@@ -14,9 +144,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时59分]"
         },
         {
           "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
@@ -24,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 10时59分]"
         },
         {
           "title": "美股收盘：SK海力士涨超13%",
@@ -37,7 +168,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -53,13 +184,24 @@
           "time_info": "03时10分"
         },
         {
+          "title": "丹麦Genmab抗癌药物试验报捷 美股股价涨约30%创新高",
+          "url": "https://www.cls.cn/detail/2518474",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "北美科技软件股指数ETF收涨0.12%，美股盘后重挫3.92%。",
           "url": "https://wallstreetcn.com/livenews/3189439",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -70,7 +212,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -81,7 +223,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -92,90 +234,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
-          "url": "https://www.cls.cn/detail/2518583",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "10月成谷歌财报“重灾月”：史上最惨三个交易日有两次在10月",
-          "url": "https://flash.jin10.com/detail/20261029071001775800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "谷歌盘后大跌 巴菲特卸任前的最后一笔投资表现不佳",
-          "url": "https://flash.jin10.com/detail/20261029065241743800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784714",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "纳指期货跌近1%，受谷歌(GOOG.O)盘后跌势拖累。",
-          "url": "https://flash.jin10.com/detail/20261029060917813800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "周四亚太盘初，纳指期货跌0.85%，标普股指期货跌0.2%，小盘股指期货涨0.3%。 谷歌A当前（美股盘后）重挫10.7%，Nebius跌4.8%，SK海力士ADR、甲骨文跌2.9%，西部数据跌2.4%，英特尔、闪迪跌超2%，苹果涨0.2%，Meta涨0.9%，微软涨幅收窄至3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3189437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
@@ -183,7 +242,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -193,19 +252,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 10时59分]"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
           "url": "https://original.ifeng.com/c/8xagHUQBnzH",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 10时59分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -225,9 +285,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普与奥巴马因一家餐厅开战",
+          "url": "https://www.toutiao.com/trending/7701870124713643561/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "特朗普承认万斯致信伊朗官员 但淡化重启和平谈判意味",
@@ -236,7 +307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -247,9 +318,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普贴文变现，彭博与两家高频交易商订阅高速数据服务",
+          "url": "https://flash.jin10.com/detail/20261029101235305800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "美国总统特朗普：没有让副总统万斯致信伊朗。 给了（流亡的）巴西政客博索纳罗赴美“通行证”。",
@@ -258,9 +340,60 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "普京会晤伊朗总统讨论中东局势",
+          "url": "https://www.douyin.com/hot/2716809",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2518584",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时59分]"
+        },
+        {
+          "title": "伊朗外长：仍在与调解方磋商重开霍尔木兹海峡计划",
+          "url": "https://wallstreetcn.com/livenews/3189541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "据美国媒体报道：中期选举后对伊朗的袭击可能针对其领导层。",
+          "url": "https://wallstreetcn.com/livenews/3189335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -277,8 +410,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 10时59分]"
         },
         {
           "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
@@ -298,7 +431,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
@@ -337,48 +470,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "普京会晤伊朗总统讨论中东局势",
-          "url": "https://www.douyin.com/hot/2716809",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2518584",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "据美国媒体报道：中期选举后对伊朗的袭击可能针对其领导层。",
-          "url": "https://wallstreetcn.com/livenews/3189335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
         }
       ]
     },
