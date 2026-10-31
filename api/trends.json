@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-31T10:50:03.891669+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-10-31T16:59:37.782633+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
+          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 16时59分]"
+        },
+        {
+          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2521415",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 16时59分]"
+        },
         {
           "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
           "url": "https://news.ifeng.com/c/8xeG9SuF3iC",
@@ -19,35 +41,13 @@
           "time_info": "[03时45分 ~ 07时19分]"
         },
         {
-          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
-          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2521415",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
           "title": "特朗普竞选集会屡遭抗议打断，已形成一套固定回应套路",
           "url": "https://flash.jin10.com/detail/20261031104055019800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普：曾有“愚蠢的人”想让我制裁俄罗斯",
+          "url": "https://wallstreetcn.com/livenews/3191940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
@@ -86,6 +97,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时45分 ~ 10时50分]"
+        },
+        {
+          "title": "王骁谈特朗普中期选举处境",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 16时59分]"
         },
         {
           "title": "美国总统特朗普的政府正向立陶宛施压，要求其放宽欧盟对白俄罗斯钾肥出口的制裁，以确保美国农民获得更便宜的化肥，并减少对加拿大的依赖。 欧洲官员反对这一做法。",
@@ -127,7 +150,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -143,26 +166,26 @@
           "time_info": "03时46分"
         },
         {
-          "title": "王骁谈特朗普中期选举处境",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
           "title": "报道：特朗普“国家能源主导委员会”最新任命将聚焦油气项目",
           "url": "https://wallstreetcn.com/livenews/3191851",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "联邦法官叫停特朗普政府对加州选举官员的刑事威胁",
+          "url": "https://flash.jin10.com/detail/20261031142219454800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "报道：特朗普计划在中期选举次日恢复对伊朗的打击",
@@ -171,7 +194,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -179,7 +202,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：就在昨天，欧洲还在为替以色列政权干脏活而沾沾自喜。今天，却开始抱怨与伊朗的战争让自己付出了数十亿美元的代价。当你们为战争罪行叫好时，难道没想过战争的后果也会波及自己吗？战争与恐怖主义是有代价的。现在，轮到你们付出代价了。",
@@ -237,6 +260,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
+          "url": "https://wallstreetcn.com/livenews/3191935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "伊朗革命卫队称第二次缴获美国无人机",
           "url": "https://flash.jin10.com/detail/20261031030002335800",
           "source": "金十数据",
@@ -248,6 +282,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "伊朗军方发言人：若美国再搞冒险行动，我们将扩大战争范围",
+          "url": "https://flash.jin10.com/detail/20261031155018319800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "据伊朗媒体Fars News：阿拉伯消息人士称，也门胡塞武装袭击也门亚丁机场后，现场发生至少两起剧烈爆炸。亚丁机场是沙特支持的也门政府的重要枢纽，近期已多次遭到导弹袭击。消息人士称，该机场承担向也门政府输送大量装备和人员的任务。",
           "url": "https://flash.jin10.com/detail/20261031023949795800",
           "source": "金十数据",
@@ -257,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗外交部抨击加拿大支持阿联酋的岛屿主张：此举无异于自断根基",
+          "url": "https://flash.jin10.com/detail/20261031141200546800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -348,8 +404,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 16时59分]"
         },
         {
           "title": "英特尔美股暴跌科技股同步大跌",
@@ -388,6 +444,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI将最新一轮融资目标砍掉100亿美元，现在寻求按1.25万亿美元估值融资大约200亿美元。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3191865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 16时59分]"
+        },
+        {
+          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+          "url": "https://www.cls.cn/detail/2521127",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "ChatGPT支持多账号切换",
+          "url": "https://flash.jin10.com/detail/20261031143242804800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -420,7 +516,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -435,11 +531,12 @@
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 16时59分]"
         },
         {
           "title": "怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？",
@@ -463,11 +560,12 @@
           "url": "https://www.douyin.com/hot/2722142",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 16时59分]"
         },
         {
           "title": "谁在牵引金价走势",
@@ -480,23 +578,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时45分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI将最新一轮融资目标砍掉100亿美元，现在寻求按1.25万亿美元估值融资大约200亿美元。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3191865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         }
       ]
     }
