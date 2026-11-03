@@ -1,11 +1,227 @@
 {
-  "generated_at": "2026-11-03T09:22:59.910783+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-11-03T16:42:03.937379+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "国际油价大幅回落，报道：伊朗最高领袖已授权政府进行谈判",
+          "url": "https://wallstreetcn.com/articles/3785007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时54分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社：伊朗武装部队总参谋长表示，相关原则包括全面解除制裁及解冻被冻结资产。",
+          "url": "https://flash.jin10.com/detail/20261103163513059800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社：伊朗武装部队总参谋长阿卜杜拉希表示，德黑兰为实现地区持久和平提出的五项原则，包括结束各条战线上的战争——这涵盖了黎巴嫩和加沙地带。",
+          "url": "https://flash.jin10.com/detail/20261103163407773800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗称已组建首支“为伊朗捐躯”旅",
+          "url": "https://www.toutiao.com/trending/7703574929673125907/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "伊朗称俘获2架美军侦察无人机",
+          "url": "https://news.ifeng.com/c/8xkW39gjaAv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗最高领袖赋予政府谈判权限",
+          "url": "https://www.toutiao.com/trending/7703576385864008201/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2726467",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗称已组建首支“为伊朗捐躯”旅",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E7%BB%84%E5%BB%BA%E9%A6%96%E6%94%AF%E2%80%9C%E4%B8%BA%E4%BC%8A%E6%9C%97%E6%8D%90%E8%BA%AF%E2%80%9D%E6%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
+        },
+        {
+          "title": "美国官员称，美方于周一袭击了伊朗的格什姆岛。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3192917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美媒：美国有限打击伊朗格什姆岛 称其为防御性质",
+          "url": "https://flash.jin10.com/detail/20261103085405601800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "布伦特原油期货跌超9美元/桶，WTI原油期货跌8美元，投资者关注为结束伊朗战争而达成协议的前景。",
+          "url": "https://wallstreetcn.com/livenews/3192782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美媒：美国有限打击伊朗格什姆岛",
+          "url": "https://flash.jin10.com/detail/20261103084524660800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "阿曼代表团是否会与沙特和伊朗的安全官员会面？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3193160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗议会议长：伊方已在战场及军事领域处于最高级别防御状态",
+          "url": "https://wallstreetcn.com/livenews/3193159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%BE%8E%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "伊朗阐释实现持久安全五项条件",
+          "url": "https://flash.jin10.com/detail/20261103162733209800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "中方是否担心美国中期选举后恢复对伊朗军事打击？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3193155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗陆军副司令：美国最大的失败是其军事强国形象的崩塌",
+          "url": "https://flash.jin10.com/detail/20261103011759395800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据知情人士，卡塔尔调解人员周一在德黑兰与伊朗举行更多会谈，伊朗和美国在评估调解人提出的最新建议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3193146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
@@ -17,6 +233,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 09时22分]"
+        },
+        {
+          "title": "曾支持特朗普的蓝领工人，变了",
+          "url": "https://original.ifeng.com/c/8xkAIzPlrxi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普谈中期选举：如果我们输了，美国就完了",
+          "url": "https://news.ifeng.com/c/8xkSdrMQQky",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
@@ -36,7 +274,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -51,6 +289,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 09时22分]"
+        },
+        {
+          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 16时42分]"
         },
         {
           "title": "中期选举对特朗普有多重要",
@@ -76,6 +325,17 @@
           "time_info": "[02时54分 ~ 02时55分]"
         },
         {
+          "title": "特朗普对伊态度明显软化：不会在中期选举后发动打击，协议可能达成！",
+          "url": "https://www.cls.cn/detail/2523193",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
           "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”",
           "url": "https://wallstreetcn.com/articles/3784957",
           "source": "华尔街见闻",
@@ -87,15 +347,48 @@
           "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "title": "特朗普能否阻止民主党夺回两院",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%BD%E5%90%A6%E9%98%BB%E6%AD%A2%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%BA%E5%9B%9E%E4%B8%A4%E9%99%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "美伊局势再添迷雾：特朗普淡化战争风险之际 美袭击伊朗格什姆岛",
+          "url": "https://www.cls.cn/detail/2523349",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普选前收官演讲成“装修报告”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E5%89%8D%E6%94%B6%E5%AE%98%E6%BC%94%E8%AE%B2%E6%88%90%E2%80%9C%E8%A3%85%E4%BF%AE%E6%8A%A5%E5%91%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "美国加州州长纽森：明天，我们将对美国历史上最腐败的总统作出裁决。（纽森所指为当地时间11月3日美国中期选举，意在呼吁选民通过投票表达对特朗普执政表现的不满。）",
@@ -122,125 +415,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "国际油价大幅回落，报道：伊朗最高领袖已授权政府进行谈判",
-          "url": "https://wallstreetcn.com/articles/3785007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗称已组建首支“为伊朗捐躯”旅",
-          "url": "https://www.toutiao.com/trending/7703574929673125907/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "伊朗最高领袖赋予政府谈判权限",
-          "url": "https://www.toutiao.com/trending/7703576385864008201/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 02时55分]"
-        },
-        {
-          "title": "伊朗称已组建首支“为伊朗捐躯”旅",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E7%BB%84%E5%BB%BA%E9%A6%96%E6%94%AF%E2%80%9C%E4%B8%BA%E4%BC%8A%E6%9C%97%E6%8D%90%E8%BA%AF%E2%80%9D%E6%97%85",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 02时55分]"
-        },
-        {
-          "title": "美国官员称，美方于周一袭击了伊朗的格什姆岛。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3192917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美媒：美国有限打击伊朗格什姆岛 称其为防御性质",
-          "url": "https://flash.jin10.com/detail/20261103085405601800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "布伦特原油期货跌超9美元/桶，WTI原油期货跌8美元，投资者关注为结束伊朗战争而达成协议的前景。",
-          "url": "https://wallstreetcn.com/livenews/3192782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美媒：美国有限打击伊朗格什姆岛",
-          "url": "https://flash.jin10.com/detail/20261103084524660800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美官员称美袭击伊朗格什姆岛",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%BE%8E%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "伊朗陆军副司令：美国最大的失败是其军事强国形象的崩塌",
-          "url": "https://flash.jin10.com/detail/20261103011759395800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
@@ -249,9 +425,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 16时42分]"
         },
         {
           "title": "美股收盘：纳指冲高回落收跌1% AI投资回报疑虑升温",
@@ -260,7 +436,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -276,6 +452,17 @@
           "time_info": "[02时54分 ~ 02时55分]"
         },
         {
+          "title": "创纪录抄底资金遭“闷杀” 美股半导体杠杆ETF已成多头“绞肉机”？",
+          "url": "https://www.cls.cn/detail/2523658",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -285,6 +472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 02时55分]"
+        },
+        {
+          "title": "创纪录抄底美股资金遭“闷杀”",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E7%BA%AA%E5%BD%95%E6%8A%84%E5%BA%95%E7%BE%8E%E8%82%A1%E8%B5%84%E9%87%91%E9%81%AD%E2%80%9C%E9%97%B7%E6%9D%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "美股冲高回落，纳斯达克100指数转跌",
@@ -326,7 +524,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -377,7 +575,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -394,7 +592,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -405,7 +603,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -433,7 +631,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
