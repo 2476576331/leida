@@ -1,12 +1,153 @@
 {
-  "generated_at": "2026-11-04T00:40:32.929079+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-11-04T06:06:43.044659+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
+      "keyword_group": "特朗普",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
+          "url": "https://original.ifeng.com/c/8xkm9r1gXqn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
+          "url": "https://news.ifeng.com/c/8xku0TfY0Pg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "白宫：根据特朗普的命令，美国将于2028年前重返月球。",
+          "url": "https://flash.jin10.com/detail/20261104055436094800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "白宫：根据美国总统特朗普的命令，美国将在2028年前重返月球。",
+          "url": "https://wallstreetcn.com/livenews/3193601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "胡锡进：若特朗普真对伊朗使用核武器，世界政治规则将被改写",
+          "url": "https://news.ifeng.com/c/8xkkQ0ZW9YI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "特朗普回应中期选举魔咒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
+          "url": "https://wallstreetcn.com/articles/3785095",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "特朗普在中期选举还能翻盘吗",
+          "url": "https://www.toutiao.com/trending/7703945064493354506/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "美媒：特朗普称“通胀问题已解决” 但数据却显示并非如此",
+          "url": "https://flash.jin10.com/detail/20261103234743203800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
+          "url": "https://wallstreetcn.com/articles/3785079",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
         {
           "title": "伊朗革命卫队高度战备",
           "url": "https://flash.jin10.com/detail/20261104002241947800",
@@ -41,37 +182,28 @@
           "time_info": "00时40分"
         },
         {
-          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
-          "url": "https://wallstreetcn.com/articles/3785079",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
           "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
           "url": "https://wallstreetcn.com/articles/3785059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
           "url": "https://www.cls.cn/detail/2524170",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "伊朗高级官员：通过调停方与美国交换信息，以及审视相关回应，均无设定最后期限。",
@@ -94,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2726467",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "伊朗强硬表态警告美国慎重开战",
@@ -120,102 +263,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
-          "url": "https://original.ifeng.com/c/8xkm9r1gXqn",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
-          "url": "https://news.ifeng.com/c/8xku0TfY0Pg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "胡锡进：若特朗普真对伊朗使用核武器，世界政治规则将被改写",
-          "url": "https://news.ifeng.com/c/8xkkQ0ZW9YI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "特朗普在中期选举还能翻盘吗",
-          "url": "https://www.toutiao.com/trending/7703945064493354506/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美媒：特朗普称“通胀问题已解决” 但数据却显示并非如此",
-          "url": "https://flash.jin10.com/detail/20261103234743203800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "特朗普回应中期选举魔咒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
@@ -225,8 +274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "美国中选“最可能剧本”，将是美股“最危险剧本”？",
@@ -236,19 +285,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "美国中期选举日，美股小幅反弹，半导体ETF领涨，光通信反弹，国际油价走低",
           "url": "https://wallstreetcn.com/articles/3785045",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "等待最后一跌？大摩Wilson：无论中选结果如何，都或是抄底美股的良机",
@@ -258,8 +308,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "苹果换帅后首份财报引发股价走弱 美股市场熬到关键节点 | 今夜看点",
@@ -269,8 +319,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "美股开盘：苹果股价大跌近4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%914%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，农产品基金跌1%",
+          "url": "https://wallstreetcn.com/livenews/3193591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "06时06分"
         },
         {
           "title": "美股费城半导体指数涨超4%，英伟达涨3.03%，博通涨3.90%，美光涨3.62%，英特尔涨3.28%，AMD涨5.81%，高通涨1.28%，台积电涨2.32%，阿斯麦涨2.46%。 纳指涨1.1%，道指跌0.27%，标普500指数涨0.6%。纳斯达克100指数涨1.1%。",
@@ -284,21 +356,21 @@
           "time_info": "00时40分"
         },
         {
-          "title": "美股开盘：苹果股价大跌近4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%914%25",
-          "source": "百度热搜",
+          "title": "周二（11月3日），美股行业ETF多数下跌，日常消费品ETF至少跌1.95%，全球航空业ETF跌1.57%，区域银行ETF跌1.15%，能源业ETF跌0.85%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.24%，半导体ETF涨2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3193583",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "06时06分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
@@ -308,8 +380,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "DeepSeek又崩了",
@@ -319,19 +391,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2099804620293927443",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "06时06分"
         },
         {
           "title": "DeepSeek Agent小白教程",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
+        },
+        {
+          "title": "DeepSeek V5计划基于昇腾训练",
+          "url": "https://www.douyin.com/hot/2726996",
+          "source": "抖音",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时06分]"
         },
         {
           "title": "DeepSeek要让AI自己干活",
@@ -345,15 +441,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "DeepSeek V5计划基于昇腾训练",
-          "url": "https://www.douyin.com/hot/2726996",
-          "source": "抖音",
+          "title": "DeepSeek为什么要开源",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "06时06分"
         }
       ]
     },
@@ -371,6 +467,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率小幅上扬",
+          "url": "https://wallstreetcn.com/livenews/3193567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     },
