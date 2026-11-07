@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T06:28:30.072631+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-11-07T10:26:32.356153+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 10时26分]"
+        },
+        {
+          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
+          "url": "https://wallstreetcn.com/articles/3785315",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "金十图示：2026年11月06日（周五）美股热门股票行情一览（美股盘中）",
@@ -30,6 +41,28 @@
           "time_info": "01时44分"
         },
         {
+          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
+          "url": "https://www.cls.cn/detail/2527975",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
+          "url": "https://www.cls.cn/detail/2527967",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "金十图示：2026年11月06日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261107013024611800",
           "source": "金十数据",
@@ -41,22 +74,23 @@
           "time_info": "01时44分"
         },
         {
-          "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
-          "url": "https://www.zhihu.com/question/2101977105504235968",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 06时28分]"
-        },
-        {
           "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
           "url": "https://wallstreetcn.com/articles/3785338",
           "source": "华尔街见闻",
           "ranks": [
             7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 10时26分]"
+        },
+        {
+          "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+          "url": "https://www.zhihu.com/question/2101977105504235968",
+          "source": "知乎",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -105,7 +139,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -116,7 +150,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -127,7 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -138,7 +172,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -149,7 +183,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -160,9 +194,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美股收盘：AI概念股止跌反弹",
+          "url": "https://www.toutiao.com/trending/7705199330826653247/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "金十图示：2026年11月06日（周五）美股热门股票行情一览（美股收盘）",
@@ -171,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -182,7 +227,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -193,7 +238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -204,7 +249,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -215,7 +260,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -226,7 +271,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -234,18 +279,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 18,
       "titles": [
         {
           "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
           "url": "https://wallstreetcn.com/articles/3785375",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 10时26分]"
         },
         {
           "title": "特朗普任命新白宫办公厅主任",
@@ -254,9 +300,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 10时26分]"
+        },
+        {
+          "title": "特朗普任命新白宫幕僚长 怀尔斯将调至政治运营团队",
+          "url": "https://wallstreetcn.com/livenews/3196325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "10时26分"
         },
         {
           "title": "SpaceX董事Donald Harrison辞职，此前，美国总统特朗普所属共和党在中期选举中惨败。",
@@ -265,9 +322,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普称美国是霍尔木兹海峡占领者",
+          "url": "https://wallstreetcn.com/livenews/3196323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普：只有“愚蠢的”领导人才会对AI说不",
@@ -292,15 +360,70 @@
           "time_info": "[01时44分 ~ 06时28分]"
         },
         {
+          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
+          "url": "https://www.cls.cn/detail/2527972",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "特朗普宣布两年后举办航天航空大会，欲打造美国版国际大型航展",
+          "url": "https://flash.jin10.com/detail/20261107094307712800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
+          "url": "https://www.cls.cn/detail/2527984",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261107093648329800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "特朗普称正在与伊朗进行沟通",
           "url": "https://flash.jin10.com/detail/20261107050757585800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普称美方对伊朗实施“小型打击”",
+          "url": "https://wallstreetcn.com/livenews/3196288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普称正在与伊朗进行沟通",
@@ -309,9 +432,180 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普被告知再袭伊朗时间窗口有限",
+          "url": "https://wallstreetcn.com/livenews/3196283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "特朗普称美方对伊朗实施“小型打击”",
+          "url": "https://flash.jin10.com/detail/20261107085546481800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "特朗普被告知再袭伊朗时间窗口有限",
+          "url": "https://flash.jin10.com/detail/20261107084136533800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "特朗普：安排了很多与俄罗斯有关的会议。 在与俄罗斯、乌克兰方面取得很大进展。 可能在移民和税收问题上与民主党合作。 米勒忠诚、聪明。 预计未来几个月内离职的人会很少。 希望Thune能让参议院采取行动。 （谈伊朗）我们进行了小规模打击。 （谈俄罗斯、乌克兰）今天已经通了电话，周一、周二有会议。",
+          "url": "https://wallstreetcn.com/livenews/3196276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美以已做好打击准备，伊朗外长紧急连线6国",
+          "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "卡塔尔首相：美国、伊朗无法达成“完美协议”。 美伊两国应该接受一份良好的协议，而不是追求一份完美的协议。",
+          "url": "https://wallstreetcn.com/livenews/3196147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "卡塔尔首相：美国和伊朗无法达成“完美协议”。美国和伊朗应接受一项好的协议，而非追求完美的协议。",
+          "url": "https://flash.jin10.com/detail/20261107013055788800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
+          "url": "https://news.ifeng.com/c/8xqmIVwyIdl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "2枚导弹击中伊朗格什姆岛 或是美空袭",
+          "url": "https://www.toutiao.com/trending/7705210412316233279/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美媒：万斯在幕后推动与伊朗达成新协议",
+          "url": "https://wallstreetcn.com/livenews/3196298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "两枚导弹击中伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2733694",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美媒：万斯在幕后推动与伊朗达成新协议",
+          "url": "https://flash.jin10.com/detail/20261107093445587800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "俄外交部建议本国公民暂缓赴伊朗旅行",
+          "url": "https://www.toutiao.com/trending/7704698028103451187/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "卡塔尔首相：伊朗问题不能悬而未决，我们承受不起又一轮升级",
+          "url": "https://flash.jin10.com/detail/20261107091519700800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "伊朗媒体：格什姆岛遭导弹袭击 一架美无人机被击落",
+          "url": "https://wallstreetcn.com/livenews/3196280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
@@ -326,7 +620,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -370,7 +664,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -381,74 +675,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美以已做好打击准备，伊朗外长紧急连线6国",
-          "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "卡塔尔首相：美国、伊朗无法达成“完美协议”。 美伊两国应该接受一份良好的协议，而不是追求一份完美的协议。",
-          "url": "https://wallstreetcn.com/livenews/3196147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "卡塔尔首相：美国和伊朗无法达成“完美协议”。美国和伊朗应接受一项好的协议，而非追求完美的协议。",
-          "url": "https://flash.jin10.com/detail/20261107013055788800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？",
-          "url": "https://www.zhihu.com/question/2101823381955990842",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "DeepSeek Harness基础教学",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -456,7 +683,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场消息：谷歌(GOOG.O)购入高通(QCOM.O)价值5.48亿美元的股份。",
@@ -465,7 +692,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -476,27 +703,79 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "谷歌传奇工程师给智能爆炸泼冷水",
+          "url": "https://www.toutiao.com/trending/7705096641107201587/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek Harness基础教学",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 10时26分]"
+        },
+        {
+          "title": "如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？",
+          "url": "https://www.zhihu.com/question/2101823381955990842",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价、银价都跌了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E3%80%81%E9%93%B6%E4%BB%B7%E9%83%BD%E8%B7%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
         {
           "title": "男子预判金价能到 2000 元 / 克，花光积蓄买 7 斤黄金，9 个月亏 114 万元，急用钱无奈割肉，如何看待此事？",
           "url": "https://www.zhihu.com/question/2101426752694261522",
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 10时26分]"
         }
       ]
     },
@@ -528,7 +807,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
