@@ -1,23 +1,308 @@
 {
-  "generated_at": "2026-11-09T00:24:55.262375+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-09T04:50:11.325679+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
+      "keyword_group": "伊朗",
+      "match_count": 26,
       "titles": [
         {
-          "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
-          "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
+          "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
+          "url": "https://original.ifeng.com/c/8xsybBLthfu",
           "source": "凤凰网",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
+          "title": "美财政部要求伊拉克关闭与伊朗之间大部分边境口岸",
+          "url": "https://wallstreetcn.com/livenews/3196511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社：据锡里克一名知情人士透露，几分钟前，从锡里克地区向霍尔木兹海峡方向传出三声枪炮声。早前伊媒报道此次射击与在霍尔木兹海峡打击违规船只的行动有关。",
+          "url": "https://flash.jin10.com/detail/20261109041555629800",
+          "source": "金十数据",
+          "ranks": [
             3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊拉克外长：伊拉克已与美国达成谅解，允许石油通过霍尔木兹海峡经靠近阿曼的航道出口，出口业务仍在持续进行。 伊拉克因伊朗战争及石油出口业务中断造成的损失已达600亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3196510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
+          "url": "https://wallstreetcn.com/livenews/3196507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗学生通讯社：胡齐斯坦省副省长表示，马赫沙赫尔传出的爆炸声是由两台电力变压器爆裂引起的。",
+          "url": "https://flash.jin10.com/detail/20261109040240842800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "以色列国防部长称对伊朗任务“尚未完成”",
+          "url": "https://wallstreetcn.com/livenews/3196480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
+          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://wallstreetcn.com/livenews/3196477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
+          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
+          "url": "https://wallstreetcn.com/livenews/3196475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
+          "title": "伊朗多地传出爆炸声",
+          "url": "https://www.douyin.com/hot/2735104",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 04时50分]"
+        },
+        {
+          "title": "伊朗格什姆岛附近传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20261109034728054800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外长：美国大选结果出炉后，要让重启谈判斡旋的条件成熟还需时日。 我们拭目以待，看美国方面何时能消化选举结果，从而决定如何延续现有路线。",
+          "url": "https://wallstreetcn.com/livenews/3196503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗格什姆岛传出爆炸声；伊朗官方尚未予以证实。",
+          "url": "https://flash.jin10.com/detail/20261109033142418800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台援引伊朗媒体报道，格什姆岛和阿巴斯港传出多起爆炸声。",
+          "url": "https://flash.jin10.com/detail/20261109032851846800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国选民已经做出了他们的选择。 现在轮到白宫做选择了。",
+          "url": "https://wallstreetcn.com/livenews/3196501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊拉克外长：美国要求关闭与伊朗之间大部分边境口岸",
+          "url": "https://flash.jin10.com/detail/20261109032635989800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗革命卫队顾问：伊朗正在对缴获的美国军事装备进行逆向工程。",
+          "url": "https://wallstreetcn.com/livenews/3196500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据半岛电视台：伊拉克外交部长表示，伊朗战争及石油出口业务中断给伊拉克造成的损失已达600亿美元。",
+          "url": "https://flash.jin10.com/detail/20261109031035645800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外长：美国选民已作出选择，现在该白宫作出自己的选择了。 其提出的为期两天的方案依然有效，若满足各项要求，包括在所有战线停止战争，就将看到成效。若选择战争，则将看到地狱降临。",
+          "url": "https://wallstreetcn.com/livenews/3196495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
+          "url": "https://wallstreetcn.com/livenews/3196494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据半岛电视台：伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
+          "url": "https://flash.jin10.com/detail/20261109024016274800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗海军称一艘油轮在霍尔木兹海峡以东触雷起火。",
+          "url": "https://wallstreetcn.com/livenews/3196490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外长：美方需要时间消化选举结果，斡旋尚未恢复",
+          "url": "https://flash.jin10.com/detail/20261109021045499800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "沙特媒体：伊拉克代表团访问伊朗并转达美方信息",
+          "url": "https://flash.jin10.com/detail/20261109015509351800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "以色列总统赫尔佐格：以色列面临的挑战巨大，其中部分挑战需要立即应对。伊朗的威胁从未停止过哪怕一瞬。",
+          "url": "https://flash.jin10.com/detail/20261108232330200800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         },
+        {
+          "title": "伊朗电力公司否认德黑兰电网遭网络攻击",
+          "url": "https://flash.jin10.com/detail/20261109012728236800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 17,
+      "titles": [
         {
           "title": "美国总统特朗普：我们在委内瑞拉和伊朗的战争中获胜，获得了数十亿美元。",
           "url": "https://flash.jin10.com/detail/20261109001952730800",
@@ -28,6 +313,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
+          "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
         },
         {
           "title": "美国总统特朗普：我信任赫格塞思，目前他的职位暂时没有危险。",
@@ -52,6 +349,18 @@
           "time_info": "00时24分"
         },
         {
+          "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34431066",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，我可能会对我的政府进行调整。",
           "url": "https://flash.jin10.com/detail/20261109001722091800",
           "source": "金十数据",
@@ -61,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国总统特朗普在周四与以色列总理内塔尼亚胡的通话中表示，希望内塔尼亚胡采取措施，推动落实其加沙和平计划。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3196504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "特朗普将接受《60分钟》采访：希望节目展示过去两年的施政成果",
@@ -74,15 +394,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34431066",
-          "source": "澎湃新闻",
+          "title": "特朗普：若伊朗谈判取得进展，重启军事打击的可能性极低",
+          "url": "https://wallstreetcn.com/livenews/3196502",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "04时50分"
         },
         {
           "title": "据沙特阿拉比亚电视台：消息人士透露，一个伊拉克代表团在德黑兰会见了伊朗官员，据悉该整个任务持续约8小时，代表团还向德黑兰转交了美方的信息。伊拉克代表团此次访问德黑兰，发生在美国总统特朗普与伊拉克总理扎伊迪通电话、美国特使汤姆·巴拉克访问巴格达之后。",
@@ -96,6 +416,61 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国总统特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。",
+          "url": "https://wallstreetcn.com/livenews/3196488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "特朗普敦促内塔尼亚胡推进加沙和平计划，不论谁组建新政府",
+          "url": "https://flash.jin10.com/detail/20261109020534276800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据Axios：美国总统特朗普在周四与以色列总理内塔尼亚胡的通话中表示，希望内塔尼亚胡采取措施，推动落实其加沙和平计划。",
+          "url": "https://flash.jin10.com/detail/20261109020402272800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "特朗普称美军已做好再战准备，但希望避免对伊朗发动新一轮袭击",
+          "url": "https://flash.jin10.com/detail/20261109014829064800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "特朗普五度表态：只要谈判有进展，极不可能重返对伊战争",
+          "url": "https://flash.jin10.com/detail/20261109014054686800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "以色列总统赫尔佐格：我们必须推进特朗普关于加沙的20点计划的实施。",
           "url": "https://flash.jin10.com/detail/20261108232304935800",
           "source": "金十数据",
@@ -105,67 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
-          "url": "https://original.ifeng.com/c/8xsybBLthfu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
         },
         {
-          "title": "以色列国防部长称对伊朗任务“尚未完成”",
-          "url": "https://wallstreetcn.com/livenews/3196480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
-          "url": "https://wallstreetcn.com/livenews/3196477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
-          "url": "https://wallstreetcn.com/livenews/3196475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "以色列总统赫尔佐格：以色列面临的挑战巨大，其中部分挑战需要立即应对。伊朗的威胁从未停止过哪怕一瞬。",
-          "url": "https://flash.jin10.com/detail/20261108232330200800",
+          "title": "据CNN：美国总统特朗普就伊朗问题表示，若谈判继续取得进展，“极不可能”下令美国重返与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20261109013508976800",
           "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "04时50分"
         }
       ]
     },
@@ -178,22 +503,24 @@
           "url": "https://www.cls.cn/detail/2528180",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
         },
         {
           "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
           "url": "https://wallstreetcn.com/articles/3785486",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
         },
         {
           "title": "美国女议员戳破美股AI泡沫",
@@ -203,8 +530,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
         }
       ]
     },
@@ -220,8 +547,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时50分]"
         }
       ]
     }
