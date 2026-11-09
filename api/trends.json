@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-09T08:10:32.273476+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-11-09T15:18:13.546921+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
         {
           "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
           "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
@@ -20,13 +31,24 @@
           "time_info": "[00时24分 ~ 08时10分]"
         },
         {
+          "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
+          "url": "https://wallstreetcn.com/articles/3785498",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
           "title": "美国总统特朗普：我们在伊朗赢了。现在只是结束它的问题，早晚而已。我们可能会等待。他们的一些邻国更希望我们就保持现状。我们没有折损任何人。没有士兵阵亡。",
           "url": "https://flash.jin10.com/detail/20261109074524349800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -48,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -70,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -92,7 +114,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -103,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -118,6 +140,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开",
+          "url": "https://www.cls.cn/detail/2528420",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "伊朗向特朗普发48小时最后通牒",
+          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "未来两年“战斗到底”还是“极限谈判”？白宫人事频繁更迭，“坡脚”特朗普摆出“强硬姿态”",
+          "url": "https://wallstreetcn.com/articles/3785481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "向特朗普政府“开炮”！民主党预告：将“剑指”马斯克、米勒和赫格塞思",
+          "url": "https://www.cls.cn/detail/2528425",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，我可能会对我的政府进行调整。",
@@ -148,7 +214,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -181,9 +247,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "特朗普：受美国保护的国家须承担对伊战争全部费用",
+          "url": "https://flash.jin10.com/detail/20261109144855626800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "民主党国会调查点名马斯克、米勒！特朗普政府警告反击",
+          "url": "https://flash.jin10.com/detail/20261109144745322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "据沙特阿拉比亚电视台：消息人士透露，一个伊拉克代表团在德黑兰会见了伊朗官员，据悉该整个任务持续约8小时，代表团还向德黑兰转交了美方的信息。伊拉克代表团此次访问德黑兰，发生在美国总统特朗普与伊拉克总理扎伊迪通电话、美国特使汤姆·巴拉克访问巴格达之后。",
@@ -203,7 +291,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -214,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -225,7 +313,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -236,7 +324,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -247,7 +335,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -258,7 +346,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -291,7 +379,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -313,7 +401,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -324,7 +412,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -335,7 +423,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -357,7 +445,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -379,7 +467,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -412,7 +500,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
@@ -420,7 +508,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
@@ -491,6 +579,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 08时10分]"
+        },
+        {
+          "title": "鲁比奥：伊朗提出的要求完全不可接受",
+          "url": "https://original.ifeng.com/c/8xuGqEePP2n",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "以色列国防部长称对伊朗任务“尚未完成”",
@@ -617,6 +716,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "中国政府中东问题特使翟隽访问伊朗：武力手段不能解决问题，各国主权和安全都应得到尊重",
+          "url": "https://wallstreetcn.com/livenews/3196716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "据半岛电视台：伊拉克外交部长表示，伊朗战争及石油出口业务中断给伊拉克造成的损失已达600亿美元。",
           "url": "https://flash.jin10.com/detail/20261109031035645800",
           "source": "金十数据",
@@ -634,7 +744,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -700,7 +810,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -733,9 +843,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "中国政府中东问题特使翟隽访问伊朗",
+          "url": "https://flash.jin10.com/detail/20261109142927351800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "伊朗电力公司否认德黑兰电网遭网络攻击",
@@ -752,8 +873,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
+          "url": "https://wallstreetcn.com/articles/3785486",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 15时18分]"
+        },
         {
           "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
           "url": "https://www.cls.cn/detail/2528180",
@@ -767,28 +901,50 @@
           "time_info": "[00时24分 ~ 08时10分]"
         },
         {
-          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
-          "url": "https://wallstreetcn.com/articles/3785486",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时10分]"
-        },
-        {
           "title": "美国女议员戳破美股AI泡沫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 15时18分]"
+        },
+        {
+          "title": "英伟达美股夜盘跌幅扩大至近6%，此前黄仁勋承认婚外情并致歉。",
+          "url": "https://wallstreetcn.com/livenews/3196726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "美股恐慌指标逼近极值！高盛：历史信号指向中期反弹",
+          "url": "https://www.cls.cn/detail/2528454",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
+          "url": "https://www.zhihu.com/question/2103054279376204138",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "美股三大股指期货均转涨，此前纳指期货跌近1%。",
@@ -797,7 +953,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
@@ -817,6 +973,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 04时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "民主党全面掌控国会，美债多头迎来新催化剂！三大变化推动美债走强",
+          "url": "https://flash.jin10.com/detail/20261109142846793800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     }
