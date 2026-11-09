@@ -1,873 +1,110 @@
 {
-  "generated_at": "2026-11-09T15:18:13.546921+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-11-10T01:52:20.570121+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 9,
       "titles": [
         {
-          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
-          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
-          "source": "凤凰网",
+          "title": "美国国防部长赫格塞思：（关于伊朗）历史将会对特朗普给予很高的评价。",
+          "url": "https://flash.jin10.com/detail/20261110012555108800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
-          "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
           "url": "https://wallstreetcn.com/articles/3785498",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "美国总统特朗普：我们在伊朗赢了。现在只是结束它的问题，早晚而已。我们可能会等待。他们的一些邻国更希望我们就保持现状。我们没有折损任何人。没有士兵阵亡。",
-          "url": "https://flash.jin10.com/detail/20261109074524349800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：我们在委内瑞拉和伊朗的战争中获胜，获得了数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20261109001952730800",
-          "source": "金十数据",
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗）从历史的角度来看，这将作为我们所做过的最棒的事情之一，载入史册。",
-          "url": "https://flash.jin10.com/detail/20261109074430212800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：我信任赫格塞思，目前他的职位暂时没有危险。",
-          "url": "https://flash.jin10.com/detail/20261109001819510800",
+          "title": "美国国防部长赫格塞思：对伊朗的战争或许不受欢迎，但却是必须的。就连特朗普也这么说。",
+          "url": "https://flash.jin10.com/detail/20261110011903049800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：还没有和黄仁勋谈过话。 认为黄仁勋应该继续担任英伟达CEO。",
-          "url": "https://wallstreetcn.com/livenews/3196536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：我信任美国国防部长赫格塞思， 我们在委内瑞拉和伊朗进行了两场战争，并且取得了胜利。",
-          "url": "https://flash.jin10.com/detail/20261109001745129800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国总统特朗普：以色列正直党领导人埃森科特和内塔尼亚胡在政策和观点上非常相似。埃森科特说他喜欢特朗普。内塔尼亚胡和埃森科特在支持我所做的事情上，态度都很坚定。",
-          "url": "https://flash.jin10.com/detail/20261109074128894800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普谈达纳·怀特任新闻秘书一事：我只是在开玩笑。",
-          "url": "https://wallstreetcn.com/livenews/3196535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34431066",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时10分]"
-        },
-        {
-          "title": "特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开",
-          "url": "https://www.cls.cn/detail/2528420",
-          "source": "财联社热门",
+          "title": "特朗普谈UFO：美军飞行员“曾告诉我一些非常奇怪的事情”",
+          "url": "https://news.ifeng.com/c/8xv9TnAfekO",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
-          "title": "伊朗向特朗普发48小时最后通牒",
-          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
-          "source": "凤凰网",
+          "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
+          "url": "https://www.cls.cn/detail/2529178",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
-          "title": "未来两年“战斗到底”还是“极限谈判”？白宫人事频繁更迭，“坡脚”特朗普摆出“强硬姿态”",
-          "url": "https://wallstreetcn.com/articles/3785481",
+          "title": "特朗普即将会见关键调解人，称无意升级伊朗战事，鲁比奥泼冷水：谈判远未突破",
+          "url": "https://wallstreetcn.com/articles/3785571",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "向特朗普政府“开炮”！民主党预告：将“剑指”马斯克、米勒和赫格塞思",
-          "url": "https://www.cls.cn/detail/2528425",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，我可能会对我的政府进行调整。",
-          "url": "https://flash.jin10.com/detail/20261109001722091800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普在周四与以色列总理内塔尼亚胡的通话中表示，希望内塔尼亚胡采取措施，推动落实其加沙和平计划。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3196504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：（谈如果遭到民主党调查）我们就调查他们的捐款人。因为他们的捐助者做了坏事。",
-          "url": "https://flash.jin10.com/detail/20261109074035844800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普将接受《60分钟》采访：希望节目展示过去两年的施政成果",
-          "url": "https://flash.jin10.com/detail/20261109000222851800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "特朗普：若伊朗谈判取得进展，重启军事打击的可能性极低",
-          "url": "https://wallstreetcn.com/livenews/3196502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：我现在就可以下令把（伊朗）那些设施炸毁。但问题在于，一旦炸毁，就再也无法重建了。如果我炸掉桥梁和发电厂——其中最难重建的就是大型桥梁——他们可能需要10年、12年甚至15年才能恢复。发电厂也是一样，重建难度仅次于桥梁。若要重建这些基础设施，会给民众造成极其沉重的负担。我不希望看到这种情况。",
-          "url": "https://flash.jin10.com/detail/20261109073758068800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普：受美国保护的国家须承担对伊战争全部费用",
-          "url": "https://flash.jin10.com/detail/20261109144855626800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "民主党国会调查点名马斯克、米勒！特朗普政府警告反击",
-          "url": "https://flash.jin10.com/detail/20261109144745322800",
-          "source": "金十数据",
+          "title": "特朗普称若美伊谈判取得进展，再次发动打击可能性极低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34435927",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：消息人士透露，一个伊拉克代表团在德黑兰会见了伊朗官员，据悉该整个任务持续约8小时，代表团还向德黑兰转交了美方的信息。伊拉克代表团此次访问德黑兰，发生在美国总统特朗普与伊拉克总理扎伊迪通电话、美国特使汤姆·巴拉克访问巴格达之后。",
-          "url": "https://flash.jin10.com/detail/20261108234754421800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：很多人不喜欢美国副总统万斯关于伊朗的言论。",
-          "url": "https://flash.jin10.com/detail/20261109073512200800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：美国国防部长赫格塞思赢得了两场战争——委内瑞拉战争和伊朗战争。",
-          "url": "https://flash.jin10.com/detail/20261109073444560800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：大选刚一结束，我们就损失了3万亿美元。这是因为市场认为民主党是一场灾难。",
-          "url": "https://flash.jin10.com/detail/20261109073312350800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：认为黄仁勋应该继续担任英伟达CEO。",
-          "url": "https://flash.jin10.com/detail/20261109073157220800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：英伟达CEO黄仁勋为我们国家做出了卓越贡献。",
-          "url": "https://flash.jin10.com/detail/20261109073133531800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：在委内瑞拉采取的行动让我们赚了一大笔钱。",
-          "url": "https://flash.jin10.com/detail/20261109072946894800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。",
-          "url": "https://wallstreetcn.com/livenews/3196488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "特朗普敦促内塔尼亚胡推进加沙和平计划，不论谁组建新政府",
-          "url": "https://flash.jin10.com/detail/20261109020534276800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗的打击拯救了中东和以色列。",
-          "url": "https://flash.jin10.com/detail/20261109072924754800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "据Axios：美国总统特朗普在周四与以色列总理内塔尼亚胡的通话中表示，希望内塔尼亚胡采取措施，推动落实其加沙和平计划。",
-          "url": "https://flash.jin10.com/detail/20261109020402272800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：我们在伊朗和委内瑞拉的战争中获胜。",
-          "url": "https://flash.jin10.com/detail/20261109072907792800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：英伟达CEO黄仁勋是个好人。",
-          "url": "https://flash.jin10.com/detail/20261109072736844800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普目前正在机场接受现场采访。",
-          "url": "https://flash.jin10.com/detail/20261109072629129800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普称美军已做好再战准备，但希望避免对伊朗发动新一轮袭击",
-          "url": "https://flash.jin10.com/detail/20261109014829064800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：（关于美国UFC总裁达纳·怀特担任新闻秘书）我只是在开玩笑。我们明天将就其他事项会面。",
-          "url": "https://flash.jin10.com/detail/20261109072512767800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普五度表态：只要谈判有进展，极不可能重返对伊战争",
-          "url": "https://flash.jin10.com/detail/20261109014054686800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美联储传声筒：特朗普改造美联储遭遇最强制衡！沃什恐难以组建自己的核心团队",
-          "url": "https://flash.jin10.com/detail/20261109072337597800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "以色列总统赫尔佐格：我们必须推进特朗普关于加沙的20点计划的实施。",
-          "url": "https://flash.jin10.com/detail/20261108232304935800",
+          "title": "美国总统特朗普将于十分钟后会见卡塔尔首相，讨论对伊停火及核谈判。",
+          "url": "https://flash.jin10.com/detail/20261110005000000800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "据CNN：美国总统特朗普就伊朗问题表示，若谈判继续取得进展，“极不可能”下令美国重返与伊朗的战争。",
-          "url": "https://flash.jin10.com/detail/20261109013508976800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "沃伦表示愿协助特朗普将信用卡利率上限设为10%",
-          "url": "https://flash.jin10.com/detail/20261109071928814800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
-          "url": "https://original.ifeng.com/c/8xsybBLthfu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时10分]"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社：据锡里克一名知情人士透露，几分钟前，从锡里克地区向霍尔木兹海峡方向传出三声枪炮声。早前伊媒报道此次射击与在霍尔木兹海峡打击违规船只的行动有关。",
-          "url": "https://flash.jin10.com/detail/20261109041555629800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗学生通讯社：胡齐斯坦省副省长表示，马赫沙赫尔传出的爆炸声是由两台电力变压器爆裂引起的。",
-          "url": "https://flash.jin10.com/detail/20261109040240842800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美财政部要求伊拉克关闭与伊朗之间大部分边境口岸",
-          "url": "https://wallstreetcn.com/livenews/3196511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 08时10分]"
-        },
-        {
-          "title": "伊拉克外长：伊拉克已与美国达成谅解，允许石油通过霍尔木兹海峡经靠近阿曼的航道出口，出口业务仍在持续进行。 伊拉克因伊朗战争及石油出口业务中断造成的损失已达600亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3196510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 08时10分]"
-        },
-        {
-          "title": "伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
-          "url": "https://wallstreetcn.com/livenews/3196507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 08时10分]"
-        },
-        {
-          "title": "鲁比奥：伊朗提出的要求完全不可接受",
-          "url": "https://original.ifeng.com/c/8xuGqEePP2n",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "以色列国防部长称对伊朗任务“尚未完成”",
-          "url": "https://wallstreetcn.com/livenews/3196480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 04时50分]"
-        },
-        {
-          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
-          "url": "https://wallstreetcn.com/livenews/3196477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 04时50分]"
-        },
-        {
-          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
-          "url": "https://wallstreetcn.com/livenews/3196475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 04时50分]"
-        },
-        {
-          "title": "伊朗多地传出爆炸声",
-          "url": "https://www.douyin.com/hot/2735104",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
-          "title": "伊朗格什姆岛附近传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20261109034728054800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗外长：美国大选结果出炉后，要让重启谈判斡旋的条件成熟还需时日。 我们拭目以待，看美国方面何时能消化选举结果，从而决定如何延续现有路线。",
-          "url": "https://wallstreetcn.com/livenews/3196503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗格什姆岛传出爆炸声；伊朗官方尚未予以证实。",
-          "url": "https://flash.jin10.com/detail/20261109033142418800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台援引伊朗媒体报道，格什姆岛和阿巴斯港传出多起爆炸声。",
-          "url": "https://flash.jin10.com/detail/20261109032851846800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：美国选民已经做出了他们的选择。 现在轮到白宫做选择了。",
-          "url": "https://wallstreetcn.com/livenews/3196501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊拉克外长：美国要求关闭与伊朗之间大部分边境口岸",
-          "url": "https://flash.jin10.com/detail/20261109032635989800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗革命卫队顾问：伊朗正在对缴获的美国军事装备进行逆向工程。",
-          "url": "https://wallstreetcn.com/livenews/3196500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "中国政府中东问题特使翟隽访问伊朗：武力手段不能解决问题，各国主权和安全都应得到尊重",
-          "url": "https://wallstreetcn.com/livenews/3196716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "据半岛电视台：伊拉克外交部长表示，伊朗战争及石油出口业务中断给伊拉克造成的损失已达600亿美元。",
-          "url": "https://flash.jin10.com/detail/20261109031035645800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美军扩大对伊朗封锁范围 从海上石油出口转向陆上军事供应链",
-          "url": "https://www.cls.cn/detail/2528163",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "伊朗外长：美国选民已作出选择，现在该白宫作出自己的选择了。 其提出的为期两天的方案依然有效，若满足各项要求，包括在所有战线停止战争，就将看到成效。若选择战争，则将看到地狱降临。",
-          "url": "https://wallstreetcn.com/livenews/3196495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
-          "url": "https://wallstreetcn.com/livenews/3196494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据半岛电视台：伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
-          "url": "https://flash.jin10.com/detail/20261109024016274800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗海军称一艘油轮在霍尔木兹海峡以东触雷起火。",
-          "url": "https://wallstreetcn.com/livenews/3196490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗外长：美方需要时间消化选举结果，斡旋尚未恢复",
-          "url": "https://flash.jin10.com/detail/20261109021045499800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "消息称伊朗格什姆岛遭美军袭击",
-          "url": "https://wallstreetcn.com/livenews/3196519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "沙特媒体：伊拉克代表团访问伊朗并转达美方信息",
-          "url": "https://flash.jin10.com/detail/20261109015509351800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "以色列总统赫尔佐格：以色列面临的挑战巨大，其中部分挑战需要立即应对。伊朗的威胁从未停止过哪怕一瞬。",
-          "url": "https://flash.jin10.com/detail/20261108232330200800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗方面的要求令人愤慨，有些甚至荒谬可笑。 有些时候外交解决方案不可行。 如果存在机会，我们将探索通过外交途径解决伊朗问题。",
-          "url": "https://wallstreetcn.com/livenews/3196515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "中国政府中东问题特使翟隽访问伊朗",
-          "url": "https://flash.jin10.com/detail/20261109142927351800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "伊朗电力公司否认德黑兰电网遭网络攻击",
-          "url": "https://flash.jin10.com/detail/20261109012728236800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         }
       ]
     },
@@ -876,64 +113,48 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
-          "url": "https://wallstreetcn.com/articles/3785486",
+          "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
+          "url": "https://wallstreetcn.com/articles/3785518",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 15时18分]"
-        },
-        {
-          "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
-          "url": "https://www.cls.cn/detail/2528180",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时10分]"
-        },
-        {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 15时18分]"
-        },
-        {
-          "title": "英伟达美股夜盘跌幅扩大至近6%，此前黄仁勋承认婚外情并致歉。",
-          "url": "https://wallstreetcn.com/livenews/3196726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美股恐慌指标逼近极值！高盛：历史信号指向中期反弹",
-          "url": "https://www.cls.cn/detail/2528454",
+          "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2529406",
           "source": "财联社热门",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
+          "url": "https://wallstreetcn.com/articles/3785523",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美股三大股指高开 英伟达逆势下跌7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%86%E5%8A%BF%E4%B8%8B%E8%B7%8C7%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
@@ -943,53 +164,108 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
-          "title": "美股三大股指期货均转涨，此前纳指期货跌近1%。",
-          "url": "https://flash.jin10.com/detail/20261109070931467800",
-          "source": "金十数据",
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时52分"
+        },
         {
-          "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
-          "url": "https://www.cls.cn/detail/2528016",
-          "source": "财联社热门",
+          "title": "美股高开高走科技股大涨",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E6%B6%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时50分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗最高领袖下令结束非战非和状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8B%E4%BB%A4%E7%BB%93%E6%9D%9F%E9%9D%9E%E6%88%98%E9%9D%9E%E5%92%8C%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
+          "url": "https://wallstreetcn.com/articles/3785587",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "法国外长Barrot声称：伊朗伊斯兰革命卫队应该对冰箱遭受的网络攻击负责。",
+          "url": "https://wallstreetcn.com/livenews/3197063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：以色列方面正竭力将美国拖入一场与伊朗的无休止战争，使其陷入泥潭，无论现任还是未来的美国总统，无论共和党还是民主党，都将难以脱身。除非美国摒弃“以色列优先”的思维模式，否则美国及其盟友将不可避免地走向一个黑暗时代。",
+          "url": "https://flash.jin10.com/detail/20261110005631501800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "法国巴黎检方就涉嫌攻击超市冷藏设备一案，对伊朗“沙希德·卡维”相关主体启动调查。 冷藏设备遭黑客入侵案调查显示，攻击手法具备沙希德·卡维组织的典型特征。 冷藏设备入侵案调查发现攻击中使用波斯语，相关IP地址指向位于伊朗境内的设备。 该系列涉嫌黑客攻击行为服务于某外国势力，本案中即伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3197049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "民主党全面掌控国会，美债多头迎来新催化剂！三大变化推动美债走强",
-          "url": "https://flash.jin10.com/detail/20261109142846793800",
-          "source": "金十数据",
+          "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能，针对波段操作客户",
+          "url": "https://www.cls.cn/detail/2529343",
+          "source": "财联社热门",
           "ranks": [
-            26
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "01时52分"
         }
       ]
     }
