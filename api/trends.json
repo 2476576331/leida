@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-10T15:55:55.215691+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-11-10T23:52:03.829171+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普：这笔账，以色列等国必须买单",
+          "url": "https://news.ifeng.com/c/8xwZTnkTl6K",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
         {
           "title": "美国国防部长赫格塞思：（关于伊朗）历史将会对特朗普给予很高的评价。",
           "url": "https://flash.jin10.com/detail/20261110012555108800",
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -75,13 +86,26 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 23时52分]"
+        },
+        {
           "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
           "url": "https://www.cls.cn/detail/2529629",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -92,7 +116,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -103,18 +127,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 15时55分]"
-        },
-        {
-          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
-          "url": "https://wallstreetcn.com/articles/3785603",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -142,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "高市早苗称十分想见金正恩，并已获特朗普支持",
+          "url": "https://news.ifeng.com/c/8xwXrLw7BCB",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "特朗普回应万斯“切割文”",
@@ -183,7 +206,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -216,7 +239,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -238,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -260,7 +283,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -285,12 +308,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "拜登披露回忆录部分内容：特朗普当选后态度曾异常热情，惊得我一时语塞",
+          "url": "https://wallstreetcn.com/livenews/3197773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】深夜暴力反弹，美股芯片股全线爆发；英伟达逆势大跌，收创近七个月新低；国际油价，跌至8月以来最低",
@@ -375,6 +409,28 @@
           "time_info": "[01时52分 ~ 08时54分]"
         },
         {
+          "title": "美通胀数据超预期，美股期货短线下挫、纳指盘前跌近1%，黄金跳水，布油自8月首破90美元",
+          "url": "https://wallstreetcn.com/articles/3785613",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
+        {
+          "title": "美股低开 英伟达开盘跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
+        {
           "title": "美股高开高走原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -386,13 +442,24 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
+          "title": "纳斯达克100指数涨0.3%，美股盘初一度跌1.3%，纳指转涨，费城半导体指数涨超1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3197789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美股三大指数均涨超 2%，科技股飙升，英伟达逆市跌 4.2%，如何解读？",
           "url": "https://www.zhihu.com/question/2103388122998203709",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -422,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
@@ -450,15 +517,59 @@
           "time_info": "[01时52分 ~ 08时54分]"
         },
         {
+          "title": "伊朗革命卫队新建“导弹城”亮相",
+          "url": "https://www.toutiao.com/trending/7706504352940523546/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
+        {
+          "title": "伊拉克调整与伊朗边境口岸的开放安排",
+          "url": "https://wallstreetcn.com/livenews/3197791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：在不久的将来，我们将面临国际社会施加的压力，要求我们接受一个拥有核武器的伊朗。我们需要组建一个团结政府。",
+          "url": "https://flash.jin10.com/detail/20261110233338073800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "伊朗政府发言人：已拨付865万亿里亚尔以保障民众购买力",
           "url": "https://flash.jin10.com/detail/20261110152731113800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗并未放弃摧毁以色列的计划。在我们击退迫在眉睫的威胁后，伊朗正设法重启这一计划。唯一阻止它的方式就是推翻该政权。",
+          "url": "https://flash.jin10.com/detail/20261110233034876800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "法国外长Barrot声称：伊朗伊斯兰革命卫队应该对冰箱遭受的网络攻击负责。",
@@ -472,13 +583,24 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国务卿：“没必要”对伊朗开展大规模作战行动",
+          "url": "https://wallstreetcn.com/livenews/3197782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "伊朗政府发言人表示，今年冬季天然气供需缺口将达到4.3亿立方米。过去几年，伊朗冬季天然气供需缺口约为3亿立方米。在敌方对伊朗发动的袭击中，部分天然气炼厂受损，导致伊朗额外损失2.3亿立方米天然气。",
           "url": "https://flash.jin10.com/detail/20261110151916429800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -528,7 +650,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
@@ -556,7 +678,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
@@ -576,6 +698,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨幅达0.50%，现报102.18。",
+          "url": "https://flash.jin10.com/detail/20261110233545011800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     }
