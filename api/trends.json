@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T08:54:15.515710+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-11-10T15:55:55.215691+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国国防部长赫格塞思：（关于伊朗）历史将会对特朗普给予很高的评价。",
@@ -41,6 +41,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "特朗普回应是否拿下古巴",
+          "url": "https://news.ifeng.com/c/8xw1pIaWnqw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "特朗普谈UFO：美军飞行员“曾告诉我一些非常奇怪的事情”",
           "url": "https://news.ifeng.com/c/8xv9TnAfekO",
           "source": "凤凰网",
@@ -64,15 +75,62 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
+          "url": "https://www.cls.cn/detail/2529629",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "特朗普质疑美国中期选举结果，称提前投票数据异常",
+          "url": "https://news.ifeng.com/c/8xvuX0M7OL2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "美共和党议员要求弹劾防长，特朗普回应",
           "url": "https://original.ifeng.com/c/8xvi7jFdssH",
           "source": "凤凰网",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 15时55分]"
+        },
+        {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 15时55分]"
+        },
+        {
+          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
+          "url": "https://www.zhihu.com/question/2103246242599756216",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 15时55分]"
         },
         {
           "title": "特朗普称没必要再对伊朗采取军事行动",
@@ -80,28 +138,6 @@
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
-          "url": "https://wallstreetcn.com/articles/3785603",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
-          "url": "https://www.zhihu.com/question/2103246242599756216",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -141,6 +177,17 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
+          "title": "特朗普称伊朗战事已“事实上结束”",
+          "url": "https://news.ifeng.com/c/8xvpfG8oa0G",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
           "url": "https://www.cls.cn/detail/2529178",
           "source": "财联社热门",
@@ -163,6 +210,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "11月10日投资避雷针：特朗普称结束伊朗战争出现积极势头 布油重挫近6%",
+          "url": "https://www.cls.cn/detail/2529648",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "特朗普称若美伊谈判取得进展，再次发动打击可能性极低",
           "url": "https://m.thepaper.cn/newsDetail_forward_34435927",
           "source": "澎湃新闻",
@@ -174,15 +232,37 @@
           "time_info": "01时52分"
         },
         {
+          "title": "特朗普称俄乌都已厌倦了打仗",
+          "url": "https://www.toutiao.com/trending/7706355587000615434/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "知情人士：特朗普希望与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3197234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普称似乎没必要再对伊朗采取军事行动，国际油价早盘一度跌超 5%，中东局势真的进入阶段性降温了吗？",
+          "url": "https://www.zhihu.com/question/2103391365900014384",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "知情人士：特朗普希望与伊朗达成协议",
@@ -191,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -210,7 +290,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】深夜暴力反弹，美股芯片股全线爆发；英伟达逆势大跌，收创近七个月新低；国际油价，跌至8月以来最低",
@@ -220,19 +300,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 15时55分]"
         },
         {
           "title": "美股收盘：纳指欢腾大涨近3% 英伟达市值独自缩水12800亿元",
           "url": "https://www.cls.cn/detail/2529594",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 15时55分]"
         },
         {
           "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
@@ -256,6 +337,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 08时54分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 15时55分]"
         },
         {
           "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
@@ -282,18 +375,6 @@
           "time_info": "[01时52分 ~ 08时54分]"
         },
         {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 08时54分]"
-        },
-        {
           "title": "美股高开高走原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -303,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "美股三大指数均涨超 2%，科技股飙升，英伟达逆市跌 4.2%，如何解读？",
+          "url": "https://www.zhihu.com/question/2103388122998203709",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "美股三大股指高开 英伟达逆势下跌7%",
@@ -330,7 +422,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
@@ -338,11 +430,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 08时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 15时55分]"
         },
         {
           "title": "伊朗最高领袖下令结束非战非和状态",
@@ -357,6 +450,17 @@
           "time_info": "[01时52分 ~ 08时54分]"
         },
         {
+          "title": "伊朗政府发言人：已拨付865万亿里亚尔以保障民众购买力",
+          "url": "https://flash.jin10.com/detail/20261110152731113800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "法国外长Barrot声称：伊朗伊斯兰革命卫队应该对冰箱遭受的网络攻击负责。",
           "url": "https://wallstreetcn.com/livenews/3197063",
           "source": "华尔街见闻-快讯",
@@ -366,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "伊朗政府发言人表示，今年冬季天然气供需缺口将达到4.3亿立方米。过去几年，伊朗冬季天然气供需缺口约为3亿立方米。在敌方对伊朗发动的袭击中，部分天然气炼厂受损，导致伊朗额外损失2.3亿立方米天然气。",
+          "url": "https://flash.jin10.com/detail/20261110151916429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：以色列方面正竭力将美国拖入一场与伊朗的无休止战争，使其陷入泥潭，无论现任还是未来的美国总统，无论共和党还是民主党，都将难以脱身。除非美国摒弃“以色列优先”的思维模式，否则美国及其盟友将不可避免地走向一个黑暗时代。",
@@ -392,25 +507,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌被曝向英伟达发起挑战",
-          "url": "https://www.toutiao.com/trending/7706149026655109641/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能，针对波段操作客户",
@@ -422,12 +520,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 08时54分]"
+        },
+        {
+          "title": "金十图示：2026年11月10日（周二）上海金午盘价为883.95元/克，较国际金价(882.68元/克)，高1.27元/克",
+          "url": "https://flash.jin10.com/detail/20261110151539696800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债收益率集体上涨",
@@ -435,6 +544,34 @@
           "source": "今日头条",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "T. Rowe称美债收益率要到美国经济衰退时才会见顶",
+          "url": "https://wallstreetcn.com/livenews/3197496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌被曝向英伟达发起挑战",
+          "url": "https://www.toutiao.com/trending/7706149026655109641/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
