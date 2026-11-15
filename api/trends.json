@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-11-15T23:56:01.750543+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-11-16T04:38:17.133025+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "以色列要撇开美国，单独打伊朗？",
-          "url": "https://news.ifeng.com/c/8y2zZ2Md18D",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时42分 ~ 16时30分]"
-        },
         {
           "title": "就霍尔木兹海峡，伊朗与两个国家达成协议",
           "url": "https://news.ifeng.com/c/8y4uin1iH2I",
@@ -27,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "伊朗外长回应鲁比奥“别对手持利剑的人引用法律”言论",
+          "url": "https://flash.jin10.com/detail/20261116040945890800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "伊朗媒体：一艘违反规定的油轮不久前在霍尔木兹海峡以东海域触雷起火。 该油轮当时关闭了导航系统，正航行于海峡以东的受限区域。",
+          "url": "https://wallstreetcn.com/livenews/3200224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "万斯或调离伊朗事务，伊方评估：冲突可能性或增加",
+          "url": "https://news.ifeng.com/c/8y5HqnPrfJv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "伊朗称伊方有充分法律依据向助美袭伊地区国家索赔",
@@ -38,834 +59,213 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
-        },
-        {
-          "title": "伊朗新“导弹城”高调亮相，有何深意？",
-          "url": "https://v.ifeng.com/c/8y2oE3pNo7D",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "美国财政部长贝森特：我们正在挤压伊朗经济，这法子正在发挥作用。 由于天然气短缺，伊朗将面临艰难的冬季。",
           "url": "https://wallstreetcn.com/livenews/3200215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "伊朗外长：应在经济领域创造条件使敌方制裁计划失去效力",
-          "url": "https://flash.jin10.com/detail/20261115003912082800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃： 德国作为以色列第二大武器供应国，应对以色列的罪行承担共同责任。",
-          "url": "https://flash.jin10.com/detail/20261115162408676800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "美国财长贝森特：由于天然气短缺，伊朗将面临艰难的冬季。",
-          "url": "https://flash.jin10.com/detail/20261115232156327800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：现阶段，我们排除暂停铀浓缩活动或降低铀浓缩水平的可能性。",
-          "url": "https://flash.jin10.com/detail/20261115162401702800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "美国财长贝森特：我们正在经济上对伊朗施压，而且正在奏效。",
-          "url": "https://flash.jin10.com/detail/20261115232147470800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：任何袭击都必将得到回应",
-          "url": "https://flash.jin10.com/detail/20261115162336794800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
         },
         {
-          "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
-          "url": "https://wallstreetcn.com/livenews/3200147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 16时30分]"
-        },
-        {
-          "title": "伊朗外交部发言人：美国编造说辞试图逃避对伊发动战争的责任",
-          "url": "https://flash.jin10.com/detail/20261115044129199800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗称拦截并摧毁一架美MQ1无人机",
-          "url": "https://wallstreetcn.com/livenews/3200130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 16时30分]"
-        },
-        {
-          "title": "伊朗称又有一艘油轮在霍尔木兹海峡触雷起火",
-          "url": "https://wallstreetcn.com/livenews/3200126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗国家电视台发布视频，警告该国“霍拉姆沙赫尔”弹道导弹的改进型号可覆盖欧洲军事基地，视频中明确将英国费尔福德皇家空军基地列为潜在打击目标。",
-          "url": "https://flash.jin10.com/detail/20261115031952432800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗革命卫队：伊朗袭击制冷系统的说法是以色列制造恐慌的陈旧伎俩",
-          "url": "https://flash.jin10.com/detail/20261115025333117800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗表示，在“非常时期”不会恢复核安全保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3200110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 05时43分]"
-        },
-        {
-          "title": "伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。",
-          "url": "https://wallstreetcn.com/livenews/3200106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 05时43分]"
-        },
-        {
-          "title": "伊朗：与美谈判的关键并不在于是直接谈判还是间接谈判",
-          "url": "https://flash.jin10.com/detail/20261115162120237800",
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构（IAEA）要求检查伊朗受损核设施，其目的可能是评估美国武器的实际打击效果。在伊朗提出的条件得到落实、战争永久结束之前，我们不会允许国际原子能机构进入相关核设施。",
+          "url": "https://flash.jin10.com/detail/20261116032145009800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
         },
         {
-          "title": "伊朗外交部发言人指责美国公然以封锁手段威胁实施饥饿政策",
-          "url": "https://flash.jin10.com/detail/20261115003105820800",
+          "title": "据沙特阿拉伯阿拉比亚电视台：美国国土安全部长表示，我们正在监测来自伊朗的威胁，并已做好应对准备。",
+          "url": "https://flash.jin10.com/detail/20261116032103452800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "04时38分"
         },
         {
-          "title": "伊朗：美国不顾基础设施老化，反而用数十亿美元援助以色列",
-          "url": "https://flash.jin10.com/detail/20261115161337181800",
+          "title": "伊朗副外长：美国对伊朗实施的海空封锁已失败",
+          "url": "https://flash.jin10.com/detail/20261116031714364800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
         },
         {
-          "title": "关键时刻伊朗放出“地下导弹城”视频，大秀肌肉为哪般？",
-          "url": "https://original.ifeng.com/c/8y3PDVOFTTA",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗将向地区国家寻求赔偿，海湾合作委员会秘书长提出的赔偿要求毫无根据。",
-          "url": "https://flash.jin10.com/detail/20261115160634095800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐已启程赴巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20261115231618253800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "伊朗称击落一架轨道飞行器无人机",
-          "url": "https://wallstreetcn.com/livenews/3200203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：阿拉伯媒体报道称，也门对沙特阿拉伯东部地区发动了袭击。",
-          "url": "https://flash.jin10.com/detail/20261115081141654800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "国际原子能机构要求恢复核查人员工作 伊朗回应",
-          "url": "https://flash.jin10.com/detail/20261115155703209800",
+          "title": "据伊朗媒体报道：伊朗格什姆岛启动防空系统。",
+          "url": "https://flash.jin10.com/detail/20261116030712921800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
         },
         {
-          "title": "伊朗革命卫队海军称霍尔木兹海峡两艘油轮爆炸起火",
-          "url": "https://flash.jin10.com/detail/20261115053330771800",
-          "source": "金十数据",
+          "title": "伊朗称击落一架轨道飞行器无人机",
+          "url": "https://wallstreetcn.com/livenews/3200203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "04时38分"
         },
         {
-          "title": "伊朗方面表示，预计与国际原子能机构（IAEA）的合作不会取得进展。",
-          "url": "https://flash.jin10.com/detail/20261115154731407800",
+          "title": "伊朗副外长：美国对伊朗条件的回应缺乏可执行性",
+          "url": "https://flash.jin10.com/detail/20261116025819209800",
           "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
         },
         {
-          "title": "巴林称拦截摧毁伊朗多个空中目标",
-          "url": "https://flash.jin10.com/detail/20261115152200252800",
+          "title": "市场消息：伊朗外长抵达巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20261116025644317800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
+        },
+        {
+          "title": "以媒：美国目前无意仓促对伊朗采取军事行动",
+          "url": "https://flash.jin10.com/detail/20261116025057202800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
           "url": "https://wallstreetcn.com/livenews/3200196",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "伊朗铁路运输今年前七个月增长30%",
-          "url": "https://flash.jin10.com/detail/20261115152111750800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "巴林国防军：防空系统拦截了伊朗发动的空袭，阻止了伊朗攻击。",
-          "url": "https://flash.jin10.com/detail/20261115151159231800",
-          "source": "金十数据",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "伊媒：内塔尼亚胡为维持执政地位再次炒作伊朗核威胁",
-          "url": "https://flash.jin10.com/detail/20261115021014024800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "卡利巴夫：将与政府协作，稳步推进伊朗情报部结构改革",
-          "url": "https://flash.jin10.com/detail/20261115144032326800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "卡利巴夫：伊朗新导弹城在战火中建成，象征地区战略格局变化",
-          "url": "https://flash.jin10.com/detail/20261115143340314800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "卡利巴夫：若美国再犯错，战场的范围将由伊朗决定",
-          "url": "https://flash.jin10.com/detail/20261115141016371800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "04时38分"
         },
         {
           "title": "伊朗称伊方有充分法律依据向助美袭伊地区国家索赔",
           "url": "https://wallstreetcn.com/livenews/3200183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们必须“一劳永逸地”消除伊朗对以色列构成的生存性威胁。",
-          "url": "https://flash.jin10.com/detail/20261115011121058800",
-          "source": "金十数据",
-          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "04时38分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 4,
       "titles": [
         {
-          "title": "鲁比奥也上名单了，民主党酝酿调查特朗普政府多名高官",
-          "url": "https://news.ifeng.com/c/8y15KIpJiRB",
-          "source": "凤凰网",
+          "title": "美国国土安全部长：已做好应对伊朗针对特朗普暗杀威胁的准备",
+          "url": "https://flash.jin10.com/detail/20261116033442442800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时43分]"
-        },
-        {
-          "title": "伊朗总统：特朗普被以色列欺骗了",
-          "url": "https://news.ifeng.com/c/8y3ajy6DNPO",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时42分 ~ 16时30分]"
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "“两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕",
           "url": "https://m.thepaper.cn/newsDetail_forward_34484528",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 23时56分]"
-        },
-        {
-          "title": "特朗普：举后股市蒸发3万亿美元，全球投资者都不认可选举结果",
-          "url": "https://flash.jin10.com/detail/20261115085416259800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美国交通部长达菲：周一将向国会提交一项投资提案。将与美国总统特朗普合作，制定具体方案并提交资金提案。我们将追究相关人员在航空通信系统故障事件中的责任。",
-          "url": "https://flash.jin10.com/detail/20261115003941964800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "“昨天的特朗普，开始反噬今天的自己”",
-          "url": "https://original.ifeng.com/c/8y31kMuCpCs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 09时22分]"
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "美国财政部长贝森特：总统特朗普和我都相信美联储主席沃什会履行双重职责（实现充分就业+维持价格稳定）。",
           "url": "https://wallstreetcn.com/livenews/3200214",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "04时38分"
         },
         {
           "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34479929",
           "source": "澎湃新闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 23时56分]"
-        },
-        {
-          "title": "报道：特朗普考虑暂缓对伊朗军事打击",
-          "url": "https://wallstreetcn.com/livenews/3200128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 16时30分]"
-        },
-        {
-          "title": "特朗普：空管系统故障无关网络攻击",
-          "url": "https://www.toutiao.com/trending/7707821891762946084/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时43分]"
-        },
-        {
-          "title": "美国能源部长赖特：美国是全球最大的石油和天然气生产国及出口国。在美国总统特朗普的推动下，这一地位还将继续巩固。美国能源部提供的贷款将有助于扩大现有海上平台的产量、增强美国能源安全，并创造约16亿美元的租赁收入。",
-          "url": "https://flash.jin10.com/detail/20261115042858309800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "特朗普高级顾问及女婿库什纳：北约仍将是欧洲安全的重要支柱，同时需要通过更强有力的军事、沟通、冲突消除和相互降级机制予以强化，并建立切实可行的争端处理方式，防止分歧演变为危机。",
-          "url": "https://flash.jin10.com/detail/20261115041722184800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "特朗普口中“全世界最伟大”的高尔夫球场工程，被叫停",
-          "url": "https://news.ifeng.com/c/8y4l8YdhZzQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
-        },
-        {
-          "title": "特朗普高级顾问及女婿库什纳：实现持久和平需要为乌克兰提供可信的安全保障，并制定详细且切实可行的战后安全安排，以降低再次爆发战争的风险。",
-          "url": "https://flash.jin10.com/detail/20261115041707919800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "特朗普高级顾问及女婿库什纳：我与美国总统特使和平事务团队一直与俄罗斯、乌克兰及欧洲伙伴保持密切磋商，讨论下一步行动。我们目前的重点是推动莫斯科与欧洲伙伴开展直接接触，并为下一轮三方会谈制定议程。",
-          "url": "https://flash.jin10.com/detail/20261115041641347800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "以媒：以色列向美国提供情报 称伊朗计划无人机袭击特朗普及白宫高层",
-          "url": "https://flash.jin10.com/detail/20261115033415713800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时22分]"
-        },
-        {
-          "title": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋",
-          "url": "https://wallstreetcn.com/livenews/3200107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 05时43分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普总统和我都相信美联储主席沃什会履行双重使命职责。",
-          "url": "https://flash.jin10.com/detail/20261115231939556800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时56分"
-        },
+          "time_info": "04时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美国总统特朗普：正在与参议员共同推动《电影、电视及娱乐产业振兴法案》。这项法案一旦通过，将使数十万名蓝领工人从中受益，而且受益程度将非常显著。这项工作完全可以迅速、准确、高效地完成，而且最重要的是，它将使整个美国受益。",
-          "url": "https://flash.jin10.com/detail/20261115014132616800",
-          "source": "金十数据",
+          "title": "OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？",
+          "url": "https://www.cls.cn/detail/2534550",
+          "source": "财联社热门",
           "ranks": [
-            23
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "高尔夫球场重建再遭司法叫停，特朗普：内政部将加急上诉，整修迫在眉睫",
-          "url": "https://flash.jin10.com/detail/20261115223752041800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "04时38分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "深圳水贝金价跌三分之一",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E8%B7%8C%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80",
           "source": "百度热搜",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
-        },
-        {
-          "title": "中信建投：2027年金价有望震荡上行",
-          "url": "https://www.toutiao.com/trending/7707549502337204278/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "中信建投：预计2027年实际利率进一步上行空间有限 金价有望震荡上行",
-          "url": "https://flash.jin10.com/detail/20261114230007532800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "金价下跌令韩国央行黄金ETF市值蒸发约325亿韩元",
-          "url": "https://flash.jin10.com/detail/20261115133340504800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
-          "url": "https://wallstreetcn.com/articles/3785940",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 16时30分]"
-        },
-        {
-          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-          "url": "https://www.cls.cn/detail/2534350",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 16时30分]"
-        },
-        {
-          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2534230",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 09时22分]"
-        },
-        {
-          "title": "传统的圣诞行情，今年的美股还有吗？",
-          "url": "https://wallstreetcn.com/articles/3785929",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek harness 相比 codex 有什么劣势？",
-          "url": "https://www.zhihu.com/question/2072669811511922890",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时43分]"
-        },
-        {
-          "title": "怎么看崔添翼在 DeepSeek 发布全家桶 API 后说，下一个超级 App 只属于个人的超级 App？",
-          "url": "https://www.zhihu.com/question/2104936968568190204",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
-        },
-        {
-          "title": "DeepSeek翻唱说谎的马卡龙",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E7%BF%BB%E5%94%B1%E8%AF%B4%E8%B0%8E%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 05时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
-          "url": "https://wallstreetcn.com/articles/3785914",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 09时22分]"
-        },
-        {
-          "title": "OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？",
-          "url": "https://www.cls.cn/detail/2534550",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 23时56分]"
+          "time_info": "04时38分"
         }
       ]
     },
@@ -881,8 +281,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     }
